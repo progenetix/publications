@@ -21,7 +21,9 @@
 | Mixed (1) | 9 | 7.69% | | |
 | Mismatch (2) | 5 | 4.27% | | |
 
-[1] containing samples from different continents
-[2] author location in different continent to sample location
-[3] no sample location was extracted from the paper
+----
+
+[1] containing samples from different continents  
+[2] author location in different continent to sample location  
+[3] no sample location was extracted from the paper  
 

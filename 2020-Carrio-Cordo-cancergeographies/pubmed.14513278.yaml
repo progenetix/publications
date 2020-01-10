@@ -1,0 +1,24 @@
+authors: "Johnen G, Krismann M, Jaworska M, M\xFCller KM."
+counts:
+  biosamples: 50.0
+  samples_acgh: 0.0
+  samples_ccgh: 50.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.22
+    - 51.48
+    type: Point
+  info:
+    city: Bochum
+    continent: ''
+    country: Germany
+    label: Bochum, Germany, Europe
+    precision: city
+journal: Pathologe 24(4), 2003
+notes: NA
+pmid: '14513278'
+title: '[CGH findings in neuroendocrine tumours of the lung].'
+year: '2003'

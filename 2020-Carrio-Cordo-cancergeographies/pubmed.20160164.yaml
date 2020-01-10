@@ -1,0 +1,29 @@
+authors: Coyaud E, Struski S, Prade N, Familiades J, Eichner R, Quelen C, Bousquet
+  M, Mugneret F, Talmant P, Pages MP, Lefebvre C, Penther D, Lippert E, Nadal N, Taviaux
+  S, Poppe B, Luquet I, Baranger L, Eclache V, Radford I, Barin C, Mozziconacci MJ,
+  Lafage-Pochitaloff M, Antoine-Poirel H, Charrin C, Perot C, Terre C, Brousset P,
+  Dastugue N, Broccardo C.
+counts:
+  biosamples: 153.0
+  samples_acgh: 153.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 1.44
+    - 43.6
+    type: Point
+  info:
+    city: Toulouse
+    continent: ''
+    country: France
+    label: Toulouse, France, Europe
+    precision: city
+journal: Blood 115(15), 2010
+notes: NA
+pmid: '20160164'
+title: 'Wide diversity of PAX5 alterations in B-ALL: a Groupe Francophone de Cytogenetique
+  Hematologique study.'
+year: '2010'

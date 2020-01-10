@@ -1,0 +1,25 @@
+authors: Cheung ST, Chen X, Guan XY, Wong SY, Tai LS, Ng IO, So S, Fan ST.
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Cancer Res. 62(16), 2002
+notes: NA
+pmid: '12183430'
+title: Identify metastasis-associated genes in hepatocellular carcinoma through clonality
+  delineation for multinodular tumor.
+year: '2002'

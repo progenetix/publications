@@ -1,0 +1,26 @@
+authors: Teixeira MR, Tsarouha H, Kraggerud SM, Pandis N, Dimitriadis E, Andersen
+  JA, Lothe RA, Heim S.
+counts:
+  biosamples: 37.0
+  samples_acgh: 0.0
+  samples_ccgh: 37.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -8.61
+    - 41.15
+    type: Point
+  info:
+    city: Porto
+    continent: ''
+    country: Portugal
+    label: Porto, Portugal, Europe
+    precision: city
+journal: Neoplasia 3(3), 2001
+notes: NA
+pmid: '11494114'
+title: Evaluation of breast cancer polyclonality by combined chromosome banding and
+  comparative genomic hybridization analysis.
+year: '2001'

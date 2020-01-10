@@ -1,0 +1,26 @@
+authors: Kusumoto E, Yamaguchi S, Sugiyama M, Ota M, Tsutsumi N, Kimura Y, Sakaguchi
+  Y, Kusumoto T, Ikejiri K, Nakayama Y, Momosaki S.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 130.42
+    - 33.61
+    type: Point
+  info:
+    city: Fukuoka-shi
+    continent: ''
+    country: Japan
+    label: Fukuoka-shi, Japan, Asia
+    precision: city
+journal: Surg Case Rep 1(1), 2015
+notes: ''
+pmid: '26366361'
+title: 'Huge epithelioid malignant peripheral nerve sheath tumor in the left axilla:
+  a case report.'
+year: '2015'

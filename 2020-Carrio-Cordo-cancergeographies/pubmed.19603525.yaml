@@ -1,0 +1,25 @@
+authors: Dahlback HS, Brandal P, Meling TR, Gorunova L, Scheie D, Heim S.
+counts:
+  biosamples: 80.0
+  samples_acgh: 0.0
+  samples_ccgh: 80.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 48(10), 2009
+notes: NA
+pmid: '19603525'
+title: 'Genomic aberrations in 80 cases of primary glioblastoma multiforme: Pathogenetic
+  heterogeneity and putative cytogenetic pathways.'
+year: '2009'

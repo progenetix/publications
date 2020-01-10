@@ -1,0 +1,26 @@
+authors: Bruchim I, Israeli O, Mahmud SM, Aviram-Goldring A, Rienstein S, Friedman
+  E, Ben-Baruch G, Gotlieb WH.
+counts:
+  biosamples: 45.0
+  samples_acgh: 0.0
+  samples_ccgh: 45.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.59
+    - 45.51
+    type: Point
+  info:
+    city: Montreal
+    continent: ''
+    country: Canada
+    label: Montreal, Canada, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 190(2), 2009
+notes: NA
+pmid: '19380021'
+title: Genetic alterations detected by comparative genomic hybridization and recurrence
+  rate in epithelial ovarian carcinoma.
+year: '2009'

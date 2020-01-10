@@ -1,0 +1,26 @@
+authors: "Noguera Salv\xE1 R, Piqueras Franco M, Ruiz Saur\xED A, Llombart-Bosch A,\
+  \ Castel S\xE1nchez V, Navarro Fos S."
+counts:
+  biosamples: 50.0
+  samples_acgh: 0.0
+  samples_ccgh: 50.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: ''
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: An Pediatr (Barc) 64(5), 2006
+notes: The dataset contains additional cases compared to the ones discussed in the
+  article. The data was provided by Rosa Noguera Salv  .
+pmid: '16756886'
+title: '[Genomic profile in high risk neuroblastoma by comparative genomic hybridization]'
+year: '2006'

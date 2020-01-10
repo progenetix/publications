@@ -1,0 +1,26 @@
+authors: Katoh H, Ojima H, Kokubu A, Saito S, Kondo T, Kosuge T, Hosoda F, Imoto I,
+  Inazawa J, Hirohashi S, Shibata T.
+counts:
+  biosamples: 87.0
+  samples_acgh: 87.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Gastroenterology 133(5), 2007
+notes: No case specific data was listed in article or supplements.
+pmid: '17983802'
+title: 'Genetically distinct and clinically relevant classification of hepatocellular
+  carcinoma: putative therapeutic targets.'
+year: '2007'

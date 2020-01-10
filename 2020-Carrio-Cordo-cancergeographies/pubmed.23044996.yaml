@@ -1,0 +1,29 @@
+authors: Fabris S, Mosca L, Cutrona G, Lionetti M, Agnelli L, Ciceri G, Barbieri M,
+  Maura F, Matis S, Colombo M, Gentile M, Recchia AG, Anna Pesce E, Di Raimondo F,
+  Musolino C, Gobbi M, Di Renzo N, Mauro FR, Brugiatelli M, Ilariucci F, Lipari MG,
+  Angrilli F, Consoli U, Fragasso A, Molica S, Festini G, Vincelli I, Cortelezzi A,
+  Federico M, Federico M, Morabito F, Ferrarini M, Neri A.
+counts:
+  biosamples: 287.0
+  samples_acgh: 287.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: ''
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: Am. J. Hematol. 88(1), 2013
+notes: NA
+pmid: '23044996'
+title: Chromosome 2p gain in monoclonal B-cell lymphocytosis and in early stage chronic
+  lymphocytic leukemia.
+year: '2013'

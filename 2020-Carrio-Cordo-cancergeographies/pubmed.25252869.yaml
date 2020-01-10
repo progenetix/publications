@@ -1,0 +1,26 @@
+authors: Engle EK, Fisher DA, Miller CA, McLellan MD, Fulton RS, Moore DM, Wilson
+  RK, Ley TJ, Oh ST.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 2.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.26
+    - 38.64
+    type: Point
+  info:
+    city: saint louis
+    continent: ''
+    country: United States
+    label: saint louis, United States
+    precision: city
+journal: Leukemia 29(4), 2015
+notes: ''
+pmid: '25252869'
+title: Clonal evolution revealed by whole genome sequencing in a case of primary myelofibrosis
+  transformed to secondary acute myeloid leukemia.
+year: '2015'

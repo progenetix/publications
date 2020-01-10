@@ -1,0 +1,26 @@
+authors: "Sircoulomb F, Bekhouche I, Finetti P, Ad\xE9la\xEFde J, Ben Hamida A, Bonansea\
+  \ J, Raynaud S, Innocenti C, Charafe-Jauffret E, Tarpin C, Ben Ayed F, Viens P,\
+  \ Jacquemier J, Bertucci F, Birnbaum D, Chaffanet M."
+counts:
+  biosamples: 54.0
+  samples_acgh: 54.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.38
+    - 43.3
+    type: Point
+  info:
+    city: Marseille
+    continent: ''
+    country: France
+    label: Marseille, France, Europe
+    precision: city
+journal: BMC Cancer 10, 2010
+notes: NA
+pmid: '20932292'
+title: Genome profiling of ERBB2-amplified breast cancers.
+year: '2010'

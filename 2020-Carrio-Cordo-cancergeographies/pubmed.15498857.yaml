@@ -1,0 +1,26 @@
+authors: Schraders M, Pfundt R, Straatman HM, Janssen IM, van Kessel AG, Schoenmakers
+  EF, van Krieken JH, Groenen PJ.
+counts:
+  biosamples: 14.0
+  samples_acgh: 14.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ''
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city
+journal: Blood 105(4), 2005
+notes: NA
+pmid: '15498857'
+title: Novel chromosomal imbalances in mantle cell lymphoma detected by genome-wide
+  array-based comparative genomic hybridization.
+year: '2005'

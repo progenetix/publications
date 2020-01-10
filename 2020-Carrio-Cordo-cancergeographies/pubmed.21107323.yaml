@@ -1,0 +1,25 @@
+authors: Nazarian R, Shi H, Wang Q, Kong X, Koya RC, Lee H, Chen Z, Lee MK, Attar
+  N, Sazegar H, Chodon T, Nelson SF, McArthur G, Sosman JA, Ribas A, Lo RS.
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: ''
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: Nature 468(7326), 2010
+notes: NA
+pmid: '21107323'
+title: Melanomas acquire resistance to B-RAF(V600E) inhibition by RTK or N-RAS upregulation.
+year: '2010'

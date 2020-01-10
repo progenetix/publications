@@ -1,0 +1,26 @@
+authors: Leslie A, Pratt NR, Gillespie K, Sales M, Kernohan NM, Smith G, Wolf CR,
+  Carey FA, Steele RJ.
+counts:
+  biosamples: 50.0
+  samples_acgh: 0.0
+  samples_ccgh: 50.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -2.9699999999999998
+    - 56.47
+    type: Point
+  info:
+    city: Dundee
+    continent: ''
+    country: United Kingdom
+    label: Dundee, United Kingdom, Europe
+    precision: city
+journal: Cancer Res. 63(15), 2003
+notes: NA
+pmid: '12907646'
+title: Mutations of APC, K-ras, and p53 are associated with specific chromosomal aberrations
+  in colorectal adenocarcinomas.
+year: '2003'

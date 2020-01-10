@@ -1,0 +1,26 @@
+authors: Geyer FC, Weigelt B, Natrajan R, Lambros MB, de Biase D, Vatcheva R, Savage
+  K, Mackay A, Ashworth A, Reis-Filho JS.
+counts:
+  biosamples: 47.0
+  samples_acgh: 47.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: J. Pathol. 220(5), 2010
+notes: NA
+pmid: '20099298'
+title: Molecular analysis reveals a genetic basis for the phenotypic diversity of
+  metaplastic breast carcinomas.
+year: '2010'

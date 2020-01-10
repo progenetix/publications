@@ -1,0 +1,28 @@
+authors: Scotto L, Narayan G, Nandula SV, Arias-Pulido H, Subramaniyam S, Schneider
+  A, Kaufmann AM, Wright JD, Pothuri B, Mansukhani M, Murty VV.
+counts:
+  biosamples: 100.0
+  samples_acgh: 100.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 47(9), 2008
+notes: While the article reports on 20q gains, the data is discussed also in PMID
+  18559093. For the analysis, GEO raw CEL files were processed using the aroma.affymetrix
+  package. 5 cell lines were omitted due to high segmentation inhomogeneities.
+pmid: '18506748'
+title: 'Identification of copy number gain and overexpressed genes on chromosome arm
+  20q by an integrative genomic approach in cervical cancer: potential role in progression.'
+year: '2008'

@@ -1,0 +1,24 @@
+authors: Cancer Genome Atlas Research Network.
+counts:
+  biosamples: 973.0
+  samples_acgh: 534.0
+  samples_ccgh: 0.0
+  samples_wes: 417.0
+  samples_wgs: 22.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Nature 499(7456), 2013
+notes: Number as from corresponding TCGA study (as date 21/03/2019)
+pmid: '23792563'
+title: Comprehensive molecular characterization of clear cell renal cell carcinoma.
+year: '2013'

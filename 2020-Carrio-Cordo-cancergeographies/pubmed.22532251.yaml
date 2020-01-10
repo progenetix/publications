@@ -1,0 +1,27 @@
+authors: "Hadj-Hamou NS, La\xE9 M, Almeida A, de la Grange P, Kirova Y, Sastre-Garau\
+  \ X, Malfoy B."
+counts:
+  biosamples: 25.0
+  samples_acgh: 25.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Carcinogenesis 33(7), 2012
+notes: NA
+pmid: '22532251'
+title: A transcriptome signature of endothelial lymphatic cells coexists with the
+  chronic oxidative stress signature in radiation-induced post-radiotherapy breast
+  angiosarcomas.
+year: '2012'

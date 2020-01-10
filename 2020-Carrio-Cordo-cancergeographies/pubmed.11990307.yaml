@@ -1,0 +1,26 @@
+authors: "Michiels EM, Weiss MM, Hoovers JM, Baak JP, Vo\xFBte PA, Baas F, Hermsen\
+  \ MA."
+counts:
+  biosamples: 15.0
+  samples_acgh: 0.0
+  samples_ccgh: 15.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: J. Pediatr. Hematol. Oncol. 24(3), 2002
+notes: NA
+pmid: '11990307'
+title: Genetic alterations in childhood medulloblastoma analyzed by comparative genomic
+  hybridization.
+year: '2002'

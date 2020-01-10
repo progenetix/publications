@@ -1,0 +1,25 @@
+authors: Deeb G, Baer MR, Gaile DP, Sait SN, Barcos M, Wetzler M, Conroy JM, Nowak
+  NJ, Cowell JK, Cheney RT.
+counts:
+  biosamples: 11.0
+  samples_acgh: 11.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: ''
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 44(4), 2005
+notes: NA
+pmid: '16080198'
+title: Genomic profiling of myeloid sarcoma by array comparative genomic hybridization.
+year: '2005'

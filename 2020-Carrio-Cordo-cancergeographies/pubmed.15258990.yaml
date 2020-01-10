@@ -1,0 +1,26 @@
+authors: Peng DF, Sugihara H, Mukaisho K, Ling ZQ, Hattori T.
+counts:
+  biosamples: 16.0
+  samples_acgh: 8.0
+  samples_ccgh: 8.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.87
+    - 35.0
+    type: Point
+  info:
+    city: Otsu-shi
+    continent: ''
+    country: Japan
+    label: Otsu-shi, Japan, Asia
+    precision: city
+journal: J. Pathol. 203(4), 2004
+notes: CGH and aCGH were applied to different components of poorly differentiated
+  gastric adenocarcinoma.
+pmid: '15258990'
+title: Genetic lineage of poorly differentiated gastric carcinoma with a tubular component
+  analysed by comparative genomic hybridization.
+year: '2004'

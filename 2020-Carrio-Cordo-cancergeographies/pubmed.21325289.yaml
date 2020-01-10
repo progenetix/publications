@@ -1,0 +1,27 @@
+authors: Yu J, Deshmukh H, Payton JE, Dunham C, Scheithauer BW, Tihan T, Prayson RA,
+  Guha A, Bridge JA, Ferner RE, Lindberg GM, Gutmann RJ, Emnett RJ, Salavaggione L,
+  Gutmann DH, Nagarajan R, Watson MA, Perry A.
+counts:
+  biosamples: 38.0
+  samples_acgh: 38.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.26
+    - 38.64
+    type: Point
+  info:
+    city: saint louis
+    continent: ''
+    country: United States
+    label: saint louis, United States
+    precision: city
+journal: Clin. Cancer Res. 17(7), 2011
+notes: NA
+pmid: '21325289'
+title: Array-based comparative genomic hybridization identifies CDK4 and FOXM1 alterations
+  as independent predictors of survival in malignant peripheral nerve sheath tumor.
+year: '2011'

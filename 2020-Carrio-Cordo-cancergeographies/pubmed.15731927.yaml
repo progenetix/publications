@@ -1,0 +1,25 @@
+authors: "Nagy J, Feh\xE9r LZ, Sonkodi I, Leszny\xE1k J, Iv\xE1nyi B, Pusk\xE1s LG."
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 20.15
+    - 46.25
+    type: Point
+  info:
+    city: Szeged
+    continent: ''
+    country: Hungary
+    label: Szeged, Hungary, Europe
+    precision: city
+journal: Virchows Arch. 446(3), 2005
+notes: NA
+pmid: '15731927'
+title: A second field metachronous Merkel cell carcinoma of the lip and the palatine
+  tonsil confirmed by microarray-based comparative genomic hybridisation.
+year: '2005'

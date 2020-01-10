@@ -1,0 +1,26 @@
+authors: Morohara K, Nakao K, Tajima Y, Nishino N, Yamazaki K, Kaetsu T, Suzuki S,
+  Tsunoda A, Kawamura M, Aida T, Tachikawa T, Kusano M.
+counts:
+  biosamples: 34.0
+  samples_acgh: 0.0
+  samples_ccgh: 34.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.73
+    - 35.61
+    type: Point
+  info:
+    city: Shinagawa
+    continent: ''
+    country: Japan
+    label: Shinagawa, Japan
+    precision: city
+journal: Cancer Genet. Cytogenet. 161(1), 2005
+notes: NA
+pmid: '16080958'
+title: Analysis by comparative genomic hybridization of gastric cancer with peritoneal
+  dissemination and/or positive peritoneal cytology.
+year: '2005'

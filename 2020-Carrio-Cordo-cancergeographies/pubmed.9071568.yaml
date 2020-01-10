@@ -1,0 +1,25 @@
+authors: Lastowska M, Nacheva E, McGuckin A, Curtis A, Grace C, Pearson A, Bown N.
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.6099999999999999
+    - 54.97
+    type: Point
+  info:
+    city: Newcastle upon Tyne
+    continent: ''
+    country: United Kingdom
+    label: Newcastle upon Tyne, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 18(3), 1997
+notes: NA
+pmid: '9071568'
+title: Comparative genomic hybridization study of primary neuroblastoma tumors. United
+  Kingdom Children's Cancer Study Group.
+year: '1997'

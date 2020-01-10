@@ -1,0 +1,26 @@
+authors: "Actor B, Cobbers JM, B\xEF\xBF\xBDschges R, Wolter M, Knobbe CB, Lichter\
+  \ P, Reifenberger G, Weber RG."
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: null
+    precision: city
+journal: Genes Chromosomes Cancer 34(4), 2002
+notes: The GEO GSE48941 points to 11 Illumina samples, though SNP arrays are mentioned.
+pmid: '12112531'
+title: Comprehensive analysis of genomic alterations in gliosarcoma and its two tissue
+  components.
+year: '2002'

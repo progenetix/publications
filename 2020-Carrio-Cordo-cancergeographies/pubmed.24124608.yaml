@@ -1,0 +1,26 @@
+authors: Lee EJ, Kang G, Kang SW, Jang KT, Lee J, Park JO, Park CK, Sohn TS, Kim S,
+  Kim KM.
+counts:
+  biosamples: 32.0
+  samples_acgh: 32.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: PLoS ONE 8(10), 2013
+notes: ''
+pmid: '24124608'
+title: GSTT1 copy number gain and ZNF overexpression are predictors of poor response
+  to imatinib in gastrointestinal stromal tumors.
+year: '2013'

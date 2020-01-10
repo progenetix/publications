@@ -1,0 +1,27 @@
+authors: "Afonso S, Santamar\xEDa I, Guinsburg ME, G\xF3mez AO, Miranda JL, Jofr\xE9\
+  \ R, Men\xE1rguez J, Cannata-And\xEDa J, Cigudosa JC."
+counts:
+  biosamples: 85.0
+  samples_acgh: 0.0
+  samples_ccgh: 85.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -5.84
+    - 43.36
+    type: Point
+  info:
+    city: Oviedo
+    continent: ''
+    country: Spain
+    label: Oviedo, Spain, Europe
+    precision: city
+journal: Kidney Int. Suppl.(85), 2003
+notes: 57 thyroid glands from refractory secondary HPT and 28 glands from refractory
+  HPT after kidney transplantation were analyzed by CGH.
+pmid: '12753262'
+title: 'Chromosomal aberrations, the consequence of refractory hyperparathyroidism:
+  its relationship with biochemical parameters.'
+year: '2003'

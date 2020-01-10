@@ -1,0 +1,26 @@
+authors: Ledgerwood LG, Kumar D, Eterovic AK, Wick J, Chen K, Zhao H, Tazi L, Manna
+  P, Kerley S, Joshi R, Wang L, Chiosea SI, Garnett JD, Tsue TT, Chien J, Mills GB,
+  Grandis JR, Thomas SM.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -94.63
+    - 39.11
+    type: Point
+  info:
+    city: Kansas City
+    continent: ''
+    country: United States
+    label: Kansas City, United States, North America
+    precision: city
+journal: Oncotarget 7(19), 2016
+notes: The majority of samples were analyzed using NGS for a gene panel.
+pmid: '27034009'
+title: The degree of intratumor mutational heterogeneity varies by primary tumor sub-site.
+year: '2016'

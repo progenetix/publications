@@ -1,0 +1,25 @@
+authors: Verdorfer I, Culig Z, Hobisch A, Bartsch G, Hittmair A, Duba HC, Erdel M.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.39
+    - 47.26
+    type: Point
+  info:
+    city: Innsbruck
+    continent: ''
+    country: Austria
+    label: Innsbruck, Austria, Europe
+    precision: city
+journal: Int. J. Oncol. 13(3), 1998
+notes: ''
+pmid: '9683779'
+title: Characterisation of a collecting duct carcinoma by cytogenetic analysis and
+  comparative genomic hybridisation.
+year: '1998'

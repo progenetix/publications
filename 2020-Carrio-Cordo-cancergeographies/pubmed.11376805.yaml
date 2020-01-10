@@ -1,0 +1,25 @@
+authors: Sowery RD, Jensen C, Morrison KB, Horsman DE, Sorensen PH, Webber EM.
+counts:
+  biosamples: 8.0
+  samples_acgh: 0.0
+  samples_ccgh: 8.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 126(2), 2001
+notes: NA
+pmid: '11376805'
+title: Comparative genomic hybridization detects multiple chromosomal amplifications
+  and deletions in undifferentiated embryonal sarcoma of the liver.
+year: '2001'

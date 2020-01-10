@@ -1,0 +1,24 @@
+authors: Cancer Genome Atlas Research Network.
+counts:
+  biosamples: 1008.0
+  samples_acgh: 512.0
+  samples_ccgh: 0.0
+  samples_wes: 496.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -86.9
+    - 41.71
+    type: Point
+  info:
+    city: Michigan City
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Cell 159(3), 2014
+notes: Number as from corresponding TCGA study (as date 21/03/2019)
+pmid: '25417114'
+title: Integrated genomic characterization of papillary thyroid carcinoma.
+year: '2014'

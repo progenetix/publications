@@ -1,0 +1,25 @@
+authors: Lockwood WW, Stack D, Morris T, Grehan D, O'Keane C, Stewart GL, Cumiskey
+  J, Lam WL, Squire JA, Thomas DM, O'Sullivan MJ.
+counts:
+  biosamples: 22.0
+  samples_acgh: 22.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: J Mol Diagn 13(3), 2011
+notes: NA
+pmid: '21458381'
+title: Cyclin E1 is amplified and overexpressed in osteosarcoma.
+year: '2011'

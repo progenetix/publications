@@ -1,0 +1,27 @@
+authors: Van Roy N, Jauch A, Van Gele M, Laureys G, Versteeg R, De Paepe A, Cremer
+  T, Speleman F.
+counts:
+  biosamples: 7.0
+  samples_acgh: 0.0
+  samples_ccgh: 7.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.7199999999999998
+    - 51.05
+    type: Point
+  info:
+    city: Gent
+    continent: ''
+    country: Belgium
+    label: Gent, Belgium, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 97(2), 1997
+notes: NA
+pmid: '9283597'
+title: 'Comparative genomic hybridization analysis of human neuroblastomas: detection
+  of distal 1p deletions and further molecular genetic characterization of neuroblastoma
+  cell lines.'
+year: '1997'

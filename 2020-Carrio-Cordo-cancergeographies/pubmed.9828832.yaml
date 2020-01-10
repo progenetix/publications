@@ -1,0 +1,25 @@
+authors: "Simon R, B\xFCrger H, Brinkschmidt C, B\xF6cker W, Hertle L, Terpe HJ."
+counts:
+  biosamples: 46.0
+  samples_acgh: 0.0
+  samples_ccgh: 46.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: J. Pathol. 185(4), 1998
+notes: NA
+pmid: '9828832'
+title: Chromosomal aberrations associated with invasion in papillary superficial bladder
+  cancer.
+year: '1998'

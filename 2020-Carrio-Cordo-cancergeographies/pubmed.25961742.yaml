@@ -1,0 +1,28 @@
+authors: "Vaca-Paniagua F, Alvarez-Gomez RM, Maldonado-Mart\xEDnez HA, P\xE9rez-Plasencia\
+  \ C, Fragoso-Ontiveros V, Lasa-Gonsebatt F, Herrera LA, Cant\xFA D, Bargallo-Rocha\
+  \ E, Mohar A, Durand G, Forey N, Voegele C, Vall\xE9e M, Le Calvez-Kelm F, McKay\
+  \ J, Ardin M, Villar S, Zavadil J, Olivier M."
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 12.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -99.13
+    - 19.43
+    type: Point
+  info:
+    city: Mexico City
+    continent: ''
+    country: Mexico
+    label: Mexico City, Mexico, North America
+    precision: city
+journal: PLoS ONE 10(5), 2015
+notes: ''
+pmid: '25961742'
+title: Revealing the Molecular Portrait of Triple Negative Breast Tumors in an Understudied
+  Population through Omics Analysis of Formalin-Fixed and Paraffin-Embedded Tissues.
+year: '2015'

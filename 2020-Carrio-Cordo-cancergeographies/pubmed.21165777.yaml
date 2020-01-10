@@ -1,0 +1,28 @@
+authors: Roberts A, Nancarrow D, Clendenning M, Buchanan DD, Jenkins MA, Duggan D,
+  Taverna D, McKeone D, Walters R, Walsh MD, Young BW, Jass JR, Rosty C, Gattas M,
+  Pelzer E, Hopper JL, Goldblatt J, George J, Suthers GK, Phillips K, Parry S, Woodall
+  S, Arnold J, Tucker K, Muir A, Drini M, Macrae F, Newcomb P, Potter JD, Pavluk E,
+  Lindblom A, Young JP.
+counts:
+  biosamples: 11.0
+  samples_acgh: 11.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 153.02
+    - -27.45
+    type: Point
+  info:
+    city: Herston
+    continent: ''
+    country: Australia
+    label: Herston, Australia, Australia
+    precision: city
+journal: Fam. Cancer 10(2), 2011
+notes: NA
+pmid: '21165777'
+title: Linkage to chromosome 2q32.2-q33.3 in familial serrated neoplasia (Jass syndrome).
+year: '2011'

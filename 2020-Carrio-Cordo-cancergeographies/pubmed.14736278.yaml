@@ -1,0 +1,27 @@
+authors: "Terracciano LM, Tornillo L, Avoledo P, Von Schweinitz D, K\xFChne T, Bruder\
+  \ E."
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: ''
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: Arch. Pathol. Lab. Med. 128(2), 2004
+notes: NA
+pmid: '14736278'
+title: 'Fibrolamellar hepatocellular carcinoma occurring 5 years after hepatocellular
+  adenoma in a 14-year-old girl: a case report with comparative genomic hybridization
+  analysis.'
+year: '2004'

@@ -1,0 +1,25 @@
+authors: Zhao Y, Li Y, Lu H, Chen J, Zhang Z, Zhu ZZ.
+counts:
+  biosamples: 49.0
+  samples_acgh: 49.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.65
+    - 45.75
+    type: Point
+  info:
+    city: Harbin
+    continent: ''
+    country: China
+    label: Harbin, China, Asia
+    precision: city
+journal: Clin Lung Cancer 12(5), 2011
+notes: NA
+pmid: '21889114'
+title: Association of copy number loss of CDKN2B and PTCH1 with poor overall survival
+  in patients with pulmonary squamous cell carcinoma.
+year: '2011'

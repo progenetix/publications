@@ -1,0 +1,29 @@
+authors: "Stein S, Ott MG, Schultze-Strasser S, Jauch A, Burwinkel B, Kinner A, Schmidt\
+  \ M, Kr\xE4mer A, Schw\xE4ble J, Glimm H, Koehl U, Preiss C, Ball C, Martin H, G\xF6\
+  hring G, Schwarzwaelder K, Hofmann WK, Karakaya K, Tchatchou S, Yang R, Reinecke\
+  \ P, K\xFChlcke K, Schlegelberger B, Thrasher AJ, Hoelzer D, Seger R, von Kalle\
+  \ C, Grez M."
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.68
+    - 50.12
+    type: Point
+  info:
+    city: Frankfurt am Main
+    continent: ''
+    country: Germany
+    label: Frankfurt am Main, Germany, Europe
+    precision: city
+journal: Nat. Med. 16(2), 2010
+notes: NA
+pmid: '20098431'
+title: Genomic instability and myelodysplasia with monosomy 7 consequent to EVI1 activation
+  after gene therapy for chronic granulomatous disease.
+year: '2010'

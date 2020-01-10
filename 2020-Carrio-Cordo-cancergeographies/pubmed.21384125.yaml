@@ -1,0 +1,27 @@
+authors: Huh J, Jung CW, Kim JW, Kim HJ, Kim SH, Shin MG, Kim YK, Kim HJ, Suh JS,
+  Moon JH, Sohn SK, Nam GH, Lee JE, Kim DH.
+counts:
+  biosamples: 118.0
+  samples_acgh: 118.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Ann. Hematol. 90(11), 2011
+notes: NA
+pmid: '21384125'
+title: Genome-wide high density single-nucleotide polymorphism array-based karyotyping
+  improves detection of clonal aberrations including der(9) deletion, but does not
+  predict treatment outcomes after imatinib therapy in chronic myeloid leukemia.
+year: '2011'

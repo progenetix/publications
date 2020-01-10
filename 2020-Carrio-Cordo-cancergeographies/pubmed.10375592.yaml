@@ -1,0 +1,26 @@
+authors: Sigl E, Behmel A, Henn T, Wirnsberger G, Weinhausl A, Kaserer K, Niederle
+  B, Pfragner R.
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 4.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 15.45
+    - 47.07
+    type: Point
+  info:
+    city: Graz
+    continent: ''
+    country: Austria
+    label: Graz, Austria, Europe
+    precision: city
+journal: Int. J. Oncol. 15(1), 1999
+notes: NA
+pmid: '10375592'
+title: Cytogenetic and CGH studies of four neuroendocrine tumors and tumor-derived
+  cell lines of a patient with multiple endocrine neoplasia type 1.
+year: '1999'

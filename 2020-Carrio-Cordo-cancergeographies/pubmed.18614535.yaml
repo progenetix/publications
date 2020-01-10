@@ -1,0 +1,26 @@
+authors: Munirajan AK, Ando K, Mukai A, Takahashi M, Suenaga Y, Ohira M, Koda T, Hirota
+  T, Ozaki T, Nakagawara A.
+counts:
+  biosamples: 236.0
+  samples_acgh: 236.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.12
+    - 35.6
+    type: Point
+  info:
+    city: Chiba
+    continent: ''
+    country: Japan
+    label: Chiba, Japan, Asia
+    precision: city
+journal: J. Biol. Chem. 283(36), 2008
+notes: NA
+pmid: '18614535'
+title: KIF1Bbeta functions as a haploinsufficient tumor suppressor gene mapped to
+  chromosome 1p36.2 by inducing apoptotic cell death.
+year: '2008'

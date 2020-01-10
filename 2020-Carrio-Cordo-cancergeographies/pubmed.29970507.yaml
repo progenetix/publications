@@ -1,0 +1,26 @@
+authors: Romero S, Musleh M, Bustamante M, Stambuk J, Pisano R, Lanzarini E, Chiong
+  H, Rojas J, Castro VG, Jara L, Berger Z, Gonzalez-Hormazabal P.
+counts:
+  biosamples: 153.0
+  samples_acgh: 153.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.65
+    - -33.46
+    type: Point
+  info:
+    city: Santiago
+    continent: ''
+    country: Chile
+    label: null
+    precision: city
+journal: Anticancer Res. 38(7), 2018
+notes: No PDF available yet
+pmid: '29970507'
+title: Polymorphisms in TWIST1 and ZEB1 Are Associated with Prognosis of Gastric Cancer
+  Patients.
+year: '2018'

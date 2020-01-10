@@ -1,0 +1,26 @@
+authors: "Kaur S, Larramendy ML, Vauhkonen H, B\xF6hling T, Knuutila S."
+counts:
+  biosamples: 9.0
+  samples_acgh: 9.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Cytogenet. Genome Res. 116(3), 2007
+notes: Though whole-genome aCGH was performed, only results from chromosome 17 were
+  reported.
+pmid: '17317953'
+title: Loss of TP53 in sarcomas with 17p12 to approximately p11 gain. A fine-resolution
+  oligonucleotide array comparative genomic hybridization study.
+year: '2007'

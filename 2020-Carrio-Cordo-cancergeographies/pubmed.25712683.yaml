@@ -1,0 +1,27 @@
+authors: Azad AA, Volik SV, Wyatt AW, Haegert A, Le Bihan S, Bell RH, Anderson SA,
+  McConeghy B, Shukin R, Bazov J, Youngren J, Paris P, Thomas G, Small EJ, Wang Y,
+  Gleave ME, Collins CC, Chi KN.
+counts:
+  biosamples: 69.0
+  samples_acgh: 69.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: Clin. Cancer Res. 21(10), 2015
+notes: ''
+pmid: '25712683'
+title: 'Androgen Receptor Gene Aberrations in Circulating Cell-Free DNA: Biomarkers
+  of Therapeutic Resistance in Castration-Resistant Prostate Cancer.'
+year: '2015'

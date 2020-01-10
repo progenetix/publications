@@ -1,0 +1,30 @@
+authors: "Zhang AW, McPherson A, Milne K, Kroeger DR, Hamilton PT, Miranda A, Funnell\
+  \ T, Little N, de Souza CPE, Laan S, LeDoux S, Cochrane DR, Lim JLP, Yang W, Roth\
+  \ A, Smith MA, Ho J, Tse K, Zeng T, Shlafman I, Mayo MR, Moore R, Failmezger H,\
+  \ Heindl A, Wang YK, Bashashati A, Grewal DS, Brown SD, Lai D, Wan ANC, Nielsen\
+  \ CB, Huebner C, Tessier-Cloutier B, Anglesio MS, Bouchard-C\xEF\xBF\xBDt\xEF\xBF\
+  \xBD A, Yuan Y, Wasserman WW, Gilks CB, Karnezis AN, Aparicio S, McAlpine JN, Huntsman\
+  \ DG, Holt RA, Nelson BH, Shah SP."
+counts:
+  biosamples: 212.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 212.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: null
+    precision: city
+journal: Cell, 2018
+notes: The GEO GSE48941 points to 11 Illumina samples, though SNP arrays are mentioned.
+pmid: '29754820'
+title: Interfaces of Malignant and Immunologic Clonal Dynamics in Ovarian Cancer.
+year: '2018'

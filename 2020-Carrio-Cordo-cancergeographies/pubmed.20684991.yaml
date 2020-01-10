@@ -1,0 +1,27 @@
+authors: "Joha S, Dauphin V, Lepr\xEAtre F, Corm S, Nicolini FE, Roumier C, Nibourel\
+  \ O, Grardel N, Maguer-Satta V, Idziorek T, Figeac M, La\xEF JL, Quesnel B, Etienne\
+  \ G, Guilhot F, Lippert E, Preudhomme C, Roche-Lestienne C."
+counts:
+  biosamples: 36.0
+  samples_acgh: 36.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.06
+    - 50.63
+    type: Point
+  info:
+    city: Lille
+    continent: ''
+    country: France
+    label: Lille, France, Europe
+    precision: city
+journal: Leuk. Res. 35(4), 2011
+notes: NA
+pmid: '20684991'
+title: Genomic characterization of Imatinib resistance in CD34+ cell populations from
+  chronic myeloid leukaemia patients.
+year: '2011'

@@ -1,0 +1,27 @@
+authors: Sekulic A, Liang WS, Tembe W, Izatt T, Kruglyak S, Kiefer JA, Cuyugan L,
+  Zismann V, Legendre C, Pittelkow MR, Gohmann JJ, De Castro FR, Trent J, Carpten
+  J, Craig DW, McDaniel TK.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 1.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -111.9
+    - 33.51
+    type: Point
+  info:
+    city: Scottsdale
+    continent: ''
+    country: United States
+    label: Scottsdale, United States, North America
+    precision: city
+journal: Mol Genet Genomic Med 3(2), 2015
+notes: ''
+pmid: '25802883'
+title: "Personalized treatment of S\xE9zary syndrome by targeting a novel CTLA4:CD28\
+  \ fusion."
+year: '2015'

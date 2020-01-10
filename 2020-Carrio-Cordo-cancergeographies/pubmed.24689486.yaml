@@ -1,0 +1,26 @@
+authors: "Andersson E, Eldfors S, Edgren H, Ellonen P, V\xE4kev\xE4 L, Ranki A, Mustjoki\
+  \ S."
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 1.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Exp. Dermatol. 23(5), 2014
+notes: ''
+pmid: '24689486'
+title: Novel TBL1XR1, EPHA7 and SLFN12 mutations in a Sezary syndrome patient discovered
+  by whole exome sequencing.
+year: '2014'

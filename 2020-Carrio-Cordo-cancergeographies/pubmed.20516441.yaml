@@ -1,0 +1,27 @@
+authors: Schleiermacher G, Janoueix-Lerosey I, Ribeiro A, Klijanienko J, Couturier
+  J, Pierron G, Mosseri V, Valent A, Auger N, Plantaz D, Rubie H, Valteau-Couanet
+  D, Bourdeaut F, Combaret V, Bergeron C, Michon J, Delattre O.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: J. Clin. Oncol. 28(19), 2010
+notes: The study describes 394 cases, of which the aCGH data of 392 had been published
+  before.
+pmid: '20516441'
+title: Accumulation of segmental alterations determines progression in neuroblastoma.
+year: '2010'

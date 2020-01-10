@@ -1,0 +1,26 @@
+authors: Sabatino M, Zhao Y, Voiculescu S, Monaco A, Robbins P, Karai L, Nickoloff
+  BJ, Maio M, Selleri S, Marincola FM, Wang E.
+counts:
+  biosamples: 16.0
+  samples_acgh: 16.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Cancer Res. 68(1), 2008
+notes: NA
+pmid: '18172304'
+title: Conservation of genetic alterations in recurrent melanoma supports the melanoma
+  stem cell hypothesis.
+year: '2008'

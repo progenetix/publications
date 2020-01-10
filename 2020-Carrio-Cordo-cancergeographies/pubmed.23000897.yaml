@@ -1,0 +1,24 @@
+authors: Cancer Genome Atlas Network.
+counts:
+  biosamples: 1280.0
+  samples_acgh: 773.0
+  samples_ccgh: 0.0
+  samples_wes: 507.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.06
+    - 35.91
+    type: Point
+  info:
+    city: Chapel Hill
+    continent: ''
+    country: United States
+    label: Chapel Hill, United States, North America
+    precision: city
+journal: Nature 490(7418), 2012
+notes: Data available at https://tcga-data.nci.nih.gov/docs/publications/brca_2012/
+pmid: '23000897'
+title: Comprehensive molecular portraits of human breast tumours.
+year: '2012'

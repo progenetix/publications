@@ -1,0 +1,26 @@
+authors: Krupp W, Holland H, Koschny R, Bauer M, Schober R, Kirsten H, Livrea M, Meixensberger
+  J, Ahnert P.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.37
+    - 51.34
+    type: Point
+  info:
+    city: Leipzig
+    continent: ''
+    country: Germany
+    label: Leipzig, Germany, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 184(2), 2008
+notes: NA
+pmid: '18617056'
+title: Genome-wide genetic characterization of an atypical meningioma by single-nucleotide
+  polymorphism array-based mapping and classical cytogenetics.
+year: '2008'

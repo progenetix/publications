@@ -1,0 +1,26 @@
+authors: Wilting SM, Snijders PJ, Meijer GA, Ylstra B, van den Ijssel PR, Snijders
+  AM, Albertson DG, Coffa J, Schouten JP, van de Wiel MA, Meijer CJ, Steenbergen RD.
+counts:
+  biosamples: 42.0
+  samples_acgh: 21.0
+  samples_ccgh: 21.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: J. Pathol. 209(2), 2006
+notes: NA
+pmid: '16538612'
+title: Increased gene copy numbers at chromosome 20q are frequent in both squamous
+  cell carcinomas and adenocarcinomas of the cervix.
+year: '2006'

@@ -1,0 +1,27 @@
+authors: Gorringe KL, Jacobs S, Thompson ER, Sridhar A, Qiu W, Choong DY, Campbell
+  IG.
+counts:
+  biosamples: 31.0
+  samples_acgh: 31.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: ''
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: Clin. Cancer Res. 13(16), 2007
+notes: The data was converted from the value table provided in the supplement, re-mapped
+  to HG18. Updated 2011-12-22.
+pmid: '17699850'
+title: High-resolution single nucleotide polymorphism array analysis of epithelial
+  ovarian cancer reveals numerous microdeletions and amplifications.
+year: '2007'

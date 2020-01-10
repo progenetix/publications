@@ -1,0 +1,27 @@
+authors: Missiaglia E, Selfe J, Hamdi M, Williamson D, Schaaf G, Fang C, Koster J,
+  Summersgill B, Messahel B, Versteeg R, Pritchard-Jones K, Kool M, Shipley J.
+counts:
+  biosamples: 13.0
+  samples_acgh: 13.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: ''
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 48(6), 2009
+notes: NA
+pmid: '19235922'
+title: 'Genomic imbalances in rhabdomyosarcoma cell lines affect expression of genes
+  frequently altered in primary tumors: an approach to identify candidate genes involved
+  in tumor development.'
+year: '2009'

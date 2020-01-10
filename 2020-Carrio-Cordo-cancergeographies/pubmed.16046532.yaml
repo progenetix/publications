@@ -1,0 +1,29 @@
+authors: Bea S, Zettl A, Wright G, Salaverria I, Jehn P, Moreno V, Burek C, Ott G,
+  Puig X, Yang L, Lopez-Guillermo A, Chan WC, Greiner TC, Weisenburger DD, Armitage
+  JO, Gascoyne RD, Connors JM, Grogan TM, Braziel R, Fisher RI, Smeland EB, Kvaloy
+  S, Holte H, Delabie J, Simon R, Powell J, Wilson WH, Jaffe ES, Montserrat E, Muller-Hermelink
+  HK, Staudt LM, Campo E, Rosenwald A, Lymphoma/Leukemia Molecular Profiling Project.
+counts:
+  biosamples: 255.0
+  samples_acgh: 0.0
+  samples_ccgh: 255.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Blood 106(9), 2005
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: '16046532'
+title: Diffuse large B-cell lymphoma subgroups have distinct genetic profiles that
+  influence tumor biology and improve gene-expression-based survival prediction.
+year: '2005'

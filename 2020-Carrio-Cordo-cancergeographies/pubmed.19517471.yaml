@@ -1,0 +1,28 @@
+authors: "Robledo C, Garc\xEDa JL, Caballero D, Conde E, Arranz R, Flores T, Grande\
+  \ C, Rodr\xEDguez J, Garc\xEDa E, S\xE1ez AI, Gonz\xE1lez M, Guti\xE9rrez NC, Piris\
+  \ MA, Hern\xE1ndez JM, Spanish Lymphoma/ Autologous Bone Marrow Transplant Study\
+  \ Group (GEL-TAMO)."
+counts:
+  biosamples: 40.0
+  samples_acgh: 40.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.68
+    - 40.43
+    type: Point
+  info:
+    city: Salamanca
+    continent: ''
+    country: Spain
+    label: Salamanca, Spain, Europe
+    precision: city
+journal: Cancer 115(16), 2009
+notes: NA
+pmid: '19517471'
+title: Array comparative genomic hybridization identifies genetic regions associated
+  with outcome in aggressive diffuse large B-cell lymphomas.
+year: '2009'

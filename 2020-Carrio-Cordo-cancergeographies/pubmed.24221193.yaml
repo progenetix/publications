@@ -1,0 +1,27 @@
+authors: Hoogstraat M, de Pagter MS, Cirkel GA, van Roosmalen MJ, Harkins TT, Duran
+  K, Kreeftmeijer J, Renkens I, Witteveen PO, Lee CC, Nijman IJ, Guy T, van 't Slot
+  R, Jonges TN, Lolkema MP, Koudijs MJ, Zweemer RP, Voest EE, Cuppen E, Kloosterman
+  WP.
+counts:
+  biosamples: 31.0
+  samples_acgh: 31.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.12
+    - 52.09
+    type: Point
+  info:
+    city: Utrecht
+    continent: ''
+    country: Netherlands
+    label: null
+    precision: city
+journal: Genome Res. 24(2), 2014
+notes: 31 samples from 3 patients
+pmid: '24221193'
+title: Genomic and transcriptomic plasticity in treatment-naive ovarian cancer.
+year: '2014'

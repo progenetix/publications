@@ -1,0 +1,31 @@
+authors: "Tirode F, Surdez D, Ma X, Parker M, Le Deley MC, Bahrami A, Zhang Z, Lapouble\
+  \ E, Grosset\xEAte-Lalami S, Rusch M, Reynaud S, Rio-Frio T, Hedlund E, Wu G, Chen\
+  \ X, Pierron G, Oberlin O, Zaidi S, Lemmon G, Gupta P, Vadodaria B, Easton J, Gut\
+  \ M, Ding L, Mardis ER, Wilson RK, Shurtleff S, Laurence V, Michon J, Marec-B\xE9\
+  rard P, Gut I, Downing J, Dyer M, Zhang J, Delattre O, St. Jude Children's Research\
+  \ Hospital\u2013Washington University Pediatric Cancer Genome Project and the International\
+  \ Cancer Genome Consortium."
+counts:
+  biosamples: 112.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 112.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Cancer Discov 4(11), 2014
+notes: NA
+pmid: '25223734'
+title: Genomic landscape of Ewing sarcoma defines an aggressive subtype with co-association
+  of STAG2 and TP53 mutations.
+year: '2014'

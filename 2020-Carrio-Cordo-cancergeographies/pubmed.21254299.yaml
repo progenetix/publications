@@ -1,0 +1,27 @@
+authors: "Niini T, Lahti L, Michelacci F, Ninomiya S, Hattinger CM, Guled M, B\xF6\
+  hling T, Picci P, Serra M, Knuutila S."
+counts:
+  biosamples: 27.0
+  samples_acgh: 27.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 50(5), 2011
+notes: array CGH hybridizations of all of the samples can be found in the public database
+  Cangem (http://www.cangem.org/)
+pmid: '21254299'
+title: Array comparative genomic hybridization reveals frequent alterations of G1/S
+  checkpoint genes in undifferentiated pleomorphic sarcoma of bone.
+year: '2011'

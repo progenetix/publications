@@ -1,0 +1,26 @@
+authors: Robinson MD, Stirzaker C, Statham AL, Coolen MW, Song JZ, Nair SS, Strbenac
+  D, Speed TP, Clark SJ.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 151.21
+    - -33.87
+    type: Point
+  info:
+    city: Sydney
+    continent: ''
+    country: Australia
+    label: null
+    precision: city
+journal: Genome Res. 20(12), 2010
+notes: Samples from 55 Italian and 36 German patients were processed by aCGH.
+pmid: '21045081'
+title: 'Evaluation of affinity-based genome-wide DNA methylation data: effects of
+  CpG density, amplification bias, and copy number variation.'
+year: '2010'

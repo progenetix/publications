@@ -1,0 +1,26 @@
+authors: Modena P, Lualdi E, Facchinetti F, Galli L, Teixeira MR, Pilotti S, Sozzi
+  G.
+counts:
+  biosamples: 11.0
+  samples_acgh: 11.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: ''
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: Cancer Res. 65(10), 2005
+notes: NA
+pmid: '15899790'
+title: SMARCB1/INI1 tumor suppressor gene is frequently inactivated in epithelioid
+  sarcomas.
+year: '2005'

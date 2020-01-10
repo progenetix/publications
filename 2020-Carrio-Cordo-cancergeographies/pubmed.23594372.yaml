@@ -1,0 +1,25 @@
+authors: Day E, Poulogiannis G, McCaughan F, Mulholland S, Arends MJ, Ibrahim AE,
+  Dear PH.
+counts:
+  biosamples: 124.0
+  samples_acgh: 124.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ''
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city
+journal: Int J Exp Pathol 94(3), 2013
+notes: NA
+pmid: '23594372'
+title: IRS2 is a candidate driver oncogene on 13q34 in colorectal cancer.
+year: '2013'

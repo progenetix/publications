@@ -1,0 +1,25 @@
+authors: Galvan A, Skorpen F, Klepstad P, Knudsen AK, Fladvad T, Falvella FS, Pigni
+  A, Brunelli C, Caraceni A, Kaasa S, Dragani TA.
+counts:
+  biosamples: 438.0
+  samples_acgh: 438.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: ''
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: Clin. Cancer Res. 17(13), 2011
+notes: NA
+pmid: '21622719'
+title: Multiple Loci modulate opioid therapy response for cancer pain.
+year: '2011'

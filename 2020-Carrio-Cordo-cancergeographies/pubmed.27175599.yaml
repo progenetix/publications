@@ -1,0 +1,25 @@
+authors: Lim CH, Cho YK, Kim SW, Choi MG, Rhee JK, Chung YJ, Lee SH, Kim TM.
+counts:
+  biosamples: 15.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 15.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Oncotarget 7(26), 2016
+notes: ''
+pmid: '27175599'
+title: The chronological sequence of somatic mutations in early gastric carcinogenesis
+  inferred from multiregion sequencing of gastric adenomas.
+year: '2016'

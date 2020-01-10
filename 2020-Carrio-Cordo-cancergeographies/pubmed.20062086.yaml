@@ -1,0 +1,27 @@
+authors: Murayama-Hosokawa S, Oda K, Nakagawa S, Ishikawa S, Yamamoto S, Shoji K,
+  Ikeda Y, Uehara Y, Fukayama M, McCormick F, Yano T, Taketani Y, Aburatani H.
+counts:
+  biosamples: 42.0
+  samples_acgh: 42.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Oncogene 29(13), 2010
+notes: NA
+pmid: '20062086'
+title: Genome-wide single-nucleotide polymorphism arrays in endometrial carcinomas
+  associate extensive chromosomal instability with poor prognosis and unveil frequent
+  chromosomal imbalances involved in the PI3-kinase pathway.
+year: '2010'

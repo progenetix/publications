@@ -1,0 +1,26 @@
+authors: Bergamo NA, Rogatto SR, Poli-Frederico RC, Reis PP, Kowalski LP, Zielenska
+  M, Squire JA.
+counts:
+  biosamples: 19.0
+  samples_acgh: 0.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -46.64
+    - -23.55
+    type: Point
+  info:
+    city: Sao Paulo
+    continent: ''
+    country: Brazil
+    label: Sao Paulo, Brazil, South America
+    precision: city
+journal: Cancer Genet. Cytogenet. 119(1), 2000
+notes: NA
+pmid: '10812171'
+title: Comparative genomic hybridization analysis detects frequent over-representation
+  of DNA sequences at 3q, 7p, and 8q in head and neck carcinomas.
+year: '2000'

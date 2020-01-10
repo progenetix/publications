@@ -1,0 +1,26 @@
+authors: Poage GM, Christensen BC, Houseman EA, McClean MD, Wiencke JK, Posner MR,
+  Clark JR, Nelson HH, Marsit CJ, Kelsey KT.
+counts:
+  biosamples: 19.0
+  samples_acgh: 19.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.41
+    - 41.82
+    type: Point
+  info:
+    city: Providence
+    continent: ''
+    country: United States
+    label: Providence, United States, North America
+    precision: city
+journal: PLoS ONE 5(3), 2010
+notes: NA
+pmid: '20300172'
+title: Genetic and epigenetic somatic alterations in head and neck squamous cell carcinomas
+  are globally coordinated but not locally targeted.
+year: '2010'

@@ -1,0 +1,30 @@
+authors: Kon A, Shih LY, Minamino M, Sanada M, Shiraishi Y, Nagata Y, Yoshida K, Okuno
+  Y, Bando M, Nakato R, Ishikawa S, Sato-Otsubo A, Nagae G, Nishimoto A, Haferlach
+  C, Nowak D, Sato Y, Alpermann T, Nagasaki M, Shimamura T, Tanaka H, Chiba K, Yamamoto
+  R, Yamaguchi T, Otsu M, Obara N, Sakata-Yanagimoto M, Nakamaki T, Ishiyama K, Nolte
+  F, Hofmann WK, Miyawaki S, Chiba S, Mori H, Nakauchi H, Koeffler HP, Aburatani H,
+  Haferlach T, Shirahige K, Miyano S, Ogawa S.
+counts:
+  biosamples: 163.0
+  samples_acgh: 163.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Nat. Genet. 45(10), 2013
+notes: WES data from 29 patients was reported in a previous paper.
+pmid: '23955599'
+title: Recurrent mutations in multiple components of the cohesin complex in myeloid
+  neoplasms.
+year: '2013'

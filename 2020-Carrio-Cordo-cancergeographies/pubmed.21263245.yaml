@@ -1,0 +1,25 @@
+authors: Raskin L, Ludgate M, Iyer RK, Ackley TE, Bradford CR, Johnson TM, Fullen
+  DR.
+counts:
+  biosamples: 27.0
+  samples_acgh: 27.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.74
+    - 42.28
+    type: Point
+  info:
+    city: Ann Arbor
+    continent: ''
+    country: United States
+    label: Ann Arbor, United States, North America
+    precision: city
+journal: Am. J. Surg. Pathol. 35(2), 2011
+notes: NA
+pmid: '21263245'
+title: Copy number variations and clinical outcome in atypical spitz tumors.
+year: '2011'

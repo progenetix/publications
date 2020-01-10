@@ -1,0 +1,26 @@
+authors: McGrattan P, Campbell S, Cuthbert R, Jones FG, McMullin MF, Humphreys M.
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 12.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -5.93
+    - 54.6
+    type: Point
+  info:
+    city: Belfast
+    continent: ''
+    country: Ireland
+    label: Belfast, Ireland
+    precision: city
+journal: J. Clin. Pathol. 61(8), 2008
+notes: NA
+pmid: '18474541'
+title: Integration of conventional cytogenetics, comparative genomic hybridisation
+  and interphase fluorescence in situ hybridisation for the detection of genomic rearrangements
+  in acute leukaemia.
+year: '2008'

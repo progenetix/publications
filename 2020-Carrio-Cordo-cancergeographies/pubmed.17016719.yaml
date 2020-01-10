@@ -1,0 +1,26 @@
+authors: Kuhnen C, Herter P, Leuschner I, Mentzel T, Druecke D, Jaworska M, Johnen
+  G.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.22
+    - 51.48
+    type: Point
+  info:
+    city: Bochum
+    continent: ''
+    country: Germany
+    label: Bochum, Germany, Europe
+    precision: city
+journal: Virchows Arch. 449(5), 2006
+notes: NA
+pmid: '17016719'
+title: Sclerosing pseudovascular rhabdomyosarcoma-immunohistochemical, ultrastructural,
+  and genetic findings indicating a distinct subtype of rhabdomyosarcoma.
+year: '2006'

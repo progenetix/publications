@@ -1,0 +1,26 @@
+authors: Kay NE, Eckel-Passow JE, Braggio E, Vanwier S, Shanafelt TD, Van Dyke DL,
+  Jelinek DF, Tschumper RC, Kipps T, Byrd JC, Fonseca R.
+counts:
+  biosamples: 48.0
+  samples_acgh: 48.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: ''
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 203(2), 2010
+notes: NA
+pmid: '21156228'
+title: Progressive but previously untreated CLL patients with greater array CGH complexity
+  exhibit a less durable response to chemoimmunotherapy.
+year: '2010'

@@ -1,0 +1,27 @@
+authors: Huang J, Zhang L, Greshock J, Colligon TA, Wang Y, Ward R, Katsaros D, Lassus
+  H, Butzow R, Godwin AK, Testa JR, Nathanson KL, Gimotty PA, Coukos G, Weber BL,
+  Degenhardt Y.
+counts:
+  biosamples: 93.0
+  samples_acgh: 93.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: ''
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 50(8), 2011
+notes: NA
+pmid: '21563232'
+title: Frequent genetic abnormalities of the PI3K/AKT pathway in primary ovarian cancer
+  predict patient outcome.
+year: '2011'

@@ -1,0 +1,24 @@
+authors: Isola J, Chu L, DeVries S, Matsumura K, Chew K, Ljung BM, Waldman FM.
+counts:
+  biosamples: 33.0
+  samples_acgh: 0.0
+  samples_ccgh: 33.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: ''
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: Clin. Cancer Res. 5(12), 1999
+notes: NA
+pmid: '10632352'
+title: Genetic alterations in ERBB2-amplified breast carcinomas.
+year: '1999'

@@ -1,0 +1,27 @@
+authors: Kader T, Goode DL, Wong SQ, Connaughton J, Rowley SM, Devereux L, Byrne D,
+  Fox SB, Mir Arnau G, Tothill RW, Campbell IG, Gorringe KL.
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 4.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: ''
+    country: Australia
+    label: null
+    precision: city
+journal: Genome Med 8(1), 2016
+notes: The exact number of samples analysed by aCGH is not clear from the article's
+  text.
+pmid: '27846907'
+title: Copy number analysis by low coverage whole genome sequencing using ultra low-input
+  DNA from formalin-fixed paraffin embedded tumor tissue.
+year: '2016'

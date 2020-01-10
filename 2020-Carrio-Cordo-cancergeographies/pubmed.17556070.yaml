@@ -1,0 +1,26 @@
+authors: Heinrich UR, Brieger J, Gosepath J, Wierzbicka M, Sokolov M, Roth Y, Szyfter
+  W, Bittinger F, Mann WJ.
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.28
+    - 49.98
+    type: Point
+  info:
+    city: Mainz
+    continent: ''
+    country: Germany
+    label: Mainz, Germany, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 175(2), 2007
+notes: For sex chromosomes, no case and band specific aberrations could be derived
+  from the article.
+pmid: '17556070'
+title: Frequent chromosomal gains in recurrent juvenile nasopharyngeal angiofibroma.
+year: '2007'

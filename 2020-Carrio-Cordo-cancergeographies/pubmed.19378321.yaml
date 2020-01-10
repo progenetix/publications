@@ -1,0 +1,26 @@
+authors: Rieber J, Remke M, Hartmann C, Korshunov A, Burkhardt B, Sturm D, Mechtersheimer
+  G, Wittmann A, Greil J, Blattmann C, Witt O, Behnisch W, Halatsch ME, Orakcioglu
+  B, von Deimling A, Lichter P, Kulozik A, Pfister S.
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 48(7), 2009
+notes: NA
+pmid: '19378321'
+title: Novel oncogene amplifications in tumors from a family with Li-Fraumeni syndrome.
+year: '2009'

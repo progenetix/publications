@@ -1,0 +1,25 @@
+authors: Xie D, Wu HX, Liu YD, Zeng SD, Lin F.
+counts:
+  biosamples: 41.0
+  samples_acgh: 0.0
+  samples_ccgh: 41.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 113.25
+    - 23.12
+    type: Point
+  info:
+    city: Guangzhou
+    continent: ''
+    country: China
+    label: Guangzhou, China, Asia
+    precision: city
+journal: Zhonghua Yi Xue Za Zhi 87(1), 2007
+notes: NA
+pmid: '17403304'
+title: '[The significance and characteristics of chromosomal abnormalities in patients
+  with microsatellite and chromosome stable colorectal carcinoma].'
+year: '2007'

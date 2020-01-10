@@ -1,0 +1,27 @@
+authors: Bidinotto LT, Scapulatempo-Neto C, Mackay A, de Almeida GC, Scheithauer BW,
+  Berardinelli GN, Torrieri R, Clara CA, Feltrin LT, Viana-Pereira M, Varella-Garcia
+  M, Jones C, Reis RM.
+counts:
+  biosamples: 2.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 1.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -48.57
+    - -20.56
+    type: Point
+  info:
+    city: Barretos
+    continent: ''
+    country: Brazil
+    label: Barretos, Brazil, South America
+    precision: city
+journal: PLoS ONE 10(9), 2015
+notes: ''
+pmid: '26371886'
+title: Molecular Profiling of a Rare Rosette-Forming Glioneuronal Tumor Arising in
+  the Spinal Cord.
+year: '2015'

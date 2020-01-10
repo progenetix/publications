@@ -1,0 +1,26 @@
+authors: "B\xF8dker JS, Gyrup C, Johansen P, Schmitz A, Madsen J, Johnsen HE, B\xF8\
+  gsted M, Dybk\xE6r K, Nyegaard M."
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.21
+    - 56.16
+    type: Point
+  info:
+    city: Aarhus
+    continent: ''
+    country: Denmark
+    label: Aarhus, Denmark, Europe
+    precision: city
+journal: Cytogenet. Genome Res. 139(2), 2013
+notes: NA
+pmid: '23182917'
+title: Performance comparison of Affymetrix SNP6.0 and cytogenetic 2.7M whole-genome
+  microarrays in complex cancer samples.
+year: '2013'

@@ -1,0 +1,25 @@
+authors: "Gutenberg A, Gerdes JS, Jung K, Sander B, Gunawan B, Bock HC, Liersch T,\
+  \ Br\xFCck W, Rohde V, F\xFCzesi L."
+counts:
+  biosamples: 23.0
+  samples_acgh: 0.0
+  samples_ccgh: 23.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: ''
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 198(1), 2010
+notes: NA
+pmid: '20303014'
+title: High chromosomal instability in brain metastases of colorectal carcinoma.
+year: '2010'

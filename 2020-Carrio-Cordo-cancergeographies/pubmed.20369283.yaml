@@ -1,0 +1,26 @@
+authors: "Lasa A, Ram\xF3n y Cajal T, Llort G, Suela J, Cigudosa JC, Cornet M, Alonso\
+  \ C, Barnadas A, Baiget M."
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Breast Cancer Res. Treat. 123(3), 2010
+notes: NA
+pmid: '20369283'
+title: Copy number variations are not modifiers of phenotypic expression in a pair
+  of identical twins carrying a BRCA1 mutation.
+year: '2010'

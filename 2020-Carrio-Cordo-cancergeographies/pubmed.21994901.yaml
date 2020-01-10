@@ -1,0 +1,26 @@
+authors: "Mao X, Boyd LK, Y\xE1\xF1ez-Mu\xF1oz RJ, Chaplin T, Xue L, Lin D, Shan L,\
+  \ Berney DM, Young BD, Lu YJ."
+counts:
+  biosamples: 77.0
+  samples_acgh: 77.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Am J Cancer Res 1(5), 2011
+notes: NA
+pmid: '21994901'
+title: Chromosome rearrangement associated inactivation of tumour suppressor genes
+  in prostate cancer.
+year: '2011'

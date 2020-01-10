@@ -1,0 +1,26 @@
+authors: "Tarkkanen M, Larramendy ML, B\xF6hling T, Serra M, Hattinger CM, Kivioja\
+  \ A, Elomaa I, Picci P, Knuutila S."
+counts:
+  biosamples: 26.0
+  samples_acgh: 0.0
+  samples_ccgh: 26.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Eur. J. Cancer 42(8), 2006
+notes: NA
+pmid: '16630715'
+title: 'Malignant fibrous histiocytoma of bone: analysis of genomic imbalances by
+  comparative genomic hybridisation and C-MYC expression by immunohistochemistry.'
+year: '2006'

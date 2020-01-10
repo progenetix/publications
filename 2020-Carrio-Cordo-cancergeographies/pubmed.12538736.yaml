@@ -1,0 +1,25 @@
+authors: Gogusev J, Murakami I, Doussau M, Telvi L, Stojkoski A, Lesavre P, Droz D.
+counts:
+  biosamples: 24.0
+  samples_acgh: 0.0
+  samples_ccgh: 24.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: J. Am. Soc. Nephrol. 14(2), 2003
+notes: NA
+pmid: '12538736'
+title: Molecular cytogenetic aberrations in autosomal dominant polycystic kidney disease
+  tissue.
+year: '2003'

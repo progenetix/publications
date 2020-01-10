@@ -1,0 +1,28 @@
+authors: Chin K, DeVries S, Fridlyand J, Spellman PT, Roydasgupta R, Kuo WL, Lapuk
+  A, Neve RM, Qian Z, Ryder T, Chen F, Feiler H, Tokuyasu T, Kingsley C, Dairkee S,
+  Meng Z, Chew K, Pinkel D, Jain A, Ljung BM, Esserman L, Albertson DG, Waldman FM,
+  Gray JW.
+counts:
+  biosamples: 145.0
+  samples_acgh: 145.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Cancer Cell 10(6), 2006
+notes: The original data matrix was processed using Bioconductor DNAcopy package (through
+  http://www.progenetix.net/cgi-bin/front_aCGH2ProgenetiXML.cgi).
+pmid: '17157792'
+title: Genomic and transcriptional aberrations linked to breast cancer pathophysiologies.
+year: '2006'

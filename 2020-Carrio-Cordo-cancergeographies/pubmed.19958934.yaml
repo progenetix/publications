@@ -1,0 +1,26 @@
+authors: Suh I, Filetti S, Vriens MR, Guerrero MA, Tumino S, Wong M, Shen WT, Kebebew
+  E, Duh QY, Clark OH.
+counts:
+  biosamples: 110.0
+  samples_acgh: 110.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Surgery 146(6), 2009
+notes: NA
+pmid: '19958934'
+title: 'Distinct loci on chromosome 1q21 and 6q22 predispose to familial nonmedullary
+  thyroid cancer: a SNP array-based linkage analysis of 38 families.'
+year: '2009'

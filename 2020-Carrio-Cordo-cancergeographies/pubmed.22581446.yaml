@@ -1,0 +1,27 @@
+authors: Zaal A, Peyrot WJ, Berns PM, van der Burg ME, Veerbeek JH, Trimbos JB, Cadron
+  I, van Diest PJ, van Wieringen WN, Krijgsman O, Meijer GA, Piek JM, Timmers PJ,
+  Vergote I, Verheijen RH, Ylstra B, Zweemer RP, EORTC GCG Translational Research
+  Group.
+counts:
+  biosamples: 32.0
+  samples_acgh: 32.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.11
+    - 52.09
+    type: Point
+  info:
+    city: Utrecht
+    continent: ''
+    country: The Netherlands
+    label: Utrecht, The Netherlands
+    precision: city
+journal: Cell Oncol (Dordr) 35(3), 2012
+notes: NA
+pmid: '22581446'
+title: Genomic aberrations relate early and advanced stage ovarian cancer.
+year: '2012'

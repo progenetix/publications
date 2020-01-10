@@ -1,0 +1,27 @@
+authors: Mulholland PJ, Fiegler H, Mazzanti C, Gorman P, Sasieni P, Adams J, Jones
+  TA, Babbage JW, Vatcheva R, Ichimura K, East P, Poullikas C, Collins VP, Carter
+  NP, Tomlinson IP, Sheer D.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Cell Cycle 5(7), 2006
+notes: NA
+pmid: '16582634'
+title: Genomic profiling identifies discrete deletions associated with translocations
+  in glioblastoma multiforme.
+year: '2006'

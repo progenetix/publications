@@ -1,0 +1,25 @@
+authors: Knuuttila A, Jee KJ, Taskinen E, Wolff H, Knuutila S, Anttila S.
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Virchows Arch. 448(2), 2006
+notes: NA
+pmid: '16170537'
+title: 'Spindle cell tumours of the pleura: a clinical, histological and comparative
+  genomic hybridization analysis of 14 cases.'
+year: '2006'

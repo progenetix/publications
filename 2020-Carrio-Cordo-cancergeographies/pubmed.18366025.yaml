@@ -1,0 +1,25 @@
+authors: Jiang M, Li M, Fu X, Huang Y, Qian H, Sun R, Mao Y, Xie Y, Li Y.
+counts:
+  biosamples: 18.0
+  samples_acgh: 18.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: ''
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: Prostate 68(14), 2008
+notes: NA
+pmid: '18366025'
+title: Simultaneously detection of genomic and expression alterations in prostate
+  cancer using cDNA microarray.
+year: '2008'

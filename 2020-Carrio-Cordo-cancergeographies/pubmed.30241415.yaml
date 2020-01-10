@@ -1,0 +1,25 @@
+authors: Lee WK, Lee SG, Yim SH, Kim D, Kim H, Jeong S, Jung SG, Jo YS, Lee J.
+counts:
+  biosamples: 3.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 3.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: null
+    precision: city
+journal: Int J Mol Sci 19(10), 2018
+notes: No PDF available yet
+pmid: '30241415'
+title: Whole Exome Sequencing Identifies a Novel Hedgehog-Interacting Protein G516R
+  Mutation in Locally Advanced Papillary Thyroid Cancer.
+year: '2018'

@@ -1,0 +1,26 @@
+authors: "Janc\xE1rkov\xE1 N, Krkavcov\xE1 M, Janashia M, Freitag P, Duskov\xE1 J,\
+  \ Cibula D."
+counts:
+  biosamples: 80.0
+  samples_acgh: 0.0
+  samples_ccgh: 80.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.61
+    - 49.2
+    type: Point
+  info:
+    city: Brno
+    continent: ''
+    country: Czech Republic
+    label: Brno, Czech Republic, Europe
+    precision: city
+journal: Ceska Gynekol 73(2), 2008
+notes: NA
+pmid: '18567425'
+title: '[Importance of chromosomal changes correlated to prognostic factors in ovarian
+  and cervical malignant tumors].'
+year: '2008'

@@ -1,0 +1,26 @@
+authors: Stange DE, Engel F, Longerich T, Koo BK, Koch M, Delhomme N, Aigner M, Toedt
+  G, Schirmacher P, Lichter P, Weitz J, Radlwimmer B.
+counts:
+  biosamples: 42.0
+  samples_acgh: 42.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Gut 59(9), 2010
+notes: NA
+pmid: '20479215'
+title: Expression of an ASCL2 related stem cell signature and IGF2 in colorectal cancer
+  liver metastases with 11p15.5 gain.
+year: '2010'

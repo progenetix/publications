@@ -1,0 +1,27 @@
+authors: Arai E, Ushijima S, Tsuda H, Fujimoto H, Hosoda F, Shibata T, Kondo T, Imoto
+  I, Inazawa J, Hirohashi S, Kanai Y.
+counts:
+  biosamples: 51.0
+  samples_acgh: 51.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.77
+    - 35.67
+    type: Point
+  info:
+    city: Chuo
+    continent: ''
+    country: Japan
+    label: Chuo, Japan
+    precision: city
+journal: Clin. Cancer Res. 14(17), 2008
+notes: NA
+pmid: '18765545'
+title: 'Genetic clustering of clear cell renal cell carcinoma based on array-comparative
+  genomic hybridization: its association with DNA methylation alteration and patient
+  outcome.'
+year: '2008'

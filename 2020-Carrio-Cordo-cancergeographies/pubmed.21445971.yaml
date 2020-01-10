@@ -1,0 +1,26 @@
+authors: Middeldorp A, van Eijk R, Oosting J, Forte GI, van Puijenbroek M, van Nieuwenhuizen
+  M, Corver WE, Ruano D, Caldes T, Wijnen J, Morreau H, van Wezel T.
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ''
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city
+journal: Int. J. Cancer 130(4), 2012
+notes: NA
+pmid: '21445971'
+title: Increased frequency of 20q gain and copy-neutral loss of heterozygosity in
+  mismatch repair proficient familial colorectal carcinomas.
+year: '2012'

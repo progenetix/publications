@@ -1,0 +1,26 @@
+authors: "Ghadimi BM, Grade M, M\xF6nkemeyer C, Kulle B, Gaedcke J, Gunawan B, Langer\
+  \ C, Liersch T, Becker H."
+counts:
+  biosamples: 36.0
+  samples_acgh: 0.0
+  samples_ccgh: 36.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: ''
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: Cell. Oncol. 28(5-6), 2006
+notes: NA
+pmid: '17167180'
+title: Distinct chromosomal profiles in metastasizing and non-metastasizing colorectal
+  carcinomas.
+year: '2006'

@@ -1,0 +1,26 @@
+authors: "Ota\xF1o-Joos M, Mechtersheimer G, Ohl S, Wilgenbus KK, Scheurlen W, Lehnert\
+  \ T, Willeke F, Otto HF, Lichter P, Joos S."
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Cytogenet. Cell Genet. 90(1-2), 2000
+notes: NA
+pmid: '11060455'
+title: Detection of chromosomal imbalances in leiomyosarcoma by comparative genomic
+  hybridization and interphase cytogenetics.
+year: '2000'

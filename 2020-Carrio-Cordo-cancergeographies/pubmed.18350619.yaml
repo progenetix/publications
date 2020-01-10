@@ -1,0 +1,25 @@
+authors: Qin YR, Wang LD, Fan ZM, Kwong D, Guan XY.
+counts:
+  biosamples: 67.0
+  samples_acgh: 0.0
+  samples_ccgh: 67.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 113.65
+    - 34.76
+    type: Point
+  info:
+    city: Zhengzhou
+    continent: ''
+    country: China
+    label: Zhengzhou, China, Asia
+    precision: city
+journal: World J. Gastroenterol. 14(12), 2008
+notes: NA
+pmid: '18350619'
+title: Comparative genomic hybridization analysis of genetic aberrations associated
+  with development of esophageal squamous cell carcinoma in Henan, China.
+year: '2008'

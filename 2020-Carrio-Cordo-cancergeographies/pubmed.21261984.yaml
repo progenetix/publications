@@ -1,0 +1,26 @@
+authors: Nacu S, Yuan W, Kan Z, Bhatt D, Rivers CS, Stinson J, Peters BA, Modrusan
+  Z, Jung K, Seshagiri S, Wu TD.
+counts:
+  biosamples: 6.0
+  samples_acgh: 6.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.41
+    - 37.65
+    type: Point
+  info:
+    city: South San Francisco
+    continent: ''
+    country: United States
+    label: South San Francisco, United States, North America
+    precision: city
+journal: BMC Med Genomics 4, 2011
+notes: NA
+pmid: '21261984'
+title: Deep RNA sequencing analysis of readthrough gene fusions in human prostate
+  adenocarcinoma and reference samples.
+year: '2011'

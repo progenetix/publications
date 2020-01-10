@@ -1,0 +1,25 @@
+authors: Chan WY, Liu Y, Li CY, Ng EK, Chow JH, Li KK, Chung SC.
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Diagn. Mol. Pathol. 11(3), 2002
+notes: NA
+pmid: '12218450'
+title: Recurrent genomic aberrations in gastric carcinomas associated with Helicobacter
+  pylori and Epstein-Barr virus.
+year: '2002'

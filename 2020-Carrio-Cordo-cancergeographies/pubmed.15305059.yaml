@@ -1,0 +1,26 @@
+authors: Zielenska M, Marrano P, Thorner P, Pei J, Beheshti B, Ho M, Bayani J, Liu
+  Y, Sun BC, Squire JA, Hao XS.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Cytogenet. Genome Res. 107(1-2), 2004
+notes: NA
+pmid: '15305059'
+title: High-resolution cDNA microarray CGH mapping of genomic imbalances in osteosarcoma
+  using formalin-fixed paraffin-embedded tissue.
+year: '2004'

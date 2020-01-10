@@ -1,0 +1,26 @@
+authors: "Letouz\xE9 E, Sow A, Petel F, Rosati R, Figueiredo BC, Burnichon N, Gimenez-Roqueplo\
+  \ AP, Lalli E, de Reyni\xE8s A."
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: PLoS ONE 7(5), 2012
+notes: ''
+pmid: '22567117'
+title: Identity by descent mapping of founder mutations in cancer using high-resolution
+  tumor SNP data.
+year: '2012'

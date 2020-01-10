@@ -1,0 +1,25 @@
+authors: Micci F, Haugom L, Ahlquist T, Abeler VM, Trope CG, Lothe RA, Heim S.
+counts:
+  biosamples: 32.0
+  samples_acgh: 0.0
+  samples_ccgh: 32.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: J Oncol 2010, 2010
+notes: NA
+pmid: '19759843'
+title: Tumor spreading to the contralateral ovary in bilateral ovarian carcinoma is
+  a late event in clonal evolution.
+year: '2010'

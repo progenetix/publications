@@ -1,0 +1,26 @@
+authors: Sugimoto T, Seki N, Shimizu S, Kikkawa N, Tsukada J, Shimada H, Sasaki K,
+  Hanazawa T, Okamoto Y, Hata A.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.12
+    - 35.6
+    type: Point
+  info:
+    city: Chiba
+    continent: ''
+    country: Japan
+    label: Chiba, Japan, Asia
+    precision: city
+journal: Genes Chromosomes Cancer 48(2), 2009
+notes: NA
+pmid: '18973137'
+title: The galanin signaling cascade is a candidate pathway regulating oncogenesis
+  in human squamous cell carcinoma.
+year: '2009'

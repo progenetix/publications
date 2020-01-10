@@ -1,0 +1,29 @@
+authors: "Patil MA, G\xFCtgemann I, Zhang J, Ho C, Cheung ST, Ginzinger D, Li R, Dykema\
+  \ KJ, So S, Fan ST, Kakar S, Furge KA, B\xFCttner R, Chen X."
+counts:
+  biosamples: 49.0
+  samples_acgh: 49.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Carcinogenesis 26(12), 2005
+notes: The data was transcribed from the original array ratio data, with automatic
+  generation of a pseudo rev ish annotation. For generation of the segments, the Bioconductor
+  DNAcopy package was used. Cases HK3 and SF4 and were directly transcribed on a clone-by-clone
+  basis, according to ratio thresholds.
+pmid: '16000397'
+title: Array-based comparative genomic hybridization reveals recurrent chromosomal
+  aberrations and Jab1 as a potential target for 8q gain in hepatocellular carcinoma.
+year: '2005'

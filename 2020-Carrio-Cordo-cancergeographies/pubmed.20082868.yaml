@@ -1,0 +1,26 @@
+authors: "G\xFCm\xFCs-Akay G, Unal AE, Elhan AH, Bayar S, Karadayt K, Sunguroglu A,\
+  \ Kadikiran A, T\xFCk\xFCn A."
+counts:
+  biosamples: 43.0
+  samples_acgh: 0.0
+  samples_ccgh: 43.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 32.85
+    - 39.92
+    type: Point
+  info:
+    city: Ankara
+    continent: ''
+    country: Turkey
+    label: Ankara, Turkey, Europe
+    precision: city
+journal: Arch. Med. Res. 40(7), 2009
+notes: NA
+pmid: '20082868'
+title: 'DNA copy number changes in gastric adenocarcinomas: high resolution-comparative
+  genomic hybridization study in Turkey.'
+year: '2009'

@@ -1,0 +1,27 @@
+authors: Vincent-Salomon A, Benhamo V, Gravier E, Rigaill G, Gruel N, Robin S, de
+  Rycke Y, Mariani O, Pierron G, Gentien D, Reyal F, Cottu P, Fourquet A, Rouzier
+  R, Sastre-Garau X, Delattre O.
+counts:
+  biosamples: 214.0
+  samples_acgh: 214.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: PLoS ONE 8(10), 2013
+notes: ''
+pmid: '24143191'
+title: 'Genomic instability: a stronger prognostic marker than proliferation for early
+  stage luminal breast carcinomas.'
+year: '2013'

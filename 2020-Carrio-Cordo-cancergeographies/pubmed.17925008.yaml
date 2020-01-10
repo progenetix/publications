@@ -1,0 +1,28 @@
+authors: "Chin SF, Teschendorff AE, Marioni JC, Wang Y, Barbosa-Morais NL, Thorne\
+  \ NP, Costa JL, Pinder SE, van de Wiel MA, Green AR, Ellis IO, Porter PL, Tavar\xE9\
+  \ S, Brenton JD, Ylstra B, Caldas C."
+counts:
+  biosamples: 220.0
+  samples_acgh: 220.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ''
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city
+journal: Genome Biol. 8(10), 2007
+notes: Data was downloaded from GEO and segmented using the Progenetix tools (DNAcopy
+  segmentation).
+pmid: '17925008'
+title: High-resolution aCGH and expression profiling identifies a novel genomic subtype
+  of ER negative breast cancer.
+year: '2007'

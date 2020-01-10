@@ -1,0 +1,25 @@
+authors: "Bl\xE4ker H, Scholten M, Sutter C, Otto HF, Penzel R."
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Am. J. Clin. Pathol. 120(3), 2003
+notes: 10 polyps of the same patient with FAP were analyzed.
+pmid: '14502807'
+title: Somatic mutations in familial adenomatous polyps. Nuclear translocation of
+  beta-catenin requires more than biallelic APC inactivation.
+year: '2003'

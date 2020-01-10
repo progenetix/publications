@@ -1,0 +1,25 @@
+authors: Passon N, Bregant E, Sponziello M, Dima M, Rosignolo F, Durante C, Celano
+  M, Russo D, Filetti S, Damante G.
+counts:
+  biosamples: 27.0
+  samples_acgh: 27.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.24
+    - 46.06
+    type: Point
+  info:
+    city: Udine
+    continent: ''
+    country: Italy
+    label: Udine, Italy, Europe
+    precision: city
+journal: Endocrine 50(2), 2015
+notes: ''
+pmid: '25863487'
+title: Somatic amplifications and deletions in genome of papillary thyroid carcinomas.
+year: '2015'

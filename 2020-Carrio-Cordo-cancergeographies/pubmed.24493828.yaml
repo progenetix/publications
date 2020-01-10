@@ -1,0 +1,26 @@
+authors: Selvarajah S, Pyne S, Chen E, Sompallae R, Ligon AH, Nielsen GP, Dranoff
+  G, Stack E, Loda M, Flavin R.
+counts:
+  biosamples: 15.0
+  samples_acgh: 15.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 20(6), 2014
+notes: ''
+pmid: '24493828'
+title: High-resolution array CGH and gene expression profiling of alveolar soft part
+  sarcoma.
+year: '2014'

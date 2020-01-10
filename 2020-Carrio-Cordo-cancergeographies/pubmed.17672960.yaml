@@ -1,0 +1,25 @@
+authors: "Ying HC, Zhang SL, Jiang T, Ouyang L, L\xFC J."
+counts:
+  biosamples: 24.0
+  samples_acgh: 0.0
+  samples_ccgh: 24.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 123.43
+    - 41.79
+    type: Point
+  info:
+    city: Shenyang
+    continent: ''
+    country: China
+    label: Shenyang, China, Asia
+    precision: city
+journal: Zhonghua Yi Xue Za Zhi 87(15), 2007
+notes: NA
+pmid: '17672960'
+title: '[Mechanisms of drug resistance in human ovarian carcinoma studied by comparative
+  genomic hybridization].'
+year: '2007'

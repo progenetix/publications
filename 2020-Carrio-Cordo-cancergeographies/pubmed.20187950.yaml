@@ -1,0 +1,24 @@
+authors: Teh MT, Gemenetzidis E, Chaplin T, Young BD, Philpott MP.
+counts:
+  biosamples: 21.0
+  samples_acgh: 21.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Mol. Cancer 9, 2010
+notes: NA
+pmid: '20187950'
+title: Upregulation of FOXM1 induces genomic instability in human epidermal keratinocytes.
+year: '2010'

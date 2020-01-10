@@ -1,0 +1,30 @@
+authors: Ramkissoon LA, Horowitz PM, Craig JM, Ramkissoon SH, Rich BE, Schumacher
+  SE, McKenna A, Lawrence MS, Bergthold G, Brastianos PK, Tabak B, Ducar MD, Van Hummelen
+  P, MacConaill LE, Pouissant-Young T, Cho YJ, Taha H, Mahmoud M, Bowers DC, Margraf
+  L, Tabori U, Hawkins C, Packer RJ, Hill DA, Pomeroy SL, Eberhart CG, Dunn IF, Goumnerova
+  L, Getz G, Chan JA, Santagata S, Hahn WC, Stiles CD, Ligon AH, Kieran MW, Beroukhim
+  R, Ligon KL.
+counts:
+  biosamples: 44.0
+  samples_acgh: 44.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.11
+    - 42.38
+    type: Point
+  info:
+    city: Cambridge
+    continent: ''
+    country: United States
+    label: Cambridge, United States, North America
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 110(20), 2013
+notes: ''
+pmid: '23633565'
+title: Genomic analysis of diffuse pediatric low-grade gliomas identifies recurrent
+  oncogenic truncating rearrangements in the transcription factor MYBL1.
+year: '2013'

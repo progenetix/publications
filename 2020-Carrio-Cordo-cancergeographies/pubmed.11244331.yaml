@@ -1,0 +1,27 @@
+authors: Shiraishi K, Okita K, Kusano N, Harada T, Kondoh S, Okita S, Ryozawa S, Ohmura
+  R, Noguchi T, Iida Y, Akiyama T, Oga A, Fukumoto Y, Furuya T, Kawauchi S, Sasaki
+  K.
+counts:
+  biosamples: 100.0
+  samples_acgh: 0.0
+  samples_ccgh: 100.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Oncology 60(2), 2001
+notes: NA
+pmid: '11244331'
+title: A comparison of DNA copy number changes detected by comparative genomic hybridization
+  in malignancies of the liver, biliary tract and pancreas.
+year: '2001'

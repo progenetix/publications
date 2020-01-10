@@ -1,0 +1,29 @@
+authors: Snuderl M, Batista A, Kirkpatrick ND, Ruiz de Almodovar C, Riedemann L, Walsh
+  EC, Anolik R, Huang Y, Martin JD, Kamoun W, Knevels E, Schmidt T, Farrar CT, Vakoc
+  BJ, Mohan N, Chung E, Roberge S, Peterson T, Bais C, Zhelyazkova BH, Yip S, Hasselblatt
+  M, Rossig C, Niemeyer E, Ferrara N, Klagsbrun M, Duda DG, Fukumura D, Xu L, Carmeliet
+  P, Jain RK.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Cell 152(5), 2013
+notes: NA
+pmid: '23452854'
+title: Targeting placental growth factor/neuropilin 1 pathway inhibits growth and
+  spread of medulloblastoma.
+year: '2013'

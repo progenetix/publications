@@ -1,0 +1,26 @@
+authors: Jeuken JW, Sprenger SH, Wesseling P, Macville MV, von Deimling A, Teepen
+  HL, van Overbeeke JJ, Boerman RH.
+counts:
+  biosamples: 29.0
+  samples_acgh: 0.0
+  samples_ccgh: 29.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ''
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city
+journal: J. Neuropathol. Exp. Neurol. 58(6), 1999
+notes: NA
+pmid: '10374751'
+title: Identification of subgroups of high-grade oligodendroglial tumors by comparative
+  genomic hybridization.
+year: '1999'

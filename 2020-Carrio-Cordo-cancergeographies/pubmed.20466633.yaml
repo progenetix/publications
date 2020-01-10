@@ -1,0 +1,25 @@
+authors: Lin DC, Shi ZZ, Xue LY, Chen W, Xu X, Han YL, Lv N, Wang MR.
+counts:
+  biosamples: 148.0
+  samples_acgh: 148.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: ''
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: Yi Chuan 32(5), 2010
+notes: NA
+pmid: '20466633'
+title: '[Expression of cell cycle related proteins cyclin D1, p53 and p21WAF1/Cip1
+  in esophageal squamous cell carcinoma].'
+year: '2010'

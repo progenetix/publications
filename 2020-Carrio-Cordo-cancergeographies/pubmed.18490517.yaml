@@ -1,0 +1,27 @@
+authors: Raghavan M, Smith LL, Lillington DM, Chaplin T, Kakkas I, Molloy G, Chelala
+  C, Cazier JB, Cavenagh JD, Fitzgibbon J, Lister TA, Young BD.
+counts:
+  biosamples: 54.0
+  samples_acgh: 54.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Blood 112(3), 2008
+notes: The dataset contains UPD information, which was not included into Progenetix
+  (yet).
+pmid: '18490517'
+title: Segmental uniparental disomy is a commonly acquired genetic event in relapsed
+  acute myeloid leukemia.
+year: '2008'

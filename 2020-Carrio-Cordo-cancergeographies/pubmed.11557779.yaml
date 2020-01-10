@@ -1,0 +1,26 @@
+authors: Burger PC, Minn AY, Smith JS, Borell TJ, Jedlicka AE, Huntley BK, Goldthwaite
+  PT, Jenkins RB, Feuerstein BG.
+counts:
+  biosamples: 18.0
+  samples_acgh: 0.0
+  samples_ccgh: 18.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.61
+    - 39.29
+    type: Point
+  info:
+    city: Baltimore
+    continent: ''
+    country: United States
+    label: Baltimore, United States, North America
+    precision: city
+journal: Mod. Pathol. 14(9), 2001
+notes: NA
+pmid: '11557779'
+title: Losses of chromosomal arms 1p and 19q in the diagnosis of oligodendroglioma.
+  A study of paraffin-embedded sections.
+year: '2001'

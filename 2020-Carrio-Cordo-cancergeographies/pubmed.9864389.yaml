@@ -1,0 +1,26 @@
+authors: "Hinze R, Schagdarsurengin U, Taubert H, Meye A, W\xFCrl P, Holzhausen HJ,\
+  \ Rath FW, Schmidt H."
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.36
+    - 52.06
+    type: Point
+  info:
+    city: Halle
+    continent: ''
+    country: Germany
+    label: Halle, Germany, Europe
+    precision: city
+journal: Int. J. Mol. Med. 3(1), 1999
+notes: NA
+pmid: '9864389'
+title: Assessment of genomic imbalances in malignant fibrous histiocytomas by comparative
+  genomic hybridization.
+year: '1999'

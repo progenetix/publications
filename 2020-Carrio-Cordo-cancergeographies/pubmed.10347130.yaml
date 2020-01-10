@@ -1,0 +1,25 @@
+authors: Kusano N, Shiraishi K, Kubo K, Oga A, Okita K, Sasaki K.
+counts:
+  biosamples: 41.0
+  samples_acgh: 0.0
+  samples_ccgh: 41.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Hepatology 29(6), 1999
+notes: NA
+pmid: '10347130'
+title: 'Genetic aberrations detected by comparative genomic hybridization in hepatocellular
+  carcinomas: their relationship to clinicopathological features.'
+year: '1999'

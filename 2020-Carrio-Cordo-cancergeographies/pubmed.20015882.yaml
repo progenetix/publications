@@ -1,0 +1,26 @@
+authors: "Stegelmann F, Bullinger L, Griesshammer M, Holzmann K, Habdank M, Kuhn S,\
+  \ Maile C, Schauer S, D\xF6hner H, D\xF6hner K."
+counts:
+  biosamples: 151.0
+  samples_acgh: 151.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Haematologica 95(4), 2010
+notes: NA
+pmid: '20015882'
+title: High-resolution single-nucleotide polymorphism array-profiling in myeloproliferative
+  neoplasms identifies novel genomic aberrations.
+year: '2010'

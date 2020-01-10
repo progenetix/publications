@@ -1,0 +1,27 @@
+authors: Coindre JM, Mariani O, Chibon F, Mairal A, De Saint Aubain Somerhausen N,
+  Favre-Guillevin E, Bui NB, Stoeckle E, Hostein I, Aurias A.
+counts:
+  biosamples: 18.0
+  samples_acgh: 0.0
+  samples_ccgh: 18.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: ''
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: Mod. Pathol. 16(3), 2003
+notes: NA
+pmid: '12640106'
+title: 'Most malignant fibrous histiocytomas developed in the retroperitoneum are
+  dedifferentiated liposarcomas: a review of 25 cases initially diagnosed as malignant
+  fibrous histiocytoma.'
+year: '2003'

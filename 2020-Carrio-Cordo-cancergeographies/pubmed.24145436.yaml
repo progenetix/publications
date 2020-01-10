@@ -1,0 +1,30 @@
+authors: "Be\xE0 S, Vald\xE9s-Mas R, Navarro A, Salaverria I, Mart\xEDn-Garcia D,\
+  \ Jares P, Gin\xE9 E, Pinyol M, Royo C, Nadeu F, Conde L, Juan M, Clot G, Viz\xE1\
+  n P, Di Croce L, Puente DA, L\xF3pez-Guerra M, Moros A, Roue G, Aymerich M, Villamor\
+  \ N, Colomo L, Mart\xEDnez A, Valera A, Mart\xEDn-Subero JI, Amador V, Hern\xE1\
+  ndez L, Rozman M, Enjuanes A, Forcada P, Munta\xF1ola A, Hartmann EM, Calasanz MJ,\
+  \ Rosenwald A, Ott G, Hern\xE1ndez-Rivas JM, Klapper W, Siebert R, Wiestner A, Wilson\
+  \ WH, Colomer D, L\xF3pez-Guillermo A, L\xF3pez-Ot\xEDn C, Puente XS, Campo E."
+counts:
+  biosamples: 78.0
+  samples_acgh: 29.0
+  samples_ccgh: 0.0
+  samples_wes: 43.0
+  samples_wgs: 6.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 110(45), 2013
+notes: NA
+pmid: '24145436'
+title: Landscape of somatic mutations and clonal evolution in mantle cell lymphoma.
+year: '2013'

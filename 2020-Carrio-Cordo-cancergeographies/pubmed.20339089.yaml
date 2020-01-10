@@ -1,0 +1,26 @@
+authors: Steidl C, Telenius A, Shah SP, Farinha P, Barclay L, Boyle M, Connors JM,
+  Horsman DE, Gascoyne RD.
+counts:
+  biosamples: 53.0
+  samples_acgh: 53.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: Blood 116(3), 2010
+notes: NA
+pmid: '20339089'
+title: Genome-wide copy number analysis of Hodgkin Reed-Sternberg cells identifies
+  recurrent imbalances with correlations to treatment outcome.
+year: '2010'

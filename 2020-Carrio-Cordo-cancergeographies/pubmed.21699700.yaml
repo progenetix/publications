@@ -1,0 +1,27 @@
+authors: "Llorens F, Hummel M, Pastor X, Ferrer A, Pluvinet R, Vivancos A, Castillo\
+  \ E, Iraola S, Mosquera AM, Gonz\xE1lez E, Lozano J, Ingham M, Dohm JC, Noguera\
+  \ M, Kofler R, del R\xEDo JA, Bay\xE9s M, Himmelbauer H, Sumoy L."
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: BMC Genomics 12, 2011
+notes: Mostly expression, but HeLa genomic arrays too.
+pmid: '21699700'
+title: Multiple platform assessment of the EGF dependent transcriptome by microarray
+  and deep tag sequencing analysis.
+year: '2011'

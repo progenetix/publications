@@ -1,0 +1,31 @@
+authors: Zhang L, Zhou Y, Cheng C, Cui H, Cheng L, Kong P, Wang J, Li Y, Chen W, Song
+  B, Wang F, Jia Z, Li L, Li Y, Yang B, Liu J, Shi R, Bi Y, Zhang Y, Wang J, Zhao
+  Z, Hu X, Yang J, Li H, Gao Z, Chen G, Huang X, Yang X, Wan S, Chen C, Li B, Tan
+  Y, Chen L, He M, Xie S, Li X, Zhuang X, Wang M, Xia Z, Luo L, Ma J, Dong B, Zhao
+  J, Song Y, Ou Y, Li E, Xu L, Wang J, Xi Y, Li G, Xu E, Liang J, Yang X, Guo J, Chen
+  X, Zhang Y, Li Q, Liu L, Li Y, Zhang X, Yang H, Lin D, Cheng X, Guo Y, Wang J, Zhan
+  Q, Cui Y.
+counts:
+  biosamples: 104.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 90.0
+  samples_wgs: 14.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 112.56
+    - 37.87
+    type: Point
+  info:
+    city: Taiyuan
+    continent: ''
+    country: China
+    label: Taiyuan, China, Asia
+    precision: city
+journal: Am. J. Hum. Genet. 96(4), 2015
+notes: ''
+pmid: '25839328'
+title: Genomic analyses reveal mutational signatures and frequently altered genes
+  in esophageal squamous cell carcinoma.
+year: '2015'

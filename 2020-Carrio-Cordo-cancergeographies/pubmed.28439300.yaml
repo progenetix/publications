@@ -1,0 +1,26 @@
+authors: Ogawa H, Iwamoto A, Tanahashi T, Okada R, Yamamoto K, Nishiumi S, Yoshida
+  M, Azuma T.
+counts:
+  biosamples: 0.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: ''
+    country: China
+    label: null
+    precision: city
+journal: Gut Pathog 9, 2017
+notes: According to the text, 27 samples had WES results.
+pmid: '28439300'
+title: Genetic variants of Helicobacter pylori type IV secretion system components
+  CagL and CagI and their association with clinical outcomes.
+year: '2017'

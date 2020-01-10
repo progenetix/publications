@@ -1,0 +1,25 @@
+authors: Safavi S, Hansson M, Karlsson K, Biloglav A, Johansson B, Paulsson K.
+counts:
+  biosamples: 126.0
+  samples_acgh: 126.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Haematologica 100(1), 2015
+notes: NA
+pmid: '25261097'
+title: Novel gene targets detected by genomic profiling in a consecutive series of
+  126 adults with acute lymphoblastic leukemia.
+year: '2015'

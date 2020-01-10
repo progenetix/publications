@@ -1,0 +1,26 @@
+authors: Posorski N, Kaemmerer D, Ernst G, Grabowski P, Hoersch D, Hommann M, von
+  Eggeling F.
+counts:
+  biosamples: 12.0
+  samples_acgh: 12.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: ''
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: Clin. Exp. Metastasis 28(7), 2011
+notes: NA
+pmid: '21681495'
+title: Localization of sporadic neuroendocrine tumors by gene expression analysis
+  of their metastases.
+year: '2011'

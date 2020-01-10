@@ -1,0 +1,26 @@
+authors: van Doorn R, van Kester MS, Dijkman R, Vermeer MH, Mulder AA, Szuhai K, Knijnenburg
+  J, Boer JM, Willemze R, Tensen CP.
+counts:
+  biosamples: 22.0
+  samples_acgh: 22.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ''
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city
+journal: Blood 113(1), 2009
+notes: NA
+pmid: '18832135'
+title: Oncogenomic analysis of mycosis fungoides reveals major differences with Sezary
+  syndrome.
+year: '2009'

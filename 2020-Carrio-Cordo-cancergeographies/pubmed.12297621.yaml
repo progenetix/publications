@@ -1,0 +1,26 @@
+authors: "Pollack JR, S\xF8rlie T, Perou CM, Rees CA, Jeffrey SS, Lonning PE, Tibshirani\
+  \ R, Botstein D, B\xF8rresen-Dale AL, Brown PO."
+counts:
+  biosamples: 54.0
+  samples_acgh: 54.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.17
+    - 37.43
+    type: Point
+  info:
+    city: Stanford
+    continent: ''
+    country: United States
+    label: Stanford, United States, North America
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 99(20), 2002
+notes: Data may be available through Stanford microarray database.
+pmid: '12297621'
+title: Microarray analysis reveals a major direct role of DNA copy number alteration
+  in the transcriptional program of human breast tumors.
+year: '2002'

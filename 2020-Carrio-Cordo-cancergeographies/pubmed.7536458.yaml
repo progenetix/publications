@@ -1,0 +1,25 @@
+authors: "Bentz M, D\xF6hner H, Huck K, Sch\xFCtz B, Ganser A, Joos S, du Manoir S,\
+  \ Lichter P."
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 12(3), 1995
+notes: NA
+pmid: '7536458'
+title: Comparative genomic hybridization in the investigation of myeloid leukemias.
+year: '1995'

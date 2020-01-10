@@ -1,0 +1,26 @@
+authors: "Habermann JK, Paulsen U, Roblick UJ, Upender MB, McShane LM, Korn EL, Wangsa\
+  \ D, Kr\xFCger S, Duchrow M, Bruch HP, Auer G, Ried T."
+counts:
+  biosamples: 52.0
+  samples_acgh: 0.0
+  samples_ccgh: 52.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 46(1), 2007
+notes: NA
+pmid: '17044061'
+title: Stage-specific alterations of the genome, transcriptome, and proteome during
+  colorectal carcinogenesis.
+year: '2007'

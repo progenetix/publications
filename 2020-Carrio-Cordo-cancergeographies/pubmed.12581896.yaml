@@ -1,0 +1,27 @@
+authors: "Schleiermacher G, Janoueix-Lerosey I, Combaret V, Derr\xE9 J, Couturier\
+  \ J, Aurias A, Delattre O."
+counts:
+  biosamples: 27.0
+  samples_acgh: 0.0
+  samples_ccgh: 27.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 141(1), 2003
+notes: NA
+pmid: '12581896'
+title: Combined 24-color karyotyping and comparative genomic hybridization analysis
+  indicates predominant rearrangements of early replicating chromosome regions in
+  neuroblastoma.
+year: '2003'

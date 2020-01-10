@@ -1,0 +1,28 @@
+authors: "Inda MM, Fan X, Mu\xF1oz J, Perot C, Fauvet D, Danglot G, Palacio A, Madero\
+  \ P, Zazpe I, Portillo E, Tu\xF1\xF3n T, Mart\xEDnez-Pe\xF1uela JM, Alfaro J, Eiras\
+  \ J, Bernheim A, Castresana JS."
+counts:
+  biosamples: 32.0
+  samples_acgh: 0.0
+  samples_ccgh: 32.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.6400000000000001
+    - 42.82
+    type: Point
+  info:
+    city: Pamplona
+    continent: ''
+    country: Spain
+    label: Pamplona, Spain, Europe
+    precision: city
+journal: Mol. Carcinog. 36(1), 2003
+notes: In the original Progenetix database input, the columns for gains and losses
+  had been reversed (fixed on 2008-09-17).
+pmid: '12503074'
+title: 'Chromosomal abnormalities in human glioblastomas: gain in chromosome 7p correlating
+  with loss in chromosome 10q.'
+year: '2003'

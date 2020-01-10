@@ -1,0 +1,27 @@
+authors: "Rustad EH, Dai HY, Hov H, Coward E, Beisvag V, Myklebost O, Hovig E, Nakken\
+  \ S, Vod\xE1k D, Meza-Zepeda LA, Sandvik AK, Wader KF, Misund K, Sundan A, Aarset\
+  \ H, Waage A."
+counts:
+  biosamples: 3.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 3.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.4
+    - 63.43
+    type: Point
+  info:
+    city: Trondheim
+    continent: ''
+    country: Norway
+    label: Trondheim, Norway, Europe
+    precision: city
+journal: Blood Cancer J 5, 2015
+notes: ''
+pmid: '25794135'
+title: 'BRAF V600E mutation in early-stage multiple myeloma: good response to broad
+  acting drugs and no relation to prognosis.'
+year: '2015'

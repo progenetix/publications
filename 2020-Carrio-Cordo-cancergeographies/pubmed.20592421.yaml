@@ -1,0 +1,28 @@
+authors: "Russnes HG, Vollan HKM, Lingj\xE6rde OC, Krasnitz A, Lundin P, Naume B,\
+  \ S\xF8rlie T, Borgen E, Rye IH, Langer\xF8d A, Chin SF, Teschendorff AE, Stephens\
+  \ PJ, M\xE5n\xE9r S, Schlichting E, Baumbusch LO, K\xE5resen R, Stratton MP, Wigler\
+  \ M, Caldas C, Zetterberg A, Hicks J, B\xF8rresen-Dale AL."
+counts:
+  biosamples: 167.0
+  samples_acgh: 167.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Sci Transl Med 2(38), 2010
+notes: The publication contains a mix of new (167) and previously published samples.
+pmid: '20592421'
+title: Genomic architecture characterizes tumor progression paths and fate in breast
+  cancer patients.
+year: '2010'

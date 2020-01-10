@@ -1,0 +1,26 @@
+authors: Tsukasaki K, Krebs J, Nagai K, Tomonaga M, Koeffler HP, Bartram CR, Jauch
+  A.
+counts:
+  biosamples: 82.0
+  samples_acgh: 0.0
+  samples_ccgh: 82.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: ''
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: Blood 97(12), 2001
+notes: NA
+pmid: '11389029'
+title: 'Comparative genomic hybridization analysis in adult T-cell leukemia/lymphoma:
+  correlation with clinical course.'
+year: '2001'

@@ -1,0 +1,25 @@
+authors: Izumi H, Hara T, Oga A, Matsuda K, Sato Y, Naito K, Sasaki K.
+counts:
+  biosamples: 13.0
+  samples_acgh: 0.0
+  samples_ccgh: 13.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Neoplasia 4(2), 2002
+notes: NA
+pmid: '11896565'
+title: High telomerase activity correlates with the stabilities of genome and DNA
+  ploidy in renal cell carcinoma.
+year: '2002'

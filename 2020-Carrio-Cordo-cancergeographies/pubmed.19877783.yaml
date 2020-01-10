@@ -1,0 +1,26 @@
+authors: "Jeibmann A, Hasselblatt M, Pfister S, Str\xE4ter R, Brentrup A, Holling\
+  \ M, Niederstadt T, Paulus W, Fr\xFChwald MC."
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: J Neurosurg Pediatr 4(5), 2009
+notes: NA
+pmid: '19877783'
+title: 'From glioblastoma to gangliocytoma: an unforeseen but welcome shift in biological
+  behavior.'
+year: '2009'

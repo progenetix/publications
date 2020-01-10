@@ -1,0 +1,25 @@
+authors: Al-Assar O, Ul-Hassan A, Brown R, Wilson GA, Hammond DW, Reilly JT.
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 25.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.47
+    - 53.38
+    type: Point
+  info:
+    city: Sheffield
+    continent: ''
+    country: United Kingdom
+    label: Sheffield, United Kingdom, Europe
+    precision: city
+journal: Br. J. Haematol. 129(1), 2005
+notes: NA
+pmid: '15801957'
+title: 'Gains on 9p are common genomic aberrations in idiopathic myelofibrosis: a
+  comparative genomic hybridization study.'
+year: '2005'

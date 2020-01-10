@@ -1,0 +1,25 @@
+authors: Al-Mulla F, Behbehani AI, Bitar MS, Varadharaj G, Going JJ.
+counts:
+  biosamples: 71.0
+  samples_acgh: 10.0
+  samples_ccgh: 61.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 47.98
+    - 29.37
+    type: Point
+  info:
+    city: Kuwait City
+    continent: ''
+    country: Kuwait
+    label: Kuwait City, Kuwait, Asia
+    precision: city
+journal: Mod. Pathol. 19(5), 2006
+notes: NA
+pmid: '16528379'
+title: Genetic profiling of stage I and II colorectal cancer may predict metastatic
+  relapse.
+year: '2006'

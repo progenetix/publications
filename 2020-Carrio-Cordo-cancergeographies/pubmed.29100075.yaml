@@ -1,0 +1,26 @@
+authors: 'Cancer Genome Atlas Research Network. Electronic address: elizabeth.demicco@sinaihealthsystem.ca,
+  Cancer Genome Atlas Research Network.'
+counts:
+  biosamples: 528.0
+  samples_acgh: 264.0
+  samples_ccgh: 0.0
+  samples_wes: 264.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Cell 171(4), 2017
+notes: Number as from corresponding TCGA study (as date 21/03/2019)
+pmid: '29100075'
+title: Comprehensive and Integrated Genomic Characterization of Adult Soft Tissue
+  Sarcomas.
+year: '2017'

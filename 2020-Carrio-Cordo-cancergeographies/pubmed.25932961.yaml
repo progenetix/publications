@@ -1,0 +1,27 @@
+authors: Croce S, Ribeiro A, Brulard C, Noel JC, Amant F, Stoeckle E, Devouassoux-Shisheborah
+  M, Floquet A, Arnould L, Guyon F, Mishellany F, Garbay D, Cuppens T, Zikan M, Leroux
+  A, Frouin E, Duvillard P, Terrier P, Farre I, Valo I, MacGrogan GM, Chibon F.
+counts:
+  biosamples: 49.0
+  samples_acgh: 49.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: ''
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: Mod. Pathol. 28(7), 2015
+notes: ''
+pmid: '25932961'
+title: 'Uterine smooth muscle tumor analysis by comparative genomic hybridization:
+  a useful diagnostic tool in challenging lesions.'
+year: '2015'

@@ -1,0 +1,26 @@
+authors: "Joos S, Ota\xF1o-Joos MI, Ziegler S, Br\xFCderlein S, du Manoir S, Bentz\
+  \ M, M\xF6ller P, Lichter P."
+counts:
+  biosamples: 26.0
+  samples_acgh: 0.0
+  samples_ccgh: 26.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Blood 87(4), 1996
+notes: NA
+pmid: '8608249'
+title: Primary mediastinal (thymic) B-cell lymphoma is characterized by gains of chromosomal
+  material including 9p and amplification of the REL gene.
+year: '1996'

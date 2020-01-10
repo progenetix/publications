@@ -1,0 +1,26 @@
+authors: Grisanzio C, Seeley A, Chang M, Collins M, Di Napoli A, Cheng SC, Percy A,
+  Beroukhim R, Signoretti S.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: J. Pathol. 225(2), 2011
+notes: NA
+pmid: '21710693'
+title: Orthotopic xenografts of RCC retain histological, immunophenotypic and genetic
+  features of tumours in patients.
+year: '2011'

@@ -1,0 +1,27 @@
+authors: Takeo S, Arai H, Kusano N, Harada T, Furuya T, Kawauchi S, Oga A, Hirano
+  T, Yoshida T, Okita K, Sasaki K.
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 130(2), 2001
+notes: aCGH data was not counted, since the 57 probes on the AmpliOnc I are not considered
+  sufficient for whole genome screening.
+pmid: '11675133'
+title: 'Examination of oncogene amplification by genomic DNA microarray in hepatocellular
+  carcinomas: comparison with comparative genomic hybridization analysis.'
+year: '2001'

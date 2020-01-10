@@ -1,0 +1,26 @@
+authors: Yin D, Ogawa S, Kawamata N, Tunici P, Finocchiaro G, Eoli M, Ruckert C, Huynh
+  T, Liu G, Kato M, Sanada M, Jauch A, Dugas M, Black KL, Koeffler HP.
+counts:
+  biosamples: 61.0
+  samples_acgh: 61.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: ''
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: Mol. Cancer Res. 7(5), 2009
+notes: NA
+pmid: '19435819'
+title: High-resolution genomic copy number profiling of glioblastoma multiforme by
+  single nucleotide polymorphism DNA microarray.
+year: '2009'

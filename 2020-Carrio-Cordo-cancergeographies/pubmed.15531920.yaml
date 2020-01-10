@@ -1,0 +1,26 @@
+authors: Jones AM, Douglas EJ, Halford SE, Fiegler H, Gorman PA, Roylance RR, Carter
+  NP, Tomlinson IP.
+counts:
+  biosamples: 60.0
+  samples_acgh: 60.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Oncogene 24(1), 2005
+notes: NA
+pmid: '15531920'
+title: Array-CGH analysis of microsatellite-stable, near-diploid bowel cancers and
+  comparison with other types of colorectal carcinoma.
+year: '2005'

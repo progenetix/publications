@@ -1,0 +1,26 @@
+authors: Wiltshire RN, Herndon JE, Lloyd A, Friedman HS, Bigner DD, Bigner SH, McLendon
+  RE.
+counts:
+  biosamples: 102.0
+  samples_acgh: 0.0
+  samples_ccgh: 102.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -78.9
+    - 35.99
+    type: Point
+  info:
+    city: Durham
+    continent: ''
+    country: United States
+    label: Durham, United States, North America
+    precision: city
+journal: J Mol Diagn 6(3), 2004
+notes: NA
+pmid: '15269292'
+title: 'Comparative genomic hybridization analysis of astrocytomas: prognostic and
+  diagnostic implications.'
+year: '2004'

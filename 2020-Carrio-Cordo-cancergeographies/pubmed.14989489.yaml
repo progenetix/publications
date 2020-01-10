@@ -1,0 +1,25 @@
+authors: Mattfeldt T, Gottfried HW, Wolter H, Schmidt V, Kestler HA, Mayer J.
+counts:
+  biosamples: 78.0
+  samples_acgh: 0.0
+  samples_ccgh: 78.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Pathol. Res. Pract. 199(12), 2003
+notes: NA
+pmid: '14989489'
+title: Classification of prostatic carcinoma with artificial neural networks using
+  comparative genomic hybridization and quantitative stereological data.
+year: '2003'

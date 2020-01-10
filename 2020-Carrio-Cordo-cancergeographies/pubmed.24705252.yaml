@@ -1,0 +1,26 @@
+authors: Taylor KR, Mackay A, Truffaux N, Butterfield Y, Morozova O, Philippe C, Castel
+  D, Grasso CS, Vinci M, Carvalho D, Carcaboso AM, de Torres C, Cruz O, Mora J, Entz-Werle
+  N, Ingram WJ, Monje M, Hargrave D, Bullock AN, Puget S, Yip S, Jones C, Grill J.
+counts:
+  biosamples: 26.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 6.0
+  samples_wgs: 20.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Nat. Genet. 46(5), 2014
+notes: NA
+pmid: '24705252'
+title: Recurrent activating ACVR1 mutations in diffuse intrinsic pontine glioma.
+year: '2014'

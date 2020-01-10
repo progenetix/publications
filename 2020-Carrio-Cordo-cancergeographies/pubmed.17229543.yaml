@@ -1,0 +1,26 @@
+authors: Yang S, Jeung HC, Jeong HJ, Choi YH, Kim JE, Jung JJ, Rha SY, Yang WI, Chung
+  HC.
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Genomics 89(4), 2007
+notes: Data should be available through ArrayExpress.
+pmid: '17229543'
+title: Identification of genes with correlated patterns of variations in DNA copy
+  number and gene expression level in gastric cancer.
+year: '2007'

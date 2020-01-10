@@ -1,0 +1,26 @@
+authors: Ali RH, Marafie MJ, Bitar MS, Al-Dousari F, Ismael S, Bin Haider H, Al-Ali
+  W, Jacob SP, Al-Mulla F.
+counts:
+  biosamples: 116.0
+  samples_acgh: 116.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 47.98
+    - 29.37
+    type: Point
+  info:
+    city: Kuwait City
+    continent: ''
+    country: Kuwait
+    label: Kuwait City, Kuwait, Asia
+    precision: city
+journal: Int J Mol Sci 15(10), 2014
+notes: NA
+pmid: '25268611'
+title: 'Gender-associated genomic differences in colorectal cancer: clinical insight
+  from feminization of male cancer cells.'
+year: '2014'

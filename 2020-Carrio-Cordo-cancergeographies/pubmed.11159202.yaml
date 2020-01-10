@@ -1,0 +1,24 @@
+authors: Kim YH, Kim NG, Lim JG, Park C, Kim H.
+counts:
+  biosamples: 30.0
+  samples_acgh: 0.0
+  samples_ccgh: 30.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Am. J. Pathol. 158(2), 2001
+notes: NA
+pmid: '11159202'
+title: Chromosomal alterations in paired gastric adenomas and carcinomas.
+year: '2001'

@@ -1,0 +1,27 @@
+authors: Wozniak A, Sciot R, Guillou L, Pauwels P, Wasag B, Stul M, Vermeesch JR,
+  Vandenberghe P, Limon J, Debiec-Rychter M.
+counts:
+  biosamples: 66.0
+  samples_acgh: 66.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.7
+    - 50.88
+    type: Point
+  info:
+    city: Leuven
+    continent: ''
+    country: Belgium
+    label: Leuven, Belgium, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 46(3), 2007
+notes: NA
+pmid: '17171690'
+title: 'Array CGH analysis in primary gastrointestinal stromal tumors: cytogenetic
+  profile correlates with anatomic site and tumor aggressiveness, irrespective of
+  mutational status.'
+year: '2007'

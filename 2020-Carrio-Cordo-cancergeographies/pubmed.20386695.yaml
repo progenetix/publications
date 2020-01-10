@@ -1,0 +1,26 @@
+authors: Ramakrishna M, Williams LH, Boyle SE, Bearfoot JL, Sridhar A, Speed TP, Gorringe
+  KL, Campbell IG.
+counts:
+  biosamples: 72.0
+  samples_acgh: 72.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: ''
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: PLoS ONE 5(4), 2010
+notes: NA
+pmid: '20386695'
+title: Identification of candidate growth promoting genes in ovarian cancer through
+  integrated copy number and expression analysis.
+year: '2010'

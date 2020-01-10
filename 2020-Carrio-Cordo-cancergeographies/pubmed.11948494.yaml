@@ -1,0 +1,26 @@
+authors: "Rieker RJ, Joos S, Bartsch C, Willeke F, Schwarzbach M, Ota\xF1o-Joos M,\
+  \ Ohl S, H\xF6gel J, Lehnert T, Lichter P, Otto HF, Mechtersheimer G."
+counts:
+  biosamples: 23.0
+  samples_acgh: 0.0
+  samples_ccgh: 23.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Int. J. Cancer 99(1), 2002
+notes: NA
+pmid: '11948494'
+title: Distinct chromosomal imbalances in pleomorphic and in high-grade dedifferentiated
+  liposarcomas.
+year: '2002'

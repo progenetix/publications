@@ -1,0 +1,26 @@
+authors: Friedrich K, Weber T, Scheithauer J, Meyer W, Haroske G, Kunze KD, Baretton
+  G.
+counts:
+  biosamples: 126.0
+  samples_acgh: 0.0
+  samples_ccgh: 126.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.74
+    - 51.05
+    type: Point
+  info:
+    city: Dresden
+    continent: ''
+    country: Germany
+    label: Dresden, Germany, Europe
+    precision: city
+journal: Cell. Oncol. 30(1), 2008
+notes: NA
+pmid: '18219109'
+title: 'Chromosomal genotype in breast cancer progression: comparison of primary and
+  secondary manifestations.'
+year: '2008'

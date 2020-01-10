@@ -1,0 +1,26 @@
+authors: Chen S, Fritchie K, Wei S, Ali N, Curless K, Shen T, Brini AT, Latif F, Sumathi
+  V, Siegal GP, Cheng L.
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 14.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -86.16
+    - 39.77
+    type: Point
+  info:
+    city: Indianapolis
+    continent: ''
+    country: United States
+    label: Indianapolis, United States, North America
+    precision: city
+journal: Hum. Pathol. 65, 2017
+notes: According to the text, 27 samples had WES results.
+pmid: '28552826'
+title: Diagnostic utility of IDH1/2 mutations to distinguish dedifferentiated chondrosarcoma
+  from undifferentiated pleomorphic sarcoma of bone.
+year: '2017'

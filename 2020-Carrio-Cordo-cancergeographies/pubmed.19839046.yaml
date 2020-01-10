@@ -1,0 +1,25 @@
+authors: Rennstam K, Ringberg A, Cunliffe HE, Olsson H, Landberg G, Hedenfalk I.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 49(1), 2010
+notes: NA
+pmid: '19839046'
+title: Genomic alterations in histopathologically normal breast tissue from BRCA1
+  mutation carriers may be caused by BRCA1 haploinsufficiency.
+year: '2010'

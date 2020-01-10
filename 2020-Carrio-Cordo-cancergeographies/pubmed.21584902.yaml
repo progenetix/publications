@@ -1,0 +1,26 @@
+authors: Swoboda A, Rasin-Streden D, Schanab O, Okamoto I, Pehamberger H, Petzelbauer
+  P, Mikula M.
+counts:
+  biosamples: 3.0
+  samples_acgh: 3.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.37
+    - 48.21
+    type: Point
+  info:
+    city: Vienna
+    continent: ''
+    country: Austria
+    label: Vienna, Austria, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 50(9), 2011
+notes: NA
+pmid: '21584902'
+title: Identification of genetic disparity between primary and metastatic melanoma
+  in human patients.
+year: '2011'

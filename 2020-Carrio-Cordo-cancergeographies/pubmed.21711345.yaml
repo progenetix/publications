@@ -1,0 +1,26 @@
+authors: "Feito-Rodr\xEDguez M, de Lucas-Laguna R, Bastian BC, Leboit P, Gonz\xE1\
+  lez-Beato MJ, L\xF3pez-Guti\xE9rrez JC, Requena L, Pizarro A."
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: ''
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: Br. J. Dermatol. 165(5), 2011
+notes: NA
+pmid: '21711345'
+title: Nodular lesions arising in a large congenital melanocytic naevus in a newborn
+  with eruptive disseminated Spitz naevi.
+year: '2011'

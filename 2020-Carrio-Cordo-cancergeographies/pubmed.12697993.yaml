@@ -1,0 +1,26 @@
+authors: Weise A, Liehr T, Efferth T, Kuechler A, Gebhart E.
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: ''
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: Cytogenet. Genome Res. 98(2-3), 2002
+notes: The CGH and MFISH data was used to complement the karyotype annotation and
+  is not presented separately.
+pmid: '12697993'
+title: Comparative M-FISH and CGH analyses in sensitive and drug-resistant human T-cell
+  acute leukemia cell lines.
+year: '2002'

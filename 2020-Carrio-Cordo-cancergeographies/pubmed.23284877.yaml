@@ -1,0 +1,27 @@
+authors: "Rouault A, Banneau G, Macgrogan G, Jones N, Elarouci N, Barouk-Simonet E,\
+  \ Venat L, Coupier I, Letouz\xE9 E, de Reyni\xE8s A, Bonnet F, Iggo R, S\xE9venet\
+  \ N, Longy M."
+counts:
+  biosamples: 5.0
+  samples_acgh: 5.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: ''
+    country: France
+    label: null
+    precision: city
+journal: PLoS ONE 7(12), 2012
+notes: 31 samples from 3 patients
+pmid: '23284877'
+title: Deletion of chromosomes 13q and 14q is a common feature of tumors with BRCA2
+  mutations.
+year: '2012'

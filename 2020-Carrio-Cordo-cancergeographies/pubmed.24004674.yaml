@@ -1,0 +1,27 @@
+authors: Etemadmoghadam D, Au-Yeung G, Wall M, Mitchell C, Kansara M, Loehrer E, Batzios
+  C, George J, Ftouni S, Weir BA, Carter S, Gresshoff I, Mileshkin L, Rischin D, Hahn
+  WC, Waring PM, Getz G, Cullinane C, Campbell LJ, Bowtell DD.
+counts:
+  biosamples: 0.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: ''
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: Clin. Cancer Res. 19(21), 2013
+notes: 6 cell lines for SNP microarray analysis
+pmid: '24004674'
+title: Resistance to CDK2 inhibitors is associated with selection of polyploid cells
+  in CCNE1-amplified ovarian cancer.
+year: '2013'

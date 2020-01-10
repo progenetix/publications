@@ -1,0 +1,28 @@
+authors: "Brisse HJ, Blanc T, Schleiermacher G, Mosseri V, Philippe-Chomette P, Janoueix-Lerosey\
+  \ I, Pierron G, Lapouble E, Peuchmaur M, Fr\xE9neaux P, Galmiche L, Algret N, Peycelon\
+  \ M, Michon J, Delattre O, Sarnacki S."
+counts:
+  biosamples: 133.0
+  samples_acgh: 133.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: null
+    precision: city
+journal: PLoS ONE 12(9), 2017
+notes: '4*180K Agilent SurePrint G3 Human whole-genome oligonucleotide arrays (Agilent
+  #G4449A) and targeted sequencing'
+pmid: '28945781'
+title: 'Radiogenomics of neuroblastomas: Relationships between imaging phenotypes,
+  tumor genomic profile and survival.'
+year: '2017'

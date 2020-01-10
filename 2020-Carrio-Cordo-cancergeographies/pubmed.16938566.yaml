@@ -1,0 +1,26 @@
+authors: "Larramendy ML, Kaur S, Svarvar C, B\xF6hling T, Knuutila S."
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 169(2), 2006
+notes: aCGH was performed on pooled DNA samples, using cDNA arrays. No case specific
+  aCGH data was produced.
+pmid: '16938566'
+title: Gene copy number profiling of soft-tissue leiomyosarcomas by array-comparative
+  genomic hybridization.
+year: '2006'

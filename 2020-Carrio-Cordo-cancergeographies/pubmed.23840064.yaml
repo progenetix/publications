@@ -1,0 +1,27 @@
+authors: "Pfeifer M, Grau M, Lenze D, Wenzel SS, Wolf A, Wollert-Wulf B, Dietze K,\
+  \ Nogai H, Storek B, Madle H, D\xF6rken B, Janz M, Dirnhofer S, Lenz P, Hummel M,\
+  \ Tzankov A, Lenz G."
+counts:
+  biosamples: 12.0
+  samples_acgh: 12.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: ''
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 110(30), 2013
+notes: ''
+pmid: '23840064'
+title: PTEN loss defines a PI3K/AKT pathway-dependent germinal center subtype of diffuse
+  large B-cell lymphoma.
+year: '2013'

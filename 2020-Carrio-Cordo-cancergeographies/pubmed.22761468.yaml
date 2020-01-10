@@ -1,0 +1,27 @@
+authors: "Voorham QJ, Carvalho B, Spiertz AJ, van Grieken NC, Mongera S, Rondagh EJ,\
+  \ van de Wiel MA, Jordanova ES, Jordanova ES, Ylstra B, Kliment M, Grabsch H, Rembacken\
+  \ BJ, Arai T, de Bru\xEFne AP, Sanduleanu S, Quirke P, Mulder CJ, van Engeland M,\
+  \ Meijer GA."
+counts:
+  biosamples: 118.0
+  samples_acgh: 118.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Clin. Cancer Res. 18(17), 2012
+notes: NA
+pmid: '22761468'
+title: Chromosome 5q loss in colorectal flat adenomas.
+year: '2012'

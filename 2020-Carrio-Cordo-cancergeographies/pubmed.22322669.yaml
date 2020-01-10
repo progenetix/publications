@@ -1,0 +1,26 @@
+authors: Li CF, Wang JM, Kang HY, Huang CK, Wang JW, Fang FM, Wang YH, Wu WR, Li SH,
+  Yu SC, Lee JC, Lan J, Shiue YL, Wu LC, Huang HY.
+counts:
+  biosamples: 15.0
+  samples_acgh: 15.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 120.31
+    - 22.62
+    type: Point
+  info:
+    city: Kaohsiung
+    continent: ''
+    country: Taiwan
+    label: Kaohsiung, Taiwan, Asia
+    precision: city
+journal: Clin. Cancer Res. 18(6), 2012
+notes: NA
+pmid: '22322669'
+title: 'Characterization of gene amplification-driven SKP2 overexpression in myxofibrosarcoma:
+  potential implications in tumor progression and therapeutics.'
+year: '2012'

@@ -1,0 +1,26 @@
+authors: Chan MW, Hui AB, Yip SK, Ng CF, Lo KW, Tong JH, Chan AW, Cheung HY, Wong
+  WS, Chan PS, Lai FM, To KF.
+counts:
+  biosamples: 21.0
+  samples_acgh: 21.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 120.46
+    - 23.55
+    type: Point
+  info:
+    city: Minxueng
+    continent: ''
+    country: Taiwan
+    label: Minxueng, Taiwan, Asia
+    precision: city
+journal: Int. J. Oncol. 34(4), 2009
+notes: NA
+pmid: '19287953'
+title: Progressive increase of genetic alteration in urinary bladder cancer by combined
+  allelotyping analysis and comparative genomic hybridization.
+year: '2009'

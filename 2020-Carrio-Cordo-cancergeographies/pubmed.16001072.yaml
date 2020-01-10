@@ -1,0 +1,27 @@
+authors: Garraway LA, Widlund HR, Rubin MA, Getz G, Berger AJ, Ramaswamy S, Beroukhim
+  R, Milner DA, Granter SR, Du J, Lee C, Wagner SN, Li C, Golub TR, Rimm DL, Meyerson
+  ML, Fisher DE, Sellers WR.
+counts:
+  biosamples: 58.0
+  samples_acgh: 58.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Nature 436(7047), 2005
+notes: NA
+pmid: '16001072'
+title: Integrative genomic analyses identify MITF as a lineage survival oncogene amplified
+  in malignant melanoma.
+year: '2005'

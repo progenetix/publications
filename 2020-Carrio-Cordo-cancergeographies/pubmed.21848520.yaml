@@ -1,0 +1,26 @@
+authors: "Ripperger T, Tauscher M, Praulich I, Pabst B, Teigler-Schlegel A, Yeoh A,\
+  \ G\xF6hring G, Schlegelberger B, Flotho C, Niemeyer CM, Steinemann D."
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: ''
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: Br. J. Haematol. 155(2), 2011
+notes: NA
+pmid: '21848520'
+title: 'Constitutional trisomy 8p11.21-q11.21 mosaicism: a germline alteration predisposing
+  to myeloid leukaemia.'
+year: '2011'

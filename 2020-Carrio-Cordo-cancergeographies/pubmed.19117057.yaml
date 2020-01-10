@@ -1,0 +1,27 @@
+authors: Kubo T, Yamamoto H, Lockwood WW, Valencia I, Soh J, Peyton M, Jida M, Otani
+  H, Fujii T, Ouchida M, Takigawa N, Kiura K, Shimizu K, Date H, Minna JD, Varella-Garcia
+  M, Lam WL, Gazdar AF, Toyooka S.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 133.92
+    - 34.66
+    type: Point
+  info:
+    city: Okayama
+    continent: ''
+    country: Japan
+    label: Okayama, Japan
+    precision: city
+journal: Int. J. Cancer 124(8), 2009
+notes: NA
+pmid: '19117057'
+title: MET gene amplification or EGFR mutation activate MET in lung cancers untreated
+  with EGFR tyrosine kinase inhibitors.
+year: '2009'

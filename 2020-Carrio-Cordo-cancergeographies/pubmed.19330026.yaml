@@ -1,0 +1,26 @@
+authors: Kwek SS, Roy R, Zhou H, Climent J, Martinez-Climent JA, Fridlyand J, Albertson
+  DG.
+counts:
+  biosamples: 18.0
+  samples_acgh: 18.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Oncogene 28(17), 2009
+notes: NA
+pmid: '19330026'
+title: Co-amplified genes at 8p12 and 11q13 in breast tumors cooperate with two major
+  pathways in oncogenesis.
+year: '2009'

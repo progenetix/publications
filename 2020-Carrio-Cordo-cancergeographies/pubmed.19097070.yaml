@@ -1,0 +1,26 @@
+authors: Chochi Y, Kawauchi S, Nakao M, Furuya T, Hashimoto K, Oga A, Oka M, Sasaki
+  K.
+counts:
+  biosamples: 42.0
+  samples_acgh: 42.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: J. Pathol. 217(5), 2009
+notes: The array data table was available as supplementary information.
+pmid: '19097070'
+title: 'A copy number gain of the 6p arm is linked with advanced hepatocellular carcinoma:
+  an array-based comparative genomic hybridization study.'
+year: '2009'

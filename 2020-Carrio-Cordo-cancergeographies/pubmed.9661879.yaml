@@ -1,0 +1,27 @@
+authors: "Tapper J, Sarantaus L, Vahteristo P, Nevanlinna H, Hemmer S, Sepp\xE4l\xE4\
+  \ M, Knuutila S, Butzow R."
+counts:
+  biosamples: 40.0
+  samples_acgh: 0.0
+  samples_ccgh: 40.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Cancer Res. 58(13), 1998
+notes: NA
+pmid: '9661879'
+title: 'Genetic changes in inherited and sporadic ovarian carcinomas by comparative
+  genomic hybridization: extensive similarity except for a difference at chromosome
+  2q24-q32.'
+year: '1998'

@@ -1,0 +1,25 @@
+authors: Platzer P, Upender MB, Wilson K, Willis J, Lutterbaugh J, Nosrati A, Willson
+  JK, Mack D, Ried T, Markowitz S.
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -84.88
+    - 35.16
+    type: Point
+  info:
+    city: Cleveland
+    continent: ''
+    country: United States
+    label: Cleveland, United States, North America
+    precision: city
+journal: Cancer Res. 62(4), 2002
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: '11861394'
+title: Silence of chromosomal amplifications in colon cancer.
+year: '2002'

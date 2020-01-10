@@ -1,0 +1,26 @@
+authors: "Gunawan B, von Heydebreck A, Sander B, Schulten HJ, Haller F, Langer C,\
+  \ Armbrust T, Bollmann M, Gasparov S, Kovac D, F\xFCzesi L."
+counts:
+  biosamples: 203.0
+  samples_acgh: 0.0
+  samples_ccgh: 203.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: ''
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: J. Pathol. 211(4), 2007
+notes: NA
+pmid: '17226762'
+title: An oncogenetic tree model in gastrointestinal stromal tumours (GISTs) identifies
+  different pathways of cytogenetic evolution with prognostic implications.
+year: '2007'

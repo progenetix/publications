@@ -1,0 +1,25 @@
+authors: Monni O, Oinonen R, Elonen E, Franssila K, Teerenhovi L, Joensuu H, Knuutila
+  S.
+counts:
+  biosamples: 34.0
+  samples_acgh: 0.0
+  samples_ccgh: 34.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 21(4), 1998
+notes: NA
+pmid: '9559341'
+title: Gain of 3q and deletion of 11q22 are frequent aberrations in mantle cell lymphoma.
+year: '1998'

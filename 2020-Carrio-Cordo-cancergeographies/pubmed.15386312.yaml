@@ -1,0 +1,26 @@
+authors: Teixeira MR, Ribeiro FR, Eknaes M, Waehre H, Stenwig AE, Giercksky KE, Heim
+  S, Lothe RA.
+counts:
+  biosamples: 33.0
+  samples_acgh: 0.0
+  samples_ccgh: 33.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -8.61
+    - 41.15
+    type: Point
+  info:
+    city: Porto
+    continent: ''
+    country: Portugal
+    label: Porto, Portugal, Europe
+    precision: city
+journal: Cancer 101(8), 2004
+notes: NA
+pmid: '15386312'
+title: Genomic analysis of prostate carcinoma specimens obtained via ultrasound-guided
+  needle biopsy may be of use in preoperative decision-making.
+year: '2004'

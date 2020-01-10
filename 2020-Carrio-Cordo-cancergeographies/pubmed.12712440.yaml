@@ -1,0 +1,26 @@
+authors: Penzel R, Hoegel J, Schmitz W, Blaeker H, Morresi-Hauf A, Aulmann S, Hecker
+  E, Mechtersheimer G, Otto HF, Rieker RJ.
+counts:
+  biosamples: 28.0
+  samples_acgh: 0.0
+  samples_ccgh: 28.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Int. J. Cancer 105(4), 2003
+notes: NA
+pmid: '12712440'
+title: Clusters of chromosomal imbalances in thymic epithelial tumours are associated
+  with the WHO classification and the staging system according to Masaoka.
+year: '2003'

@@ -1,0 +1,26 @@
+authors: Kanayama  H, Lui WO, Takahashi M, Naroda T, Kedra D, Wong FK, Kuroki Y, Nakahori
+  Y, Larsson C, Kagawa S, Teh BT.
+counts:
+  biosamples: 6.0
+  samples_acgh: 0.0
+  samples_ccgh: 6.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 134.55
+    - 34.07
+    type: Point
+  info:
+    city: Tokushima
+    continent: ''
+    country: Japan
+    label: Tokushima, Japan
+    precision: city
+journal: J. Med. Genet. 38(3), 2001
+notes: NA
+pmid: '11238683'
+title: Association of a novel constitutional translocation t(1q;3q) with familial
+  renal cell carcinoma.
+year: '2001'

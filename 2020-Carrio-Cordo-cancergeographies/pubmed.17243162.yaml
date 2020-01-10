@@ -1,0 +1,27 @@
+authors: "Meyer S, Fergusson WD, Whetton AD, Moreira-Leite F, Pepper SD, Miller C,\
+  \ Saunders EK, White DJ, Will AM, Eden T, Ikeda H, Ullmann R, Tuerkmen S, Gerlach\
+  \ A, Klopocki E, T\xF6nnies H."
+counts:
+  biosamples: 6.0
+  samples_acgh: 3.0
+  samples_ccgh: 3.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -2.24
+    - 53.48
+    type: Point
+  info:
+    city: Manchester
+    continent: ''
+    country: United Kingdom
+    label: Manchester, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 46(4), 2007
+notes: NA
+pmid: '17243162'
+title: Amplification and translocation of 3q26 with overexpression of EVI1 in Fanconi
+  anemia-derived childhood acute myeloid leukemia with biallelic FANCD1/BRCA2 disruption.
+year: '2007'

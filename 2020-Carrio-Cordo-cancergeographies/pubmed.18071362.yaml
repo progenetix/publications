@@ -1,0 +1,26 @@
+authors: "Hallor KH, Staaf J, J\xF6nsson G, Heidenblad M, Vult von Steyern F, Bauer\
+  \ HC, Ijszenga M, Hogendoorn PC, Mandahl N, Szuhai K, Mertens F."
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Br. J. Cancer 98(2), 2008
+notes: NA
+pmid: '18071362'
+title: 'Frequent deletion of the CDKN2A locus in chordoma: analysis of chromosomal
+  imbalances using array comparative genomic hybridisation.'
+year: '2008'

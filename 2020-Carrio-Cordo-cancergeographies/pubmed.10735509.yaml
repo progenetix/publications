@@ -1,0 +1,24 @@
+authors: Sanoudou D, Tingby O, Ferguson-Smith MA, Collins VP, Coleman N.
+counts:
+  biosamples: 51.0
+  samples_acgh: 0.0
+  samples_ccgh: 51.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ''
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city
+journal: Br. J. Cancer 82(6), 2000
+notes: NA
+pmid: '10735509'
+title: Analysis of pilocytic astrocytoma by comparative genomic hybridization.
+year: '2000'

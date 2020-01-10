@@ -1,0 +1,26 @@
+authors: "Lilljebj\xF6rn H, Soneson C, Andersson A, Heldrup J, Behrendtz M, Kawamata\
+  \ N, Ogawa S, Koeffler HP, Mitelman F, Johansson B, Fontes M, Fioretos T."
+counts:
+  biosamples: 23.0
+  samples_acgh: 23.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Hum. Mol. Genet. 19(16), 2010
+notes: NA
+pmid: '20513752'
+title: The correlation pattern of acquired copy number changes in 164 ETV6/RUNX1-positive
+  childhood acute lymphoblastic leukemias.
+year: '2010'

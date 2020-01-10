@@ -1,0 +1,25 @@
+authors: Karlsson E, Danielsson A, Delle U, Olsson B, Karlsson P, Helou K.
+counts:
+  biosamples: 64.0
+  samples_acgh: 0.0
+  samples_ccgh: 64.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: ''
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 172(2), 2007
+notes: NA
+pmid: '17213022'
+title: Chromosomal changes associated with clinical outcome in lymph node-negative
+  breast cancer.
+year: '2007'

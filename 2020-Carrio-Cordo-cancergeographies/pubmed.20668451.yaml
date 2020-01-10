@@ -1,0 +1,28 @@
+authors: Kan Z, Jaiswal BS, Stinson J, Janakiraman V, Bhatt D, Stern HM, Yue P, Haverty
+  PM, Bourgon R, Zheng J, Moorhead M, Chaudhuri S, Tomsho LP, Peters BA, Pujara K,
+  Cordes S, Davis DP, Carlton VE, Yuan W, Li L, Wang W, Eigenbrot C, Kaminker JS,
+  Eberhard DA, Waring P, Schuster SC, Modrusan Z, Zhang Z, Stokoe D, de Sauvage FJ,
+  Faham M, Seshagiri S.
+counts:
+  biosamples: 373.0
+  samples_acgh: 373.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.41
+    - 37.65
+    type: Point
+  info:
+    city: South San Francisco
+    continent: ''
+    country: United States
+    label: South San Francisco, United States, North America
+    precision: city
+journal: Nature 466(7308), 2010
+notes: NA
+pmid: '20668451'
+title: Diverse somatic mutation patterns and pathway alterations in human cancers.
+year: '2010'

@@ -1,0 +1,26 @@
+authors: Brinkschmidt C, Christiansen H, Terpe HJ, Simon R, Boecker W, Lampert F,
+  Stoerkel S.
+counts:
+  biosamples: 35.0
+  samples_acgh: 0.0
+  samples_ccgh: 35.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: J. Pathol. 181(4), 1997
+notes: NA
+pmid: '9196436'
+title: Comparative genomic hybridization (CGH) analysis of neuroblastomas--an important
+  methodological approach in paediatric tumour pathology.
+year: '1997'

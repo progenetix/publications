@@ -1,0 +1,25 @@
+authors: Sunpaweravong P, Thu KL, Lam WL, Mai S.
+counts:
+  biosamples: 27.0
+  samples_acgh: 27.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -97.15
+    - 49.88
+    type: Point
+  info:
+    city: Winnipeg
+    continent: ''
+    country: Canada
+    label: Winnipeg, Canada, North America
+    precision: city
+journal: J. Cancer Res. Clin. Oncol. 142(4), 2016
+notes: ''
+pmid: '26621152'
+title: Assessment of the clinical relevance of 17q25.3 copy number and three-dimensional
+  telomere organization in non-small lung cancer patients.
+year: '2016'

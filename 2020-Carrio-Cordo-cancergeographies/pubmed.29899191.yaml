@@ -1,0 +1,27 @@
+authors: Hatakeyama K, Nagashima T, Urakami K, Ohshima K, Serizawa M, Ohnami S, Shimoda
+  Y, Ohnami S, Maruyama K, Naruoka A, Akiyama Y, Kusuhara M, Mochizuki T, Yamaguchi
+  K.
+counts:
+  biosamples: 2040.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 2040.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 138.38
+    - 34.98
+    type: Point
+  info:
+    city: Shizuoka-shi
+    continent: ''
+    country: Japan
+    label: null
+    precision: city
+journal: Biomed. Res. 39(3), 2018
+notes: No PDF available yet
+pmid: '29899191'
+title: Tumor mutational burden analysis of 2,000 Japanese cancer genomes using whole
+  exome and targeted gene panel sequencing.
+year: '2018'

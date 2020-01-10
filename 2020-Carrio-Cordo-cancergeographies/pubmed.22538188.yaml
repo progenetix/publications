@@ -1,0 +1,26 @@
+authors: Nagaishi M, Kim YH, Mittelbronn M, Giangaspero F, Paulus W, Brokinkel B,
+  Vital A, Tanaka Y, Nakazato Y, Legras-Lachuer C, Lachuer J, Ohgaki H.
+counts:
+  biosamples: 13.0
+  samples_acgh: 13.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.85
+    - 45.75
+    type: Point
+  info:
+    city: Lyon
+    continent: ''
+    country: France
+    label: Lyon, France, Europe
+    precision: city
+journal: Am. J. Pathol. 180(5), 2012
+notes: NA
+pmid: '22538188'
+title: Amplification of the STOML3, FREM2, and LHFP genes is associated with mesenchymal
+  differentiation in gliosarcoma.
+year: '2012'

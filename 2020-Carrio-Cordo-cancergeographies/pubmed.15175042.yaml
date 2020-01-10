@@ -1,0 +1,26 @@
+authors: Hallermann C, Kaune KM, Siebert R, Vermeer MH, Tensen CP, Willemze R, Gunawan
+  B, Bertsch HP, Neumann C.
+counts:
+  biosamples: 26.0
+  samples_acgh: 0.0
+  samples_ccgh: 26.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: ''
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: J. Invest. Dermatol. 122(6), 2004
+notes: NA
+pmid: '15175042'
+title: Chromosomal aberration patterns differ in subtypes of primary cutaneous B cell
+  lymphomas.
+year: '2004'

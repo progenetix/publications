@@ -1,0 +1,28 @@
+authors: Villanueva J, Infante JR, Krepler C, Reyes-Uribe P, Samanta M, Chen HY, Li
+  B, Swoboda RK, Wilson M, Vultur A, Fukunaba-Kalabis M, Wubbenhorst B, Chen TY, Liu
+  Q, Sproesser K, DeMarini DJ, Gilmer TM, Martin AM, Marmorstein R, Schultz DC, Speicher
+  DW, Karakousis GC, Xu W, Amaravadi RK, Xu X, Schuchter LM, Herlyn M, Nathanson KL.
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: ''
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: Cell Rep 4(6), 2013
+notes: ''
+pmid: '24055054'
+title: Concurrent MEK2 mutation and BRAF amplification confer resistance to BRAF and
+  MEK inhibitors in melanoma.
+year: '2013'

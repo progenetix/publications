@@ -1,0 +1,30 @@
+authors: Baca SC, Prandi D, Lawrence MS, Mosquera JM, Romanel A, Romanel A, Drier
+  Y, Park K, Kitabayashi N, MacDonald TY, Ghandi M, Van Allen E, Kryukov GV, Sboner
+  A, Theurillat JP, Soong TD, Nickerson E, Auclair D, Tewari A, Beltran H, Onofrio
+  RC, Boysen G, Guiducci C, Barbieri CE, Cibulskis K, Sivachenko A, Carter SL, Saksena
+  G, Voet D, Ramos AH, Winckler W, Cipicchio M, Ardlie K, Kantoff PW, Berger MF, Gabriel
+  SB, Golub TR, Meyerson M, Lander ES, Elemento O, Getz G, Demichelis F, Rubin MA,
+  Garraway LA.
+counts:
+  biosamples: 112.0
+  samples_acgh: 55.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 57.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Cell 153(3), 2013
+notes: ''
+pmid: '23622249'
+title: Punctuated evolution of prostate cancer genomes.
+year: '2013'

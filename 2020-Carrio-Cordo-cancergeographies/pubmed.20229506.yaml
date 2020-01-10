@@ -1,0 +1,26 @@
+authors: Ahmed AA, Etemadmoghadam D, Temple J, Lynch AG, Riad M, Sharma R, Stewart
+  C, Fereday S, Caldas C, Defazio A, Bowtell D, Brenton JD.
+counts:
+  biosamples: 7.0
+  samples_acgh: 7.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ''
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city
+journal: J. Pathol. 221(1), 2010
+notes: NA
+pmid: '20229506'
+title: Driver mutations in TP53 are ubiquitous in high grade serous carcinoma of the
+  ovary.
+year: '2010'

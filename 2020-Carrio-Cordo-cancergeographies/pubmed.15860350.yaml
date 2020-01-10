@@ -1,0 +1,25 @@
+authors: Strefford JC, Stasevich I, Lane TM, Lu YJ, Oliver T, Young BD.
+counts:
+  biosamples: 38.0
+  samples_acgh: 19.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 159(1), 2005
+notes: NA
+pmid: '15860350'
+title: A combination of molecular cytogenetic analyses reveals complex genetic alterations
+  in conventional renal cell carcinoma.
+year: '2005'

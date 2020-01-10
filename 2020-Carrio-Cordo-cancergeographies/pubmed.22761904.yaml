@@ -1,0 +1,26 @@
+authors: Ying J, Shan L, Li J, Zhong L, Xue L, Zhao H, Li L, Langford C, Guo L, Qiu
+  T, Lu N, Tao Q.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: ''
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: PLoS ONE 7(6), 2012
+notes: NA
+pmid: '22761904'
+title: Genome-wide screening for genetic alterations in esophageal cancer by aCGH
+  identifies 11q13 amplification oncogenes associated with nodal metastasis.
+year: '2012'

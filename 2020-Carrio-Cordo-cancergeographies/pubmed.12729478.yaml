@@ -1,0 +1,24 @@
+authors: Miura D, Wada N, Chin K, Magrane GG, Wong M, Duh QY, Clark OH.
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Thyroid 13(3), 2003
+notes: NA
+pmid: '12729478'
+title: 'Anaplastic thyroid cancer: cytogenetic patterns by comparative genomic hybridization.'
+year: '2003'

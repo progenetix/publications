@@ -1,0 +1,27 @@
+authors: "Jarosov\xE1 M, Papaj\xEDk T, Holzerov\xE1 M, Dusek L, Pikalov\xE1 Z, Lakom\xE1\
+  \ I, Raida L, Faber E, Divok\xE1 M, Vlachov\xE1 S, Prekopov\xE1 I, Novosadov\xE1\
+  \ A, Posp\xEDsilov\xE1 H, Indr\xE1k K."
+counts:
+  biosamples: 30.0
+  samples_acgh: 0.0
+  samples_ccgh: 30.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.25
+    - 49.6
+    type: Point
+  info:
+    city: Olomouc
+    continent: ''
+    country: Czech Republic
+    label: Olomouc, Czech Republic, Europe
+    precision: city
+journal: Leuk. Lymphoma 45(9), 2004
+notes: NA
+pmid: '15223644'
+title: High incidence of unbalanced chromosomal changes in mantle cell lymphoma detected
+  by comparative genomic hybridization.
+year: '2004'

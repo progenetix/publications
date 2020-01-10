@@ -1,0 +1,25 @@
+authors: Lin YW, Sheu JC, Huang GT, Lee HS, Chen CH, Wang JT, Lee PH, Lu FJ.
+counts:
+  biosamples: 44.0
+  samples_acgh: 0.0
+  samples_ccgh: 44.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.45
+    - 25.03
+    type: Point
+  info:
+    city: Daan District
+    continent: ''
+    country: Taiwan
+    label: Daan District, Taiwan, 25.03
+    precision: city
+journal: Eur. J. Cancer 35(4), 1999
+notes: NA
+pmid: '10492642'
+title: Chromosomal abnormality in hepatocellular carcinoma by comparative genomic
+  hybridisation in Taiwan.
+year: '1999'

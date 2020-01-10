@@ -1,0 +1,26 @@
+authors: Lillington DM, Goff LK, Kingston JE, Onadim Z, Price E, Domizio P, Young
+  BD.
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 25.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Br. J. Cancer 87(7), 2002
+notes: NA
+pmid: '12232763'
+title: High level amplification of N-MYC is not associated with adverse histology
+  or outcome in primary retinoblastoma tumours.
+year: '2002'

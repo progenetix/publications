@@ -1,0 +1,26 @@
+authors: "Blasius S, Brinkschmidt C, Poremba C, Terpe HJ, Halm H, Schleef J, Ritter\
+  \ J, W\xF6rtler K, B\xF6cker W, Dockhorn-Dworniczak B."
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: Pathol. Res. Pract. 194(6), 1998
+notes: NA
+pmid: '9689653'
+title: Metastatic retroperitoneal paraganglioma in a 16-year-old girl. Case report,
+  molecular pathological and cytogenetic findings.
+year: '1998'

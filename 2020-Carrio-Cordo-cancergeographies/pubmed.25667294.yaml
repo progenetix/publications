@@ -1,0 +1,29 @@
+authors: Mistry M, Zhukova N, Merico D, Rakopoulos P, Krishnatry R, Shago M, Stavropoulos
+  J, Alon N, Pole JD, Ray PN, Navickiene V, Mangerel J, Remke M, Buczkowicz P, Ramaswamy
+  V, Guerreiro Stucklin A, Li M, Young EJ, Zhang C, Castelo-Branco P, Bakry D, Laughlin
+  S, Shlien A, Chan J, Ligon KL, Rutka JT, Dirks PB, Taylor MD, Greenberg M, Malkin
+  D, Huang A, Bouffet E, Hawkins CE, Tabori U.
+counts:
+  biosamples: 18.0
+  samples_acgh: 9.0
+  samples_ccgh: 0.0
+  samples_wes: 9.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: J. Clin. Oncol. 33(9), 2015
+notes: ''
+pmid: '25667294'
+title: BRAF mutation and CDKN2A deletion define a clinically distinct subgroup of
+  childhood secondary high-grade glioma.
+year: '2015'

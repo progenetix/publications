@@ -1,0 +1,26 @@
+authors: "Fei SS, Mitchell AD, Heskett MB, Vocke CD, Ricketts CJ, Peto M, Wang NJ,\
+  \ S\xF6nmez K, Linehan WM, Spellman PT."
+counts:
+  biosamples: 40.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 40.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -97.32
+    - 27.88
+    type: Point
+  info:
+    city: Portland
+    continent: ''
+    country: United States
+    label: Portland, United States, North America
+    precision: city
+journal: Nat Commun 7, 2016
+notes: ''
+pmid: '27174753'
+title: Patient-specific factors influence somatic variation patterns in von Hippel-Lindau
+  disease renal tumours.
+year: '2016'

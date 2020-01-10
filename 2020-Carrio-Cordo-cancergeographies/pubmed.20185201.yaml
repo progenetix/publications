@@ -1,0 +1,25 @@
+authors: Jung SH, Yim SH, Hu HJ, Jung CK, Lee SH, Kim DH, Chung YJ.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Lung Cancer 70(2), 2010
+notes: NA
+pmid: '20185201'
+title: Copy number alterations and expression profiles of candidate genes in a pulmonary
+  inflammatory myofibroblastic tumor.
+year: '2010'

@@ -1,0 +1,26 @@
+authors: Lee HJ, Choi J, Kim KR.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Int. J. Gynecol. Pathol. 27(3), 2008
+notes: NA
+pmid: '18580311'
+title: 'Pulmonary benign metastasizing leiomyoma associated with intravenous leiomyomatosis
+  of the uterus: clinical behavior and genomic changes supporting a transportation
+  theory.'
+year: '2008'

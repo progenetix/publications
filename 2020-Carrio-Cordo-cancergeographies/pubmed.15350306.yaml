@@ -1,0 +1,28 @@
+authors: Lim G, Karaskova J, Vukovic B, Bayani J, Beheshti B, Bernardini M, Squire
+  JA, Zielenska M.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 153(2), 2004
+notes: NA
+pmid: '15350306'
+title: Combined spectral karyotyping, multicolor banding, and microarray comparative
+  genomic hybridization analysis provides a detailed characterization of complex structural
+  chromosomal rearrangements associated with gene amplification in the osteosarcoma
+  cell line MG-63.
+year: '2004'

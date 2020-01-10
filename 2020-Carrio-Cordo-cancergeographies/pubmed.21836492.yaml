@@ -1,0 +1,25 @@
+authors: Jalas JR, Vemula S, Bezrookove V, Leboit PE, Simko JP, Bastian BC.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Am. J. Surg. Pathol. 35(9), 2011
+notes: NA
+pmid: '21836492'
+title: Metastatic melanoma with striking adenocarcinomatous differentiation illustrating
+  phenotypic plasticity in melanoma.
+year: '2011'

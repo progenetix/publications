@@ -1,0 +1,26 @@
+authors: "Baumhoer D, Glatz K, Schulten HJ, F\xFCzesi L, Fricker R, Kettelhack C,\
+  \ Hasenboehler P, Oberholzer M, Jundt G."
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: ''
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: Virchows Arch. 451(5), 2007
+notes: NA
+pmid: '17694321'
+title: 'Myxoinflammatory fibroblastic sarcoma: investigations by comparative genomic
+  hybridization of two cases and review of the literature.'
+year: '2007'

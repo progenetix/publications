@@ -1,0 +1,29 @@
+authors: Yoshihara K, Tsunoda T, Shigemizu D, Fujiwara H, Hatae M, Fujiwara H, Masuzaki
+  H, Katabuchi H, Kawakami Y, Okamoto A, Nogawa T, Matsumura N, Udagawa Y, Saito T,
+  Itamochi H, Takano M, Miyagi E, Sudo T, Ushijima K, Iwase H, Seki H, Terao Y, Enomoto
+  T, Mikami M, Akazawa K, Tsuda H, Moriya T, Tajima A, Inoue I, Tanaka K, Japanese
+  Serous Ovarian Cancer Study Group.
+counts:
+  biosamples: 300.0
+  samples_acgh: 300.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.02
+    - 37.9
+    type: Point
+  info:
+    city: Niigata-shi
+    continent: ''
+    country: Japan
+    label: Niigata-shi, Japan, Asia
+    precision: city
+journal: Clin. Cancer Res. 18(5), 2012
+notes: NA
+pmid: '22241791'
+title: High-risk ovarian cancer based on 126-gene expression signature is uniquely
+  characterized by downregulation of antigen presentation pathway.
+year: '2012'

@@ -1,0 +1,26 @@
+authors: Fitzgibbon J, Iqbal S, Davies A, O'shea D, Carlotti E, Chaplin T, Matthews
+  J, Raghavan M, Norton A, Lister TA, Young BD.
+counts:
+  biosamples: 55.0
+  samples_acgh: 55.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Leukemia 21(7), 2007
+notes: NA
+pmid: '17495976'
+title: Genome-wide detection of recurring sites of uniparental disomy in follicular
+  and transformed follicular lymphoma.
+year: '2007'

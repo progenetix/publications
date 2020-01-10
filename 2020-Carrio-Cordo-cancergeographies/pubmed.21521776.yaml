@@ -1,0 +1,26 @@
+authors: "Bro\xEBt P, Dalmasso C, Tan EH, Alifano M, Zhang S, Wu J, Lee MH, R\xE9\
+  gnard JF, Lim D, Koong HN, Agasthian T, Miller LD, Lim E, Camilleri-Bro\xEBt S,\
+  \ Tan P."
+counts:
+  biosamples: 226.0
+  samples_acgh: 226.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: ''
+    country: Singapore
+    label: Singapore, Singapore, Asia
+    precision: city
+journal: Clin. Cancer Res. 17(11), 2011
+notes: NA
+pmid: '21521776'
+title: Genomic profiles specific to patient ethnicity in lung adenocarcinoma.
+year: '2011'

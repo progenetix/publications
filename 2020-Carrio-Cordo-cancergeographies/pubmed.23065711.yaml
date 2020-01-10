@@ -1,0 +1,26 @@
+authors: Kikuchi A, Ishikawa T, Mogushi K, Ishiguro M, Iida S, Mizushima H, Uetake
+  H, Tanaka H, Sugihara K.
+counts:
+  biosamples: 122.0
+  samples_acgh: 122.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Int. J. Cancer 132(10), 2013
+notes: NA
+pmid: '23065711'
+title: Identification of NUCKS1 as a colorectal cancer prognostic marker through integrated
+  expression and copy number analysis.
+year: '2013'

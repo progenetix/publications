@@ -1,0 +1,26 @@
+authors: "Staaf J, Isaksson S, Karlsson A, J\xF6nsson M, Johansson L, J\xF6nsson P,\
+  \ Botling J, Micke P, Baldetorp B, Planck M."
+counts:
+  biosamples: 78.0
+  samples_acgh: 78.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Int. J. Cancer 132(9), 2013
+notes: ''
+pmid: '23023297'
+title: Landscape of somatic allelic imbalances and copy number alterations in human
+  lung carcinoma.
+year: '2013'

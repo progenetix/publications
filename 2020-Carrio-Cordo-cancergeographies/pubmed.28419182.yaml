@@ -1,0 +1,26 @@
+authors: "P\xE9cuchet N, Vieira T, Rabbe N, Antoine M, Blons H, Cadranel J, Laurent-Puig\
+  \ P, Wislez M."
+counts:
+  biosamples: 15.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 15.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.0
+    - 0.0
+    type: Point
+  info:
+    city: null
+    continent: ''
+    country: null
+    label: null
+    precision: null
+journal: Ann. Oncol. 28(7), 2017
+notes: According to the text, 27 samples had WES results.
+pmid: '28419182'
+title: Molecular classification of pulmonary sarcomatoid carcinomas suggests new therapeutic
+  opportunities.
+year: '2017'

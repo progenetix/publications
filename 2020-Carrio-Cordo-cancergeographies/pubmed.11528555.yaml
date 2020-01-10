@@ -1,0 +1,25 @@
+authors: "Schneider DT, Schuster AE, Fritsch MK, Calaminus G, Harms D, G\xF6bel U,\
+  \ Perlman EJ."
+counts:
+  biosamples: 51.0
+  samples_acgh: 0.0
+  samples_ccgh: 51.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.78
+    - 51.22
+    type: Point
+  info:
+    city: Dusseldorf
+    continent: ''
+    country: Germany
+    label: Dusseldorf, Germany, Europe
+    precision: city
+journal: Klin Padiatr 213(4), 2001
+notes: NA
+pmid: '11528555'
+title: Genetic analysis of childhood germ cell tumors with comparative genomic hybridization.
+year: '2001'

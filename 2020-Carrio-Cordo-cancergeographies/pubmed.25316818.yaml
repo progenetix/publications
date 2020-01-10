@@ -1,0 +1,29 @@
+authors: Emmanuel C, Chiew YE, George J, Etemadmoghadam D, Anglesio MS, Sharma R,
+  Russell P, Kennedy C, Fereday S, Hung J, Galletta L, Hogg R, Wain GV, Brand A, Balleine
+  R, MacConaill L, Palescandolo E, Hunter SM, Campbell I, Dobrovic A, Wong SQ, Do
+  H, Clarke CL, Harnett PR, Bowtell DD, deFazio A, Australian Ovarian Cancer Study
+  (AOCS).
+counts:
+  biosamples: 0.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 151.21
+    - -33.87
+    type: Point
+  info:
+    city: Sydney
+    continent: ''
+    country: Australia
+    label: Sydney, Australia, Australia
+    precision: city
+journal: Clin. Cancer Res. 20(24), 2014
+notes: Genome variation profiling by SNP array - 14 samples
+pmid: '25316818'
+title: Genomic classification of serous ovarian cancer with adjacent borderline differentiates
+  RAS pathway and TP53-mutant tumors and identifies NRAS as an oncogenic driver.
+year: '2014'

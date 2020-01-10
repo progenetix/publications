@@ -1,0 +1,26 @@
+authors: Bidinotto LT, Torrieri R, Mackay A, Almeida GC, Viana-Pereira M, Cruvinel-Carloni
+  A, Spina ML, Campanella NC, Pereira de Menezes W, Clara CA, Becker AP, Jones C,
+  Reis RM.
+counts:
+  biosamples: 65.0
+  samples_acgh: 65.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -48.57
+    - -20.56
+    type: Point
+  info:
+    city: Barretos
+    continent: ''
+    country: Brazil
+    label: Barretos, Brazil, South America
+    precision: city
+journal: G3 (Bethesda) 6(7), 2016
+notes: ''
+pmid: '27172220'
+title: Copy Number Profiling of Brazilian Astrocytomas.
+year: '2016'

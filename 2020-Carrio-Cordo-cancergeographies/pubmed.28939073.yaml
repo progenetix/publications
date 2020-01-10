@@ -1,0 +1,26 @@
+authors: Padhi SS, Roy S, Kar M, Saha A, Roy S, Adhya A, Baisakh M, Banerjee B.
+counts:
+  biosamples: 104.0
+  samples_acgh: 104.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 85.83
+    - 20.27
+    type: Point
+  info:
+    city: Bhubaneshwar
+    continent: ''
+    country: India
+    label: null
+    precision: city
+journal: Oral Oncol. 73, 2017
+notes: The exact number of samples analysed by aCGH is not clear from the article's
+  text.
+pmid: '28939073'
+title: Role of CDKN2A/p16 expression in the prognostication of oral squamous cell
+  carcinoma.
+year: '2017'

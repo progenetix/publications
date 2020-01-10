@@ -1,0 +1,25 @@
+authors: Baderca F, Chiticariu E, Baudis M, Solovan C.
+counts:
+  biosamples: 0.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.0
+    - 0.0
+    type: Point
+  info:
+    city: null
+    continent: ''
+    country: null
+    label: null
+    precision: null
+journal: Rom J Morphol Embryol 55(3 Suppl), 2014
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: '25607389'
+title: 'Biopsying parapsoriasis: quo vadis? Are morphological stains enough or are
+  ancillary tests needed?'
+year: '2014'

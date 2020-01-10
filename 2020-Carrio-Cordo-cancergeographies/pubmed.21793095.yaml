@@ -1,0 +1,27 @@
+authors: Wang X, Asmann YW, Erickson-Johnson MR, Oliveira JL, Zhang H, Moura RD, Lazar
+  AJ, Lev D, Bill K, Lloyd RV, Yaszemski MJ, Maran A, Oliveira AM.
+counts:
+  biosamples: 43.0
+  samples_acgh: 43.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: ''
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 50(11), 2011
+notes: NA
+pmid: '21793095'
+title: High-resolution genomic mapping reveals consistent amplification of the fibroblast
+  growth factor receptor substrate 2 gene in well-differentiated and dedifferentiated
+  liposarcoma.
+year: '2011'

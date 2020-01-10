@@ -1,0 +1,26 @@
+authors: Zuiverloon TC, Abas CS, van der Keur KA, Vermeij M, Tjin SS, van Tilborg
+  AG, Busstra M, Zwarthoff EC.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ''
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city
+journal: BMC Urol 10, 2010
+notes: NA
+pmid: '20187926'
+title: 'In-depth investigation of the molecular pathogenesis of bladder cancer in
+  a unique 26-year old patient with extensive multifocal disease: a case report.'
+year: '2010'

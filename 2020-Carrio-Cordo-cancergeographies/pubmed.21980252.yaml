@@ -1,0 +1,25 @@
+authors: Dawson AJ, Yanofsky R, Vallente R, Bal S, Schroedter I, Liang L, Mai S.
+counts:
+  biosamples: 9.0
+  samples_acgh: 9.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -97.15
+    - 49.88
+    type: Point
+  info:
+    city: Winnipeg
+    continent: ''
+    country: Canada
+    label: Winnipeg, Canada, North America
+    precision: city
+journal: Curr Oncol 18(5), 2011
+notes: NA
+pmid: '21980252'
+title: Array comparative genomic hybridization and cytogenetic analysis in pediatric
+  acute leukemias.
+year: '2011'

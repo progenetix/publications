@@ -1,0 +1,26 @@
+authors: "Tarkkanen M, Elomaa I, Blomqvist C, Kivioja AH, Kellokumpu-Lehtinen P, B\xF6\
+  hling T, Valle J, Knuutila S."
+counts:
+  biosamples: 23.0
+  samples_acgh: 0.0
+  samples_ccgh: 23.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Int. J. Cancer 84(2), 1999
+notes: NA
+pmid: '10096241'
+title: 'DNA sequence copy number increase at 8q: a potential new prognostic marker
+  in high-grade osteosarcoma.'
+year: '1999'

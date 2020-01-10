@@ -1,0 +1,25 @@
+authors: Dahlback HS, Brandal P, Krossnes BK, Fric R, Meling TR, Meza-Zepeda LA, Danielsen
+  HE, Heim S.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Hum. Pathol. 42(12), 2011
+notes: NA
+pmid: '21683982'
+title: Multiple chromosomal monosomies are characteristic of giant cell ependymoma.
+year: '2011'

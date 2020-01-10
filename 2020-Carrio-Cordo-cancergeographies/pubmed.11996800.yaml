@@ -1,0 +1,25 @@
+authors: Yin XL, Hui AB, Pang JC, Poon WS, Ng HK.
+counts:
+  biosamples: 5.0
+  samples_acgh: 0.0
+  samples_ccgh: 5.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 134(1), 2002
+notes: NA
+pmid: '11996800'
+title: Genome-wide survey for chromosomal imbalances in ganglioglioma using comparative
+  genomic hybridization.
+year: '2002'

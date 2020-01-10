@@ -1,0 +1,27 @@
+authors: Iwakawa R, Kohno T, Totoki Y, Shibata T, Tsuchihara K, Mimaki S, Tsuta K,
+  Narita Y, Nishikawa R, Noguchi M, Harris CC, Robles AI, Yamaguchi R, Imoto S, Miyano
+  S, Totsuka H, Yoshida T, Yokota J.
+counts:
+  biosamples: 44.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 44.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Carcinogenesis 36(6), 2015
+notes: ''
+pmid: '25863124'
+title: Expression and clinical significance of genes frequently mutated in small cell
+  lung cancers defined by whole exome/RNA sequencing.
+year: '2015'

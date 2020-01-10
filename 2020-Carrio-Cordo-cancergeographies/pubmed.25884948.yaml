@@ -1,0 +1,25 @@
+authors: Gao H, Wang F, Lan X, Li C, Feng J, Bai J, Cao L, Gui S, Hong L, Zhang Y.
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 12.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: ''
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: BMC Cancer 15, 2015
+notes: ''
+pmid: '25884948'
+title: Lower PRDM2 expression is associated with dopamine-agonist resistance and tumor
+  recurrence in prolactinomas.
+year: '2015'

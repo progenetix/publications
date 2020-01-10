@@ -1,0 +1,27 @@
+authors: Hicks DG, Yoder BJ, Short S, Tarr S, Prescott N, Crowe JP, Dawson AE, Budd
+  GT, Sizemore S, Cicek M, Choueiri TK, Tubbs RR, Gaile D, Nowak N, Accavitti-Loper
+  MA, Frost AR, Welch DR, Casey G.
+counts:
+  biosamples: 47.0
+  samples_acgh: 47.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -84.88
+    - 35.16
+    type: Point
+  info:
+    city: Cleveland
+    continent: ''
+    country: United States
+    label: Cleveland, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 12(22), 2006
+notes: NA
+pmid: '17121889'
+title: Loss of breast cancer metastasis suppressor 1 protein expression predicts reduced
+  disease-free survival in subsets of breast cancer patients.
+year: '2006'

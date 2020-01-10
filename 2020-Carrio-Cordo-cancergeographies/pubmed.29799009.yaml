@@ -1,0 +1,27 @@
+authors: Wang C, Yin R, Dai J, Gu Y, Cui S, Ma H, Zhang Z, Huang J, Qin N, Jiang T,
+  Geng L, Zhu M, Pu Z, Du F, Wang Y, Yang J, Chen L, Wang Q, Jiang Y, Dong L, Yao
+  Y, Jin G, Hu Z, Jiang L, Xu L, Shen H.
+counts:
+  biosamples: 149.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 57.0
+  samples_wgs: 92.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 118.78
+    - 32.06
+    type: Point
+  info:
+    city: Nanjing
+    continent: ''
+    country: China
+    label: null
+    precision: city
+journal: Nat Commun 9(1), 2018
+notes: No PDF available yet
+pmid: '29799009'
+title: Whole-genome sequencing reveals genomic signatures associated with the inflammatory
+  microenvironments in Chinese NSCLC patients.
+year: '2018'

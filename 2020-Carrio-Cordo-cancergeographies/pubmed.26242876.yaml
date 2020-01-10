@@ -1,0 +1,27 @@
+authors: "Alkner S, Tang MH, Brueffer C, Dahlgren M, Chen Y, Olsson E, Winter C, Baker\
+  \ S, Ehinger A, Ryd\xE9n L, Saal LH, Fern\xF6 M, Gruvberger-Saal SK."
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 20.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Breast Cancer Res. 17, 2015
+notes: ''
+pmid: '26242876'
+title: 'Contralateral breast cancer can represent a metastatic spread of the first
+  primary tumor: determination of clonal relationship between contralateral breast
+  cancers using next-generation whole genome sequencing.'
+year: '2015'

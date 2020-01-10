@@ -1,0 +1,25 @@
+authors: "Varis A, van Rees B, Weterman M, Ristim\xE4ki A, Offerhaus J, Knuutila S."
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 25.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Br. J. Cancer 88(12), 2003
+notes: NA
+pmid: '12799636'
+title: DNA copy number changes in young gastric cancer patients with special reference
+  to chromosome 19.
+year: '2003'

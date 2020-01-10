@@ -1,0 +1,27 @@
+authors: "Larramendy ML, Mandahl N, Mertens F, Blomqvist C, Kivioja AH, Karaharju\
+  \ E, Valle J, B\xF6hling T, Tarkkanen M, Rydholm A, Akerman M, Bauer HC, Anttila\
+  \ JP, Elomaa I, Knuutila S."
+counts:
+  biosamples: 50.0
+  samples_acgh: 0.0
+  samples_ccgh: 50.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Hum. Pathol. 30(10), 1999
+notes: NA
+pmid: '10534175'
+title: Clinical significance of genetic imbalances revealed by comparative genomic
+  hybridization in chondrosarcomas.
+year: '1999'

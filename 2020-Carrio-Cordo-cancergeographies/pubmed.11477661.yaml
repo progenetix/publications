@@ -1,0 +1,27 @@
+authors: Stocks SC, Pratt N, Sales M, Johnston DA, Thompson AM, Carey FA, Kernohan
+  NM.
+counts:
+  biosamples: 48.0
+  samples_acgh: 0.0
+  samples_ccgh: 48.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -2.9699999999999998
+    - 56.47
+    type: Point
+  info:
+    city: Dundee
+    continent: ''
+    country: United Kingdom
+    label: Dundee, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 32(1), 2001
+notes: NA
+pmid: '11477661'
+title: 'Chromosomal imbalances in gastric and esophageal adenocarcinoma: specific
+  comparative genomic hybridization-detected abnormalities segregate with junctional
+  adenocarcinomas.'
+year: '2001'

@@ -1,0 +1,26 @@
+authors: "Habermann JK, Hellman K, Freitag S, Heselmeyer-Haddad K, Hellstr\xF6m AC,\
+  \ Shah K, Auer G, Ried T."
+counts:
+  biosamples: 16.0
+  samples_acgh: 0.0
+  samples_ccgh: 16.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 148(1), 2004
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: '14697635'
+title: A recurrent gain of chromosome arm 3q in primary squamous carcinoma of the
+  vagina.
+year: '2004'

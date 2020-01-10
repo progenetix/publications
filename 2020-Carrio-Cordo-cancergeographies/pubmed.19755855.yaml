@@ -1,0 +1,27 @@
+authors: Ramos AH, Dutt A, Mermel C, Perner S, Cho J, Lafargue CJ, Johnson LA, Stiedl
+  AC, Tanaka KE, Bass AJ, Barretina J, Weir BA, Beroukhim R, Thomas RK, Minna JD,
+  Chirieac LR, Lindeman NI, Giordano T, Beer DG, Wagner P, Wistuba II, Rubin MA, Meyerson
+  M.
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.11
+    - 42.38
+    type: Point
+  info:
+    city: Cambridge
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Cancer Biol. Ther. 8(21), 2009
+notes: Samples from 55 Italian and 36 German patients were processed by aCGH.
+pmid: '19755855'
+title: Amplification of chromosomal segment 4q12 in non-small cell lung cancer.
+year: '2009'

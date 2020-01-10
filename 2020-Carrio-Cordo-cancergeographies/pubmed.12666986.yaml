@@ -1,0 +1,25 @@
+authors: van Dekken H, Wink J, Alers JC, de Man RA, IJzermans JN, Zondervan PE.
+counts:
+  biosamples: 7.0
+  samples_acgh: 0.0
+  samples_ccgh: 7.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ''
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city
+journal: Acta Histochem. 105(1), 2003
+notes: NA
+pmid: '12666986'
+title: 'Genetic evaluation of the dysplasia-carcinoma sequence in chronic viral liver
+  disease: a detailed analysis of two cases and a review of the literature.'
+year: '2003'

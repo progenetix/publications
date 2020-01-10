@@ -1,0 +1,26 @@
+authors: Furuta K, Arao T, Sakai K, Kimura H, Nagai T, Tamura D, Aomatsu K, Kudo K,
+  Kaneda H, Fujita Y, Matsumoto K, Yamada Y, Yanagihara K, Sekijima M, Nishio K.
+counts:
+  biosamples: 22.0
+  samples_acgh: 22.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.5
+    - 34.69
+    type: Point
+  info:
+    city: Osaka-shi
+    continent: ''
+    country: Japan
+    label: Osaka-shi, Japan, Asia
+    precision: city
+journal: Cancer Sci. 103(2), 2012
+notes: NA
+pmid: '22034905'
+title: Integrated analysis of whole genome exon array and array-comparative genomic
+  hybridization in gastric and colorectal cancer cells.
+year: '2012'

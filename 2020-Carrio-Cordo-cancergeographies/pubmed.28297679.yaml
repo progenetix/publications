@@ -1,0 +1,31 @@
+authors: Farshidfar F, Zheng S, Gingras MC, Newton Y, Shih J, Robertson AG, Hinoue
+  T, Hoadley KA, Gibb EA, Roszik J, Covington KR, Wu CC, Shinbrot E, Stransky N, Hegde
+  A, Yang JD, Reznik E, Sadeghi S, Pedamallu CS, Ojesina AI, Hess JM, Auman JT, Rhie
+  SK, Bowlby R, Borad MJ, Cancer Genome Atlas Network, Zhu AX, Stuart JM, Sander C,
+  Akbani R, Cherniack AD, Deshpande V, Mounajjed T, Foo WC, Torbenson MS, Kleiner
+  DE, Laird PW, Wheeler DA, McRee AJ, Bathe OF, Andersen JB, Bardeesy N, Roberts LR,
+  Kwong LN.
+counts:
+  biosamples: 72.0
+  samples_acgh: 36.0
+  samples_ccgh: 0.0
+  samples_wes: 36.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Cell Rep 18(11), 2017
+notes: "Number as from corresponding TCGA study (as date 21/03/2019)\r\n"
+pmid: '28297679'
+title: Integrative Genomic Analysis of Cholangiocarcinoma Identifies Distinct IDH-Mutant
+  Molecular Profiles.
+year: '2017'

@@ -1,0 +1,26 @@
+authors: Cheung KJ, Shah SP, Steidl C, Johnson N, Relander T, Telenius A, Lai B, Murphy
+  KP, Lam W, Al-Tourah AJ, Connors JM, Ng RT, Gascoyne RD, Horsman DE.
+counts:
+  biosamples: 106.0
+  samples_acgh: 106.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: Blood 113(1), 2009
+notes: data deposited in GEO, accession number GSE12393
+pmid: '18703704'
+title: Genome-wide profiling of follicular lymphoma by array comparative genomic hybridization
+  reveals prognostically significant DNA copy number imbalances.
+year: '2009'

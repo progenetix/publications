@@ -1,0 +1,26 @@
+authors: Stokke T, DeAngelis P, Smedshammer L, Galteland E, Steen HB, Smeland EB,
+  Delabie J, Holte H.
+counts:
+  biosamples: 94.0
+  samples_acgh: 0.0
+  samples_ccgh: 94.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Br. J. Cancer 85(12), 2001
+notes: NA
+pmid: '11747333'
+title: Loss of chromosome 11q21-23.1 and 17p and gain of chromosome 6p are independent
+  prognostic indicators in B-cell non-Hodgkin's lymphoma.
+year: '2001'

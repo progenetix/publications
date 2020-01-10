@@ -1,0 +1,30 @@
+authors: Northcott PA, Nakahara Y, Wu X, Feuk L, Ellison DW, Croul S, Mack S, Kongkham
+  PN, Peacock J, Dubuc A, Ra YS, Zilberberg K, McLeod J, Scherer SW, Sunil Rao J,
+  Eberhart CG, Grajkowska W, Gillespie Y, Lach B, Grundy R, Pollack IF, Hamilton RL,
+  Van Meter T, Carlotti CG, Boop F, Bigner D, Gilbertson RJ, Rutka JT, Taylor MD.
+counts:
+  biosamples: 212.0
+  samples_acgh: 212.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Nat. Genet. 41(4), 2009
+notes: So far, all arrays have been included (aroma.affymetrix processing of CEL files,
+  fusion of 2 arrays per case). Some may have to be removed after establishing QC.
+  Also, clinical data have to be looked for.
+pmid: '19270706'
+title: Multiple recurrent genetic events converge on control of histone lysine methylation
+  in medulloblastoma.
+year: '2009'

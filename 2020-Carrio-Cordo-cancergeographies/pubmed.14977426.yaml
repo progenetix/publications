@@ -1,0 +1,26 @@
+authors: Diep CB, Teixeira MR, Thorstensen L, Wiig JN, Eknaes M, Nesland JM, Giercksky
+  KE, Johansson B, Lothe RA.
+counts:
+  biosamples: 56.0
+  samples_acgh: 0.0
+  samples_ccgh: 56.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Mol. Cancer 3, 2004
+notes: Data alreadu published in Diep et al. - PMID 12508247 - was omitted.
+pmid: '14977426'
+title: Genome characteristics of primary carcinomas, local recurrences, carcinomatoses,
+  and liver metastases from colorectal cancer patients.
+year: '2004'

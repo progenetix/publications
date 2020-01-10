@@ -1,0 +1,26 @@
+authors: "Bergamaschi A, Kim YH, Wang P, S\xF8rlie T, Hernandez-Boussard T, Lonning\
+  \ PE, Tibshirani R, B\xF8rresen-Dale AL, Pollack JR."
+counts:
+  biosamples: 89.0
+  samples_acgh: 89.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 45(11), 2006
+notes: Raw data may be available through Stanfords SMD.
+pmid: '16897746'
+title: Distinct patterns of DNA copy number alteration are associated with different
+  clinicopathological features and gene-expression subtypes of breast cancer.
+year: '2006'

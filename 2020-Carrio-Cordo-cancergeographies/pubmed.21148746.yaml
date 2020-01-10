@@ -1,0 +1,26 @@
+authors: Iwakawa R, Kohno T, Kato M, Shiraishi K, Tsuta K, Noguchi M, Ogawa S, Yokota
+  J.
+counts:
+  biosamples: 105.0
+  samples_acgh: 105.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Clin. Cancer Res. 17(6), 2011
+notes: NA
+pmid: '21148746'
+title: MYC amplification as a prognostic marker of early-stage lung adenocarcinoma
+  identified by whole genome copy number analysis.
+year: '2011'

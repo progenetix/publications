@@ -1,0 +1,26 @@
+authors: Serio G, Scattone A, Gentile M, Nazzaro P, Pennella A, Buonadonna AL, Pollice
+  L, Musti M.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.86
+    - 41.11
+    type: Point
+  info:
+    city: Bari
+    continent: ''
+    country: Italy
+    label: Bari, Italy, Europe
+    precision: city
+journal: Histopathology 45(6), 2004
+notes: NA
+pmid: '15569059'
+title: 'Familial pleural mesothelioma with environmental asbestos exposure: losses
+  of DNA sequences by comparative genomic hybridization (CGH).'
+year: '2004'

@@ -1,0 +1,25 @@
+authors: Wharton SB, Wardle C, Ironside JW, Wallace WH, Royds JA, Hammond DW.
+counts:
+  biosamples: 3.0
+  samples_acgh: 0.0
+  samples_ccgh: 3.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.47
+    - 53.38
+    type: Point
+  info:
+    city: Sheffield
+    continent: ''
+    country: United Kingdom
+    label: Sheffield, United Kingdom, Europe
+    precision: city
+journal: Neuropathol. Appl. Neurobiol. 29(3), 2003
+notes: NA
+pmid: '12787322'
+title: Comparative genomic hybridization and pathological findings in atypical teratoid/rhabdoid
+  tumour of the central nervous system.
+year: '2003'

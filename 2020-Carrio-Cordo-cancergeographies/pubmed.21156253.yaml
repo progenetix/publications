@@ -1,0 +1,25 @@
+authors: Uchida K, Oga A, Mano T, Nagatsuka H, Ueyama Y, Sasaki K.
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 4.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 203(2), 2010
+notes: NA
+pmid: '21156253'
+title: 'Screening for DNA copy number aberrations in mucinous adenocarcinoma arising
+  from the minor salivary gland: two case reports.'
+year: '2010'

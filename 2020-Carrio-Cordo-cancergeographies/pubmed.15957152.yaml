@@ -1,0 +1,26 @@
+authors: Reis-Filho JS, Simpson PT, Jones C, Steele D, Mackay A, Iravani M, Fenwick
+  K, Valgeirsson H, Lambros M, Ashworth A, Palacios J, Schmitt F, Lakhani SR.
+counts:
+  biosamples: 5.0
+  samples_acgh: 2.0
+  samples_ccgh: 3.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: J. Pathol. 207(1), 2005
+notes: For the CGH data, changes were annotated only arm specific.
+pmid: '15957152'
+title: 'Pleomorphic lobular carcinoma of the breast: role of comprehensive molecular
+  pathology in characterization of an entity.'
+year: '2005'

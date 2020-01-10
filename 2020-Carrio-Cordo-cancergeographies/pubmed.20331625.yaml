@@ -1,0 +1,26 @@
+authors: Tada M, Kanai F, Tanaka Y, Sanada M, Nannya Y, Tateishi K, Ohta M, Asaoka
+  Y, Seto M, Imazeki F, Yoshida H, Ogawa S, Yokosuka O, Omata M.
+counts:
+  biosamples: 34.0
+  samples_acgh: 34.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Cancer Sci. 101(5), 2010
+notes: NA
+pmid: '20331625'
+title: Prognostic significance of genetic alterations detected by high-density single
+  nucleotide polymorphism array in gastric cancer.
+year: '2010'

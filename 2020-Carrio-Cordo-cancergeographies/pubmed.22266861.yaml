@@ -1,0 +1,26 @@
+authors: Archibald KM, Kulbe H, Kwong J, Chakravarty P, Temple J, Chaplin T, Flak
+  MB, McNeish IA, Deen S, Brenton JD, Young BD, Balkwill F.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Oncogene 31(48), 2012
+notes: NA
+pmid: '22266861'
+title: Sequential genetic change at the TP53 and chemokine receptor CXCR4 locus during
+  transformation of human ovarian surface epithelium.
+year: '2012'

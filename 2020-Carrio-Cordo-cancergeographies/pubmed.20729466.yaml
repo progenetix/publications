@@ -1,0 +1,26 @@
+authors: Parkin B, Erba H, Ouillette P, Roulston D, Purkayastha A, Karp J, Talpaz
+  M, Kujawski L, Shakhan S, Li C, Shedden K, Malek SN.
+counts:
+  biosamples: 226.0
+  samples_acgh: 226.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.74
+    - 42.28
+    type: Point
+  info:
+    city: Ann Arbor
+    continent: ''
+    country: United States
+    label: Ann Arbor, United States, North America
+    precision: city
+journal: Blood 116(23), 2010
+notes: NA
+pmid: '20729466'
+title: Acquired genomic copy number aberrations and survival in adult acute myelogenous
+  leukemia.
+year: '2010'

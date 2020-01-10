@@ -1,0 +1,28 @@
+authors: Meyniel JP, Cottu PH, Decraene C, Stern MH, Couturier J, Lebigot I, Nicolas
+  A, Weber N, Fourchotte V, Alran S, Rapinat A, Gentien D, Roman-Roman S, Mignot L,
+  Sastre-Garau X.
+counts:
+  biosamples: 32.0
+  samples_acgh: 32.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: BMC Cancer 10, 2010
+notes: NA
+pmid: '20492709'
+title: A genomic and transcriptomic approach for a differential diagnosis between
+  primary and secondary ovarian carcinomas in patients with a previous history of
+  breast cancer.
+year: '2010'

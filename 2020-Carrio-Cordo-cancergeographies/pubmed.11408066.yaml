@@ -1,0 +1,26 @@
+authors: Varis A, Puolakkainen P, Savolainen H, Kokkola A, Salo J, Nieminen O, Nordling
+  S, Knuutila S.
+counts:
+  biosamples: 18.0
+  samples_acgh: 0.0
+  samples_ccgh: 18.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 127(1), 2001
+notes: NA
+pmid: '11408066'
+title: 'DNA copy number profiling in esophageal Barrett adenocarcinoma: comparison
+  with gastric adenocarcinoma and esophageal squamous cell carcinoma.'
+year: '2001'

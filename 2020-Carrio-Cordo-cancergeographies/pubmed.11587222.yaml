@@ -1,0 +1,26 @@
+authors: Renedo M, Martinez-Delgado B, Arranz E, Garcia M, Urioste M, Martinez-Ramirez
+  A, Rivas C, Cigudosa JC, Benitez I.
+counts:
+  biosamples: 37.0
+  samples_acgh: 0.0
+  samples_ccgh: 37.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: ''
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: Leukemia 15(10), 2001
+notes: NA
+pmid: '11587222'
+title: Chromosomal changes pattern and gene amplification in T cell non-Hodgkin's
+  lymphomas.
+year: '2001'

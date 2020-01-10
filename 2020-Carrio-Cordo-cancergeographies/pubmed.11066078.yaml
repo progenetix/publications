@@ -1,0 +1,25 @@
+authors: "Paunu N, Sallinen SL, Karhu R, Miettinen H, Sallinen P, Kononen J, Laippala\
+  \ P, Simola KO, Hel\xE9n P, Haapasalo H."
+counts:
+  biosamples: 21.0
+  samples_acgh: 0.0
+  samples_ccgh: 21.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: ''
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 29(4), 2000
+notes: NA
+pmid: '11066078'
+title: Chromosome imbalances in familial gliomas detected by comparative genomic hybridization.
+year: '2000'

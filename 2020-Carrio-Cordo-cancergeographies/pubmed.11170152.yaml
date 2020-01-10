@@ -1,0 +1,25 @@
+authors: "R\xF6kman A, Koivisto PA, Matikainen MP, Kuukasj\xE4rvi T, Poutiainen M,\
+  \ Helin HJ, Karhu R, Kallioniemi OP, Schleutker J."
+counts:
+  biosamples: 21.0
+  samples_acgh: 0.0
+  samples_ccgh: 21.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: ''
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: Prostate 46(3), 2001
+notes: NA
+pmid: '11170152'
+title: Genetic changes in familial prostate cancer by comparative genomic hybridization.
+year: '2001'

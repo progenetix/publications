@@ -1,0 +1,26 @@
+authors: Guerra F, Kurelac I, Magini P, Cormio A, Santini D, Ceccarelli C, Gasparre
+  G.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.34
+    - 44.49
+    type: Point
+  info:
+    city: Bologna
+    continent: ''
+    country: Italy
+    label: Bologna, Italy, Europe
+    precision: city
+journal: Gynecol. Oncol. 122(2), 2011
+notes: NA
+pmid: '21592547'
+title: Mitochondrial DNA genotyping reveals synchronous nature of simultaneously detected
+  endometrial and ovarian cancers.
+year: '2011'

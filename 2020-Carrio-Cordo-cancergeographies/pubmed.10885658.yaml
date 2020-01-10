@@ -1,0 +1,25 @@
+authors: "Petersen I, Hidalgo A, Petersen S, Schl\xFCns K, Schewe C, Pacyna-Gengelbach\
+  \ M, Goeze A, Krebber B, Kn\xF6sel T, Kaufmann O, Szymas J, von Deimling A."
+counts:
+  biosamples: 45.0
+  samples_acgh: 0.0
+  samples_ccgh: 45.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: ''
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: Brain Pathol. 10(3), 2000
+notes: NA
+pmid: '10885658'
+title: Chromosomal imbalances in brain metastases of solid tumors.
+year: '2000'

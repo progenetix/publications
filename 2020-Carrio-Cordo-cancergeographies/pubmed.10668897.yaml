@@ -1,0 +1,27 @@
+authors: "Weber T, Weber RG, Kaulich K, Actor B, Meyer-Puttlitz B, Lampel S, B\xFC\
+  schges R, Weigel R, Deckert-Schl\xFCter M, Schmiedek P, Reifenberger G, Lichter\
+  \ P."
+counts:
+  biosamples: 19.0
+  samples_acgh: 0.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Brain Pathol. 10(1), 2000
+notes: NA
+pmid: '10668897'
+title: Characteristic chromosomal imbalances in primary central nervous system lymphomas
+  of the diffuse large B-cell type.
+year: '2000'

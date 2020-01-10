@@ -1,0 +1,24 @@
+authors: Saito S, Ghosh M, Morita K, Hirano T, Miwa M, Todoroki T.
+counts:
+  biosamples: 12.0
+  samples_acgh: 12.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.1
+    - 36.2
+    type: Point
+  info:
+    city: Tsukuba
+    continent: ''
+    country: Japan
+    label: Tsukuba, Japan, Asia
+    precision: city
+journal: Oncol. Rep. 16(5), 2006
+notes: NA
+pmid: '17016576'
+title: The genetic differences between gallbladder and bile duct cancer cell lines.
+year: '2006'

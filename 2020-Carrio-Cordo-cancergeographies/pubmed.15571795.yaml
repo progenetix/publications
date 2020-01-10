@@ -1,0 +1,26 @@
+authors: Tsuda H, Birrer MJ, Ito YM, Ohashi Y, Lin M, Lee C, Wong WH, Rao PH, Lau
+  CC, Berkowitz RS, Wong KK, Mok SC.
+counts:
+  biosamples: 22.0
+  samples_acgh: 11.0
+  samples_ccgh: 11.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 155(2), 2004
+notes: NA
+pmid: '15571795'
+title: Identification of DNA copy number changes in microdissected serous ovarian
+  cancer tissue using a cDNA microarray platform.
+year: '2004'

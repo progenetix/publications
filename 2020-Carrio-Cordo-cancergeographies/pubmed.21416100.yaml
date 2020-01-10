@@ -1,0 +1,26 @@
+authors: Nabavizadeh N, Klifa C, Newitt D, Lu Y, Chen YY, Hsu H, Fisher C, Tokayasu
+  T, Olshen AB, Spellman P, Gray JW, Hylton N, Park CC.
+counts:
+  biosamples: 3.0
+  samples_acgh: 3.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Integr Biol (Camb) 3(4), 2011
+notes: NA
+pmid: '21416100'
+title: Topographic enhancement mapping of the cancer-associated breast stroma using
+  breast MRI.
+year: '2011'

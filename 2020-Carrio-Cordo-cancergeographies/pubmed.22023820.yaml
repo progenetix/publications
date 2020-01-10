@@ -1,0 +1,26 @@
+authors: "Rasmussen M, Sundstr\xF6m M, G\xF6ransson Kultima H, Botling J, Micke P,\
+  \ Birgisson H, Glimelius B, Isaksson A."
+counts:
+  biosamples: 84.0
+  samples_acgh: 84.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.64
+    - 59.86
+    type: Point
+  info:
+    city: Uppsala
+    continent: ''
+    country: Sweden
+    label: Uppsala, Sweden, Europe
+    precision: city
+journal: Genome Biol. 12(10), 2011
+notes: NA
+pmid: '22023820'
+title: Allele-specific copy number analysis of tumor samples with aneuploidy and tumor
+  heterogeneity.
+year: '2011'

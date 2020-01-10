@@ -1,0 +1,25 @@
+authors: Kim WS, Honma K, Karnan S, Tagawa H, Kim YD, Oh YL, Seto M, Ko YH.
+counts:
+  biosamples: 46.0
+  samples_acgh: 46.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Genes Chromosomes Cancer 46(8), 2007
+notes: NA
+pmid: '17492759'
+title: 'Genome-wide array-based comparative genomic hybridization of ocular marginal
+  zone B cell lymphoma: comparison with pulmonary and nodal marginal zone B cell lymphoma.'
+year: '2007'

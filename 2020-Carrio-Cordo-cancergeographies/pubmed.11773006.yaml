@@ -1,0 +1,24 @@
+authors: "Ness GO, Lybaek H, Arnes J, R\xF8dahl E."
+counts:
+  biosamples: 18.0
+  samples_acgh: 0.0
+  samples_ccgh: 18.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.32
+    - 60.39
+    type: Point
+  info:
+    city: Bergen
+    continent: ''
+    country: Norway
+    label: Bergen, Norway, Europe
+    precision: city
+journal: Invest. Ophthalmol. Vis. Sci. 43(1), 2002
+notes: NA
+pmid: '11773006'
+title: Chromosomal imbalances in lymphoid tumors of the orbit.
+year: '2002'

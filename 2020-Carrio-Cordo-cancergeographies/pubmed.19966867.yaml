@@ -1,0 +1,26 @@
+authors: Kim YH, Kwei KA, Girard L, Salari K, Kao J, Pacyna-Gengelbach M, Wang P,
+  Hernandez-Boussard T, Gazdar AF, Petersen I, Minna JD, Pollack JR.
+counts:
+  biosamples: 128.0
+  samples_acgh: 128.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.17
+    - 37.43
+    type: Point
+  info:
+    city: Stanford
+    continent: ''
+    country: United States
+    label: Stanford, United States, North America
+    precision: city
+journal: Oncogene 29(10), 2010
+notes: NA
+pmid: '19966867'
+title: Genomic and functional analysis identifies CRKL as an oncogene amplified in
+  lung cancer.
+year: '2010'

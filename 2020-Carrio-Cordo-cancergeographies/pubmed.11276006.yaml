@@ -1,0 +1,25 @@
+authors: Wilkens L, Bredt M, Flemming P, Becker T, Klempnauer J, Kreipe HH.
+counts:
+  biosamples: 16.0
+  samples_acgh: 0.0
+  samples_ccgh: 16.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: ''
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: J. Pathol. 193(4), 2001
+notes: NA
+pmid: '11276006'
+title: Differentiation of liver cell adenomas from well-differentiated hepatocellular
+  carcinomas by comparative genomic hybridization.
+year: '2001'

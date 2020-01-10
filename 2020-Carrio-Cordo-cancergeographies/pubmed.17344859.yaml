@@ -1,0 +1,26 @@
+authors: Mullighan CG, Goorha S, Radtke I, Miller CB, Coustan-Smith E, Dalton JD,
+  Girtman K, Mathew S, Ma J, Pounds SB, Su X, Pui CH, Relling MV, Evans WE, Shurtleff
+  SA, Downing JR.
+counts:
+  biosamples: 242.0
+  samples_acgh: 242.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: ''
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: Nature 446(7137), 2007
+notes: NA
+pmid: '17344859'
+title: Genome-wide analysis of genetic alterations in acute lymphoblastic leukaemia.
+year: '2007'

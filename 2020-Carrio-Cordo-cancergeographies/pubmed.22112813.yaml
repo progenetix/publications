@@ -1,0 +1,27 @@
+authors: "Barreau O, de Reynies A, Wilmot-Roussel H, Guillaud-Bataille M, Auzan C,\
+  \ Ren\xE9-Corail F, Tissier F, Dousset B, Bertagna X, Bertherat J, Clauser E, Assi\xE9\
+  \ G."
+counts:
+  biosamples: 59.0
+  samples_acgh: 59.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: J. Clin. Endocrinol. Metab. 97(2), 2012
+notes: NA
+pmid: '22112813'
+title: 'Clinical and pathophysiological implications of chromosomal alterations in
+  adrenocortical tumors: an integrated genomic approach.'
+year: '2012'

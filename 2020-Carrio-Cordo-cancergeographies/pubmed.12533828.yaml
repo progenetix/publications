@@ -1,0 +1,27 @@
+authors: Weiss MM, Kuipers EJ, Hermsen MA, van Grieken NC, Offerhaus J, Baak JP, Meuwissen
+  SG, Meijer GA.
+counts:
+  biosamples: 54.0
+  samples_acgh: 0.0
+  samples_ccgh: 54.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: J. Pathol. 199(2), 2003
+notes: NA
+pmid: '12533828'
+title: Barrett's adenocarcinomas resemble adenocarcinomas of the gastric cardia in
+  terms of chromosomal copy number changes, but relate to squamous cell carcinomas
+  of the distal oesophagus with respect to the presence of high-level amplifications.
+year: '2003'

@@ -1,0 +1,27 @@
+authors: Beroukhim R, Brunet JP, Di Napoli A, Mertz KD, Seeley A, Pires MM, Linhart
+  D, Worrell RA, Moch H, Rubin MA, Sellers WR, Meyerson M, Linehan WM, Kaelin WG,
+  Signoretti S.
+counts:
+  biosamples: 111.0
+  samples_acgh: 111.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Cancer Res. 69(11), 2009
+notes: NA
+pmid: '19470766'
+title: Patterns of gene expression and copy-number alterations in von-hippel lindau
+  disease-associated and sporadic clear cell carcinoma of the kidney.
+year: '2009'

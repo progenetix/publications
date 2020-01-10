@@ -1,0 +1,26 @@
+authors: Scaruffi P, Coco S, Cifuentes F, Albino D, Nair M, Defferrari R, Mazzocco
+  K, Tonini GP.
+counts:
+  biosamples: 17.0
+  samples_acgh: 17.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: ''
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 177(1), 2007
+notes: NA
+pmid: '17693187'
+title: Identification and characterization of DNA imbalances in neuroblastoma by high-resolution
+  oligonucleotide array comparative genomic hybridization.
+year: '2007'

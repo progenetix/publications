@@ -1,0 +1,27 @@
+authors: O'Toole SA, Dunn E, Sheppard BL, Klocker H, Bektic J, Smyth P, Martin C,
+  Sheils O, O'Leary JJ.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -6.25
+    - 53.33
+    type: Point
+  info:
+    city: Dublin
+    continent: ''
+    country: Ireland
+    label: Dublin, Ireland, Europe
+    precision: city
+journal: Int. J. Gynecol. Cancer 16(2), 2006
+notes: aCGH was performed with the AmpliOnc I array (Vysis). This is not considered
+  for inclusion into the data base, due to the low probe number.
+pmid: '16681770'
+title: Genome-wide analysis of deoxyribonucleic acid in endometrial cancer using comparative
+  genomic hybridization microarrays.
+year: '2006'

@@ -1,0 +1,26 @@
+authors: Setoodeh R, Schwartz S, Papenhausen P, Zhang L, Sagatys EM, Moscinski LC,
+  Shao H.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -82.46
+    - 27.95
+    type: Point
+  info:
+    city: Tampa
+    continent: ''
+    country: United States
+    label: Tampa, United States, North America
+    precision: city
+journal: Int J Clin Exp Pathol 6(2), 2013
+notes: NA
+pmid: '23330001'
+title: 'Double-hit mantle cell lymphoma with MYC gene rearrangement or amplification:
+  a report of four cases and review of the literature.'
+year: '2013'

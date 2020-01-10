@@ -1,0 +1,26 @@
+authors: "Mart\xEDnez JG, P\xE9rez-Escuredo J, Castro-Santos P, Marcos CA, Pend\xE1\
+  s JL, Fraga MF, Hermsen MA."
+counts:
+  biosamples: 34.0
+  samples_acgh: 34.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -5.84
+    - 43.36
+    type: Point
+  info:
+    city: Oviedo
+    continent: ''
+    country: Spain
+    label: Oviedo, Spain, Europe
+    precision: city
+journal: Cell Oncol (Dordr) 35(4), 2012
+notes: NA
+pmid: '22718136'
+title: "Hypomethylation of LINE-1, and not centromeric SAT-\u03B1, is associated with\
+  \ centromeric instability in head and neck squamous cell carcinoma."
+year: '2012'

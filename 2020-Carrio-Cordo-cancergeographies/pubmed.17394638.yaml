@@ -1,0 +1,26 @@
+authors: Wicker N, Carles A, Mills IG, Wolf M, Veerakumarasivam A, Edgren H, Boileau
+  F, Wasylyk B, Schalken JA, Neal DE, Kallioniemi O, Poch O.
+counts:
+  biosamples: 19.0
+  samples_acgh: 19.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.72
+    - 48.53
+    type: Point
+  info:
+    city: Illkirch-Graffenstaden
+    continent: ''
+    country: France
+    label: Illkirch-Graffenstaden, France, Europe
+    precision: city
+journal: BMC Genomics 8, 2007
+notes: NA
+pmid: '17394638'
+title: A new look towards BAC-based array CGH through a comprehensive comparison with
+  oligo-based array CGH.
+year: '2007'

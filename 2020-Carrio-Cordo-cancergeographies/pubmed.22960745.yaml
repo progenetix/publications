@@ -1,0 +1,24 @@
+authors: Cancer Genome Atlas Research Network.
+counts:
+  biosamples: 700.0
+  samples_acgh: 503.0
+  samples_ccgh: 0.0
+  samples_wes: 178.0
+  samples_wgs: 19.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.11
+    - 42.38
+    type: Point
+  info:
+    city: Cambridge
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Nature 489(7417), 2012
+notes: Number as from corresponding TCGA study (as date 21/03/2019)
+pmid: '22960745'
+title: Comprehensive genomic characterization of squamous cell lung cancers.
+year: '2012'

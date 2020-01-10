@@ -1,0 +1,24 @@
+authors: Rickert CH, Simon R, Bergmann M, Dockhorn-Dworniczak B, Paulus W.
+counts:
+  biosamples: 17.0
+  samples_acgh: 0.0
+  samples_ccgh: 17.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: J. Neuropathol. Exp. Neurol. 59(9), 2000
+notes: NA
+pmid: '11005262'
+title: Comparative genomic hybridization in pineal germ cell tumors.
+year: '2000'

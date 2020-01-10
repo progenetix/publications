@@ -1,0 +1,28 @@
+authors: Kuiper RP, Schoenmakers EF, van Reijmersdal SV, Hehir-Kwa JY, van Kessel
+  AG, van Leeuwen FN, Hoogerbrugge PM.
+counts:
+  biosamples: 40.0
+  samples_acgh: 40.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ''
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city
+journal: Leukemia 21(6), 2007
+notes: The GEO raw data of the 37 cases analyzed with the 250k mapping arrays was
+  re-processed with the aroma.affymetrix software package.
+pmid: '17443227'
+title: High-resolution genomic profiling of childhood ALL reveals novel recurrent
+  genetic lesions affecting pathways involved in lymphocyte differentiation and cell
+  cycle progression.
+year: '2007'

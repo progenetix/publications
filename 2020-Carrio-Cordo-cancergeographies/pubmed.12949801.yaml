@@ -1,0 +1,26 @@
+authors: "Dahlgren L, Mellin H, Wangsa D, Heselmeyer-Haddad K, Bj\xF6rnest\xE5l L,\
+  \ Lindholm J, Munck-Wikland E, Auer G, Ried T, Dalianis T."
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 25.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: ''
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: Int. J. Cancer 107(2), 2003
+notes: The data is also contained in the NCBI SKY-CGH database.
+pmid: '12949801'
+title: Comparative genomic hybridization analysis of tonsillar cancer reveals a different
+  pattern of genomic imbalances in human papillomavirus-positive and -negative tumors.
+year: '2003'

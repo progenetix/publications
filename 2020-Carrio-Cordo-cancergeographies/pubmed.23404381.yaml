@@ -1,0 +1,26 @@
+authors: "Micci F, Panagopoulos I, Haugom L, Dahlback HS, Pretorius ME, Davidson B,\
+  \ Abeler VM, Trop\xE9 CG, Danielsen HE, Heim S."
+counts:
+  biosamples: 14.0
+  samples_acgh: 14.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 52(6), 2013
+notes: ''
+pmid: '23404381'
+title: Genomic aberration patterns and expression profiles of squamous cell carcinomas
+  of the vulva.
+year: '2013'

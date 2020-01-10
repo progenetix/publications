@@ -1,0 +1,26 @@
+authors: Chang CJ, Yang JY, Xia W, Chen CT, Xie X, Chao CH, Woodward WA, Hsu JM, Hortobagyi
+  GN, Hung MC.
+counts:
+  biosamples: 6.0
+  samples_acgh: 6.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: ''
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: Cancer Cell 19(1), 2011
+notes: NA
+pmid: '21215703'
+title: "EZH2 promotes expansion of breast tumor initiating cells through activation\
+  \ of RAF1-\u03B2-catenin signaling."
+year: '2011'

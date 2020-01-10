@@ -1,0 +1,25 @@
+authors: Goff LK, Neat MJ, Crawley CR, Jones L, Jones E, Lister TA, Gupta RK.
+counts:
+  biosamples: 15.0
+  samples_acgh: 0.0
+  samples_ccgh: 15.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Br. J. Haematol. 111(2), 2000
+notes: NA
+pmid: '11122110'
+title: The use of real-time quantitative polymerase chain reaction and comparative
+  genomic hybridization to identify amplification of the REL gene in follicular lymphoma.
+year: '2000'

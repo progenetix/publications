@@ -1,0 +1,25 @@
+authors: Valladares A, Salamanca F, Madrigal-Bujaidar E, Arenas D.
+counts:
+  biosamples: 16.0
+  samples_acgh: 0.0
+  samples_ccgh: 16.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -99.13
+    - 19.43
+    type: Point
+  info:
+    city: Mexico City
+    continent: ''
+    country: Mexico
+    label: Mexico City, Mexico, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 152(2), 2004
+notes: NA
+pmid: '15262439'
+title: Identification of chromosomal changes with comparative genomic hybridization
+  in sporadic breast cancer in Mexican women.
+year: '2004'

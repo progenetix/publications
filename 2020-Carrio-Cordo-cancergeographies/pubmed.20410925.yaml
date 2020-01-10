@@ -1,0 +1,26 @@
+authors: Boultwood J, Perry J, Zaman R, Fernandez-Santamaria C, Littlewood T, Kusec
+  R, Pellagatti A, Wang L, Clark RE, Wainscoat JS.
+counts:
+  biosamples: 41.0
+  samples_acgh: 41.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.26
+    - 51.75
+    type: Point
+  info:
+    city: Oxford
+    continent: ''
+    country: United Kingdom
+    label: Oxford, United Kingdom, Europe
+    precision: city
+journal: Leukemia 24(6), 2010
+notes: NA
+pmid: '20410925'
+title: High-density single nucleotide polymorphism array analysis and ASXL1 gene mutation
+  screening in chronic myeloid leukemia during disease progression.
+year: '2010'

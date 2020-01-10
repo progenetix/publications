@@ -1,0 +1,25 @@
+authors: "N\xEF\xBF\xBDmeth E, Krzystanek M, Reiniger L, Ribli D, Pipek O, Sztupinszki\
+  \ Z, Glasz T, Csabai I, Moldvay J, Szallasi Z, Sz\xEF\xBF\xBDts D."
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 4.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 19.04
+    - 47.5
+    type: Point
+  info:
+    city: Budapest
+    continent: ''
+    country: Hungary
+    label: null
+    precision: city
+journal: Int. J. Cancer, 2019
+notes: No PDF available yet
+pmid: '30694556'
+title: The genomic imprint of cancer therapies helps timing the formation of metastases.
+year: '2019'

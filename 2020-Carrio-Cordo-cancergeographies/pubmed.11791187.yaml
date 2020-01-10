@@ -1,0 +1,25 @@
+authors: "Bl\xE4ker H, von Herbay A, Penzel R, Gross S, Otto HF."
+counts:
+  biosamples: 17.0
+  samples_acgh: 0.0
+  samples_ccgh: 17.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Oncogene 21(1), 2002
+notes: NA
+pmid: '11791187'
+title: 'Genetics of adenocarcinomas of the small intestine: frequent deletions at
+  chromosome 18q and mutations of the SMAD4 gene.'
+year: '2002'

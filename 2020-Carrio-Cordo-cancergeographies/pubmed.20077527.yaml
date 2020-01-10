@@ -1,0 +1,26 @@
+authors: Watkins AJ, Huang Y, Ye H, Chanudet E, Johnson N, Hamoudi R, Liu H, Dong
+  G, Attygalle A, McPhail ED, Law ME, Isaacson PG, de Leval L, Wotherspoon A, Du MQ.
+counts:
+  biosamples: 25.0
+  samples_acgh: 25.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ''
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city
+journal: J. Pathol. 220(4), 2010
+notes: NA
+pmid: '20077527'
+title: 'Splenic marginal zone lymphoma: characterization of 7q deletion and its value
+  in diagnosis.'
+year: '2010'

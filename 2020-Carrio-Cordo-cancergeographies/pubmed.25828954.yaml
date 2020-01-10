@@ -1,0 +1,24 @@
+authors: Corrado KR, Andrade SC, Bellizzi J, D'Souza-Li L, Arnold A.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -46.64
+    - -23.55
+    type: Point
+  info:
+    city: Sao Paulo
+    continent: ''
+    country: Brazil
+    label: Sao Paulo, Brazil, South America
+    precision: city
+journal: J. Bone Miner. Res. 30(10), 2015
+notes: Location attributed to Sao Paulo, since sample was derived from Brazil.
+pmid: '25828954'
+title: Polyclonality of Parathyroid Tumors in Neonatal Severe Hyperparathyroidism.
+year: '2015'

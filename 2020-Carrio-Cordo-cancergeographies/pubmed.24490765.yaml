@@ -1,0 +1,25 @@
+authors: Feber A, Guilhamon P, Lechner M, Fenton T, Wilson GA, Thirlwell C, Morris
+  TJ, Flanagan AM, Teschendorff AE, Kelly JD, Beck S.
+counts:
+  biosamples: 11.0
+  samples_acgh: 11.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: null
+    precision: city
+journal: Genome Biol. 15(2), 2014
+notes: The GEO GSE48941 points to 11 Illumina samples, though SNP arrays are mentioned.
+pmid: '24490765'
+title: Using high-density DNA methylation arrays to profile copy number alterations.
+year: '2014'

@@ -1,0 +1,27 @@
+authors: Iqbal J, Kucuk C, Deleeuw RJ, Srivastava G, Tam W, Geng H, Klinkebiel D,
+  Christman JK, Patel K, Cao K, Shen L, Dybkaer K, Tsui IF, Ali H, Shimizu N, Au WY,
+  Lam WL, Chan WC.
+counts:
+  biosamples: 15.0
+  samples_acgh: 15.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.94
+    - 41.26
+    type: Point
+  info:
+    city: Omaha
+    continent: ''
+    country: United States
+    label: Omaha, United States, North America
+    precision: city
+journal: Leukemia 23(6), 2009
+notes: NA
+pmid: '19194464'
+title: Genomic analyses reveal global functional alterations that promote tumor growth
+  and novel tumor suppressor genes in natural killer-cell malignancies.
+year: '2009'

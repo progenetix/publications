@@ -1,0 +1,25 @@
+authors: "Curtin JA, Fridlyand J, Kageshita T, Patel HN, Busam KJ, Kutzner H, Cho\
+  \ KH, Aiba S, Br\xF6cker EB, LeBoit PE, Pinkel D, Bastian BC."
+counts:
+  biosamples: 126.0
+  samples_acgh: 126.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: N. Engl. J. Med. 353(20), 2005
+notes: NA
+pmid: '16291983'
+title: Distinct sets of genetic alterations in melanoma.
+year: '2005'

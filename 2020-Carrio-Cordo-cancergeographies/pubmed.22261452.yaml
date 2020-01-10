@@ -1,0 +1,25 @@
+authors: Liu B, Rao Q, Zhu Y, Yu B, Zhu HY, Zhou XJ.
+counts:
+  biosamples: 7.0
+  samples_acgh: 0.0
+  samples_ccgh: 7.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 118.78
+    - 32.06
+    type: Point
+  info:
+    city: Nanjing
+    continent: ''
+    country: China
+    label: Nanjing, China, Asia
+    precision: city
+journal: Am. J. Clin. Pathol. 137(2), 2012
+notes: NA
+pmid: '22261452'
+title: Metaplastic thymoma of the mediastinum. A clinicopathologic, immunohistochemical,
+  and genetic analysis.
+year: '2012'

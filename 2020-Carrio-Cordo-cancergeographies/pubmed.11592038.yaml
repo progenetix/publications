@@ -1,0 +1,26 @@
+authors: Li Z, Wang L, Zhang X, Zhang L, Zhang B, Yu Y, Zeng Z, Zhou M, Huang W, Chen
+  Z, Chen S, Li G.
+counts:
+  biosamples: 18.0
+  samples_acgh: 0.0
+  samples_ccgh: 18.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 112.97
+    - 28.2
+    type: Point
+  info:
+    city: Changsha
+    continent: ''
+    country: China
+    label: Changsha, China, Asia
+    precision: city
+journal: Zhonghua Yi Xue Yi Chuan Xue Za Zhi 18(5), 2001
+notes: NA
+pmid: '11592038'
+title: '[Chromosomal aberration analyzed by comparative genomic hybridization in nasopharyngeal
+  carcinoma]'
+year: '2001'

@@ -1,0 +1,27 @@
+authors: Ryan SL, Matheson E, Grossmann V, Sinclair P, Bashton M, Schwab C, Towers
+  W, Partington M, Elliott A, Minto L, Richardson S, Rahman T, Keavney B, Skinner
+  R, Bown N, Haferlach T, Vandenberghe P, Haferlach C, Santibanez-Koref M, Moorman
+  AV, Kohlmann A, Irving JA, Harrison CJ.
+counts:
+  biosamples: 8.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 8.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.6099999999999999
+    - 54.97
+    type: Point
+  info:
+    city: Newcastle upon Tyne
+    continent: ''
+    country: United Kingdom
+    label: Newcastle upon Tyne, United Kingdom, Europe
+    precision: city
+journal: Leukemia 30(9), 2016
+notes: ''
+pmid: '27168466'
+title: The role of the RAS pathway in iAMP21-ALL.
+year: '2016'

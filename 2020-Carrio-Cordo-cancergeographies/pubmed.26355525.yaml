@@ -1,0 +1,26 @@
+authors: Valli R, De Bernardi F, Frattini A, Volpi L, Bignami M, Facchetti F, Pasquali
+  F, Castelnuovo P, Maserati E.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.82
+    - 45.82
+    type: Point
+  info:
+    city: Varese
+    continent: ''
+    country: Italy
+    label: Varese, Italy, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 54(12), 2015
+notes: ''
+pmid: '26355525'
+title: 'Comparative genomic hybridization on microarray (a-CGH) in olfactory neuroblastoma:
+  Analysis of ten cases and review of the literature.'
+year: '2015'

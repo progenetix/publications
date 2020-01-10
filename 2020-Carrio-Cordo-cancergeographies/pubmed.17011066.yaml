@@ -1,0 +1,25 @@
+authors: "Yakut T, Schulten HJ, Demir A, Frank D, Danner B, Egeli U, Gebitekin C,\
+  \ Kahler E, Gunawan B, Urer N, Ozt\xFCrk H, F\xFCzesi L."
+counts:
+  biosamples: 45.0
+  samples_acgh: 0.0
+  samples_ccgh: 45.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 29.08
+    - 40.19
+    type: Point
+  info:
+    city: Bursa
+    continent: ''
+    country: Turkey
+    label: Bursa, Turkey, Europe
+    precision: city
+journal: Lung Cancer 54(3), 2006
+notes: NA
+pmid: '17011066'
+title: Assessment of molecular events in squamous and non-squamous cell lung carcinoma.
+year: '2006'

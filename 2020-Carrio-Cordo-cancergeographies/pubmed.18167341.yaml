@@ -1,0 +1,27 @@
+authors: Lee J, Son MJ, Woolard K, Donin NM, Li A, Cheng CH, Kotliarova S, Kotliarov
+  Y, Walling J, Ahn S, Kim M, Totonchy M, Cusack T, Ene C, Ma H, Su Q, Zenklusen JC,
+  Zhang W, Maric D, Fine HA.
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Cancer Cell 13(1), 2008
+notes: NA
+pmid: '18167341'
+title: Epigenetic-mediated dysfunction of the bone morphogenetic protein pathway inhibits
+  differentiation of glioblastoma-initiating cells.
+year: '2008'

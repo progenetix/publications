@@ -1,0 +1,25 @@
+authors: Huang HS, Liao CK, Liu TT, You HL, Wang MC, Huang WT.
+counts:
+  biosamples: 57.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 57.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 120.31
+    - 22.62
+    type: Point
+  info:
+    city: Kaohsiung
+    continent: ''
+    country: Taiwan
+    label: null
+    precision: city
+journal: Hum. Pathol., 2018
+notes: No PDF available yet
+pmid: '29885407'
+title: 'TP53 mutations in peripheral mature T and NK cell lymphomas: a whole-exome
+  sequencing study with correlation to p53 expression.'
+year: '2018'

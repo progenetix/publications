@@ -1,0 +1,26 @@
+authors: "Mechtersheimer G, Ota\xF1o-Joos M, Ohl S, Benner A, Lehnert T, Willeke F,\
+  \ M\xF6ller P, Otto HF, Lichter P, Joos S."
+counts:
+  biosamples: 29.0
+  samples_acgh: 0.0
+  samples_ccgh: 29.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 25(4), 1999
+notes: NA
+pmid: '10398430'
+title: Analysis of chromosomal imbalances in sporadic and NF1-associated peripheral
+  nerve sheath tumors by comparative genomic hybridization.
+year: '1999'

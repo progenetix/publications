@@ -1,0 +1,26 @@
+authors: Croft J, Parry EM, Jenkins GJ, Doak SH, Baxter JN, Griffiths AP, Brown TH,
+  Parry JM.
+counts:
+  biosamples: 30.0
+  samples_acgh: 0.0
+  samples_ccgh: 30.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.18
+    - 51.48
+    type: Point
+  info:
+    city: Cardiff
+    continent: ''
+    country: United Kingdom
+    label: Cardiff, United Kingdom, Europe
+    precision: city
+journal: Eur J Gastroenterol Hepatol 14(11), 2002
+notes: Only arm specific data is presented.
+pmid: '12439111'
+title: Analysis of the premalignant stages of Barrett's oesophagus through to adenocarcinoma
+  by comparative genomic hybridization.
+year: '2002'

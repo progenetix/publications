@@ -1,0 +1,25 @@
+authors: Wang L, Busam KJ, Benayed R, Cimera R, Wang J, Denley R, Rao M, Aryeequaye
+  R, Mullaney K, Cao L, Ladanyi M, Hameed M.
+counts:
+  biosamples: 207.0
+  samples_acgh: 207.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: J Mol Diagn 19(3), 2017
+notes: According to the text, 27 samples had WES results.
+pmid: '28433076'
+title: Identification of NTRK3 Fusions in Childhood Melanocytic Neoplasms.
+year: '2017'

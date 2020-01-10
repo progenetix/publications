@@ -1,0 +1,26 @@
+authors: "Navin N, Krasnitz A, Rodgers L, Cook K, Meth J, Kendall J, Riggs M, Eberling\
+  \ Y, Troge J, Grubor V, Levy D, Lundin P, M\xE5n\xE9r S, Zetterberg A, Hicks J,\
+  \ Wigler M."
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.47
+    - 40.86
+    type: Point
+  info:
+    city: Cold Spring Harbor
+    continent: ''
+    country: United States
+    label: Cold Spring Harbor, United States, North America
+    precision: city
+journal: Genome Res. 20(1), 2010
+notes: NA
+pmid: '19903760'
+title: Inferring tumor progression from genomic heterogeneity.
+year: '2010'

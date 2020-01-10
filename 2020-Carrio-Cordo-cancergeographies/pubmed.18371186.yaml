@@ -1,0 +1,26 @@
+authors: Hoischen A, Ehrler M, Fassunke J, Simon M, Baudis M, Landwehr C, Radlwimmer
+  B, Lichter P, Schramm J, Becker AJ, Weber RG.
+counts:
+  biosamples: 83.0
+  samples_acgh: 22.0
+  samples_ccgh: 61.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.1
+    - 50.73
+    type: Point
+  info:
+    city: Bonn
+    continent: ''
+    country: Germany
+    label: Bonn, Germany, Europe
+    precision: city
+journal: Brain Pathol. 18(3), 2008
+notes: NA
+pmid: '18371186'
+title: Comprehensive characterization of genomic aberrations in gangliogliomas by
+  CGH, array-based CGH and interphase FISH.
+year: '2008'

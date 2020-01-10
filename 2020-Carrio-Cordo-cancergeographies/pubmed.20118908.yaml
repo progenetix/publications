@@ -1,0 +1,25 @@
+authors: Laharanne E, Chevret E, Idrissi Y, Gentil C, Longy M, Ferrer J, Dubus P,
+  Jouary T, Vergier B, Beylot-Barry M, Merlio JP.
+counts:
+  biosamples: 67.0
+  samples_acgh: 67.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: ''
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: Mod. Pathol. 23(4), 2010
+notes: NA
+pmid: '20118908'
+title: CDKN2A-CDKN2B deletion defines an aggressive subset of cutaneous T-cell lymphoma.
+year: '2010'

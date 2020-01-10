@@ -1,0 +1,25 @@
+authors: Sung JS, Park KH, Kim YH.
+counts:
+  biosamples: 21.0
+  samples_acgh: 21.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 198(1), 2010
+notes: NA
+pmid: '20303011'
+title: Genomic alterations of chromosome region 11p as predictive marker by array
+  comparative genomic hybridization in lung adenocarcinoma patients.
+year: '2010'

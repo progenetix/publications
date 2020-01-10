@@ -1,0 +1,26 @@
+authors: "Toida M, Bal\xE1zs M, Treszl A, R\xE1kosy Z, Kato K, Yamazaki Y, Matsui\
+  \ T, Suwa T, Hatakeyama D, Makita H, Mori S, Yamashita T, Shibata T, Ad\xE1ny R."
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 136.76
+    - 35.42
+    type: Point
+  info:
+    city: Gifu
+    continent: ''
+    country: Japan
+    label: Gifu, Japan
+    precision: city
+journal: Cancer Genet. Cytogenet. 159(2), 2005
+notes: NA
+pmid: '15899380'
+title: Analysis of ameloblastomas by comparative genomic hybridization and fluorescence
+  in situ hybridization.
+year: '2005'

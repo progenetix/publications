@@ -1,0 +1,27 @@
+authors: Pfeifer D, Pantic M, Skatulla I, Rawluk J, Kreutz C, Martens UM, Fisch P,
+  Timmer J, Veelken H.
+counts:
+  biosamples: 70.0
+  samples_acgh: 70.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.85
+    - 48.0
+    type: Point
+  info:
+    city: Freiburg
+    continent: ''
+    country: Germany
+    label: Freiburg, Germany, Europe
+    precision: city
+journal: Blood 109(3), 2007
+notes: Data from only 19 out of 70 cases is listed in the article. Some arrays were
+  analyzed with the Affymetrix 10k SNP platform.
+pmid: '17053054'
+title: Genome-wide analysis of DNA copy number changes and LOH in CLL using high-density
+  SNP arrays.
+year: '2007'

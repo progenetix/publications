@@ -1,0 +1,27 @@
+authors: Storlazzi CT, Lonoce A, Guastadisegni MC, Trombetta D, D'Addabbo P, Daniele
+  G, L'Abbate A, Macchia G, Surace C, Kok K, Ullmann R, Purgato S, Palumbo O, Carella
+  M, Ambros PF, Rocchi M.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.86
+    - 41.11
+    type: Point
+  info:
+    city: Bari
+    continent: ''
+    country: Italy
+    label: Bari, Italy, Europe
+    precision: city
+journal: Genome Res. 20(9), 2010
+notes: NA
+pmid: '20631050'
+title: 'Gene amplification as double minutes or homogeneously staining regions in
+  solid tumors: origin and structure.'
+year: '2010'

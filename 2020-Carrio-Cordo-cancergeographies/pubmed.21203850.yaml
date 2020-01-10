@@ -1,0 +1,25 @@
+authors: Lee M, Lee Y, Cho HJ, Hong J, Kwon SJ, Park CG, Lee HY, Son JW, Kang J.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.71
+    - 35.02
+    type: Point
+  info:
+    city: Naju-si
+    continent: ''
+    country: Korean Republic
+    label: Naju-si, Korean Republic
+    precision: city
+journal: Mol. Biol. Rep. 38(8), 2011
+notes: NA
+pmid: '21203850'
+title: Copy number variations of chromosome 17p13.1 might be linked to high risk of
+  lung cancer in heavy smokers.
+year: '2011'

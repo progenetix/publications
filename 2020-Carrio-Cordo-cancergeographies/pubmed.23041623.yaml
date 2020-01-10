@@ -1,0 +1,26 @@
+authors: McKee CM, Xu D, Cao Y, Kabraji S, Allen D, Kersemans V, Beech J, Smart S,
+  Hamdy F, Ishkanian A, Sykes J, Pintile M, Milosevic M, van der Kwast T, Zafarana
+  G, Ramnarine VR, Jurisica I, Mallof C, Lam W, Bristow RG, Muschel RJ.
+counts:
+  biosamples: 126.0
+  samples_acgh: 126.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: J. Clin. Invest. 122(11), 2012
+notes: ''
+pmid: '23041623'
+title: Protease nexin 1 inhibits hedgehog signaling in prostate adenocarcinoma.
+year: '2012'

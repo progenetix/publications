@@ -1,0 +1,25 @@
+authors: Ilic N, Utermark T, Widlund HR, Roberts TM.
+counts:
+  biosamples: 5.0
+  samples_acgh: 5.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 108(37), 2011
+notes: ''
+pmid: '21876152'
+title: PI3K-targeted therapy can be evaded by gene amplification along the MYC-eukaryotic
+  translation initiation factor 4E (eIF4E) axis.
+year: '2011'

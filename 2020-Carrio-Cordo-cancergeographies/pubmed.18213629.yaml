@@ -1,0 +1,26 @@
+authors: Aitchison AA, Veerakumarasivam A, Vias M, Kumar R, Hamdy FC, Neal DE, Mills
+  IG.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ''
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city
+journal: Prostate 68(6), 2008
+notes: The data was reported in PMID 17394638.
+pmid: '18213629'
+title: Promoter methylation correlates with reduced Smad4 expression in advanced prostate
+  cancer.
+year: '2008'

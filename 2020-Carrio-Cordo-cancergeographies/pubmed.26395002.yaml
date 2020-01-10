@@ -1,0 +1,27 @@
+authors: Vettore AL, Ramnarayanan K, Poore G, Lim K, Ong CK, Huang KK, Leong HS, Chong
+  FT, Lim TK, Lim WK, Cutcutache I, Mcpherson JR, Suzuki Y, Zhang S, Skanthakumar
+  T, Wang W, Tan DS, Cho BC, Teh BT, Rozen S, Tan P, Iyer NG.
+counts:
+  biosamples: 18.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 18.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: ''
+    country: Singapore
+    label: Singapore, Singapore, Asia
+    precision: city
+journal: Genome Med 7, 2015
+notes: 60 additional cases were analyzed with targeted sequencing.
+pmid: '26395002'
+title: Mutational landscapes of tongue carcinoma reveal recurrent mutations in genes
+  of therapeutic and prognostic relevance.
+year: '2015'

@@ -1,0 +1,28 @@
+authors: Holland DG, Burleigh A, Git A, Goldgraben MA, Perez-Mancera PA, Chin SF,
+  Hurtado A, Bruna A, Ali HR, Greenwood W, Dunning MJ, Samarajiwa S, Menon S, Rueda
+  OM, Lynch AG, McKinney S, Ellis IO, Eaves CJ, Carroll JS, Curtis C, Aparicio S,
+  Caldas C.
+counts:
+  biosamples: 1001.0
+  samples_acgh: 1001.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ''
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city
+journal: EMBO Mol Med 3(3), 2011
+notes: NA
+pmid: '21337521'
+title: ZNF703 is a common Luminal B breast cancer oncogene that differentially regulates
+  luminal and basal progenitors in human mammary epithelium.
+year: '2011'

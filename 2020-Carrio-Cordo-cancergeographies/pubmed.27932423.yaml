@@ -1,0 +1,25 @@
+authors: Peng S, Dhruv H, Armstrong B, Salhia B, Legendre C, Kiefer J, Parks J, Virk
+  S, Sloan AE, Ostrom QT, Barnholtz-Sloan JS, Tran NL, Berens ME.
+counts:
+  biosamples: 36.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 18.0
+  samples_wgs: 18.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -112.07
+    - 33.45
+    type: Point
+  info:
+    city: Phoenix
+    continent: ''
+    country: United States
+    label: Phoenix, United States, North America
+    precision: city
+journal: Neuro-oncology 19(6), 2017
+notes: ''
+pmid: '27932423'
+title: Integrated genomic analysis of survival outliers in glioblastoma.
+year: '2017'

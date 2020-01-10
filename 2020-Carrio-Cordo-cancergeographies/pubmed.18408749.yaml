@@ -1,0 +1,26 @@
+authors: Unger K, Malisch E, Thomas G, Braselmann H, Walch A, Jackl G, Lewis P, Lengfelder
+  E, Bogdanova T, Wienberg J, Zitzelsberger H.
+counts:
+  biosamples: 33.0
+  samples_acgh: 33.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.58
+    - 48.14
+    type: Point
+  info:
+    city: Munich
+    continent: ''
+    country: Germany
+    label: Munich, Germany, Europe
+    precision: city
+journal: Oncogene 27(33), 2008
+notes: NA
+pmid: '18408749'
+title: Array CGH demonstrates characteristic aberration signatures in human papillary
+  thyroid carcinomas governed by RET/PTC.
+year: '2008'

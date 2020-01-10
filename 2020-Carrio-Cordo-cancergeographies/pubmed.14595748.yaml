@@ -1,0 +1,25 @@
+authors: Ullmann R, Bongiovanni M, Halbwedl I, Fraire AE, Cagle PT, Mori M, Papotti
+  M, Popper HH.
+counts:
+  biosamples: 28.0
+  samples_acgh: 0.0
+  samples_ccgh: 28.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 15.45
+    - 47.07
+    type: Point
+  info:
+    city: Graz
+    continent: ''
+    country: Austria
+    label: Graz, Austria, Europe
+    precision: city
+journal: J. Pathol. 201(3), 2003
+notes: NA
+pmid: '14595748'
+title: Is high-grade adenomatous hyperplasia an early bronchioloalveolar adenocarcinoma?
+year: '2003'

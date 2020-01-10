@@ -1,0 +1,26 @@
+authors: Kuroda N, Naroda T, Tamura M, Taguchi T, Tominaga A, Inoue K, Shuin T, Lee
+  GH, Hes O, Michal M.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 133.53
+    - 33.56
+    type: Point
+  info:
+    city: Kochi-shi
+    continent: ''
+    country: Japan
+    label: Kochi-shi, Japan, Asia
+    precision: city
+journal: Ann Diagn Pathol 15(6), 2011
+notes: NA
+pmid: '21106420'
+title: 'High-grade mucinous tubular and spindle cell carcinoma: comparative genomic
+  hybridization study.'
+year: '2011'

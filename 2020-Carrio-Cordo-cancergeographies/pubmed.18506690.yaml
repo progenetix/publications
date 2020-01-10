@@ -1,0 +1,27 @@
+authors: "Myllykangas S, Junnila S, Kokkola A, Autio R, Scheinin I, Kiviluoto T, Karjalainen-Lindsberg\
+  \ ML, Hollm\xE9n J, Knuutila S, Puolakkainen P, Monni O."
+counts:
+  biosamples: 38.0
+  samples_acgh: 38.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Int. J. Cancer 123(4), 2008
+notes: The supplementary data files, linked through http://www.mrw.interscience.wiley.com/suppmat/0020-7136/suppmat/ijc.23574.html,
+  were not available at the time of checking.
+pmid: '18506690'
+title: Integrated gene copy number and expression microarray analysis of gastric cancer
+  highlights potential target genes.
+year: '2008'

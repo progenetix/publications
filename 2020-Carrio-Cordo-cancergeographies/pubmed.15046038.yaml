@@ -1,0 +1,26 @@
+authors: "Bergmann F, Hackert T, Mechtersheimer G, Penzel R, Bl\xE4ker H, Berger I,\
+  \ Esposito I, B\xFCchler MW, Otto HF."
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Virchows Arch. 444(2), 2004
+notes: NA
+pmid: '15046038'
+title: 'Differential diagnosis of non-epithelial tumors of the pancreas: malignant
+  non-epithelial pancreatic tumor with focal pigmentation.'
+year: '2004'

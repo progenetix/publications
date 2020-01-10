@@ -1,0 +1,25 @@
+authors: Patel A, van Meyel DJ, Mohapatra G, Bollen A, Wrensch M, Cairncross JG, Feuerstein
+  BG.
+counts:
+  biosamples: 11.0
+  samples_acgh: 0.0
+  samples_ccgh: 11.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 100(1), 1998
+notes: NA
+pmid: '9406586'
+title: 'Gliomas in families: chromosomal analysis by comparative genomic hybridization.'
+year: '1998'

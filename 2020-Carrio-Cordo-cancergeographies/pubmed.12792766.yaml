@@ -1,0 +1,25 @@
+authors: "Junker K, S\xE4nger J, Schmidt A, Hindermann W, Presselt N, Helfritzsch\
+  \ H, Schubert J."
+counts:
+  biosamples: 46.0
+  samples_acgh: 0.0
+  samples_ccgh: 46.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: ''
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: Oncol. Rep. 10(4), 2003
+notes: NA
+pmid: '12792766'
+title: Genetic characterization of lung metastases in renal cell carcinoma.
+year: '2003'

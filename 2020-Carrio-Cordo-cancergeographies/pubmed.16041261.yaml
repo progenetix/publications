@@ -1,0 +1,28 @@
+authors: "Poirel HA, Bernheim A, Schneider A, Meddeb M, Choquet S, Leblond V, Charlotte\
+  \ F, Davi F, Canioni D, Macintyre E, Mamzer-Bruneel MF, Hirsch I, Hermine O, Martin\
+  \ A, Cornillet-Lefebvre P, Patey M, Toupance O, K\xE9m\xE9ny JL, Deteix P, Rapha\xEB\
+  l M."
+counts:
+  biosamples: 35.0
+  samples_acgh: 0.0
+  samples_ccgh: 35.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.35
+    - 50.85
+    type: Point
+  info:
+    city: Brussels
+    continent: ''
+    country: Belgium
+    label: Brussels, Belgium, Europe
+    precision: city
+journal: Transplantation 80(2), 2005
+notes: NA
+pmid: '16041261'
+title: 'Characteristic pattern of chromosomal imbalances in posttransplantation lymphoproliferative
+  disorders: correlation with histopathological subcategories and EBV status.'
+year: '2005'

@@ -1,0 +1,26 @@
+authors: "K\xEF\xBF\xBDndig P, Giesen C, Jackson H, Bodenmiller B, Papassotirolopus\
+  \ B, Freiberger SN, Aquino C, Opitz L, Varga Z."
+counts:
+  biosamples: 372.0
+  samples_acgh: 372.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.55
+    - 47.37
+    type: Point
+  info:
+    city: Zurich
+    continent: ''
+    country: Switzerland
+    label: null
+    precision: city
+journal: J Transl Med 16(1), 2018
+notes: No PDF available yet
+pmid: '29739401'
+title: Limited utility of tissue micro-arrays in detecting intra-tumoral heterogeneity
+  in stem cell characteristics and tumor progression markers in breast cancer.
+year: '2018'

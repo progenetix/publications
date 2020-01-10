@@ -1,0 +1,25 @@
+authors: Lee Y, Liu J, Patel S, Cloughesy T, Lai A, Farooqi H, Seligson D, Dong J,
+  Liau L, Becker D, Mischel P, Shams S, Nelson S.
+counts:
+  biosamples: 85.0
+  samples_acgh: 85.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: ''
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: Brain Pathol. 20(4), 2010
+notes: NA
+pmid: '20015288'
+title: Genomic landscape of meningiomas.
+year: '2010'

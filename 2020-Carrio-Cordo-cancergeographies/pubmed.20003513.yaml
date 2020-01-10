@@ -1,0 +1,27 @@
+authors: Scaruffi P, Stigliani S, Moretti S, Coco S, De Vecchi C, Valdora F, Garaventa
+  A, Bonassi S, Tonini GP.
+counts:
+  biosamples: 33.0
+  samples_acgh: 33.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: ''
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: BMC Cancer 9, 2009
+notes: For 29 cases, ISCN data was copied from the supplementary file. 4 additional
+  cases were included in the GEO data set, and were analyzed from the log2 data.
+pmid: '20003513'
+title: Transcribed-Ultra Conserved Region expression is associated with outcome in
+  high-risk neuroblastoma.
+year: '2009'

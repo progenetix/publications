@@ -1,0 +1,27 @@
+authors: Choi J, Goh G, Walradt T, Hong BS, Bunick CG, Chen K, Bjornson RD, Maman
+  Y, Wang T, Tordoff J, Carlson K, Overton JD, Liu KJ, Lewis JM, Devine L, Barbarotta
+  L, Foss FM, Subtil A, Vonderheid EC, Edelson RL, Schatz DG, Boggon TJ, Girardi M,
+  Lifton RP.
+counts:
+  biosamples: 40.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 40.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -72.93
+    - 41.31
+    type: Point
+  info:
+    city: New Haven
+    continent: ''
+    country: United States
+    label: New Haven, United States, North America
+    precision: city
+journal: Nat. Genet. 47(9), 2015
+notes: ''
+pmid: '26192916'
+title: Genomic landscape of cutaneous T cell lymphoma.
+year: '2015'

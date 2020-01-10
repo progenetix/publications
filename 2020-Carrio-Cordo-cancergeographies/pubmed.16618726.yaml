@@ -1,0 +1,26 @@
+authors: Yao J, Weremowicz S, Feng B, Gentleman RC, Marks JR, Gelman R, Brennan C,
+  Polyak K.
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Cancer Res. 66(8), 2006
+notes: NA
+pmid: '16618726'
+title: Combined cDNA array comparative genomic hybridization and serial analysis of
+  gene expression analysis of breast tumor progression.
+year: '2006'

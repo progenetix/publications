@@ -1,0 +1,24 @@
+authors: Shadeo A, Lam WL.
+counts:
+  biosamples: 7.0
+  samples_acgh: 7.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: Breast Cancer Res. 8(1), 2006
+notes: NA
+pmid: '16417655'
+title: Comprehensive copy number profiles of breast cancer cell model genomes.
+year: '2006'

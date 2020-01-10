@@ -1,0 +1,26 @@
+authors: "Speel EJ, Richter J, Moch H, Egenter C, Saremaslani P, R\xFCtimann K, Zhao\
+  \ J, Barghorn A, Roth J, Heitz PU, Komminoth P."
+counts:
+  biosamples: 44.0
+  samples_acgh: 0.0
+  samples_ccgh: 44.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.55
+    - 47.37
+    type: Point
+  info:
+    city: Zurich
+    continent: ''
+    country: Switzerland
+    label: Zurich, Switzerland, Europe
+    precision: city
+journal: Am. J. Pathol. 155(6), 1999
+notes: NA
+pmid: '10595906'
+title: Genetic differences in endocrine pancreatic tumor subtypes detected by comparative
+  genomic hybridization.
+year: '1999'

@@ -1,0 +1,26 @@
+authors: Christensen BC, Houseman EA, Poage GM, Godleski JJ, Bueno R, Sugarbaker DJ,
+  Wiencke JK, Nelson HH, Marsit CJ, Kelsey KT.
+counts:
+  biosamples: 23.0
+  samples_acgh: 23.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.41
+    - 41.82
+    type: Point
+  info:
+    city: Providence
+    continent: ''
+    country: United States
+    label: Providence, United States, North America
+    precision: city
+journal: Cancer Res. 70(14), 2010
+notes: NA
+pmid: '20587528'
+title: Integrated profiling reveals a global correlation between epigenetic and genetic
+  alterations in mesothelioma.
+year: '2010'

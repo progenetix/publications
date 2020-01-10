@@ -1,0 +1,24 @@
+authors: Bastian BC, Wesselmann U, Pinkel D, Leboit PE.
+counts:
+  biosamples: 17.0
+  samples_acgh: 0.0
+  samples_ccgh: 17.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: J. Invest. Dermatol. 113(6), 1999
+notes: NA
+pmid: '10594753'
+title: Molecular cytogenetic analysis of Spitz nevi shows clear differences to melanoma.
+year: '1999'

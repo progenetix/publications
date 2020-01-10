@@ -1,0 +1,25 @@
+authors: Willmarth NE, Albertson DG, Ethier SP.
+counts:
+  biosamples: 9.0
+  samples_acgh: 9.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.74
+    - 42.28
+    type: Point
+  info:
+    city: Ann Arbor
+    continent: ''
+    country: United States
+    label: Ann Arbor, United States, North America
+    precision: city
+journal: Breast Cancer Res. 6(5), 2004
+notes: NA
+pmid: '15318934'
+title: Chromosomal instability and lack of cyclin E regulation in hCdc4 mutant human
+  breast cancer cells.
+year: '2004'

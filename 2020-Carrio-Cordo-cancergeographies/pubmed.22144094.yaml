@@ -1,0 +1,26 @@
+authors: Giaretti W, Maffei M, Pentenero M, Scaruffi P, Donadini A, Di Nallo E, Malacarne
+  D, Marino R, Familiari U, Coco S, Tonini GP, Castagnola P, Gandolfo S.
+counts:
+  biosamples: 19.0
+  samples_acgh: 19.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: ''
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: Cell Oncol (Dordr) 35(1), 2012
+notes: NA
+pmid: '22144094'
+title: Genomic aberrations in normal appearing mucosa fields distal from oral potentially
+  malignant lesions.
+year: '2012'

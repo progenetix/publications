@@ -1,0 +1,26 @@
+authors: "Climent J, Martinez-Climent JA, Blesa D, Garcia-Barchino MJ, Saez R, S\xE1\
+  nchez-Izquierdo D, Azagra P, Lluch A, Garcia-Conde J."
+counts:
+  biosamples: 34.0
+  samples_acgh: 0.0
+  samples_ccgh: 34.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: ''
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: Clin. Cancer Res. 8(12), 2002
+notes: NA
+pmid: '12473601'
+title: Genomic loss of 18p predicts an adverse clinical outcome in patients with high-risk
+  breast cancer.
+year: '2002'

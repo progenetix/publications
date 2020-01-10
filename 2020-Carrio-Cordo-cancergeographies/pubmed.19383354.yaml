@@ -1,0 +1,26 @@
+authors: "Bergamaschi A, Kim YH, Kwei KA, La Choi Y, Bocanegra M, Langer\xF8d A, Han\
+  \ W, Noh DY, Huntsman DG, Jeffrey SS, B\xF8rresen-Dale AL, Pollack JR."
+counts:
+  biosamples: 172.0
+  samples_acgh: 172.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Mol Oncol 2(4), 2008
+notes: NA
+pmid: '19383354'
+title: CAMK1D amplification implicated in epithelial-mesenchymal transition in basal-like
+  breast cancer.
+year: '2008'

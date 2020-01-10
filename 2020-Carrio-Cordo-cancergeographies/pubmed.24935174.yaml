@@ -1,0 +1,27 @@
+authors: Qian Z, Zhu G, Tang L, Wang M, Zhang L, Fu J, Huang C, Fan S, Sun Y, Lv J,
+  Dong H, Gao B, Su X, Yu D, Zang J, Zhang X, Ji J, Ji Q.
+counts:
+  biosamples: 131.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 131.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: ''
+    country: China
+    label: null
+    precision: city
+journal: Genes Chromosomes Cancer 53(11), 2014
+notes: prostate cancer data from ICGC analysed for somatic CNVs; needs to be checked
+  for possible duplication of entry
+pmid: '24935174'
+title: Whole genome gene copy number profiling of gastric cancer identifies PAK1 and
+  KRAS gene amplification as therapy targets.
+year: '2014'

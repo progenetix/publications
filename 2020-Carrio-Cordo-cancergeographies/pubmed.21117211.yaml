@@ -1,0 +1,26 @@
+authors: Fang M, Toher J, Morgan M, Davison J, Tannenbaum S and Claffey K.
+counts:
+  biosamples: 21.0
+  samples_acgh: 21.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.33
+    - 47.61
+    type: Point
+  info:
+    city: Seattle
+    continent: ''
+    country: United States
+    label: Seattle, United States, North America
+    precision: city
+journal: Cancer (2010)
+notes: NA
+pmid: '21117211'
+title: Genomic Differences Between Estrogen Receptor (Er)-Positive and Er-Negative
+  Human Breast Carcinoma Identified By Single Nucleotide Polymorphism Array Comparative
+  Genome Hybridization Analysis.
+year: '2010'

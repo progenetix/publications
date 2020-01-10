@@ -1,0 +1,25 @@
+authors: Richardson AL, Wang ZC, De Nicolo A, Lu X, Brown M, Miron A, Liao X, Iglehart
+  JD, Livingston DM, Ganesan S.
+counts:
+  biosamples: 43.0
+  samples_acgh: 43.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Cancer Cell 9(2), 2006
+notes: NA
+pmid: '16473279'
+title: X chromosomal abnormalities in basal-like human breast cancer.
+year: '2006'

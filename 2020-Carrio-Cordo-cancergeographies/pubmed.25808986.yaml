@@ -1,0 +1,27 @@
+authors: "Arriba M, Garc\xEDa JL, Inglada-P\xE9rez L, Inglada-P\xE9rez L, Rueda D,\
+  \ Osorio I, Rodr\xEDguez Y, \xC1lvaro E, S\xE1nchez R, Fern\xE1ndez T, P\xE9rez\
+  \ J, Hern\xE1ndez JM, Ben\xEDtez J, Gonz\xE1lez-Sarmiento R, Urioste M, Perea J."
+counts:
+  biosamples: 146.0
+  samples_acgh: 146.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: ''
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: Mol. Carcinog. 55(5), 2016
+notes: ''
+pmid: '25808986'
+title: DNA copy number profiling reveals different patterns of chromosomal instability
+  within colorectal cancer according to the age of onset.
+year: '2016'

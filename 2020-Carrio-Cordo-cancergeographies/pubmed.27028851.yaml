@@ -1,0 +1,26 @@
+authors: "Bertucci F, Finetti P, Guille A, Ad\xE9la\xEFde J, Garnier S, Carbuccia\
+  \ N, Monneur A, Charafe-Jauffret E, Goncalves A, Viens P, Birnbaum D, Chaffanet\
+  \ M."
+counts:
+  biosamples: 46.0
+  samples_acgh: 46.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.0
+    - 0.0
+    type: Point
+  info:
+    city: null
+    continent: ''
+    country: null
+    label: null
+    precision: null
+journal: Oncotarget 7(19), 2016
+notes: Additionally to the aCGH experiments, a gene panel (365) was analyzed by NGS.
+pmid: '27028851'
+title: Comparative genomic analysis of primary tumors and metastases in breast cancer.
+year: '2016'

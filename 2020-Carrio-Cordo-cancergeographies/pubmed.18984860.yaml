@@ -1,0 +1,27 @@
+authors: "Be\xE0 S, Salaverria I, Armengol L, Pinyol M, Fern\xE1ndez V, Hartmann EM,\
+  \ Jares P, Amador V, Hern\xE1ndez L, Navarro A, Ott G, Rosenwald A, Estivill X,\
+  \ Campo E."
+counts:
+  biosamples: 38.0
+  samples_acgh: 38.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Blood 113(13), 2009
+notes: NA
+pmid: '18984860'
+title: Uniparental disomies, homozygous deletions, amplifications, and target genes
+  in mantle cell lymphoma revealed by integrative high-resolution whole-genome profiling.
+year: '2009'

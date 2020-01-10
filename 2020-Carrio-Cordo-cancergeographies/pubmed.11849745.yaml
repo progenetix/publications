@@ -1,0 +1,24 @@
+authors: Iehara T, Hamazaki M, Sawada T.
+counts:
+  biosamples: 35.0
+  samples_acgh: 0.0
+  samples_ccgh: 35.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.75
+    - 35.03
+    type: Point
+  info:
+    city: Kamigyo Ward
+    continent: ''
+    country: Japan
+    label: Kamigyo Ward, Japan
+    precision: city
+journal: Cancer Lett. 178(1), 2002
+notes: NA
+pmid: '11849745'
+title: Cytogenetic analysis of infantile neuroblastomas by comparative genomic hybridization.
+year: '2002'

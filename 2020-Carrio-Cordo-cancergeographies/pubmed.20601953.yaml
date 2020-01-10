@@ -1,0 +1,27 @@
+authors: Ernst T, Chase AJ, Score J, Hidalgo-Curtis CE, Bryant C, Jones AV, Waghorn
+  K, Zoi K, Ross FM, Reiter A, Hochhaus A, Drexler HG, Duncombe A, Cervantes F, Oscier
+  D, Boultwood J, Grand FH, Cross NC.
+counts:
+  biosamples: 156.0
+  samples_acgh: 156.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.4
+    - 50.9
+    type: Point
+  info:
+    city: Southampton
+    continent: ''
+    country: United Kingdom
+    label: Southampton, United Kingdom, Europe
+    precision: city
+journal: Nat. Genet. 42(8), 2010
+notes: NA
+pmid: '20601953'
+title: Inactivating mutations of the histone methyltransferase gene EZH2 in myeloid
+  disorders.
+year: '2010'

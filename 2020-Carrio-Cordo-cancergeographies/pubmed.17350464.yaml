@@ -1,0 +1,26 @@
+authors: Selvarajah S, Yoshimoto M, Prasad M, Shago M, Squire JA, Zielenska M, Somers
+  GR.
+counts:
+  biosamples: 3.0
+  samples_acgh: 3.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 174(1), 2007
+notes: NA
+pmid: '17350464'
+title: Characterization of trisomy 8 in pediatric undifferentiated sarcomas using
+  advanced molecular cytogenetic techniques.
+year: '2007'

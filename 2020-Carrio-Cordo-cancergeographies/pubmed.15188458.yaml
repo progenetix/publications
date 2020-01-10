@@ -1,0 +1,25 @@
+authors: Partheen K, Levan K, Osterberg L, Helou K, Horvath G.
+counts:
+  biosamples: 98.0
+  samples_acgh: 0.0
+  samples_ccgh: 98.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: ''
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 40(4), 2004
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: '15188458'
+title: Analysis of cytogenetic alterations in stage III serous ovarian adenocarcinoma
+  reveals a heterogeneous group regarding survival, surgical outcome, and substage.
+year: '2004'

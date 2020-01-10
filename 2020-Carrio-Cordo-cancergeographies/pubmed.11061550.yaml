@@ -1,0 +1,26 @@
+authors: Pack SD, Kirschner LS, Pak E, Zhuang Z, Carney JA, Stratakis CA.
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 4.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: J. Clin. Endocrinol. Metab. 85(10), 2000
+notes: NA
+pmid: '11061550'
+title: Genetic and histologic studies of somatomammotropic pituitary tumors in patients
+  with the "complex of spotty skin pigmentation, myxomas, endocrine overactivity and
+  schwannomas" (Carney complex).
+year: '2000'

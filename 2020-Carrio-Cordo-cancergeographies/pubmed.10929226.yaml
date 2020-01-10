@@ -1,0 +1,24 @@
+authors: "Bockm\xFChl U, K\xFCchler I, Petersen I."
+counts:
+  biosamples: 100.0
+  samples_acgh: 0.0
+  samples_ccgh: 100.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: ''
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: HNO 48(6), 2000
+notes: NA
+pmid: '10929226'
+title: '[Improved prognostic assessment of head-neck carcinomas by new genetic markers]'
+year: '2000'

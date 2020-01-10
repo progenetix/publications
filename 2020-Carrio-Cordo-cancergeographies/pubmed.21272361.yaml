@@ -1,0 +1,25 @@
+authors: Przybytkowski E, Ferrario C, Basik M.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.59
+    - 45.51
+    type: Point
+  info:
+    city: Montreal
+    continent: ''
+    country: Canada
+    label: Montreal, Canada, North America
+    precision: city
+journal: BMC Med Genomics 4, 2011
+notes: NA
+pmid: '21272361'
+title: The use of ultra-dense array CGH analysis for the discovery of micro-copy number
+  alterations and gene fusions in the cancer genome.
+year: '2011'

@@ -1,0 +1,25 @@
+authors: Martinez P, Birkbak NJ, Gerlinger M, McGranahan N, Burrell RA, Rowan AJ,
+  Joshi T, Fisher R, Larkin J, Szallasi Z, Swanton C.
+counts:
+  biosamples: 63.0
+  samples_acgh: 63.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: J. Pathol. 230(4), 2013
+notes: 63 overall tumor CNA profiles.
+pmid: '23716380'
+title: Parallel evolution of tumour subclones mimics diversity between tumours.
+year: '2013'

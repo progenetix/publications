@@ -1,0 +1,25 @@
+authors: "Schaub R, Burger A, Bausch D, Niggli FK, Sch\xE4fer BW, Betts DR."
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.55
+    - 47.37
+    type: Point
+  info:
+    city: Zurich
+    continent: ''
+    country: Switzerland
+    label: Zurich, Switzerland, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 172(1), 2007
+notes: NA
+pmid: '17175381'
+title: Array comparative genomic hybridization reveals unbalanced gain of the MYCN
+  region in Wilms tumors.
+year: '2007'

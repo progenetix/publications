@@ -1,0 +1,24 @@
+authors: "Ashktorab H, Sch\xE4ffer AA, Daremipouran M, Smoot DT, Lee E, Brim H."
+counts:
+  biosamples: 15.0
+  samples_acgh: 15.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -89.41
+    - 40.7
+    type: Point
+  info:
+    city: Washington
+    continent: ''
+    country: United States
+    label: Washington, United States, North America
+    precision: city
+journal: PLoS ONE 5(1), 2010
+notes: NA
+pmid: '20126641'
+title: Distinct genetic alterations in colorectal cancer.
+year: '2010'

@@ -1,0 +1,26 @@
+authors: Lacroix-Triki M, Suarez PH, MacKay A, Lambros MB, Natrajan R, Savage K, Geyer
+  FC, Weigelt B, Ashworth A, Reis-Filho JS.
+counts:
+  biosamples: 49.0
+  samples_acgh: 49.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: J. Pathol. 222(3), 2010
+notes: NA
+pmid: '20815046'
+title: Mucinous carcinoma of the breast is genomically distinct from invasive ductal
+  carcinomas of no special type.
+year: '2010'

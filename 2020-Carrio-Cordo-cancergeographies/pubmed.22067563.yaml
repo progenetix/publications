@@ -1,0 +1,25 @@
+authors: Wakimoto H, Mohapatra G, Kanai R, Curry WT, Yip S, Nitta M, Patel AP, Barnard
+  ZR, Stemmer-Rachamimov AO, Louis DN, Martuza RL, Rabkin SD.
+counts:
+  biosamples: 7.0
+  samples_acgh: 7.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Neuro-oncology 14(2), 2012
+notes: NA
+pmid: '22067563'
+title: Maintenance of primary tumor phenotype and genotype in glioblastoma stem cells.
+year: '2012'

@@ -1,0 +1,26 @@
+authors: Aguilera NS, Chen J, Bijwaard KE, Director-Myska AE, Barekman CL, Millward
+  C, Lichy J, Abbondanzo SL.
+counts:
+  biosamples: 8.0
+  samples_acgh: 0.0
+  samples_ccgh: 8.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -89.41
+    - 40.7
+    type: Point
+  info:
+    city: Washington
+    continent: ''
+    country: United States
+    label: Washington, United States, North America
+    precision: city
+journal: Arch. Pathol. Lab. Med. 130(12), 2006
+notes: NA
+pmid: '17149949'
+title: Gene rearrangement and comparative genomic hybridization studies of classic
+  Hodgkin lymphoma expressing T-cell antigens.
+year: '2006'

@@ -1,0 +1,25 @@
+authors: Hui AB, Pang JC, Ko CW, Ng HK.
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Hum. Pathol. 30(9), 1999
+notes: NA
+pmid: '10492035'
+title: Detection of chromosomal imbalances in growth hormone-secreting pituitary tumors
+  by comparative genomic hybridization.
+year: '1999'

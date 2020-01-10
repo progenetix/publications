@@ -1,0 +1,25 @@
+authors: Mairal A, Terrier P, Chibon F, Sastre X, Lecesne A, Aurias A.
+counts:
+  biosamples: 30.0
+  samples_acgh: 0.0
+  samples_ccgh: 30.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 111(2), 1999
+notes: NA
+pmid: '10347550'
+title: Loss of chromosome 13 is the most frequent genomic imbalance in malignant fibrous
+  histiocytomas. A comparative genomic hybridization analysis of a series of 30 cases.
+year: '1999'

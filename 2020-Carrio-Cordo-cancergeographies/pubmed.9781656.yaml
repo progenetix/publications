@@ -1,0 +1,25 @@
+authors: Ullmann R, Schwendel A, Klemen H, Wolf G, Petersen I, Popper HH.
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 15.45
+    - 47.07
+    type: Point
+  info:
+    city: Graz
+    continent: ''
+    country: Austria
+    label: Graz, Austria, Europe
+    precision: city
+journal: Hum. Pathol. 29(10), 1998
+notes: NA
+pmid: '9781656'
+title: Unbalanced chromosomal aberrations in neuroendocrine lung tumors as detected
+  by comparative genomic hybridization.
+year: '1998'

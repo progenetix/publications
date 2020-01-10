@@ -1,0 +1,27 @@
+authors: "Griewank KG, Westekemper H, Murali R, Mach M, Schilling B, Wiesner T, Schimming\
+  \ T, Livingstone E, Sucker A, Grabellus F, Metz C, S\xFCsskind D, Hillen U, Speicher\
+  \ MR, Woodman SE, Steuhl KP, Schadendorf D."
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.01
+    - 51.46
+    type: Point
+  info:
+    city: Essen
+    continent: ''
+    country: Germany
+    label: Essen, Germany, Europe
+    precision: city
+journal: Clin. Cancer Res. 19(12), 2013
+notes: NA
+pmid: '23633454'
+title: Conjunctival melanomas harbor BRAF and NRAS mutations and copy number changes
+  similar to cutaneous and mucosal melanomas.
+year: '2013'

@@ -1,0 +1,26 @@
+authors: Ramirez T, Thoma K, Taja-Chayeb L, Efferth T, Herrera LA, Halatsch ME, Gebhart
+  E.
+counts:
+  biosamples: 8.0
+  samples_acgh: 0.0
+  samples_ccgh: 8.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.01
+    - 49.59
+    type: Point
+  info:
+    city: Erlangen
+    continent: ''
+    country: Germany
+    label: Erlangen, Germany, Europe
+    precision: city
+journal: Int. J. Oncol. 23(2), 2003
+notes: NA
+pmid: '12851695'
+title: Specific patterns of DNA copy number gains and losses in eight new glioblastoma
+  multiforme cell lines.
+year: '2003'

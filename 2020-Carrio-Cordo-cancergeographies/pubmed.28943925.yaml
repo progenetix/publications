@@ -1,0 +1,26 @@
+authors: Mikkelsen LH, Andreasen S, Melchior LC, Persson M, Andersen JD, Pereira V,
+  Toft PB, Morling N, Stenman G, Heegaard S.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.57
+    - 55.68
+    type: Point
+  info:
+    city: Copenhagen
+    continent: ''
+    country: Denmark
+    label: null
+    precision: city
+journal: Oncol Lett 14(4), 2017
+notes: One lacrimal oncocytoma with +8 and -22 (single copy changes each).
+pmid: '28943925'
+title: Genomic and immunohistochemical characterisation of a lacrimal gland oncocytoma
+  and review of literature.
+year: '2017'

@@ -1,0 +1,26 @@
+authors: Roessler S, Lin G, Forgues M, Budhu A, Hoover S, Simpson RM, Wu X, He P,
+  Qin LX, Tang ZY, Ye QH, Wang XW.
+counts:
+  biosamples: 39.0
+  samples_acgh: 39.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Int. J. Biol. Sci. 11(1), 2015
+notes: ''
+pmid: '25552933'
+title: Integrative genomic and transcriptomic characterization of matched primary
+  and metastatic liver and colorectal carcinoma.
+year: '2015'

@@ -1,0 +1,25 @@
+authors: Nessling M, Solinas-Toldo S, Wilgenbus KK, Borchard F, Lichter P.
+counts:
+  biosamples: 23.0
+  samples_acgh: 0.0
+  samples_ccgh: 23.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 23(4), 1998
+notes: NA
+pmid: '9824203'
+title: Mapping of chromosomal imbalances in gastric adenocarcinoma revealed amplified
+  protooncogenes MYCN, MET, WNT2, and ERBB2.
+year: '1998'

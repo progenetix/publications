@@ -1,0 +1,27 @@
+authors: "Ried T, Just KE, Holtgreve-Grez H, du Manoir S, Speicher MR, Schr\xF6ck\
+  \ E, Latham C, Blegen H, Zetterberg A, Cremer T."
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Cancer Res. 55(22), 1995
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: '7585611'
+title: Comparative genomic hybridization of formalin-fixed, paraffin-embedded breast
+  tumors reveals different patterns of chromosomal gains and losses in fibroadenomas
+  and diploid and aneuploid carcinomas.
+year: '1995'

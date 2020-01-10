@@ -1,0 +1,25 @@
+authors: Norris AL, Roberts NJ, Jones S, Wheelan SJ, Papadopoulos N, Vogelstein B,
+  Kinzler KW, Hruban RH, Klein AP, Eshleman JR.
+counts:
+  biosamples: 28.0
+  samples_acgh: 12.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 16.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.61
+    - 39.29
+    type: Point
+  info:
+    city: Baltimore
+    continent: ''
+    country: United States
+    label: Baltimore, United States, North America
+    precision: city
+journal: Fam. Cancer 14(1), 2015
+notes: NA
+pmid: '25240578'
+title: Familial and sporadic pancreatic cancer share the same molecular pathogenesis.
+year: '2015'

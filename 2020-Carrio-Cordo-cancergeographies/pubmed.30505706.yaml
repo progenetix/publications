@@ -1,0 +1,26 @@
+authors: Chaudhary R, Quagliata L, Martin JP, Alborelli I, Cyanam D, Mittal V, Tom
+  W, Au-Young J, Sadis S, Hyland F.
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 12.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.24
+    - 42.38
+    type: Point
+  info:
+    city: Waltham
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Transl Lung Cancer Res 7(6), 2018
+notes: No PDF available yet
+pmid: '30505706'
+title: 'A scalable solution for tumor mutational burden from formalin-fixed, paraffin-embedded
+  samples using the Oncomine Tumor Mutation Load Assay. '
+year: '2018'

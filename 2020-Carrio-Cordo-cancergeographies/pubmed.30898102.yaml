@@ -1,0 +1,26 @@
+authors: Harada K, Okamoto W, Mimaki S, Kawamoto Y, Bando H, Yamashita R, Yuki S,
+  Yoshino T, Komatsu Y, Ohtsu A, Sakamoto N, Tsuchihara K.
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 4.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.97
+    - 35.85
+    type: Point
+  info:
+    city: Kashiwa
+    continent: ''
+    country: Japan
+    label: null
+    precision: city
+journal: BMC Cancer 19(1), 2019
+notes: Number as from corresponding TCGA study (as date 21/03/2019)
+pmid: '30898102'
+title: Comparative sequence analysis of patient-matched primary colorectal cancer,
+  metastatic, and recurrent metastatic tumors after adjuvant FOLFOX chemotherapy.
+year: '2019'

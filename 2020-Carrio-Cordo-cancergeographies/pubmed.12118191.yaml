@@ -1,0 +1,26 @@
+authors: Kujawski M, Rydzanicz M, Sarlomo-Rikala M, Gabriel A, Szyfter K.
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.93
+    - 52.41
+    type: Point
+  info:
+    city: Poznan
+    continent: ''
+    country: Poland
+    label: Poznan, Poland, Europe
+    precision: city
+journal: Med. Sci. Monit. 8(7), 2002
+notes: Only aberrations common to primary tumor and metastases were reported in the
+  publication.
+pmid: '12118191'
+title: Chromosome alterations reflect clonal evolution in squamous cell carcinoma
+  of the larynx.
+year: '2002'

@@ -1,0 +1,28 @@
+authors: "Brown D, Smeets D, Sz\xE9kely B, Larsimont D, Sz\xE1sz AM, Adnet PY, Roth\xE9\
+  \ F, Rouas G, Nagy ZI, Farag\xF3 Z, T\u0151k\xE9s AM, Dank M, Szentm\xE1rtoni G,\
+  \ Udvarhelyi N, Zoppoli G, Pusztai L, Piccart M, Kulka J, Lambrechts D, Sotiriou\
+  \ C, Desmedt C."
+counts:
+  biosamples: 115.0
+  samples_acgh: 64.0
+  samples_ccgh: 0.0
+  samples_wes: 51.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.35
+    - 50.85
+    type: Point
+  info:
+    city: Brussels
+    continent: ''
+    country: Belgium
+    label: Brussels, Belgium, Europe
+    precision: city
+journal: Nat Commun 8, 2017
+notes: According to the text, 27 samples had WES results.
+pmid: '28429735'
+title: Phylogenetic analysis of metastatic progression in breast cancer using somatic
+  mutations and copy number aberrations.
+year: '2017'

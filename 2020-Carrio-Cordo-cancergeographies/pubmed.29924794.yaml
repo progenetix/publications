@@ -1,0 +1,26 @@
+authors: Burns MB, Montassier E, Abrahante J, Priya S, Niccum DE, Khoruts A, Starr
+  TK, Knights D, Blekhman R.
+counts:
+  biosamples: 44.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 44.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.26
+    - 44.98
+    type: Point
+  info:
+    city: Minneapolis
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: PLoS Genet. 14(6), 2018
+notes: No PDF available yet
+pmid: '29924794'
+title: Colorectal cancer mutational profiles correlate with defined microbial communities
+  in the tumor microenvironment.
+year: '2018'

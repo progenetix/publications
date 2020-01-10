@@ -1,0 +1,25 @@
+authors: Carter M, Nicholson J, Ross F, Crolla J, Allibone R, Balaji V, Perry R, Walker
+  D, Gilbertson R, Ellison DW.
+counts:
+  biosamples: 86.0
+  samples_acgh: 0.0
+  samples_ccgh: 86.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.4
+    - 50.9
+    type: Point
+  info:
+    city: Southampton
+    continent: ''
+    country: United Kingdom
+    label: Southampton, United Kingdom, Europe
+    precision: city
+journal: Br. J. Cancer 86(6), 2002
+notes: NA
+pmid: '11953826'
+title: Genetic abnormalities detected in ependymomas by comparative genomic hybridisation.
+year: '2002'

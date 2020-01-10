@@ -1,0 +1,26 @@
+authors: Slovak ML, Smith DD, Bedell V, Hsu YH, O'Donnell M, Forman SJ, Gaal K, McDaniel
+  L, Schultz R, Ballif BC, Shaffer LG.
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.43
+    - 47.66
+    type: Point
+  info:
+    city: Spokane
+    continent: ''
+    country: United States
+    label: Spokane, United States, North America
+    precision: city
+journal: Mol Cytogenet 3, 2010
+notes: NA
+pmid: '21078186'
+title: Assessing karyotype precision by microarray-based comparative genomic hybridization
+  in the myelodysplastic/myeloproliferative syndromes.
+year: '2010'

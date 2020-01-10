@@ -1,0 +1,29 @@
+authors: "Assi\xE9 G, Letouz\xE9 E, Fassnacht M, Jouinot A, Luscap W, Barreau O, Omeiri\
+  \ H, Rodriguez S, Perlemoine K, Ren\xE9-Corail F, Elarouci N, Sbiera S, Kroiss M,\
+  \ Allolio B, Waldmann J, Quinkler M, Mannelli M, Mantero F, Papathomas T, De Krijger\
+  \ R, Tabarin A, Kerlan V, Baudin E, Tissier F, Dousset B, Groussin L, Amar L, Clauser\
+  \ E, Bertagna X, Ragazzon B, Beuschlein F, Lib\xE9 R, de Reyni\xE8s A, Bertherat\
+  \ J."
+counts:
+  biosamples: 76.0
+  samples_acgh: 76.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Nat. Genet. 46(6), 2014
+notes: NA
+pmid: '24747642'
+title: Integrated genomic characterization of adrenocortical carcinoma.
+year: '2014'

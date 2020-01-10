@@ -1,0 +1,25 @@
+authors: "Bockm\xFChl U, Petersen I, Schwendel A, Dietel M."
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: ''
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: Laryngorhinootologie 75(7), 1996
+notes: NA
+pmid: '8924169'
+title: '[Genetic screening of head-neck carcinomas using comparative genomic hybridization
+  (CGH)]'
+year: '1996'

@@ -1,0 +1,26 @@
+authors: Xue R, Li R, Guo H, Guo L, Su Z, Ni X, Qi L, Zhang T, Li Q, Zhang Z, Xie
+  XS, Bai F, Zhang N.
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 10.0
+  samples_wgs: 10.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.0
+    - 0.0
+    type: Point
+  info:
+    city: null
+    continent: ''
+    country: null
+    label: null
+    precision: null
+journal: Gastroenterology 150(4), 2016
+notes: ''
+pmid: '26752112'
+title: Variable Intra-Tumor Genomic Heterogeneity of Multiple Lesions in Patients
+  With Hepatocellular Carcinoma.
+year: '2016'

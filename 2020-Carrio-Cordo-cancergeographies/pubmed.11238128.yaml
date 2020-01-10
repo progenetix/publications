@@ -1,0 +1,26 @@
+authors: Franke S, Wlodarska I, Maes B, Vandenberghe P, Delabie J, Hagemeijer A, De
+  Wolf-Peeters C.
+counts:
+  biosamples: 19.0
+  samples_acgh: 0.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.7
+    - 50.88
+    type: Point
+  info:
+    city: Leuven
+    continent: ''
+    country: Belgium
+    label: Leuven, Belgium, Europe
+    precision: city
+journal: Blood 97(6), 2001
+notes: NA
+pmid: '11238128'
+title: Lymphocyte predominance Hodgkin disease is characterized by recurrent genomic
+  imbalances.
+year: '2001'

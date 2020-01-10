@@ -1,0 +1,25 @@
+authors: Chang H, Jackson DG, Kayne PS, Ross-Macdonald PB, Ryseck RP, Siemers NO.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -80.41
+    - 25.54
+    type: Point
+  info:
+    city: Princeton
+    continent: ''
+    country: United States
+    label: Princeton, United States, North America
+    precision: city
+journal: PLoS ONE 6(6), 2011
+notes: NA
+pmid: '21701589'
+title: Exome sequencing reveals comprehensive genomic alterations across eight cancer
+  cell lines.
+year: '2011'

@@ -1,0 +1,28 @@
+authors: "Scholtysik R, Kreuz M, Klapper W, Burkhardt B, Feller AC, Hummel M, Loeffler\
+  \ M, Rosolowski M, Schwaenen C, Spang R, Stein H, Thorns C, Tr\xFCmper L, Vater\
+  \ I, Wessendorf S, Zenz T, Siebert R, K\xFCppers R, Molecular Mechanisms in Malignant\
+  \ Lymphomas Network Project of Deutsche Krebshilfe."
+counts:
+  biosamples: 39.0
+  samples_acgh: 39.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.01
+    - 51.46
+    type: Point
+  info:
+    city: Essen
+    continent: ''
+    country: Germany
+    label: Essen, Germany, Europe
+    precision: city
+journal: Haematologica 95(12), 2010
+notes: NA
+pmid: '20823134'
+title: Detection of genomic aberrations in molecularly defined Burkitt's lymphoma
+  by array-based, high resolution, single nucleotide polymorphism analysis.
+year: '2010'

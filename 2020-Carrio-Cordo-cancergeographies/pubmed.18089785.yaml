@@ -1,0 +1,26 @@
+authors: "Ad\xE9la\xEFde J, Finetti P, Bekhouche I, Repellini L, Geneix J, Sircoulomb\
+  \ F, Charafe-Jauffret E, Cervera N, Desplans J, Parzy D, Schoenmakers E, Viens P,\
+  \ Jacquemier J, Birnbaum D, Bertucci F, Chaffanet M."
+counts:
+  biosamples: 93.0
+  samples_acgh: 93.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.38
+    - 43.3
+    type: Point
+  info:
+    city: Marseille
+    continent: ''
+    country: France
+    label: Marseille, France, Europe
+    precision: city
+journal: Cancer Res. 67(24), 2007
+notes: NA
+pmid: '18089785'
+title: Integrated profiling of basal and luminal breast cancers.
+year: '2007'

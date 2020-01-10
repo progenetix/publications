@@ -1,0 +1,26 @@
+authors: "Muller D, Rouleau E, Schultz I, Caputo S, Lefol C, Bi\xE8che I, Caron O,\
+  \ Nogu\xE8s C, Limacher JM, Demange L, Lidereau R, Fricker JP, Abecassis J."
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.75
+    - 48.58
+    type: Point
+  info:
+    city: Strasbourg
+    continent: ''
+    country: France
+    label: Strasbourg, France, Europe
+    precision: city
+journal: BMC Med. Genet. 12, 2011
+notes: NA
+pmid: '21939546'
+title: 'An entire exon 3 germ-line rearrangement in the BRCA2 gene: pathogenic relevance
+  of exon 3 deletion in breast cancer predisposition.'
+year: '2011'

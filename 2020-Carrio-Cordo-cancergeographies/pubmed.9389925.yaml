@@ -1,0 +1,26 @@
+authors: Lastowska M, Cotterill S, Pearson AD, Roberts P, McGuckin A, Lewis I, Bown
+  N.
+counts:
+  biosamples: 18.0
+  samples_acgh: 0.0
+  samples_ccgh: 18.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.6099999999999999
+    - 54.97
+    type: Point
+  info:
+    city: Newcastle upon Tyne
+    continent: ''
+    country: United Kingdom
+    label: Newcastle upon Tyne, United Kingdom, Europe
+    precision: city
+journal: Eur. J. Cancer 33(10), 1997
+notes: Only karyotypes and CGH status of chromosome 17 are presented.
+pmid: '9389925'
+title: Gain of chromosome arm 17q predicts unfavourable outcome in neuroblastoma patients.
+  U.K. Children's Cancer Study Group and the U.K. Cancer Cytogenetics Group.
+year: '1997'

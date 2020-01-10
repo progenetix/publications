@@ -1,0 +1,27 @@
+authors: Kiel MJ, Sahasrabuddhe AA, Rolland DC, Velusamy T, Chung F, Schaller M, Bailey
+  NG, Betz BL, Miranda RN, Porcu P, Byrd JC, Medeiros LJ, Kunkel SL, Bahler DW, Lim
+  MS, Elenitoba-Johnson KS.
+counts:
+  biosamples: 152.0
+  samples_acgh: 80.0
+  samples_ccgh: 0.0
+  samples_wes: 66.0
+  samples_wgs: 6.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: ''
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: Nat Commun 6, 2015
+notes: ''
+pmid: '26415585'
+title: "Genomic analyses reveal recurrent mutations in epigenetic modifiers and the\
+  \ JAK-STAT pathway in S\xE9zary syndrome."
+year: '2015'

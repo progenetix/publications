@@ -1,0 +1,26 @@
+authors: Selvarajah S, Yoshimoto M, Ludkovski O, Park PC, Bayani J, Thorner P, Maire
+  G, Squire JA, Zielenska M.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Cytogenet. Genome Res. 122(1), 2008
+notes: NA
+pmid: '18931480'
+title: Genomic signatures of chromosomal instability and osteosarcoma progression
+  detected by high resolution array CGH and interphase FISH.
+year: '2008'

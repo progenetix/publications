@@ -1,0 +1,26 @@
+authors: Mao X, Young BD, Chaplin T, Shipley J, Lu YJ.
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: null
+    precision: city
+journal: Cancer Lett. 267(1), 2008
+notes: The exact number of samples analysed by aCGH is not clear from the article's
+  text.
+pmid: '18407410'
+title: Subtle genomic alterations and genomic instability revealed in diploid cancer
+  cell lines.
+year: '2008'

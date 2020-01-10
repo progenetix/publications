@@ -1,0 +1,24 @@
+authors: Jin J, Niu J, Kim YM, Wang X, Parham D, Letton R, Li S, Lee JY.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.56
+    - 43.85
+    type: Point
+  info:
+    city: Jilin
+    continent: ''
+    country: China
+    label: Jilin, China, Asia
+    precision: city
+journal: Cancer Genet 204(11), 2011
+notes: NA
+pmid: '22200087'
+title: A novel t(8;13)(q21;q22) translocation in a pediatric lipoma.
+year: '2011'

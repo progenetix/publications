@@ -1,0 +1,25 @@
+authors: Levin NA, Brzoska PM, Warnock ML, Gray JW, Christman MF.
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 13(3), 1995
+notes: NA
+pmid: '7669737'
+title: Identification of novel regions of altered DNA copy number in small cell lung
+  tumors.
+year: '1995'

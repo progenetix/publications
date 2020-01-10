@@ -1,0 +1,26 @@
+authors: Hansen TV, Vikesaa J, Buhl SS, Rossing HH, Timmermans-Wielenga V, Nielsen
+  FC.
+counts:
+  biosamples: 65.0
+  samples_acgh: 65.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.57
+    - 55.68
+    type: Point
+  info:
+    city: Copenhagen
+    continent: ''
+    country: Denmark
+    label: Copenhagen, Denmark, Europe
+    precision: city
+journal: BMC Cancer 15, 2015
+notes: ''
+pmid: '25655188'
+title: High-density SNP arrays improve detection of HER2 amplification and polyploidy
+  in breast tumors.
+year: '2015'

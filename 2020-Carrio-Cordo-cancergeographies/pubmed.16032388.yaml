@@ -1,0 +1,25 @@
+authors: Kuhnen C, Herter P, Kasprzynski A, Vogt M, Jaworska M, Johnen G.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.22
+    - 51.48
+    type: Point
+  info:
+    city: Bochum
+    continent: ''
+    country: Germany
+    label: Bochum, Germany, Europe
+    precision: city
+journal: Pathologe 26(5), 2005
+notes: NA
+pmid: '16032388'
+title: '[Myoepithelioma of soft tissue -- case report with clinicopathologic, ultrastructural,
+  and cytogenetic findings].'
+year: '2005'

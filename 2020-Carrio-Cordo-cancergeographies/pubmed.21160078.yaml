@@ -1,0 +1,33 @@
+authors: "Weiss J, Sos ML, Seidel D, Peifer M, Zander T, Heuckmann JM, Ullrich RT,\
+  \ Menon R, Maier S, Soltermann A, Moch H, Wagener P, Fischer F, Heynck S, Koker\
+  \ M, Sch\xF6ttle J, Leenders F, Gabler F, Dabow I, Querings S, Heukamp LC, Balke-Want\
+  \ H, Ans\xE9n S, Rauh D, Baessmann I, Altm\xFCller J, Wainer Z, Conron M, Wright\
+  \ G, Russell P, Solomon B, Brambilla E, Brambilla C, Lorimier P, Sollberg S, Brustugun\
+  \ OT, Engel-Riedel W, Ludwig C, Petersen I, S\xE4nger J, Clement J, Groen H, Timens\
+  \ W, Sietsma H, Thunnissen E, Smit E, Heideman D, Cappuzzo F, Ligorio C, Damiani\
+  \ S, Hallek M, Beroukhim R, Pao W, Klebl B, Baumann M, Buettner R, Ernestus K, Stoelben\
+  \ E, Wolf J, N\xFCrnberg P, Perner S, Thomas RK."
+counts:
+  biosamples: 155.0
+  samples_acgh: 155.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.95
+    - 50.93
+    type: Point
+  info:
+    city: Koeln
+    continent: ''
+    country: Germany
+    label: Koeln, Germany, Europe
+    precision: city
+journal: Sci Transl Med 2(62), 2010
+notes: NA
+pmid: '21160078'
+title: Frequent and focal FGFR1 amplification associates with therapeutically tractable
+  FGFR1 dependency in squamous cell lung cancer.
+year: '2010'

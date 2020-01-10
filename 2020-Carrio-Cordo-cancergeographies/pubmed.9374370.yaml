@@ -1,0 +1,26 @@
+authors: "Heselmeyer K, du Manoir S, Blegen H, Friberg B, Svensson C, Schr\xF6ck E,\
+  \ Veldman T, Shah K, Auer G, Ried T."
+counts:
+  biosamples: 23.0
+  samples_acgh: 0.0
+  samples_ccgh: 23.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Br. J. Cancer 76(10), 1997
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: '9374370'
+title: A recurrent pattern of chromosomal aberrations and immunophenotypic appearance
+  defines anal squamous cell carcinomas.
+year: '1997'

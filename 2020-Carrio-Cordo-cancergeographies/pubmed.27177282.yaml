@@ -1,0 +1,25 @@
+authors: "St\xE5lberg K, Crona J, Razmara M, Taslica D, Skogseid B, St\xE5lberg P."
+counts:
+  biosamples: 43.0
+  samples_acgh: 43.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.64
+    - 59.86
+    type: Point
+  info:
+    city: Uppsala
+    continent: ''
+    country: Sweden
+    label: Uppsala, Sweden, Europe
+    precision: city
+journal: Int. J. Gynecol. Cancer 26(6), 2016
+notes: ''
+pmid: '27177282'
+title: An Integrative Genomic Analysis of Formalin Fixed Paraffin-Embedded Archived
+  Serous Ovarian Carcinoma Comparing Long-term and Short-term Survivors.
+year: '2016'

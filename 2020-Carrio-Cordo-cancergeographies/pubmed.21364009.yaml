@@ -1,0 +1,26 @@
+authors: van Zijl F, Mall S, Machat G, Pirker C, Zeillinger R, Weinhaeusel A, Bilban
+  M, Berger W, Mikulits W.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.37
+    - 48.21
+    type: Point
+  info:
+    city: Vienna
+    continent: ''
+    country: Austria
+    label: Vienna, Austria, Europe
+    precision: city
+journal: Mol. Cancer Ther. 10(5), 2011
+notes: NA
+pmid: '21364009'
+title: A human model of epithelial to mesenchymal transition to monitor drug efficacy
+  in hepatocellular carcinoma progression.
+year: '2011'

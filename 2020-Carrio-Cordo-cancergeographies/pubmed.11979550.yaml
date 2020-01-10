@@ -1,0 +1,25 @@
+authors: "Kraggerud SM, Skotheim RI, Szymanska J, Eknaes M, Foss\xE5 SD, Stenwig AE,\
+  \ Peltom\xE4ki P, Lothe RA."
+counts:
+  biosamples: 33.0
+  samples_acgh: 0.0
+  samples_ccgh: 33.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 34(2), 2002
+notes: NA
+pmid: '11979550'
+title: Genome profiles of familial/bilateral and sporadic testicular germ cell tumors.
+year: '2002'

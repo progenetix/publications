@@ -1,0 +1,28 @@
+authors: "Mallo M, Del Rey M, Ib\xE1\xF1ez M, Calasanz MJ, Arenillas L, Larr\xE1yoz\
+  \ MJ, Pedro C, Jerez A, Maciejewski J, Costa D, Nomdedeu M, Diez-Campelo M, Lumbreras\
+  \ E, Gonz\xE1lez-Mart\xEDnez T, Marug\xE1n I, Such E, Cervera J, Cigudosa JC, Alvarez\
+  \ S, Florensa L, Hern\xE1ndez JM, Sol\xE9 F."
+counts:
+  biosamples: 81.0
+  samples_acgh: 81.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.25
+    - 41.45
+    type: Point
+  info:
+    city: Badalona
+    continent: ''
+    country: Spain
+    label: Badalona, Spain, Europe
+    precision: city
+journal: Br. J. Haematol. 162(1), 2013
+notes: ''
+pmid: '23614682'
+title: 'Response to lenalidomide in myelodysplastic syndromes with del(5q): influence
+  of cytogenetics and mutations.'
+year: '2013'

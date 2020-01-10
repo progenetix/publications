@@ -1,0 +1,25 @@
+authors: Ascoli V, Aalto Y, Carnovale-Scalzo C, Nardi F, Falzetti D, Mecucci C, Knuutila
+  S.
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 4.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.51
+    - 41.89
+    type: Point
+  info:
+    city: Rome
+    continent: ''
+    country: Italy
+    label: Rome, Italy, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 127(1), 2001
+notes: NA
+pmid: '11408072'
+title: DNA copy number changes in familial malignant mesothelioma.
+year: '2001'

@@ -1,0 +1,24 @@
+authors: Guenthoer J, Diede SJ, Tanaka H, Chai X, Hsu L, Tapscott SJ, Porter PL.
+counts:
+  biosamples: 0.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.33
+    - 47.61
+    type: Point
+  info:
+    city: Seattle
+    continent: ''
+    country: United States
+    label: Seattle, United States, North America
+    precision: city
+journal: Genome Res. 22(2), 2012
+notes: ''
+pmid: '21752925'
+title: Assessment of palindromes as platforms for DNA amplification in breast cancer.
+year: '2012'

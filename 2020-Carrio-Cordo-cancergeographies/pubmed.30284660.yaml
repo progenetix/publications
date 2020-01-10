@@ -1,0 +1,25 @@
+authors: Fahiminiya S, Sabbaghian N, Albrecht S, Nadaf J, Callegaro-Filho D, Foulkes
+  WD.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 1.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.59
+    - 45.51
+    type: Point
+  info:
+    city: Montreal
+    continent: ''
+    country: Canada
+    label: null
+    precision: city
+journal: Fam. Cancer, 2018
+notes: No PDF available yet
+pmid: '30284660'
+title: "Ovarian small cell carcinoma in one of a\xEF\xBF\xBDpair of monozygous twins."
+year: '2018'

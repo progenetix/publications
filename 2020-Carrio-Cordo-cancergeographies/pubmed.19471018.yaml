@@ -1,0 +1,29 @@
+authors: Leich E, Salaverria I, Bea S, Zettl A, Wright G, Moreno V, Gascoyne RD, Chan
+  WC, Braziel RM, Rimsza LM, Weisenburger DD, Delabie J, Jaffe ES, Lister A, Fitzgibbon
+  J, Staudt LM, Hartmann EM, Mueller-Hermelink HK, Campo E, Ott G, Rosenwald A.
+counts:
+  biosamples: 195.0
+  samples_acgh: 11.0
+  samples_ccgh: 184.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.95
+    - 49.79
+    type: Point
+  info:
+    city: Wuerzburg
+    continent: ''
+    country: Germany
+    label: Wuerzburg, Germany, Europe
+    precision: city
+journal: Blood 114(4), 2009
+notes: 126 cases with imbalances by cCGH were extracted from the NCBI SKY-CGH database.
+  Additional 58 no change cases were added to match the total number provided in the
+  article.
+pmid: '19471018'
+title: Follicular lymphomas with and without translocation t(14;18) differ in gene
+  expression profiles and genetic alterations.
+year: '2009'

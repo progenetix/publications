@@ -1,0 +1,26 @@
+authors: Ward S, Harding B, Wilkins P, Harkness W, Hayward R, Darling JL, Thomas DG,
+  Warr T.
+counts:
+  biosamples: 40.0
+  samples_acgh: 0.0
+  samples_ccgh: 40.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 32(1), 2001
+notes: NA
+pmid: '11477662'
+title: Gain of 1q and loss of 22 are the most common changes detected by comparative
+  genomic hybridisation in paediatric ependymoma.
+year: '2001'

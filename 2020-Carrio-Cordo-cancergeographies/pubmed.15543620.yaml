@@ -1,0 +1,26 @@
+authors: "Wikman H, Nymark P, V\xE4yrynen A, Jarmalaite S, Kallioniemi A, Salmenkivi\
+  \ K, Vainio-Siukola K, Husgafvel-Pursiainen K, Knuutila S, Wolf M, Anttila S."
+counts:
+  biosamples: 7.0
+  samples_acgh: 7.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 42(2), 2005
+notes: NA
+pmid: '15543620'
+title: CDK4 is a probable target gene in a novel amplicon at 12q13.3-q14.1 in lung
+  cancer.
+year: '2005'

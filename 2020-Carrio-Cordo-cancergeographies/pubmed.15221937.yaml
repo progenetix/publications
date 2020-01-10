@@ -1,0 +1,26 @@
+authors: "Albrecht B, Hausmann M, Zitzelsberger H, Stein H, Siewert JR, Hopt U, Langer\
+  \ R, H\xF6fler H, Werner M, Walch A."
+counts:
+  biosamples: 18.0
+  samples_acgh: 18.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.85
+    - 48.0
+    type: Point
+  info:
+    city: Freiburg
+    continent: ''
+    country: Germany
+    label: Freiburg, Germany, Europe
+    precision: city
+journal: J. Pathol. 203(3), 2004
+notes: NA
+pmid: '15221937'
+title: Array-based comparative genomic hybridization for the detection of DNA sequence
+  copy number changes in Barrett's adenocarcinoma.
+year: '2004'

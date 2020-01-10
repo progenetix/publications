@@ -1,0 +1,27 @@
+authors: Astolfi A, Nannini M, Pantaleo MA, Di Battista M, Heinrich MC, Santini D,
+  Catena F, Corless CL, Maleddu A, Saponara M, Lolli C, Di Scioscio V, Formica S,
+  Biasco G.
+counts:
+  biosamples: 25.0
+  samples_acgh: 25.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.34
+    - 44.49
+    type: Point
+  info:
+    city: Bologna
+    continent: ''
+    country: Italy
+    label: Bologna, Italy, Europe
+    precision: city
+journal: Lab. Invest. 90(9), 2010
+notes: NA
+pmid: '20548289'
+title: 'A molecular portrait of gastrointestinal stromal tumors: an integrative analysis
+  of gene expression profiling and high-resolution genomic copy number.'
+year: '2010'

@@ -1,0 +1,25 @@
+authors: D'Haese JG, Tsukasaki K, Cremer FW, Fischer C, Bartram CR, Jauch A.
+counts:
+  biosamples: 32.0
+  samples_acgh: 0.0
+  samples_ccgh: 32.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 162(2), 2005
+notes: NA
+pmid: '16213357'
+title: Chromosomal aberrations in follicular non-Hodgkin lymphomas of Japanese patients,
+  detected with comparative genomic hybridization and polymerase chain reaction analysis.
+year: '2005'

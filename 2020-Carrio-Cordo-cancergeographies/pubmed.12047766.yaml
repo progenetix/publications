@@ -1,0 +1,26 @@
+authors: "Zudaire I, Odero MD, Caballero C, Valenti C, Mart\xEDnez-Penuela JM, Isola\
+  \ J, Calasanz MJ."
+counts:
+  biosamples: 70.0
+  samples_acgh: 0.0
+  samples_ccgh: 70.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.6400000000000001
+    - 42.82
+    type: Point
+  info:
+    city: Pamplona
+    continent: ''
+    country: Spain
+    label: Pamplona, Spain, Europe
+    precision: city
+journal: Histopathology 40(6), 2002
+notes: NA
+pmid: '12047766'
+title: Genomic imbalances detected by comparative genomic hybridization are prognostic
+  markers in invasive ductal breast carcinomas.
+year: '2002'

@@ -1,0 +1,26 @@
+authors: "Ghadimi BM, Schr\xF6ck E, Walker RL, Wangsa D, Jauho A, Meltzer PS, Ried\
+  \ T."
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Am. J. Pathol. 154(2), 1999
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: '10027410'
+title: Specific chromosomal aberrations and amplification of the AIB1 nuclear receptor
+  coactivator gene in pancreatic carcinomas.
+year: '1999'

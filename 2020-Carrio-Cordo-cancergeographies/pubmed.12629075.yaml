@@ -1,0 +1,25 @@
+authors: Bernard MH, Sidhu S, Berger N, Peix JL, Marsh DJ, Robinson BG, Gaston V,
+  Le Bouc Y, Gicquel C.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.85
+    - 45.75
+    type: Point
+  info:
+    city: Lyon
+    continent: ''
+    country: France
+    label: Lyon, France, Europe
+    precision: city
+journal: J. Clin. Endocrinol. Metab. 88(3), 2003
+notes: NA
+pmid: '12629075'
+title: A case report in favor of a multistep adrenocortical tumorigenesis.
+year: '2003'

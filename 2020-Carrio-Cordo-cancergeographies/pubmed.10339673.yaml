@@ -1,0 +1,27 @@
+authors: Komoike Y, Tamaki Y, Sakita I, Tomita N, Ohue M, Sekimoto M, Miyazaki M,
+  Kadota M, Masuda N, Ooka M, Ohnishi T, Nakano Y, Kozaki T, Kobayashi T, Matsuura
+  N, Ikeda T, Horii A, Monden M.
+counts:
+  biosamples: 11.0
+  samples_acgh: 0.0
+  samples_ccgh: 11.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.5
+    - 34.69
+    type: Point
+  info:
+    city: Osaka-shi
+    continent: ''
+    country: Japan
+    label: Osaka-shi, Japan, Asia
+    precision: city
+journal: Int. J. Oncol. 14(6), 1999
+notes: NA
+pmid: '10339673'
+title: Comparative genomic hybridization defines frequent loss on 16p in human anaplastic
+  thyroid carcinoma.
+year: '1999'

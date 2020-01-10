@@ -1,0 +1,25 @@
+authors: Mackinnon RN, Selan C, Zordan A, Wall M, Nandurkar H, Campbell LJ.
+counts:
+  biosamples: 12.0
+  samples_acgh: 12.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: ''
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: Mol Cytogenet 5, 2012
+notes: NA
+pmid: '22300816'
+title: CGH and SNP array using DNA extracted from fixed cytogenetic preparations and
+  long-term refrigerated bone marrow specimens.
+year: '2012'

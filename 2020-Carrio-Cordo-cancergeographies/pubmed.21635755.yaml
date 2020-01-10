@@ -1,0 +1,25 @@
+authors: Kim HK, Kim J, Korolevich S, Choi IJ, Kim CH, Munroe DJ, Green JE.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: BMC Med Genomics 4, 2011
+notes: NA
+pmid: '21635755'
+title: Distinctions in gastric cancer gene expression signatures derived from laser
+  capture microdissection versus histologic macrodissection.
+year: '2011'

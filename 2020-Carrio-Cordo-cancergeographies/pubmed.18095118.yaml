@@ -1,0 +1,26 @@
+authors: Kagawa N, Maruno M, Suzuki T, Hashiba T, Hashimoto N, Izumoto S, Yoshimine
+  T.
+counts:
+  biosamples: 13.0
+  samples_acgh: 13.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.5
+    - 34.69
+    type: Point
+  info:
+    city: Osaka-shi
+    continent: ''
+    country: Japan
+    label: Osaka-shi, Japan, Asia
+    precision: city
+journal: Brain Tumor Pathol 23(1), 2006
+notes: NA
+pmid: '18095118'
+title: Detection of genetic and chromosomal aberrations in medulloblastomas and primitive
+  neuroectodermal tumors with DNA microarrays.
+year: '2006'

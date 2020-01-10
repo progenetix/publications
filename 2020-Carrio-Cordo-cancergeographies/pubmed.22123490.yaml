@@ -1,0 +1,25 @@
+authors: Kitada K, Aida S, Aikawa S.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.55
+    - 35.31
+    type: Point
+  info:
+    city: Kamakura
+    continent: ''
+    country: Japan
+    label: Kamakura, Japan, Asia
+    precision: city
+journal: Cytogenet. Genome Res. 136(1), 2012
+notes: NA
+pmid: '22123490'
+title: Coamplification of multiple regions of chromosome 2, including MYCN, in a single
+  patchwork amplicon in cancer cell lines.
+year: '2012'

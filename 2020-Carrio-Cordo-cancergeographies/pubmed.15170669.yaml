@@ -1,0 +1,25 @@
+authors: "Camps J, Morales C, Prat E, Ribas M, Capell\xE0 G, Egozcue J, Peinado MA,\
+  \ Mir\xF3 R."
+counts:
+  biosamples: 8.0
+  samples_acgh: 0.0
+  samples_ccgh: 8.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Int. J. Cancer 110(6), 2004
+notes: NA
+pmid: '15170669'
+title: Genetic evolution in colon cancer KM12 cells and metastatic derivates.
+year: '2004'

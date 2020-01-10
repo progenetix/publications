@@ -1,0 +1,26 @@
+authors: "Tanner MM, Karhu RA, Nupponen NN, Borg A, Baldetorp B, Pejovic T, Fern\xF6\
+  \ M, Killander D, Isola JJ."
+counts:
+  biosamples: 15.0
+  samples_acgh: 0.0
+  samples_ccgh: 15.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: ''
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: Am. J. Pathol. 153(1), 1998
+notes: NA
+pmid: '9665480'
+title: 'Genetic aberrations in hypodiploid breast cancer: frequent loss of chromosome
+  4 and amplification of cyclin D1 oncogene.'
+year: '1998'

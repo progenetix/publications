@@ -1,0 +1,26 @@
+authors: "Abdel-Rahman WM, Lotsari-Salomaa JE, Kaur S, Niskakoski A, Knuutila S, J\xE4\
+  rvinen H, Mecklin JP, Peltom\xE4ki P."
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 55.41
+    - 25.34
+    type: Point
+  info:
+    city: Sharjah
+    continent: ''
+    country: Arab Emirates
+    label: Sharjah, Arab Emirates, Asia
+    precision: city
+journal: Gastroenterol Res Pract 2016, 2016
+notes: CGH data of 1 cell line described in article
+pmid: '27047543'
+title: "The Role of Chromosomal Instability and Epigenetics in Colorectal Cancers\
+  \ Lacking \u03B2-Catenin/TCF Regulated Transcription."
+year: '2016'

@@ -1,0 +1,26 @@
+authors: Mosse YP, Diskin SJ, Wasserman N, Rinaldi K, Attiyeh EF, Cole K, Jagannathan
+  J, Bhambhani K, Winter C, Maris JM.
+counts:
+  biosamples: 82.0
+  samples_acgh: 82.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: ''
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 46(10), 2007
+notes: NA
+pmid: '17647283'
+title: Neuroblastomas have distinct genomic DNA profiles that predict clinical phenotype
+  and regional gene expression.
+year: '2007'

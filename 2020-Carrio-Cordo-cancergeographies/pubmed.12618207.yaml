@@ -1,0 +1,25 @@
+authors: Scolozzi P, Lombardi T, Maire G, Pedeutour F, Richter M.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.15
+    - 46.2
+    type: Point
+  info:
+    city: Geneve
+    continent: ''
+    country: Switzerland
+    label: Geneve, Switzerland, Europe
+    precision: city
+journal: Oral Oncol. 39(3), 2003
+notes: NA
+pmid: '12618207'
+title: Infiltrating intramuscular lipoma of the temporal muscle. A case report with
+  molecular cytogenetic analysis.
+year: '2003'

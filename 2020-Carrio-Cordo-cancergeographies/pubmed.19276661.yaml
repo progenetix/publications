@@ -1,0 +1,27 @@
+authors: Ma C, Quesnelle KM, Sparano A, Rao S, Park MS, Cohen MA, Wang Y, Samanta
+  M, Kumar MS, Aziz MU, Naylor TL, Weber BL, Fakharzadeh SS, Weinstein GS, Vachani
+  A, Feldman MD, Brose MS.
+counts:
+  biosamples: 184.0
+  samples_acgh: 184.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: ''
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: Cancer Biol. Ther. 8(10), 2009
+notes: NA
+pmid: '19276661'
+title: Characterization CSMD1 in a large set of primary lung, head and neck, breast
+  and skin cancer tissues.
+year: '2009'

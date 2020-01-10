@@ -1,0 +1,25 @@
+authors: Osterberg L, Levan K, Partheen K, Helou K, Horvath G.
+counts:
+  biosamples: 63.0
+  samples_acgh: 0.0
+  samples_ccgh: 63.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: ''
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 163(2), 2005
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: '16337857'
+title: Cytogenetic analysis of carboplatin resistance in early-stage epithelial ovarian
+  carcinoma.
+year: '2005'

@@ -1,0 +1,27 @@
+authors: Weil RJ, Vortmeyer AO, Zhuang Z, Pack SD, Theodore N, Erickson RK, Oldfield
+  EH.
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 4.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: J. Neurosurg. 96(4), 2002
+notes: NA
+pmid: '11990821'
+title: Clinical and molecular analysis of disseminated hemangioblastomatosis of the
+  central nervous system in patients without von Hippel-Lindau disease. Report of
+  four cases.
+year: '2002'

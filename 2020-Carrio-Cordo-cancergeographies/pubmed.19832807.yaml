@@ -1,0 +1,27 @@
+authors: Capello D, Scandurra M, Poretti G, Rancoita PM, Mian M, Gloghini A, Deambrogi
+  C, Martini M, Rossi D, Greiner TC, Chan WC, Ponzoni M, Moreno SM, Piris MA, Canzonieri
+  V, Spina M, Tirelli U, Inghirami G, Rinaldi A, Zucca E, Favera RD, Cavalli F, Larocca
+  LM, Kwee I, Carbone A, Gaidano G, Bertoni F.
+counts:
+  biosamples: 43.0
+  samples_acgh: 0.0
+  samples_ccgh: 43.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.62
+    - 45.45
+    type: Point
+  info:
+    city: Novara
+    continent: ''
+    country: Italy
+    label: Novara, Italy, Europe
+    precision: city
+journal: Br. J. Haematol. 148(2), 2010
+notes: NA
+pmid: '19832807'
+title: Genome wide DNA-profiling of HIV-related B-cell lymphomas.
+year: '2010'

@@ -1,0 +1,26 @@
+authors: Brookman-Amissah N, Duchesnes C, Williamson MP, Wang Q, Ahmed A, Feneley
+  MR, Mackay A, Freeman A, Fenwick K, Iravani M, Weber B, Ashworth A, Masters JR.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Prostate Cancer Prostatic Dis. 8(4), 2005
+notes: NA
+pmid: '16130014'
+title: Genome-wide screening for genetic changes in a matched pair of benign and prostate
+  cancer cell lines using array CGH.
+year: '2005'

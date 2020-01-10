@@ -1,0 +1,25 @@
+authors: Harada K, Nishizaki T, Ozaki S, Kubota H, Ito H, Sasaki K.
+counts:
+  biosamples: 21.0
+  samples_acgh: 0.0
+  samples_ccgh: 21.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Cancer Res. 58(20), 1998
+notes: NA
+pmid: '9788624'
+title: Intratumoral cytogenetic heterogeneity detected by comparative genomic hybridization
+  and laser scanning cytometry in human gliomas.
+year: '1998'

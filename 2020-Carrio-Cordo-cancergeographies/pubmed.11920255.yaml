@@ -1,0 +1,27 @@
+authors: "Vizcarra E, Mart\xEDnez-Climent JA, Benet I, Marugan I, Terol MJ, Prosper\
+  \ F, Marco J, Sanchez D, Ferrandez A, Tormo M, Sarsotti E, Ferrer R, Garc\xEDa M,\
+  \ Ortu\xF1o F, Montagud M, Garc\xEDa-Conde J."
+counts:
+  biosamples: 7.0
+  samples_acgh: 0.0
+  samples_ccgh: 7.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: ''
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: Hematol. J. 2(4), 2001
+notes: NA
+pmid: '11920255'
+title: Identification of two subgroups of mantle cell leukemia with distinct clinical
+  and biological features.
+year: '2001'

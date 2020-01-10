@@ -1,0 +1,25 @@
+authors: Boonstra R, Koning A, Mastik M, van den Berg A, Poppema S.
+counts:
+  biosamples: 8.0
+  samples_acgh: 0.0
+  samples_ccgh: 8.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.57
+    - 53.22
+    type: Point
+  info:
+    city: Groningen
+    continent: ''
+    country: The Netherlands
+    label: Groningen, The Netherlands
+    precision: city
+journal: Virchows Arch. 443(2), 2003
+notes: NA
+pmid: '12802586'
+title: 'Analysis of chromosomal copy number changes and oncoprotein expression in
+  primary central nervous system lymphomas: frequent loss of chromosome arm 6q.'
+year: '2003'

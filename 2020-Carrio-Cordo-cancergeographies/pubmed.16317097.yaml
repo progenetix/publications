@@ -1,0 +1,26 @@
+authors: Chen W, Houldsworth J, Olshen AB, Nanjangud G, Chaganti S, Venkatraman ES,
+  Halaas J, Teruya-Feldstein J, Zelenetz AD, Chaganti RS.
+counts:
+  biosamples: 64.0
+  samples_acgh: 64.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Blood 107(6), 2006
+notes: NA
+pmid: '16317097'
+title: Array comparative genomic hybridization reveals genomic copy number changes
+  associated with outcome in diffuse large B-cell lymphomas.
+year: '2006'

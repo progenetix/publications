@@ -1,0 +1,26 @@
+authors: "Tremmel SC, G\xF6tte K, Popp S, Weber S, H\xF6rmann K, Bartram CR, Jauch\
+  \ A."
+counts:
+  biosamples: 79.0
+  samples_acgh: 0.0
+  samples_ccgh: 79.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 144(2), 2003
+notes: NA
+pmid: '12850380'
+title: Intratumoral genomic heterogeneity in advanced head and neck cancer detected
+  by comparative genomic hybridization.
+year: '2003'

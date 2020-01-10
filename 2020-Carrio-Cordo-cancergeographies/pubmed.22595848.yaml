@@ -1,0 +1,25 @@
+authors: Chen Z, Liu Z, Deng X, Warden C, Li W, Garcia-Aguilar J.
+counts:
+  biosamples: 70.0
+  samples_acgh: 70.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.98
+    - 34.14
+    type: Point
+  info:
+    city: Duarte
+    continent: ''
+    country: United States
+    label: Duarte, United States, North America
+    precision: city
+journal: Dis. Colon Rectum 55(6), 2012
+notes: NA
+pmid: '22595848'
+title: Chromosomal copy number alterations are associated with persistent lymph node
+  metastasis after chemoradiation in locally advanced rectal cancer.
+year: '2012'

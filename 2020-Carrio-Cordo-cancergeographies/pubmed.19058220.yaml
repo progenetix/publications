@@ -1,0 +1,26 @@
+authors: Dafou D, Ramus SJ, Choi K, Grun B, Trott DA, Newbold RF, Jacobs IJ, Jones
+  C, Gayther SA.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: null
+    precision: city
+journal: Int. J. Cancer 124(5), 2009
+notes: Samples from 55 Italian and 36 German patients were processed by aCGH.
+pmid: '19058220'
+title: Chromosomes 6 and 18 induce neoplastic suppression in epithelial ovarian cancer
+  cells.
+year: '2009'

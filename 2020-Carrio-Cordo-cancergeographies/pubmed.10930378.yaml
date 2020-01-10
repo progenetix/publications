@@ -1,0 +1,25 @@
+authors: Chen YJ, Yeh SH, Chen JT, Wu CC, Hsu MT, Tsai SF, Chen PJ, Lin CH.
+counts:
+  biosamples: 62.0
+  samples_acgh: 0.0
+  samples_ccgh: 62.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: ''
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: Gastroenterology 119(2), 2000
+notes: NA
+pmid: '10930378'
+title: Chromosomal changes and clonality relationship between primary and recurrent
+  hepatocellular carcinoma.
+year: '2000'

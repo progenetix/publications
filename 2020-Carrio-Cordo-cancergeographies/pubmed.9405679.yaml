@@ -1,0 +1,26 @@
+authors: "Weber RG, Bostr\xF6m J, Wolter M, Baudis M, Collins VP, Reifenberger G,\
+  \ Lichter P."
+counts:
+  biosamples: 59.0
+  samples_acgh: 0.0
+  samples_ccgh: 59.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 94(26), 1997
+notes: NA
+pmid: '9405679'
+title: 'Analysis of genomic alterations in benign, atypical, and anaplastic meningiomas:
+  toward a genetic model of meningioma progression.'
+year: '1997'

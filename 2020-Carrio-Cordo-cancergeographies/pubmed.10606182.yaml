@@ -1,0 +1,25 @@
+authors: Malamou-Mitsi VD, Syrrou M, Georgiou I, Pagoulatos G, Agnantis NJ.
+counts:
+  biosamples: 8.0
+  samples_acgh: 0.0
+  samples_ccgh: 8.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 20.85
+    - 39.66
+    type: Point
+  info:
+    city: Ioannina
+    continent: ''
+    country: Greece
+    label: Ioannina, Greece, Europe
+    precision: city
+journal: J. Exp. Clin. Cancer Res. 18(3), 1999
+notes: NA
+pmid: '10606182'
+title: Analysis of chromosomal aberrations in breast cancer by comparative genomic
+  hybridization (CGH). Correlation with histoprognostic variables and c-erbB-2 immunoexpression.
+year: '1999'

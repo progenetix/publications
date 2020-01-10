@@ -1,0 +1,26 @@
+authors: Langemeijer SM, Kuiper RP, Berends M, Knops R, Aslanyan MG, Massop M, Stevens-Linders
+  E, van Hoogen P, van Kessel AG, Raymakers RA, Kamping EJ, Verhoef GE, Verburgh E,
+  Hagemeijer A, Vandenberghe P, de Witte T, van der Reijden BA, Jansen JH.
+counts:
+  biosamples: 102.0
+  samples_acgh: 102.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ''
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city
+journal: Nat. Genet. 41(7), 2009
+notes: NA
+pmid: '19483684'
+title: Acquired mutations in TET2 are common in myelodysplastic syndromes.
+year: '2009'

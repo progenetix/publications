@@ -1,0 +1,25 @@
+authors: Wilkens L, Bredt M, Flemming P, Klempnauer J, Heinrich Kreipe H.
+counts:
+  biosamples: 11.0
+  samples_acgh: 0.0
+  samples_ccgh: 11.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: ''
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: J. Pathol. 192(1), 2000
+notes: NA
+pmid: '10951399'
+title: Differentiation of multicentric origin from intra-organ metastatic spread of
+  hepatocellular carcinomas by comparative genomic hybridization.
+year: '2000'

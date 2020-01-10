@@ -1,0 +1,26 @@
+authors: Israeli O, Gotlieb WH, Friedman E, Goldman B, Ben-Baruch G, Aviram-Goldring
+  A, Rienstein S.
+counts:
+  biosamples: 46.0
+  samples_acgh: 0.0
+  samples_ccgh: 46.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 34.81
+    - 32.08
+    type: Point
+  info:
+    city: Ramat Gan
+    continent: ''
+    country: Israel
+    label: Ramat Gan, Israel, Asia
+    precision: city
+journal: Gynecol. Oncol. 90(3), 2003
+notes: NA
+pmid: '13678737'
+title: 'Familial vs sporadic ovarian tumors: characteristic genomic alterations analyzed
+  by CGH.'
+year: '2003'

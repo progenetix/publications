@@ -1,0 +1,25 @@
+authors: Riazimand SH, Brieger J, Jacob R, Welkoborsky HJ, Mann WJ.
+counts:
+  biosamples: 3.0
+  samples_acgh: 0.0
+  samples_ccgh: 3.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.28
+    - 49.98
+    type: Point
+  info:
+    city: Mainz
+    continent: ''
+    country: Germany
+    label: Mainz, Germany, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 136(1), 2002
+notes: NA
+pmid: '12165452'
+title: Analysis of cytogenetic aberrations in esthesioneuroblastomas by comparative
+  genomic hybridization.
+year: '2002'

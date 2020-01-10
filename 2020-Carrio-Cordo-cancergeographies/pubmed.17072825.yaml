@@ -1,0 +1,26 @@
+authors: Wild PJ, Giedl J, Stoehr R, Junker K, Boehm S, van Oers JM, Zwarthoff EC,
+  Blaszyk H, Fine SW, Humphrey PA, Dehner LP, Amin MB, Epstein JI, Hartmann A.
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.02
+    - 53.58
+    type: Point
+  info:
+    city: Hamburg
+    continent: ''
+    country: Germany
+    label: Hamburg, Germany, Europe
+    precision: city
+journal: J. Pathol. 211(1), 2007
+notes: NA
+pmid: '17072825'
+title: Genomic aberrations are rare in urothelial neoplasms of patients 19 years or
+  younger.
+year: '2007'

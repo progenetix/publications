@@ -1,0 +1,26 @@
+authors: Peiffer DA, Le JM, Steemers FJ, Chang W, Jenniges T, Garcia F, Haden K, Li
+  J, Shaw CA, Belmont J, Cheung SW, Shen RM, Barker DL, Gunderson KL.
+counts:
+  biosamples: 102.0
+  samples_acgh: 102.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.16
+    - 32.72
+    type: Point
+  info:
+    city: San Diego
+    continent: ''
+    country: United States
+    label: San Diego, United States, North America
+    precision: city
+journal: Genome Res. 16(9), 2006
+notes: NA
+pmid: '16899659'
+title: High-resolution genomic profiling of chromosomal aberrations using Infinium
+  whole-genome genotyping.
+year: '2006'

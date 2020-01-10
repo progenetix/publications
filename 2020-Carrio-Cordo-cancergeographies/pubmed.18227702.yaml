@@ -1,0 +1,26 @@
+authors: "van Gils W, Kilic E, Br\xFCggenwirth HT, Vaarwater J, Verbiest MM, Beverloo\
+  \ B, van Til-Berg ME, Paridaens D, Luyten GP, de Klein A."
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ''
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city
+journal: Melanoma Res. 18(1), 2008
+notes: NA
+pmid: '18227702'
+title: Regional deletion and amplification on chromosome 6 in a uveal melanoma case
+  without abnormalities on chromosomes 1p, 3 and 8.
+year: '2008'

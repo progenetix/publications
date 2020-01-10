@@ -1,0 +1,26 @@
+authors: "Pardo J, Aisa G, de Alava E, Sola JJ, Panizo A, Rodr\xEDguez-Spiteri N,\
+  \ Garc\xEDa JL, Torre W."
+counts:
+  biosamples: 3.0
+  samples_acgh: 0.0
+  samples_ccgh: 3.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.6400000000000001
+    - 42.82
+    type: Point
+  info:
+    city: Pamplona
+    continent: ''
+    country: Spain
+    label: Pamplona, Spain, Europe
+    precision: city
+journal: Diagn. Mol. Pathol. 17(3), 2008
+notes: NA
+pmid: '18382357'
+title: Primary mixed squamous carcinoma and osteosarcoma (carcinosarcomas) of the
+  lung have a CGH mapping similar to primitive squamous carcinomas and osteosarcomas.
+year: '2008'

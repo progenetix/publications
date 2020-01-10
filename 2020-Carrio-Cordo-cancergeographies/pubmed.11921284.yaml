@@ -1,0 +1,26 @@
+authors: "Schmidt H, Taubert H, W\xFCrl P, Kappler M, Lange H, Bartel F, Bache M,\
+  \ Holzhausen HJ, Hinze R."
+counts:
+  biosamples: 41.0
+  samples_acgh: 0.0
+  samples_ccgh: 41.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.36
+    - 52.06
+    type: Point
+  info:
+    city: Halle
+    continent: ''
+    country: Germany
+    label: Halle, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 34(1), 2002
+notes: NA
+pmid: '11921284'
+title: Gains of 12q are the most frequent genomic imbalances in adult fibrosarcoma
+  and are correlated with a poor outcome.
+year: '2002'

@@ -1,0 +1,26 @@
+authors: "Steininger A, M\xF6bs M, Ullmann R, K\xF6chert K, Kreher S, Lamprecht B,\
+  \ Anagnostopoulos I, Hummel M, Richter J, Beyer M, Janz M, Klemke CD, Stein H, D\xF6\
+  rken B, Sterry W, Schrock E, Mathas S, Assaf C."
+counts:
+  biosamples: 34.0
+  samples_acgh: 34.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: ''
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: J. Exp. Med. 208(8), 2011
+notes: ''
+pmid: '21788410'
+title: Genomic loss of the putative tumor suppressor gene E2A in human lymphoma.
+year: '2011'

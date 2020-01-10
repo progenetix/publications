@@ -1,0 +1,25 @@
+authors: Nowak NJ, Gaile D, Conroy JM, McQuaid D, Cowell J, Carter R, Goggins MG,
+  Hruban RH, Maitra A.
+counts:
+  biosamples: 33.0
+  samples_acgh: 33.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: ''
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 161(1), 2005
+notes: NA
+pmid: '16080956'
+title: Genome-wide aberrations in pancreatic adenocarcinoma.
+year: '2005'

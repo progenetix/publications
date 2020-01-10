@@ -1,0 +1,26 @@
+authors: Ehemann V, Kern MA, Breinig M, Schnabel PA, Gunawan B, Schulten HJ, Schlaeger
+  C, Radlwimmer B, Steger CM, Dienemann H, Lichter P, Schirmacher P, Rieker RJ.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Int. J. Cancer 122(12), 2008
+notes: NA
+pmid: '18360827'
+title: Establishment, characterization and drug sensitivity testing in primary cultures
+  of human thymoma and thymic carcinoma.
+year: '2008'

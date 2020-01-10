@@ -1,0 +1,26 @@
+authors: Chan TL, Curtis LC, Leung SY, Farrington SM, Ho JW, Chan AS, Lam PW, Tse
+  CW, Dunlop MG, Wyllie AH, Yuen ST.
+counts:
+  biosamples: 38.0
+  samples_acgh: 0.0
+  samples_ccgh: 38.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Oncogene 20(35), 2001
+notes: NA
+pmid: '11521198'
+title: Early-onset colorectal cancer with stable microsatellite DNA and near-diploid
+  chromosomes.
+year: '2001'

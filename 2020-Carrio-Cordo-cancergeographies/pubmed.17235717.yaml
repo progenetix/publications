@@ -1,0 +1,26 @@
+authors: "Schleicher C, Poremba C, Wolters H, Sch\xE4fer KL, Senninger N, Colombo-Benkmann\
+  \ M."
+counts:
+  biosamples: 33.0
+  samples_acgh: 0.0
+  samples_ccgh: 33.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: Ann. Surg. Oncol. 14(4), 2007
+notes: NA
+pmid: '17235717'
+title: 'Gain of chromosome 8q: a potential prognostic marker in resectable adenocarcinoma
+  of the pancreas?'
+year: '2007'

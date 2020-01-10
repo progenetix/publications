@@ -1,0 +1,26 @@
+authors: "Schwendel A, Langreck H, Reichel M, Schr\xF6ck E, Ried T, Dietel M, Petersen\
+  \ I."
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: ''
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: Int. J. Cancer 74(1), 1997
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: '9036875'
+title: Primary small-cell lung carcinomas and their metastases are characterized by
+  a recurrent pattern of genetic alterations.
+year: '1997'

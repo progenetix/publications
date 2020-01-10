@@ -1,0 +1,26 @@
+authors: "Balc\xE1rkov\xE1 J, Urb\xE1nkov\xE1 H, Scudla V, Holzerov\xE1 M, Bacovsk\xFD\
+  \ J, Indr\xE1k K, Jarosov\xE1 M."
+counts:
+  biosamples: 4.0
+  samples_acgh: 2.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.25
+    - 49.6
+    type: Point
+  info:
+    city: Olomouc
+    continent: ''
+    country: Czech Republic
+    label: Olomouc, Czech Republic, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 192(2), 2009
+notes: NA
+pmid: '19596256'
+title: Gain of chromosome arm 1q in patients in relapse and progression of multiple
+  myeloma.
+year: '2009'

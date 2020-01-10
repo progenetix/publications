@@ -1,0 +1,26 @@
+authors: Braude I, Vukovic B, Prasad M, Marrano P, Turley S, Barber D, Zielenska M,
+  Squire JA.
+counts:
+  biosamples: 5.0
+  samples_acgh: 5.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: BMC Genomics 7, 2006
+notes: NA
+pmid: '16756668'
+title: Large scale copy number variation (CNV) at 14q12 is associated with the presence
+  of genomic abnormalities in neoplasia.
+year: '2006'

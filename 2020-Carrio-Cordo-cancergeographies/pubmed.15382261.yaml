@@ -1,0 +1,27 @@
+authors: "Mel\xE9ndez B, D\xEDaz-Uriarte R, Cuadros M, Mart\xEDnez-Ram\xEDrez A, Fern\xE1\
+  ndez-Piqueras J, Dopazo A, Cigudosa JC, Rivas C, Dopazo J, Mart\xEDnez-Delgado B,\
+  \ Ben\xEDtez J."
+counts:
+  biosamples: 16.0
+  samples_acgh: 0.0
+  samples_ccgh: 16.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: ''
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 41(4), 2004
+notes: NA
+pmid: '15382261'
+title: Gene expression analysis of chromosomal regions with gain or loss of genetic
+  material detected by comparative genomic hybridization.
+year: '2004'

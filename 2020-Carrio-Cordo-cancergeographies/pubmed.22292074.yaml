@@ -1,0 +1,26 @@
+authors: Both J, Wu T, Bras J, Schaap GR, Baas F, Hulsebos TJ.
+counts:
+  biosamples: 0.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: PLoS ONE 7(1), 2012
+notes: whole genome high-resolution SNP array analysis using Illumina HumanCNV370-Quad
+  BeadChips
+pmid: '22292074'
+title: Identification of novel candidate oncogenes in chromosome region 17p11.2-p12
+  in human osteosarcoma.
+year: '2012'

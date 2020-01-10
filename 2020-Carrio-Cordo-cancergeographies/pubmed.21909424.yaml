@@ -1,0 +1,26 @@
+authors: "Panzeri E, Conconi D, Antolini L, Redaelli S, Valsecchi MG, Bovo G, Pallotti\
+  \ F, Vigan\xF2 P, Strada G, Dalpr\xE0 L, Bentivegna A."
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.27
+    - 45.58
+    type: Point
+  info:
+    city: Monza
+    continent: ''
+    country: Italy
+    label: Monza, Italy, Europe
+    precision: city
+journal: PLoS ONE 6(9), 2011
+notes: NA
+pmid: '21909424'
+title: 'Chromosomal aberrations in bladder cancer: fresh versus formalin fixed paraffin
+  embedded tissue and targeted FISH versus wide microarray-based CGH analysis.'
+year: '2011'

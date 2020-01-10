@@ -1,0 +1,25 @@
+authors: Wilkens L, Tchinda J, Burkhardt D, Nolte M, Werner M, Georgii A.
+counts:
+  biosamples: 33.0
+  samples_acgh: 0.0
+  samples_ccgh: 33.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: ''
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: Hum. Pathol. 29(8), 1998
+notes: NA
+pmid: '9712425'
+title: Analysis of hematologic diseases using conventional karyotyping, fluorescence
+  in situ hybridization (FISH), and comparative genomic hybridization (CGH).
+year: '1998'

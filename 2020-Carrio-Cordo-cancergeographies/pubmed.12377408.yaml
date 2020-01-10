@@ -1,0 +1,26 @@
+authors: Beheshti B, Vukovic B, Marrano P, Squire JA, Park PC.
+counts:
+  biosamples: 21.0
+  samples_acgh: 0.0
+  samples_ccgh: 21.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 137(1), 2002
+notes: NA
+pmid: '12377408'
+title: Resolution of genotypic heterogeneity in prostate tumors using polymerase chain
+  reaction and comparative genomic hybridization on microdissected carcinoma and prostatic
+  intraepithelial neoplasia foci.
+year: '2002'

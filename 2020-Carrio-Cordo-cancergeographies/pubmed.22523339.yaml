@@ -1,0 +1,26 @@
+authors: Takano EA, Rogers TM, Young RJ, Rayoo M, Kostos P, Ferguson R, Campbell IG,
+  Debiec-Rychter M, Fox SB.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: ''
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: J. Clin. Pathol. 65(8), 2012
+notes: NA
+pmid: '22523339'
+title: The molecular characterisation of unusual subcutaneous spindle cell lesion
+  of breast.
+year: '2012'

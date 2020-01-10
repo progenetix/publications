@@ -1,0 +1,26 @@
+authors: Norris EJ, Jones WD, Surleac MD, Petrescu AJ, Destephanis D, Zhang Q, Hamadeh
+  I, Kneisl JS, Livasy CA, Ganapathi RN, Tait DL, Ganapathi MK.
+counts:
+  biosamples: 3.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 3.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -80.84
+    - 35.23
+    type: Point
+  info:
+    city: Charlotte
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Gynecol Oncol Rep 23, 2018
+notes: No PDF available yet
+pmid: '29892687'
+title: Clonal lineage of high grade serous ovarian cancer in a patient with neurofibromatosis
+  type 1.
+year: '2018'

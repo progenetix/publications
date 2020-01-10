@@ -1,0 +1,27 @@
+authors: Tosello V, Mansour MR, Barnes K, Paganin M, Sulis ML, Jenkinson S, Allen
+  CG, Gale RE, Linch DC, Palomero T, Real P, Murty V, Yao X, Richards SM, Goldstone
+  A, Rowe J, Basso G, Wiernik PH, Paietta E, Pieters R, Horstmann M, Meijerink JP,
+  Ferrando AA.
+counts:
+  biosamples: 9.0
+  samples_acgh: 9.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Blood 114(5), 2009
+notes: NA
+pmid: '19494353'
+title: WT1 mutations in T-ALL.
+year: '2009'

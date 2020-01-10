@@ -1,0 +1,26 @@
+authors: Sparano A, Quesnelle KM, Kumar MS, Wang Y, Sylvester AJ, Feldman M, Sewell
+  DA, Weinstein GS, Brose MS.
+counts:
+  biosamples: 21.0
+  samples_acgh: 21.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: ''
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: Laryngoscope 116(5), 2006
+notes: NA
+pmid: '16652080'
+title: Genome-wide profiling of oral squamous cell carcinoma by array-based comparative
+  genomic hybridization.
+year: '2006'

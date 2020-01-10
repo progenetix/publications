@@ -1,0 +1,25 @@
+authors: Miettinen MM, el-Rifai W, Sarlomo-Rikala M, Andersson LC, Knuutila S.
+counts:
+  biosamples: 27.0
+  samples_acgh: 0.0
+  samples_ccgh: 27.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -89.41
+    - 40.7
+    type: Point
+  info:
+    city: Washington
+    continent: ''
+    country: United States
+    label: Washington, United States, North America
+    precision: city
+journal: Mod. Pathol. 10(12), 1997
+notes: NA
+pmid: '9436963'
+title: Tumor size-related DNA copy number changes occur in solitary fibrous tumors
+  but not in hemangiopericytomas.
+year: '1997'

@@ -1,0 +1,30 @@
+authors: Kilday JP, Mitra B, Domerg C, Ward J, Andreiuolo F, Osteso-Ibanez T, Mauguen
+  A, Varlet P, Le Deley MC, Lowe J, Ellison DW, Gilbertson RJ, Coyle B, Grill J, Grundy
+  RG.
+counts:
+  biosamples: 42.0
+  samples_acgh: 42.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.15
+    - 52.95
+    type: Point
+  info:
+    city: Nottingham
+    continent: ''
+    country: United Kingdom
+    label: Nottingham, United Kingdom, Europe
+    precision: city
+journal: Clin. Cancer Res. 18(7), 2012
+notes: ''
+pmid: '22338015'
+title: 'Copy number gain of 1q25 predicts poor progression-free survival for pediatric
+  intracranial ependymomas and enables patient risk stratification: a prospective
+  European clinical trial cohort analysis on behalf of the Children''s Cancer Leukaemia
+  Group (CCLG), Societe Francaise d''Oncologie Pediatrique (SFOP), and International
+  Society for Pediatric Oncology (SIOP).'
+year: '2012'

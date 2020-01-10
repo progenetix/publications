@@ -1,0 +1,27 @@
+authors: Steinemann D, Skawran B, Becker T, Tauscher M, Weigmann A, Wingen L, Tauscher
+  S, Hinrichsen T, Hertz S, Flemming P, Flik J, Wiese B, Kreipe H, Lichter P, Schlegelberger
+  B, Wilkens L.
+counts:
+  biosamples: 34.0
+  samples_acgh: 34.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: ''
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: Clin. Gastroenterol. Hepatol. 4(10), 2006
+notes: NA
+pmid: '16979954'
+title: Assessment of differentiation and progression of hepatic tumors using array-based
+  comparative genomic hybridization.
+year: '2006'

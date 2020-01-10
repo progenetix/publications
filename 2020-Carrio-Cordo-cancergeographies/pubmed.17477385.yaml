@@ -1,0 +1,25 @@
+authors: "Ferrer A, Salaverria I, Bosch F, Villamor N, Rozman M, Be\xE0 S, Gin\xE9\
+  \ E, L\xF3pez-Guillermo A, Campo E, Montserrat E."
+counts:
+  biosamples: 27.0
+  samples_acgh: 0.0
+  samples_ccgh: 27.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Cancer 109(12), 2007
+notes: NA
+pmid: '17477385'
+title: Leukemic involvement is a common feature in mantle cell lymphoma.
+year: '2007'

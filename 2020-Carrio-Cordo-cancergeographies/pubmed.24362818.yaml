@@ -1,0 +1,29 @@
+authors: "Okosun J, B\xF6d\xF6r C, Wang J, Araf S, Yang CY, Pan C, Boller S, Cittaro\
+  \ D, Bozek M, Iqbal S, Matthews J, Wrench D, Marzec J, Tawana K, Popov N, O'Riain\
+  \ C, O'Shea D, Carlotti E, Davies A, Lawrie CH, Matolcsy A, Calaminici M, Norton\
+  \ A, Byers RJ, Mein C, Stupka E, Lister TA, Lenz G, Montoto S, Gribben JG, Fan Y,\
+  \ Grosschedl R, Chelala C, Fitzgibbon J."
+counts:
+  biosamples: 91.0
+  samples_acgh: 91.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: null
+    precision: city
+journal: Nat. Genet. 46(2), 2014
+notes: 31 samples from 3 patients
+pmid: '24362818'
+title: Integrated genomic analysis identifies recurrent mutations and evolution patterns
+  driving the initiation and progression of follicular lymphoma.
+year: '2014'

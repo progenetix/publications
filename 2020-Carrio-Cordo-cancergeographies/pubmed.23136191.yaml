@@ -1,0 +1,28 @@
+authors: Spoerke JM, O'Brien C, Huw L, Koeppen H, Fridlyand J, Brachmann RK, Haverty
+  PM, Pandita A, Mohan S, Sampath D, Friedman LS, Ross L, Hampton GM, Amler LC, Shames
+  DS, Lackner MR.
+counts:
+  biosamples: 201.0
+  samples_acgh: 201.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.41
+    - 37.65
+    type: Point
+  info:
+    city: South San Francisco
+    continent: ''
+    country: United States
+    label: South San Francisco, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 18(24), 2012
+notes: NA
+pmid: '23136191'
+title: Phosphoinositide 3-kinase (PI3K) pathway alterations are associated with histologic
+  subtypes and are predictive of sensitivity to PI3K inhibitors in lung cancer preclinical
+  models.
+year: '2012'

@@ -1,0 +1,26 @@
+authors: "Jiang F, Desper R, Papadimitriou CH, Sch\xE4ffer AA, Kallioniemi OP, Richter\
+  \ J, Schraml P, Sauter G, Mihatsch MJ, Moch H."
+counts:
+  biosamples: 116.0
+  samples_acgh: 0.0
+  samples_ccgh: 116.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: ''
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: Cancer Res. 60(22), 2000
+notes: NA
+pmid: '11103820'
+title: Construction of evolutionary tree models for renal cell carcinoma from comparative
+  genomic hybridization data.
+year: '2000'

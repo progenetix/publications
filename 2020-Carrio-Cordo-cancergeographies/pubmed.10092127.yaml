@@ -1,0 +1,26 @@
+authors: Sakakura C, Mori T, Sakabe T, Ariyama Y, Shinomiya T, Date K, Hagiwara A,
+  Yamaguchi T, Takahashi T, Nakamura Y, Abe T, Inazawa J.
+counts:
+  biosamples: 58.0
+  samples_acgh: 0.0
+  samples_ccgh: 58.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.75
+    - 35.03
+    type: Point
+  info:
+    city: Kamigyo Ward
+    continent: ''
+    country: Japan
+    label: Kamigyo Ward, Japan
+    precision: city
+journal: Genes Chromosomes Cancer 24(4), 1999
+notes: NA
+pmid: '10092127'
+title: Gains, losses, and amplifications of genomic materials in primary gastric cancers
+  analyzed by comparative genomic hybridization.
+year: '1999'

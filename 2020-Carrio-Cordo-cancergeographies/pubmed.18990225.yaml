@@ -1,0 +1,26 @@
+authors: Hagenkord JM, Parwani AV, Lyons-Weiler MA, Alvarez K, Amato R, Gatalica Z,
+  Gonzalez-Berjon JM, Peterson L, Dhir R, Monzon FA.
+counts:
+  biosamples: 25.0
+  samples_acgh: 25.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.0
+    - 0.0
+    type: Point
+  info:
+    city: null
+    continent: ''
+    country: null
+    label: null
+    precision: null
+journal: Diagn Pathol 3, 2008
+notes: ''
+pmid: '18990225'
+title: Virtual karyotyping with SNP microarrays reduces uncertainty in the diagnosis
+  of renal epithelial tumors.
+year: '2008'

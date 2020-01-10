@@ -1,0 +1,26 @@
+authors: Schraders M, van Reijmersdal SV, Kamping EJ, van Krieken JH, van Kessel AG,
+  Groenen PJ, Hoogerbrugge PM, Kuiper RP.
+counts:
+  biosamples: 19.0
+  samples_acgh: 19.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ''
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city
+journal: Cancer Genet. Cytogenet. 191(1), 2009
+notes: NA
+pmid: '19389505'
+title: High-resolution genomic profiling of pediatric lymphoblastic lymphomas reveals
+  subtle differences with pediatric acute lymphoblastic leukemias in the B-lineage.
+year: '2009'

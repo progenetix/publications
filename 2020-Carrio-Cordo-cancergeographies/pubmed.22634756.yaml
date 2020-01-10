@@ -1,0 +1,30 @@
+authors: Fujimoto A, Totoki Y, Abe T, Boroevich KA, Hosoda F, Nguyen HH, Aoki M, Hosono
+  N, Kubo M, Miya F, Arai Y, Takahashi H, Shirakihara T, Nagasaki M, Shibuya T, Nakano
+  K, Watanabe-Makino K, Tanaka H, Nakamura H, Kusuda J, Ojima H, Shimada K, Okusaka
+  T, Ueno M, Shigekawa Y, Kawakami Y, Arihiro K, Ohdan H, Gotoh K, Ishikawa O, Ariizumi
+  S, Yamamoto M, Yamada T, Chayama K, Kosuge T, Yamaue H, Kamatani N, Miyano S, Nakagama
+  H, Nakamura Y, Tsunoda T, Shibata T, Nakagawa H.
+counts:
+  biosamples: 27.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 27.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.64
+    - 35.45
+    type: Point
+  info:
+    city: Yokohama
+    continent: ''
+    country: Japan
+    label: Yokohama, Japan, Asia
+    precision: city
+journal: Nat. Genet. 44(7), 2012
+notes: NA
+pmid: '22634756'
+title: Whole-genome sequencing of liver cancers identifies etiological influences
+  on mutation patterns and recurrent mutations in chromatin regulators.
+year: '2012'

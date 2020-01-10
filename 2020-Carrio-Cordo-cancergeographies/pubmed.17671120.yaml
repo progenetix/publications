@@ -1,0 +1,26 @@
+authors: van den Broek GB, Wreesmann VB, van den Brekel MW, Rasch CR, Balm AJ, Rao
+  PH.
+counts:
+  biosamples: 40.0
+  samples_acgh: 0.0
+  samples_ccgh: 40.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Clin. Cancer Res. 13(15 Pt 1), 2007
+notes: NA
+pmid: '17671120'
+title: Genetic abnormalities associated with chemoradiation resistance of head and
+  neck squamous cell carcinoma.
+year: '2007'

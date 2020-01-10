@@ -1,0 +1,26 @@
+authors: Ohshima K, Ishiguro M, Yamasaki S, Miyagi J, Okamura S, Sugio Y, Muta T,
+  Sasaki H, Tuchiya T, Kawasaki C, Kikuchi M.
+counts:
+  biosamples: 5.0
+  samples_acgh: 0.0
+  samples_ccgh: 5.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 130.42
+    - 33.61
+    type: Point
+  info:
+    city: Fukuoka-shi
+    continent: ''
+    country: Japan
+    label: Fukuoka-shi, Japan, Asia
+    precision: city
+journal: Leuk. Lymphoma 43(3), 2002
+notes: NA
+pmid: '12002764'
+title: Chromosomal and comparative genomic analyses of HHV-8-negative primary effusion
+  lymphoma in five HIV-negative Japanese patients.
+year: '2002'

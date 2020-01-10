@@ -1,0 +1,25 @@
+authors: Wilkens L, Bredt M, Flemming P, Kubicka S, Klempnauer J, Kreipe H.
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: ''
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: Am. J. Clin. Pathol. 114(6), 2000
+notes: NA
+pmid: '11338475'
+title: Cytogenetic aberrations in primary and recurrent fibrolamellar hepatocellular
+  carcinoma detected by comparative genomic hybridization.
+year: '2000'

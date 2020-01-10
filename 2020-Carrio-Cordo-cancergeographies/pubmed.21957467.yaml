@@ -1,0 +1,25 @@
+authors: "Robledo C, Garc\xEDa JL, Benito R, Flores T, Mollejo M, Mart\xEDnez-Climent\
+  \ J\xC1, Garc\xEDa E, Guti\xE9rrez NC, Piris MA, Hern\xE1ndez JM."
+counts:
+  biosamples: 91.0
+  samples_acgh: 91.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.68
+    - 40.43
+    type: Point
+  info:
+    city: Salamanca
+    continent: ''
+    country: Spain
+    label: Salamanca, Spain, Europe
+    precision: city
+journal: PLoS ONE 6(9), 2011
+notes: NA
+pmid: '21957467'
+title: Molecular characterization of the region 7q22.1 in splenic marginal zone lymphomas.
+year: '2011'

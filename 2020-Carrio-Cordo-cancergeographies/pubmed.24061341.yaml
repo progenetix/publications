@@ -1,0 +1,26 @@
+authors: "Aust N, Sch\xFCle S, Altendorf-Hofmann AK, Chen Y, Kn\xF6sel T, Dirsch O,\
+  \ Settmacher U, Weise A, Mrasek K, Liehr T."
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: ''
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: J. Cancer Res. Clin. Oncol. 139(11), 2013
+notes: NA
+pmid: '24061341'
+title: Loss of chromosome 4 correlates with better long-term survival and lower relapse
+  rate after R0-resection of colorectal liver metastases.
+year: '2013'

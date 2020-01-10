@@ -1,0 +1,26 @@
+authors: "Ros\xE9n A, Bergh AC, Gogok P, Evaldsson C, Myhrinder AL, Hellqvist E, Rasul\
+  \ A, Bj\xF6rkholm M, Jansson M, Mansouri L, Liu A, Teh BT, Rosenquist R, Klein E."
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 15.62
+    - 58.41
+    type: Point
+  info:
+    city: Linkoping
+    continent: ''
+    country: Sweden
+    label: Linkoping, Sweden, Europe
+    precision: city
+journal: Oncoimmunology 1(1), 2012
+notes: NA
+pmid: '22720208'
+title: Lymphoblastoid cell line with B1 cell characteristics established from a chronic
+  lymphocytic leukemia clone by in vitro EBV infection.
+year: '2012'

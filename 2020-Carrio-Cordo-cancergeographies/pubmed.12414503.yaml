@@ -1,0 +1,25 @@
+authors: Wreesmann VB, Ghossein RA, Patel SG, Harris CP, Schnaser EA, Shaha AR, Tuttle
+  RM, Shah JP, Rao PH, Singh B.
+counts:
+  biosamples: 42.0
+  samples_acgh: 0.0
+  samples_ccgh: 42.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Am. J. Pathol. 161(5), 2002
+notes: NA
+pmid: '12414503'
+title: Genome-wide appraisal of thyroid cancer progression.
+year: '2002'

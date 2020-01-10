@@ -1,0 +1,27 @@
+authors: Gallegos Ruiz MI, Floor K, Roepman P, Rodriguez JA, Meijer GA, Mooi WJ, Jassem
+  E, Niklinski J, Muley T, van Zandwijk N, Smit EF, Beebe K, Neckers L, Ylstra B,
+  Giaccone G.
+counts:
+  biosamples: 32.0
+  samples_acgh: 32.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: PLoS ONE 3(3), 2008
+notes: NA
+pmid: '18320023'
+title: Integration of gene dosage and gene expression in non-small cell lung cancer,
+  identification of HSP90 as potential target.
+year: '2008'

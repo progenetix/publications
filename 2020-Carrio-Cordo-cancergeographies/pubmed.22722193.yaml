@@ -1,0 +1,31 @@
+authors: Ellis MJ, Ding L, Shen D, Luo J, Suman VJ, Wallis JW, Van Tine BA, Hoog J,
+  Goiffon RJ, Goldstein TC, Ng S, Lin L, Crowder R, Snider J, Ballman K, Weber J,
+  Chen K, Koboldt DC, Kandoth C, Schierding WS, McMichael JF, Miller CA, Lu C, Harris
+  CC, McLellan MD, Wendl MC, DeSchryver K, Allred DC, Esserman L, Unzeitig G, Margenthaler
+  J, Babiera GV, Marcom PK, Guenther JM, Leitch M, Hunt K, Olson J, Tao Y, Maher CA,
+  Fulton LL, Fulton RS, Harrison M, Oberkfell B, Du F, Demeter R, Vickery TL, Elhammali
+  A, Piwnica-Worms H, McDonald S, Watson M, Dooling DJ, Ota D, Chang LW, Bose R, Ley
+  TJ, Piwnica-Worms D, Stuart JM, Wilson RK, Mardis ER.
+counts:
+  biosamples: 77.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 31.0
+  samples_wgs: 46.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -89.41
+    - 40.7
+    type: Point
+  info:
+    city: Washington
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Nature 486(7403), 2012
+notes: Samples from 55 Italian and 36 German patients were processed by aCGH.
+pmid: '22722193'
+title: Whole-genome analysis informs breast cancer response to aromatase inhibition.
+year: '2012'

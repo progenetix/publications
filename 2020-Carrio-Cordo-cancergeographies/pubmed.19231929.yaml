@@ -1,0 +1,24 @@
+authors: Ohba S, Yoshida K, Hirose Y, Ikeda E, Nakazato Y, Kawase T.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: J. Neurosurg. 111(3), 2009
+notes: NA
+pmid: '19231929'
+title: Cerebral tumor with extensive rhabdoid features and a favorable prognosis.
+year: '2009'

@@ -1,0 +1,26 @@
+authors: "Larramendy ML, Lushnikova T, Bj\xF6rkqvist AM, Wistuba II, Virmani AK, Shivapurkar\
+  \ N, Gazdar AF, Knuutila S."
+counts:
+  biosamples: 5.0
+  samples_acgh: 0.0
+  samples_ccgh: 5.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 119(2), 2000
+notes: NA
+pmid: '10867149'
+title: Comparative genomic hybridization reveals complex genetic changes in primary
+  breast cancer tumors and their cell lines.
+year: '2000'

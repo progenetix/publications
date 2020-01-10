@@ -1,0 +1,28 @@
+authors: "Sandgren J, Diaz de St\xE5hl T, Andersson R, Menzel U, Piotrowski A, Nord\
+  \ H, B\xE4ckdahl M, Kiss NB, Brauckhoff M, Komorowski J, Dralle H, Hessman O, Larsson\
+  \ C, Akerstr\xF6m G, Bruder C, Dumanski JP, Westin G."
+counts:
+  biosamples: 53.0
+  samples_acgh: 53.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.64
+    - 59.86
+    type: Point
+  info:
+    city: Uppsala
+    continent: ''
+    country: Sweden
+    label: Uppsala, Sweden, Europe
+    precision: city
+journal: Endocr. Relat. Cancer 17(3), 2010
+notes: NA
+pmid: '20410162'
+title: Recurrent genomic alterations in benign and malignant pheochromocytomas and
+  paragangliomas revealed by whole-genome array comparative genomic hybridization
+  analysis.
+year: '2010'

@@ -1,0 +1,26 @@
+authors: Pillonel V, Juskevicius D, Ng CKY, Bodmer A, Zettl A, Jucker D, Dirnhofer
+  S, Tzankov A.
+counts:
+  biosamples: 30.0
+  samples_acgh: 22.0
+  samples_ccgh: 0.0
+  samples_wes: 8.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: ''
+    country: Switzerland
+    label: null
+    precision: city
+journal: Leukemia, 2018
+notes: No PDF available yet
+pmid: '29556019'
+title: High-throughput sequencing of nodal marginal zone lymphomas identifies recurrent
+  BRAF mutations.
+year: '2018'

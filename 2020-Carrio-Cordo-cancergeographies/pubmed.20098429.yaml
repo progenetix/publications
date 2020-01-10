@@ -1,0 +1,26 @@
+authors: Li Y, Zou L, Li Q, Haibe-Kains B, Tian R, Li Y, Desmedt C, Sotiriou C, Szallasi
+  Z, Iglehart JD, Richardson AL, Wang ZC.
+counts:
+  biosamples: 50.0
+  samples_acgh: 50.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Nat. Med. 16(2), 2010
+notes: NA
+pmid: '20098429'
+title: Amplification of LAPTM4B and YWHAZ contributes to chemotherapy resistance and
+  recurrence of breast cancer.
+year: '2010'

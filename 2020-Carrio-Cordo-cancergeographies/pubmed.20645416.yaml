@@ -1,0 +1,25 @@
+authors: Mackinnon RN, Selan C, Wall M, Baker E, Nandurkar H, Campbell LJ.
+counts:
+  biosamples: 22.0
+  samples_acgh: 22.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: ''
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: Genes Chromosomes Cancer 49(11), 2010
+notes: NA
+pmid: '20645416'
+title: The paradox of 20q11.21 amplification in a subset of cases of myeloid malignancy
+  with chromosome 20 deletion.
+year: '2010'

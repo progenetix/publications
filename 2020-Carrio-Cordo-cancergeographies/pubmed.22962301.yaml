@@ -1,0 +1,26 @@
+authors: "Burnichon N, Buffet A, Parfait B, Letouz\xE9 E, Laurendeau I, Loriot C,\
+  \ Pasmant E, Abermil N, Valeyrie-Allanore L, Bertherat J, Amar L, Vidaud D, Favier\
+  \ J, Gimenez-Roqueplo AP."
+counts:
+  biosamples: 78.0
+  samples_acgh: 78.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Hum. Mol. Genet. 21(26), 2012
+notes: ''
+pmid: '22962301'
+title: Somatic NF1 inactivation is a frequent event in sporadic pheochromocytoma.
+year: '2012'

@@ -1,0 +1,25 @@
+authors: Nestler U, Schmidinger A, Schulz C, Huegens-Penzel M, Gamerdinger UA, Koehler
+  A, Kuchelmeister KW.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.68
+    - 50.59
+    type: Point
+  info:
+    city: Giessen
+    continent: ''
+    country: Germany
+    label: Giessen, Germany, Europe
+    precision: city
+journal: Zentralbl. Neurochir. 68(3), 2007
+notes: NA
+pmid: '17665342'
+title: Glioblastoma simultaneously present with meningioma--report of three cases.
+year: '2007'

@@ -1,0 +1,26 @@
+authors: Sieber OM, Heinimann K, Gorman P, Lamlum H, Crabtree M, Simpson CA, Davies
+  D, Neale K, Hodgson SV, Roylance RR, Phillips RK, Bodmer WF, Tomlinson IP.
+counts:
+  biosamples: 5.0
+  samples_acgh: 0.0
+  samples_ccgh: 5.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 99(26), 2002
+notes: NA
+pmid: '12486240'
+title: Analysis of chromosomal instability in human colorectal adenomas with two mutational
+  hits at APC.
+year: '2002'

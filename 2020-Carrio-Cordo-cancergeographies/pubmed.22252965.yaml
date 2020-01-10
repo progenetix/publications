@@ -1,0 +1,27 @@
+authors: "Hernandez L, Wilkerson PM, Lambros MB, Campion-Flora A, Rodrigues DN, Gauthier\
+  \ A, Cabral C, Pawar V, Mackay A, A'Hern R, Marchi\xF2 C, Palacios J, Natrajan R,\
+  \ Weigelt B, Reis-Filho JS."
+counts:
+  biosamples: 13.0
+  samples_acgh: 13.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: J. Pathol. 227(1), 2012
+notes: NA
+pmid: '22252965'
+title: Genomic and mutational profiling of ductal carcinomas in situ and matched adjacent
+  invasive breast cancers reveals intra-tumour genetic heterogeneity and clonal selection.
+year: '2012'

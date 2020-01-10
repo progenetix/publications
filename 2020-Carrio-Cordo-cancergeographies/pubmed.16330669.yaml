@@ -1,0 +1,26 @@
+authors: Dijkman R, Tensen CP, Jordanova ES, Jordanova ES, Knijnenburg J, Hoefnagel
+  JJ, Mulder AA, Rosenberg C, Raap AK, Willemze R, Szuhai K, Vermeer MH.
+counts:
+  biosamples: 31.0
+  samples_acgh: 31.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ''
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city
+journal: J. Clin. Oncol. 24(2), 2006
+notes: NA
+pmid: '16330669'
+title: Array-based comparative genomic hybridization analysis reveals recurrent chromosomal
+  alterations and prognostic parameters in primary cutaneous large B-cell lymphoma.
+year: '2006'

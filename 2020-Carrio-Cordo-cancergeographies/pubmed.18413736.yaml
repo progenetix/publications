@@ -1,0 +1,26 @@
+authors: "Vermeer MH, van Doorn R, Dijkman R, Mao X, Whittaker S, van Voorst Vader\
+  \ PC, Gerritsen MJ, Geerts ML, Gellrich S, S\xF6derberg O, Leuchowius KJ, Landegren\
+  \ U, Out-Luiting JJ, Knijnenburg J, Ijszenga M, Szuhai K, Willemze R, Tensen CP."
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ''
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city
+journal: Cancer Res. 68(8), 2008
+notes: NA
+pmid: '18413736'
+title: "Novel and highly recurrent chromosomal alterations in S\xE9zary syndrome."
+year: '2008'

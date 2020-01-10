@@ -1,0 +1,25 @@
+authors: "Curtis C, Lynch AG, Dunning MJ, Spiteri I, Marioni JC, Hadfield J, Chin\
+  \ SF, Brenton JD, Tavar\xE9 S, Caldas C."
+counts:
+  biosamples: 6.0
+  samples_acgh: 6.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ''
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city
+journal: BMC Genomics 10, 2009
+notes: NA
+pmid: '19995423'
+title: 'The pitfalls of platform comparison: DNA copy number array technologies assessed.'
+year: '2009'

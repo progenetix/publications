@@ -1,0 +1,27 @@
+authors: Ruiz C, Holz DR, Oeggerli M, Schneider S, Gonzales IM, Kiefer JM, Zellweger
+  T, Bachmann A, Koivisto PA, Helin HJ, Mousses S, Barrett MT, Azorsa DO, Bubendorf
+  L.
+counts:
+  biosamples: 5.0
+  samples_acgh: 5.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: ''
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: J. Pathol. 223(4), 2011
+notes: NA
+pmid: '21294127'
+title: Amplification and overexpression of vinculin are associated with increased
+  tumour cell proliferation and progression in advanced prostate cancer.
+year: '2011'

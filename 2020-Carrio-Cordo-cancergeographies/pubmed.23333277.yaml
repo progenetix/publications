@@ -1,0 +1,26 @@
+authors: Joo KM, Kim J, Jin J, Kim M, Seol HJ, Muradov J, Yang H, Choi YL, Park WY,
+  Kong DS, Lee JI, Ko YH, Woo HG, Lee J, Kim S, Nam DH.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Cell Rep 3(1), 2013
+notes: 'primary and enografts '
+pmid: '23333277'
+title: Patient-specific orthotopic glioblastoma xenograft models recapitulate the
+  histopathology and biology of human glioblastomas in situ.
+year: '2013'

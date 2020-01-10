@@ -1,0 +1,27 @@
+authors: "Enjuanes A, Benavente Y, Hern\xE1ndez-Rodr\xEDguez J, Queralt C, Yag\xFC\
+  e J, Jares P, de Sanjos\xE9 S, Campo E, Cid MC."
+counts:
+  biosamples: 82.0
+  samples_acgh: 82.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Rheumatology (Oxford) 51(5), 2012
+notes: NA
+pmid: '22258388'
+title: Association of NOS2 and potential effect of VEGF, IL6, CCL2 and IL1RN polymorphisms
+  and haplotypes on susceptibility to GCA--a simultaneous study of 130 potentially
+  functional SNPs in 14 candidate genes.
+year: '2012'

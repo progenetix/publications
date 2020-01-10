@@ -1,0 +1,25 @@
+authors: Snuderl M, Fazlollahi L, Le LP, Nitta M, Zhelyazkova BH, Davidson CJ, Akhavanfard
+  S, Cahill DP, Aldape KD, Betensky RA, Louis DN, Iafrate AJ.
+counts:
+  biosamples: 3.0
+  samples_acgh: 3.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Cancer Cell 20(6), 2011
+notes: NA
+pmid: '22137795'
+title: Mosaic amplification of multiple receptor tyrosine kinase genes in glioblastoma.
+year: '2011'

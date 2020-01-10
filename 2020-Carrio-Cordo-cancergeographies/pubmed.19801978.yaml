@@ -1,0 +1,31 @@
+authors: Bass AJ, Watanabe H, Mermel CH, Yu S, Perner S, Verhaak RG, Kim SY, Wardwell
+  L, Tamayo P, Gat-Viks I, Ramos AH, Woo MS, Weir BA, Getz G, Beroukhim R, O'Kelly
+  M, Dutt A, Rozenblatt-Rosen O, Dziunycz P, Komisarof J, Chirieac LR, Lafargue CJ,
+  Scheble V, Wilbertz T, Ma C, Rao S, Nakagawa H, Stairs DB, Lin L, Giordano TJ, Wagner
+  P, Minna JD, Gazdar AF, Zhu CQ, Brose MS, Cecconello I, Ribeiro U, Marie SK, Dahl
+  O, Shivdasani RA, Tsao MS, Rubin MA, Wong KK, Regev A, Hahn WC, Beer DG, Rustgi
+  AK, Meyerson M.
+counts:
+  biosamples: 87.0
+  samples_acgh: 87.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Nat. Genet. 41(11), 2009
+notes: NA
+pmid: '19801978'
+title: SOX2 is an amplified lineage-survival oncogene in lung and esophageal squamous
+  cell carcinomas.
+year: '2009'

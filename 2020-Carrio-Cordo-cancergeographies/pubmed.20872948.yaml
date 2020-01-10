@@ -1,0 +1,25 @@
+authors: Park CH, Rha SY, Jeung HC, Kang SH, Ki DH, Lee WS, Noh SH, Chung HC.
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: J Surg Oncol 102(5), 2010
+notes: NA
+pmid: '20872948'
+title: Identification of novel gastric cancer-associated CNVs by integrated analysis
+  of microarray.
+year: '2010'

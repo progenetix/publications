@@ -1,0 +1,26 @@
+authors: Brown LA, Irving J, Parker R, Kim H, Press JZ, Longacre TA, Chia S, Magliocco
+  A, Makretsov N, Gilks B, Pollack J, Huntsman D.
+counts:
+  biosamples: 674.0
+  samples_acgh: 674.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: Gynecol. Oncol. 100(2), 2006
+notes: NA
+pmid: '16236351'
+title: Amplification of EMSY, a novel oncogene on 11q13, in high grade ovarian surface
+  epithelial carcinomas.
+year: '2006'

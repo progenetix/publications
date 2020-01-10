@@ -1,0 +1,26 @@
+authors: Hanna GJ, Kofman ER, Shazib MA, Woo SB, Reardon B, Treister NS, Haddad RI,
+  Cutler CS, Antin JH, Van Allen EM, Uppaluri R, Soiffer RJ.
+counts:
+  biosamples: 6.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 6.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Oral Oncol. 81, 2018
+notes: No PDF available yet
+pmid: '29884406'
+title: Integrated genomic characterization of oral carcinomas in post-hematopoietic
+  stem cell transplantation survivors.
+year: '2018'

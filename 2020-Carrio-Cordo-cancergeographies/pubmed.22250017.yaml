@@ -1,0 +1,27 @@
+authors: Merkerova MD, Bystricka D, Belickova M, Krejcik Z, Zemanova Z, Polak J, Hajkova
+  H, Brezinova J, Michalova K, Cermak J.
+counts:
+  biosamples: 15.0
+  samples_acgh: 15.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 14.42
+    - 50.09
+    type: Point
+  info:
+    city: Prague
+    continent: ''
+    country: Czech Republic
+    label: Prague, Czech Republic, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 51(5), 2012
+notes: NA
+pmid: '22250017'
+title: 'From cryptic chromosomal lesions to pathologically relevant genes: integration
+  of SNP-array with gene expression profiling in myelodysplastic syndrome with normal
+  karyotype.'
+year: '2012'

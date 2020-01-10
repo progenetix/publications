@@ -1,0 +1,25 @@
+authors: "K\xF6hn L, Svenson U, Ljungberg B, Roos G."
+counts:
+  biosamples: 74.0
+  samples_acgh: 74.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 20.26
+    - 63.83
+    type: Point
+  info:
+    city: Umea
+    continent: ''
+    country: Sweden
+    label: Umea, Sweden, Europe
+    precision: city
+journal: Appl. Immunohistochem. Mol. Morphol. 23(5), 2015
+notes: ''
+pmid: '24992170'
+title: Specific genomic aberrations predict survival, but low mutation rate in cancer
+  hot spots, in clear cell renal cell carcinoma.
+year: '2015'

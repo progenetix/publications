@@ -1,0 +1,28 @@
+authors: "Kohlhammer H, Schwaenen C, Wessendorf S, Holzmann K, Kestler HA, Kienle\
+  \ D, Barth TF, M\xF6ller P, Ott G, Kalla J, Radlwimmer B, Pscherer A, Stilgenbauer\
+  \ S, D\xF6hner H, Lichter P, Bentz M."
+counts:
+  biosamples: 106.0
+  samples_acgh: 53.0
+  samples_ccgh: 53.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Blood 104(3), 2004
+notes: NA
+pmid: '15090459'
+title: Genomic DNA-chip hybridization in t(11;14)-positive mantle cell lymphomas shows
+  a high frequency of aberrations and allows a refined characterization of consensus
+  regions.
+year: '2004'

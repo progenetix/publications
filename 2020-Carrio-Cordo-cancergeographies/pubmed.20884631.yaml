@@ -1,0 +1,27 @@
+authors: Cheung KJ, Johnson NA, Affleck JG, Severson T, Steidl C, Ben-Neriah S, Schein
+  J, Morin RD, Moore R, Shah SP, Qian H, Paul JE, Telenius A, Relander T, Lam W, Savage
+  K, Connors JM, Brown C, Marra MA, Gascoyne RD, Horsman DE.
+counts:
+  biosamples: 251.0
+  samples_acgh: 251.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: Cancer Res. 70(22), 2010
+notes: NA
+pmid: '20884631'
+title: Acquired TNFRSF14 mutations in follicular lymphoma are associated with worse
+  prognosis.
+year: '2010'

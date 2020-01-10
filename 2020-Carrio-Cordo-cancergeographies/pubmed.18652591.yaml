@@ -1,0 +1,24 @@
+authors: Horbinski C, Dacic S, McLendon RE, Cieply K, Datto M, Brat DJ, Chu CT.
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -80.0
+    - 40.44
+    type: Point
+  info:
+    city: Pittsburgh
+    continent: ''
+    country: United States
+    label: Pittsburgh, United States, North America
+    precision: city
+journal: Brain Pathol. 19(3), 2009
+notes: NA
+pmid: '18652591'
+title: 'Chordoid glioma: a case report and molecular characterization of five cases.'
+year: '2009'

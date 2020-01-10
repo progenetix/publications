@@ -1,0 +1,26 @@
+authors: Yang J, Yang D, Sun Y, Sun B, Wang G, Trent JC, Araujo DM, Chen K, Zhang
+  W.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 117.18
+    - 39.14
+    type: Point
+  info:
+    city: Tianjin
+    continent: ''
+    country: China
+    label: Tianjin, China, Asia
+    precision: city
+journal: Cancer 117(21), 2011
+notes: NA
+pmid: '21495021'
+title: Genetic amplification of the vascular endothelial growth factor (VEGF) pathway
+  genes, including VEGFA, in human osteosarcoma.
+year: '2011'

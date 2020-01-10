@@ -1,0 +1,26 @@
+authors: "Korsching E, Packeisen J, Helms MW, Kersting C, Voss R, van Diest PJ, Brandt\
+  \ B, van der Wall E, Boecker W, B\xFCrger H."
+counts:
+  biosamples: 206.0
+  samples_acgh: 0.0
+  samples_ccgh: 206.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: Br. J. Cancer 90(7), 2004
+notes: 206 invasive breast cancer cases were analyzed by CGH, and results were clustered.
+pmid: '15054466'
+title: Deciphering a subgroup of breast carcinomas with putative progression of grade
+  during carcinogenesis revealed by comparative genomic hybridisation (CGH) and immunohistochemistry.
+year: '2004'

@@ -1,0 +1,26 @@
+authors: Harada T, Chelala C, Bhakta V, Chaplin T, Caulee K, Baril P, Young BD, Lemoine
+  NR.
+counts:
+  biosamples: 27.0
+  samples_acgh: 27.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Oncogene 27(13), 2008
+notes: NA
+pmid: '17952125'
+title: Genome-wide DNA copy number analysis in pancreatic cancer using high-density
+  single nucleotide polymorphism arrays.
+year: '2008'

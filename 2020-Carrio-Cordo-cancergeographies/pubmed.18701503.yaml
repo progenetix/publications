@@ -1,0 +1,27 @@
+authors: "Chiang DY, Villanueva A, Hoshida Y, Peix J, Newell P, Minguez B, LeBlanc\
+  \ AC, Donovan DJ, Thung SN, Sol\xE9 M, Tovar V, Alsinet C, Ramos AH, Barretina J,\
+  \ Roayaie S, Schwartz M, Waxman S, Bruix J, Mazzaferro V, Ligon AH, Najfeld V, Friedman\
+  \ SL, Sellers WR, Meyerson M, Llovet JM."
+counts:
+  biosamples: 91.0
+  samples_acgh: 91.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Cancer Res. 68(16), 2008
+notes: NA
+pmid: '18701503'
+title: Focal gains of VEGFA and molecular classification of hepatocellular carcinoma.
+year: '2008'

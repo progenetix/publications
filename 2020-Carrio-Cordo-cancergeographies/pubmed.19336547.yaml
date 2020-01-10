@@ -1,0 +1,25 @@
+authors: Hsu WL, Chen JY, Chien YC, Liu MY, You SL, Hsu MM, Yang CS, Chen CJ.
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 120.97
+    - 24.8
+    type: Point
+  info:
+    city: Hsinchu
+    continent: ''
+    country: Taiwan
+    label: Hsinchu, Taiwan, Asia
+    precision: city
+journal: Cancer Epidemiol. Biomarkers Prev. 18(4), 2009
+notes: ''
+pmid: '19336547'
+title: 'Independent effect of EBV and cigarette smoking on nasopharyngeal carcinoma:
+  a 20-year follow-up study on 9,622 males without family history in Taiwan.'
+year: '2009'

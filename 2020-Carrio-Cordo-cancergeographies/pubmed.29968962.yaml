@@ -1,0 +1,26 @@
+authors: Valind A, Wessman S, Pal N, Karlsson J, Jonson T, Sandstedt B, Gisselsson
+  D.
+counts:
+  biosamples: 14.0
+  samples_acgh: 7.0
+  samples_ccgh: 0.0
+  samples_wes: 7.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: null
+    precision: city
+journal: Pediatr Blood Cancer, 2018
+notes: No PDF available yet
+pmid: '29968962'
+title: Convergent evolution of 11p allelic loss in multifocal Wilms tumors arising
+  in WT1 mutation carriers.
+year: '2018'

@@ -1,0 +1,26 @@
+authors: Langdon JA, Lamont JM, Scott DK, Dyer S, Prebble E, Bown N, Grundy RG, Ellison
+  DW, Clifford SC.
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.6099999999999999
+    - 54.97
+    type: Point
+  info:
+    city: Newcastle upon Tyne
+    continent: ''
+    country: United Kingdom
+    label: Newcastle upon Tyne, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 45(1), 2006
+notes: NA
+pmid: '16149064'
+title: Combined genome-wide allelotyping and copy number analysis identify frequent
+  genetic losses without copy number reduction in medulloblastoma.
+year: '2006'

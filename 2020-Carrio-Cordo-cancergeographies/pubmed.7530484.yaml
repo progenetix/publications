@@ -1,0 +1,25 @@
+authors: Cher ML, MacGrogan D, Bookstein R, Brown JA, Jenkins RB, Jensen RH.
+counts:
+  biosamples: 18.0
+  samples_acgh: 0.0
+  samples_ccgh: 18.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 11(3), 1994
+notes: NA
+pmid: '7530484'
+title: Comparative genomic hybridization, allelic imbalance, and fluorescence in situ
+  hybridization on chromosome 8 in prostate cancer.
+year: '1994'

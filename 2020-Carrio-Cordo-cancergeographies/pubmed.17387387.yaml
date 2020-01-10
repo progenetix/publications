@@ -1,0 +1,25 @@
+authors: "Arslantas A, Artan S, Oner U, M\xFCsl\xFCmanoglu MH, Ozdemir M, Durmaz R,\
+  \ Arslantas D, Vural M, Cosan E, Atasoy MA."
+counts:
+  biosamples: 68.0
+  samples_acgh: 0.0
+  samples_ccgh: 68.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 30.52
+    - 39.78
+    type: Point
+  info:
+    city: Eskisehir
+    continent: ''
+    country: Turkey
+    label: Eskisehir, Turkey, Europe
+    precision: city
+journal: Pathol. Oncol. Res. 13(1), 2007
+notes: NA
+pmid: '17387387'
+title: Genomic alterations in low-grade, anaplastic astrocytomas and glioblastomas.
+year: '2007'

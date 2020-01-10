@@ -1,0 +1,26 @@
+authors: Mehrotra M, Patel KP, Chen T, Miranda RN, Wang Y, Zuo Z, Muddasani R, Mishra
+  BM, Abraham R, Luthra R, Lu G.
+counts:
+  biosamples: 17.0
+  samples_acgh: 17.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: ''
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: Clin Lymphoma Myeloma Leuk 15(8), 2015
+notes: ''
+pmid: '26027540'
+title: Genomic and Clinicopathologic Features of Primary Myelofibrosis With Isolated
+  13q Deletion.
+year: '2015'

@@ -1,0 +1,25 @@
+authors: "Kuranda K, Berthon C, Lepr\xEAtre F, Polakowska R, Jouy N, Quesnel B."
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.06
+    - 50.63
+    type: Point
+  info:
+    city: Lille
+    continent: ''
+    country: France
+    label: null
+    precision: city
+journal: J. Cell. Biochem. 112(5), 2011
+notes: Samples from 55 Italian and 36 German patients were processed by aCGH.
+pmid: '21308741'
+title: Expression of CD34 in hematopoietic cancer cell lines reflects tightly regulated
+  stem/progenitor-like state.
+year: '2011'

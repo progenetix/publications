@@ -1,0 +1,26 @@
+authors: Kitange G, Misra A, Law M, Passe S, Kollmeyer TM, Maurer M, Ballman K, Feuerstein
+  BG, Jenkins RB.
+counts:
+  biosamples: 35.0
+  samples_acgh: 35.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: ''
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 42(1), 2005
+notes: NA
+pmid: '15472895'
+title: Chromosomal imbalances detected by array comparative genomic hybridization
+  in human oligodendrogliomas and mixed oligoastrocytomas.
+year: '2005'

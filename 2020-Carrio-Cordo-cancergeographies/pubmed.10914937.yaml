@@ -1,0 +1,25 @@
+authors: Koski T, Karhu R, Visakorpi T, Vilpo L, Knuutila S, Vilpo J.
+counts:
+  biosamples: 32.0
+  samples_acgh: 0.0
+  samples_ccgh: 32.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: ''
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: Eur. J. Haematol. 65(1), 2000
+notes: NA
+pmid: '10914937'
+title: Complex chromosomal aberrations in chronic lymphocytic leukemia are associated
+  with cellular drug and irradiation resistance.
+year: '2000'

@@ -1,0 +1,26 @@
+authors: Fukumura K, Kawazu M, Kojima S, Ueno T, Sai E, Soda M, Ueda H, Yasuda T,
+  Yamaguchi H, Lee J, Shishido-Hara Y, Sasaki A, Shirahata M, Mishima K, Ichimura
+  K, Mukasa A, Narita Y, Saito N, Aburatani H, Nishikawa R, Nagane M, Mano H.
+counts:
+  biosamples: 41.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 41.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Acta Neuropathol. 131(6), 2016
+notes: ''
+pmid: '26757737'
+title: Genomic characterization of primary central nervous system lymphoma.
+year: '2016'

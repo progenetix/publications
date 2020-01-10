@@ -1,0 +1,25 @@
+authors: Crossen PE, Morrison MJ, Rodley P, Cochrane J, Morris CM.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 172.63
+    - -43.53
+    type: Point
+  info:
+    city: Christchurch
+    continent: ''
+    country: New Zealand
+    label: Christchurch, New Zealand, Pacific
+    precision: city
+journal: Cancer Genet. Cytogenet. 113(2), 1999
+notes: NA
+pmid: '10484978'
+title: Identification of amplified genes in a patient with acute myeloid leukemia
+  and double minute chromosomes.
+year: '1999'

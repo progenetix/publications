@@ -1,0 +1,26 @@
+authors: "Bentz M, Plesch A, Bullinger L, Stilgenbauer S, Ott G, M\xFCller-Hermelink\
+  \ HK, Baudis M, Barth TF, M\xF6ller P, Lichter P, D\xF6hner H."
+counts:
+  biosamples: 27.0
+  samples_acgh: 0.0
+  samples_ccgh: 27.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 27(3), 2000
+notes: NA
+pmid: '10679918'
+title: t(11;14)-positive mantle cell lymphomas exhibit complex karyotypes and share
+  similarities with B-cell chronic lymphocytic leukemia.
+year: '2000'

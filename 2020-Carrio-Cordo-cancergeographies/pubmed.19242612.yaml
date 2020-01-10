@@ -1,0 +1,24 @@
+authors: Castro P, Creighton CJ, Ozen M, Berel D, Mims MP, Ittmann M.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: ''
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: Neoplasia 11(3), 2009
+notes: NA
+pmid: '19242612'
+title: Genomic profiling of prostate cancers from African American men.
+year: '2009'

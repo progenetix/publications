@@ -1,0 +1,28 @@
+authors: "Warsow G, H\xEF\xBF\xBDbschmann D, Kleinheinz K, Nientiedt C, Heller M,\
+  \ Van Coile L, Tolstov Y, Trennheuser L, Wieczorek K, Pecqueux C, Gasch C, Kuru\
+  \ T, Nyarangi-Dix J, Hatiboglu G, Teber D, Perner S, Stenzinger A, Roth W, Hadaschik\
+  \ B, Pahernik S, J\xEF\xBF\xBDger D, Gr\xEF\xBF\xBDllich C, Duensing A, Eils R,\
+  \ Schlesner M, S\xEF\xBF\xBDltmann H, Hohenfellner M, Duensing S."
+counts:
+  biosamples: 37.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 37.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: null
+    precision: city
+journal: Sci Rep 8(1), 2018
+notes: The GEO GSE48941 points to 11 Illumina samples, though SNP arrays are mentioned.
+pmid: '29748622'
+title: Genomic features of renal cell carcinoma with venous tumor thrombus.
+year: '2018'

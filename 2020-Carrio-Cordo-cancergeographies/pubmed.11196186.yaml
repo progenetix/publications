@@ -1,0 +1,26 @@
+authors: "Simon R, Eltze E, Sch\xE4fer KL, B\xFCrger H, Semjonow A, Hertle L, Dockhorn-Dworniczak\
+  \ B, Terpe HJ, B\xF6cker W."
+counts:
+  biosamples: 32.0
+  samples_acgh: 0.0
+  samples_ccgh: 32.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: Cancer Res. 61(1), 2001
+notes: NA
+pmid: '11196186'
+title: Cytogenetic analysis of multifocal bladder cancer supports a monoclonal origin
+  and intraepithelial spread of tumor cells.
+year: '2001'

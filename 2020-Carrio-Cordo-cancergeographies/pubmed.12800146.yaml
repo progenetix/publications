@@ -1,0 +1,25 @@
+authors: Gribble SM, Reid AG, Roberts I, Grace C, Green AR, Nacheva EP.
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ''
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city
+journal: Genes Chromosomes Cancer 37(4), 2003
+notes: NA
+pmid: '12800146'
+title: 'Genomic imbalances in CML blast crisis: 8q24.12-q24.13 segment identified
+  as a common region of over-representation.'
+year: '2003'

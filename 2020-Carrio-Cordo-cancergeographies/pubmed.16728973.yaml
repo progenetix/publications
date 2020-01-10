@@ -1,0 +1,27 @@
+authors: "Clausen OP, Aass HC, Beigi M, Purdie KJ, Proby CM, Brown VL, Mattingsdal\
+  \ M, Micci F, K\xF8lvraa S, Bolund L, Deangelis PM."
+counts:
+  biosamples: 169.0
+  samples_acgh: 0.0
+  samples_ccgh: 169.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: J. Invest. Dermatol. 126(10), 2006
+notes: The article incorporates data from Clausen et al., 2002, which therefore has
+  been removed.
+pmid: '16728973'
+title: Are keratoacanthomas variants of squamous cell carcinomas? A comparison of
+  chromosomal aberrations by comparative genomic hybridization.
+year: '2006'

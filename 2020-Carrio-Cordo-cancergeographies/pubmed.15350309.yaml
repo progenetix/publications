@@ -1,0 +1,25 @@
+authors: Cavalli LR, Cornelio DA, Lima RS, Urban CA, Rone JD, Cavalli IJ, Haddad BR.
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -89.41
+    - 40.7
+    type: Point
+  info:
+    city: Washington
+    continent: ''
+    country: United States
+    label: Washington, United States, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 153(2), 2004
+notes: NA
+pmid: '15350309'
+title: Lack of DNA copy number alterations revealed with comparative genomic hybridization
+  in fibroadenomas of the breast.
+year: '2004'

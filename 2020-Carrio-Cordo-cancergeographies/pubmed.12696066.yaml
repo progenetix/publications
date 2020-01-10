@@ -1,0 +1,25 @@
+authors: Mao X, Orchard G, Lillington DM, Russell-Jones R, Young BD, Whittaker S.
+counts:
+  biosamples: 28.0
+  samples_acgh: 5.0
+  samples_ccgh: 23.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 37(2), 2003
+notes: aCGH was performed with the AmpliOnc I array (Vysis). This is not considered
+  for inclusion into the data base, due to the low probe number.
+pmid: '12696066'
+title: Genetic alterations in primary cutaneous CD30+ anaplastic large cell lymphoma.
+year: '2003'

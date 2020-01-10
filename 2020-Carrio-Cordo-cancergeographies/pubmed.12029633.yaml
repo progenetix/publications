@@ -1,0 +1,25 @@
+authors: Yasui K, Arii S, Zhao C, Imoto I, Ueda M, Nagai H, Emi M, Inazawa J.
+counts:
+  biosamples: 62.0
+  samples_acgh: 0.0
+  samples_ccgh: 62.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Hepatology 35(6), 2002
+notes: Only data for the 11 cell lines was presented in a case specific manner.
+pmid: '12029633'
+title: TFDP1, CUL4A, and CDC16 identified as targets for amplification at 13q34 in
+  hepatocellular carcinomas.
+year: '2002'

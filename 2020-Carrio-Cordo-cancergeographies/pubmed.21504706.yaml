@@ -1,0 +1,26 @@
+authors: "Dyrs\xF8 T, Li J, Wang K, Lindebjerg J, K\xF8lvraa S, Bolund L, Jakobsen\
+  \ A, Bruun-Petersen G, Li S, Cr\xFCger DG."
+counts:
+  biosamples: 60.0
+  samples_acgh: 60.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.54
+    - 55.71
+    type: Point
+  info:
+    city: Vejle
+    continent: ''
+    country: Denmark
+    label: Vejle, Denmark, Europe
+    precision: city
+journal: Cancer Genet 204(2), 2011
+notes: NA
+pmid: '21504706'
+title: Identification of chromosome aberrations in sporadic microsatellite stable
+  and unstable colorectal cancers using array comparative genomic hybridization.
+year: '2011'

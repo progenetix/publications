@@ -1,0 +1,26 @@
+authors: Ma YS, Huang T, Zhong XM, Zhang HW, Cong XL, Xu H, Lu GX, Yu F, Xue SB, Lv
+  ZW, Fu D.
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 12.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: ''
+    country: China
+    label: null
+    precision: city
+journal: Mol. Cancer 17(1), 2018
+notes: No PDF available yet
+pmid: '30241526'
+title: Proteogenomic characterization and comprehensive integrative genomic analysis
+  of human colorectal cancer liver metastasis.
+year: '2018'

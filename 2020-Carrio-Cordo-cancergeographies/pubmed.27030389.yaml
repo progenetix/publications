@@ -1,0 +1,27 @@
+authors: "Georgiou K, Chen L, Berglund M, Ren W, de Miranda NF, Lisboa S, Fangazio\
+  \ M, Zhu S, Hou Y, Wu K, Fang W, Wang X, Meng B, Zhang L, Zeng Y, Bhagat G, Nordenskj\xF6\
+  ld M, Sundstr\xF6m C, Enblad G, Dalla-Favera R, Zhang H, Teixeira MR, Pasqualucci\
+  \ L, Peng R, Pan-Hammarstr\xF6m Q."
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 20.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 113.25
+    - 23.12
+    type: Point
+  info:
+    city: Guangzhou
+    continent: ''
+    country: China
+    label: Guangzhou, China, Asia
+    precision: city
+journal: Blood 127(24), 2016
+notes: International study, with the WGS samples from the Chinese cohort.
+pmid: '27030389'
+title: Genetic basis of PD-L1 overexpression in diffuse large B-cell lymphomas.
+year: '2016'

@@ -1,0 +1,27 @@
+authors: Gardiner A, Parker H, Glide S, Mould S, Robinson H, Tracy I, Stankovic T,
+  Oscier D, Strefford J.
+counts:
+  biosamples: 5.0
+  samples_acgh: 5.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.88
+    - 50.72
+    type: Point
+  info:
+    city: Bournemouth
+    continent: ''
+    country: United Kingdom
+    label: Bournemouth, United Kingdom, Europe
+    precision: city
+journal: Leuk. Res. 36(3), 2012
+notes: NA
+pmid: '21955805'
+title: A new minimal deleted region at 11q22.3 reveals the importance of interpretation
+  of diminished FISH signals and the choice of probe for ATM deletion screening in
+  chronic lymphocytic leukemia.
+year: '2012'

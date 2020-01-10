@@ -1,0 +1,29 @@
+authors: Shi J, Hua X, Zhu B, Ravichandran S, Wang M, Nguyen C, Brodie SA, Palleschi
+  A, Alloisio M, Pariscenti G, Jones K, Zhou W, Bouk AJ, Boland J, Hicks B, Risch
+  A, Risch A, Bennett H, Luke BT, Song L, Duan J, Liu P, Kohno T, Chen Q, Meerzaman
+  D, Marconett C, Laird-Offringa I, Mills I, Caporaso NE, Gail MH, Pesatori AC, Consonni
+  D, Bertazzi PA, Chanock SJ, Landi MT.
+counts:
+  biosamples: 202.0
+  samples_acgh: 101.0
+  samples_ccgh: 0.0
+  samples_wes: 101.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: PLoS Med. 13(12), 2016
+notes: ''
+pmid: '27923066'
+title: 'Somatic Genomics and Clinical Features of Lung Adenocarcinoma: A Retrospective
+  Study.'
+year: '2016'

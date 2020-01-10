@@ -1,0 +1,27 @@
+authors: Reis-Filho JS, Simpson PT, Turner NC, Lambros MB, Jones C, Mackay A, Grigoriadis
+  A, Sarrio D, Savage K, Dexter T, Iravani M, Fenwick K, Weber B, Hardisson D, Schmitt
+  FC, Palacios J, Lakhani SR, Ashworth A.
+counts:
+  biosamples: 26.0
+  samples_acgh: 13.0
+  samples_ccgh: 13.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Clin. Cancer Res. 12(22), 2006
+notes: The supplement contains aCGH data tables as well as a per-arm annotation of
+  the results.
+pmid: '17121884'
+title: FGFR1 emerges as a potential therapeutic target for lobular breast carcinomas.
+year: '2006'

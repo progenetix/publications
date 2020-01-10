@@ -1,0 +1,25 @@
+authors: Zimonjic DB, Keck-Waggoner C, Popescu NC.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Leukemia 15(10), 2001
+notes: NA
+pmid: '11587216'
+title: Novel genomic imbalances and chromosome translocations involving c-myc gene
+  in Burkitt's lymphoma.
+year: '2001'

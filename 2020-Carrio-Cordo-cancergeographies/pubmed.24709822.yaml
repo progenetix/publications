@@ -1,0 +1,25 @@
+authors: Nagarajan RP, Zhang B, Bell RJ, Johnson BE, Olshen AB, Sundaram V, Li D,
+  Graham AE, Diaz A, Fouse SD, Smirnov I, Song J, Paris PL, Wang T, Costello JF.
+counts:
+  biosamples: 5.0
+  samples_acgh: 5.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Genome Res. 24(5), 2014
+notes: More cases were reported, but may have been originally published elsewhere.
+pmid: '24709822'
+title: Recurrent epimutations activate gene body promoters in primary glioblastoma.
+year: '2014'

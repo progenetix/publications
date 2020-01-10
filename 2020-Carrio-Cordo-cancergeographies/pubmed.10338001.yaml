@@ -1,0 +1,25 @@
+authors: Chen YJ, Ko JY, Chen PJ, Shu CH, Hsu MT, Tsai SF, Lin CH.
+counts:
+  biosamples: 51.0
+  samples_acgh: 0.0
+  samples_ccgh: 51.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: ''
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: Genes Chromosomes Cancer 25(2), 1999
+notes: NA
+pmid: '10338001'
+title: Chromosomal aberrations in nasopharyngeal carcinoma analyzed by comparative
+  genomic hybridization.
+year: '1999'

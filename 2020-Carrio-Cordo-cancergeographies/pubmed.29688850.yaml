@@ -1,0 +1,25 @@
+authors: Wang L, Sun Y, Sun Y, Meng L, Xu X.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 1.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 119.1
+    - 36.71
+    type: Point
+  info:
+    city: Weifang
+    continent: ''
+    country: China
+    label: null
+    precision: city
+journal: BMC Cancer 18(1), 2018
+notes: The exact number of samples analysed by aCGH is not clear from the article's
+  text.
+pmid: '29688850'
+title: 'First case of AML with rare chromosome translocations: a case report of twins.'
+year: '2018'

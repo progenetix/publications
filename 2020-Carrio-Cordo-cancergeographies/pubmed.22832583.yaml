@@ -1,0 +1,36 @@
+authors: "Jones DT, J\xE4ger N, Kool M, Zichner T, Hutter B, Sultan M, Cho YJ, Pugh\
+  \ TJ, Hovestadt V, St\xFCtz AM, Rausch T, Warnatz HJ, Ryzhova M, Bender S, Sturm\
+  \ D, Pleier S, Cin H, Pfaff E, Sieber L, Wittmann A, Remke M, Witt H, Hutter S,\
+  \ Tzaridis T, Weischenfeldt J, Raeder B, Avci M, Amstislavskiy V, Zapatka M, Weber\
+  \ UD, Wang Q, Lasitschka B, Bartholomae CC, Schmidt M, von Kalle C, Ast V, Lawerenz\
+  \ C, Eils J, Kabbe R, Benes V, van Sluis P, Koster J, Volckmann R, Shih D, Betts\
+  \ MJ, Russell RB, Coco S, Tonini GP, Sch\xFCller U, Hans V, Graf N, Kim YJ, Monoranu\
+  \ C, Roggendorf W, Unterberg A, Herold-Mende C, Milde T, Kulozik AE, von Deimling\
+  \ A, Witt O, Maass E, R\xF6ssler J, Ebinger M, Schuhmann MU, Fr\xFChwald MC, Hasselblatt\
+  \ M, Jabado N, Rutkowski S, von Bueren AO, Williamson D, Clifford SC, McCabe MG,\
+  \ Collins VP, Wolf S, Wiemann S, Lehrach H, Brors B, Scheurlen W, Felsberg J, Reifenberger\
+  \ G, Northcott PA, Taylor MD, Meyerson M, Pomeroy SL, Yaspo ML, Korbel JO, Korshunov\
+  \ A, Eils R, Pfister SM, Lichter P."
+counts:
+  biosamples: 60.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 21.0
+  samples_wgs: 39.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Nature 488(7409), 2012
+notes: NA
+pmid: '22832583'
+title: Dissecting the genomic complexity underlying medulloblastoma.
+year: '2012'

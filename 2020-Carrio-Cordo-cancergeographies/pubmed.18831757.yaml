@@ -1,0 +1,26 @@
+authors: "Staaf J, Vallon-Christersson J, Lindgren D, Juliusson G, Rosenquist R, H\xF6\
+  glund M, Borg A, Ringn\xE9r M."
+counts:
+  biosamples: 6.0
+  samples_acgh: 6.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: BMC Bioinformatics 9, 2008
+notes: NA
+pmid: '18831757'
+title: Normalization of Illumina Infinium whole-genome SNP data improves copy number
+  estimates and allelic intensity ratios.
+year: '2008'

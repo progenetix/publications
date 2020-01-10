@@ -1,0 +1,28 @@
+authors: "L\xF3pez-Corral L, Sarasquete ME, Be\xE0 S, Garc\xEDa-Sanz R, Mateos MV,\
+  \ Corchete LA, Sayagu\xE9s JM, Garc\xEDa EM, Blad\xE9 J, Oriol A, Hern\xE1ndez-Garc\xED\
+  a MT, Giraldo P, Hern\xE1ndez J, Gonz\xE1lez M, Hern\xE1ndez-Rivas JM, San Miguel\
+  \ JF, Guti\xE9rrez NC."
+counts:
+  biosamples: 74.0
+  samples_acgh: 74.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.68
+    - 40.43
+    type: Point
+  info:
+    city: Salamanca
+    continent: ''
+    country: Spain
+    label: Salamanca, Spain, Europe
+    precision: city
+journal: Leukemia 26(12), 2012
+notes: NA
+pmid: '22565645'
+title: SNP-based mapping arrays reveal high genomic complexity in monoclonal gammopathies,
+  from MGUS to myeloma status.
+year: '2012'

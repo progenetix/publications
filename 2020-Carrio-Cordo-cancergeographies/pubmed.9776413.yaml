@@ -1,0 +1,26 @@
+authors: Cairncross JG, Ueki K, Zlatescu MC, Lisle DK, Finkelstein DM, Hammond RR,
+  Silver JS, Stark PC, Macdonald DR, Ino Y, Ramsay DA, Louis DN.
+counts:
+  biosamples: 39.0
+  samples_acgh: 0.0
+  samples_ccgh: 39.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: J. Natl. Cancer Inst. 90(19), 1998
+notes: NA
+pmid: '9776413'
+title: Specific genetic predictors of chemotherapeutic response and survival in patients
+  with anaplastic oligodendrogliomas.
+year: '1998'

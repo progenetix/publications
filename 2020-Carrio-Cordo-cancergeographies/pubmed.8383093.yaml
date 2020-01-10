@@ -1,0 +1,25 @@
+authors: Joos S, Scherthan H, Speicher MR, Schlegel J, Cremer T, Lichter P.
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 4.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Hum. Genet. 90(6), 1993
+notes: NA
+pmid: '8383093'
+title: Detection of amplified DNA sequences by reverse chromosome painting using genomic
+  tumor DNA as probe.
+year: '1993'

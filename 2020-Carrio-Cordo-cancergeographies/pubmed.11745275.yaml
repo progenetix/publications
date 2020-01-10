@@ -1,0 +1,25 @@
+authors: Tarkkanen M, Wiklund TA, Virolainen MJ, Larramendy ML, Mandahl N, Mertens
+  F, Blomqvist CP, Tukiainen EJ, Miettinen MM, Elomaa AI, Knuutila YS.
+counts:
+  biosamples: 27.0
+  samples_acgh: 0.0
+  samples_ccgh: 27.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Cancer 92(7), 2001
+notes: NA
+pmid: '11745275'
+title: Comparative genomic hybridization of postirradiation sarcomas.
+year: '2001'

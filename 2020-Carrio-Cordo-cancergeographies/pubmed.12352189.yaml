@@ -1,0 +1,25 @@
+authors: Mhawech P, Kinkel K, Vlastos G, Pelte MF.
+counts:
+  biosamples: 3.0
+  samples_acgh: 0.0
+  samples_ccgh: 3.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.15
+    - 46.2
+    type: Point
+  info:
+    city: Geneve
+    continent: ''
+    country: Switzerland
+    label: Geneve, Switzerland, Europe
+    precision: city
+journal: Int. J. Gynecol. Pathol. 21(4), 2002
+notes: NA
+pmid: '12352189'
+title: 'Ovarian carcinomas in endometriosis: an immunohistochemical and comparative
+  genomic hybridization study.'
+year: '2002'

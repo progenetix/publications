@@ -1,0 +1,26 @@
+authors: "Mahlam\xE4ki EH, B\xE4rlund M, Tanner M, Gorunova L, H\xF6glund M, Karhu\
+  \ R, Kallioniemi A."
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: ''
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 35(4), 2002
+notes: Of the total 31 CGH experiments, 11 had been published previously.
+pmid: '12378529'
+title: Frequent amplification of 8q24, 11q, 17q, and 20q-specific genes in pancreatic
+  cancer.
+year: '2002'

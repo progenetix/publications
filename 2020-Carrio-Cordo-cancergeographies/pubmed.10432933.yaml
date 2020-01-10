@@ -1,0 +1,26 @@
+authors: Harada K, Nishizaki T, Ozaki S, Kubota H, Harada K, Okamura T, Ito H, Sasaki
+  K.
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 12.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 112(1), 1999
+notes: NA
+pmid: '10432933'
+title: Cytogenetic alterations in pituitary adenomas detected by comparative genomic
+  hybridization.
+year: '1999'

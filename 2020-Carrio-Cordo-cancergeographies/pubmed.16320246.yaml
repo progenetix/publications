@@ -1,0 +1,24 @@
+authors: Rossi MR, Conroy J, McQuaid D, Nowak NJ, Rutka JT, Cowell JK.
+counts:
+  biosamples: 24.0
+  samples_acgh: 24.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: ''
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 45(3), 2006
+notes: NA
+pmid: '16320246'
+title: Array CGH analysis of pediatric medulloblastomas.
+year: '2006'

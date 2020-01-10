@@ -1,0 +1,26 @@
+authors: Kawanishi H, Takahashi T, Ito M, Watanabe J, Higashi S, Kamoto T, Habuchi
+  T, Kadowaki T, Tsujimoto G, Nishiyama H, Ogawa O.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.78
+    - 35.05
+    type: Point
+  info:
+    city: Sakyo Ward
+    continent: ''
+    country: Japan
+    label: Sakyo Ward, Japan
+    precision: city
+journal: Cancer Sci. 97(8), 2006
+notes: NA
+pmid: '16863508'
+title: High throughput comparative genomic hybridization array analysis of multifocal
+  urothelial cancers.
+year: '2006'

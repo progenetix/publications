@@ -1,0 +1,27 @@
+authors: Gutierrez A, Sanda T, Grebliunaite R, Carracedo A, Salmena L, Ahn Y, Dahlberg
+  S, Neuberg D, Moreau LA, Winter SS, Larson R, Zhang J, Protopopov A, Chin L, Pandolfi
+  PP, Silverman LB, Hunger SP, Sallan SE, Look AT.
+counts:
+  biosamples: 47.0
+  samples_acgh: 47.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Blood 114(3), 2009
+notes: 7 cases are included in GEO under GSE7615.
+pmid: '19458356'
+title: High frequency of PTEN, PI3K, and AKT abnormalities in T-cell acute lymphoblastic
+  leukemia.
+year: '2009'

@@ -1,0 +1,26 @@
+authors: Willenbucher RF, Aust DE, Chang CG, Zelman SJ, Ferrell LD, Moore DH, Waldman
+  FM.
+counts:
+  biosamples: 41.0
+  samples_acgh: 0.0
+  samples_ccgh: 41.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Am. J. Pathol. 154(6), 1999
+notes: NA
+pmid: '10362807'
+title: Genomic instability is an early event during the progression pathway of ulcerative-colitis-related
+  neoplasia.
+year: '1999'

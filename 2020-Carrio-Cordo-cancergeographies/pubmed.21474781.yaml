@@ -1,0 +1,27 @@
+authors: Navab R, Strumpf D, Bandarchi B, Zhu CQ, Pintilie M, Ramnarine VR, Ibrahimov
+  E, Radulovich N, Leung L, Barczyk M, Panchal D, To C, Yun JJ, Der S, Shepherd FA,
+  Jurisica I, Tsao MS.
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 108(17), 2011
+notes: NA
+pmid: '21474781'
+title: Prognostic gene-expression signature of carcinoma-associated fibroblasts in
+  non-small cell lung cancer.
+year: '2011'

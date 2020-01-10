@@ -1,0 +1,25 @@
+authors: "Yildiz-Sezer S, Verdorfer I, Sch\xE4fer G, Rogatsch H, Bartsch G, Mikuz\
+  \ G."
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.39
+    - 47.26
+    type: Point
+  info:
+    city: Innsbruck
+    continent: ''
+    country: Austria
+    label: Innsbruck, Austria, Europe
+    precision: city
+journal: Prostate 67(4), 2007
+notes: NA
+pmid: '17219381'
+title: Gain of chromosome X in prostatic atrophy detected by CGH and FISH analyses.
+year: '2007'

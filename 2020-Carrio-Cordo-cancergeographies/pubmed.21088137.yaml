@@ -1,0 +1,26 @@
+authors: Sung CO, Kim SC, Karnan S, Karube K, Shin HJ, Nam DH, Suh YL, Kim SH, Kim
+  JY, Kim SJ, Kim WS, Seto M, Ko YH.
+counts:
+  biosamples: 12.0
+  samples_acgh: 12.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Blood 117(4), 2011
+notes: primary central nervous system lymphoma
+pmid: '21088137'
+title: Genomic profiling combined with gene expression profiling in primary central
+  nervous system lymphoma.
+year: '2011'

@@ -1,0 +1,24 @@
+authors: Kujawski M, Sarlomo-Rikala M, Gabriel A, Szyfter K, Knuutila S.
+counts:
+  biosamples: 36.0
+  samples_acgh: 0.0
+  samples_ccgh: 36.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.93
+    - 52.41
+    type: Point
+  info:
+    city: Poznan
+    continent: ''
+    country: Poland
+    label: Poznan, Poland, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 26(3), 1999
+notes: NA
+pmid: '10502324'
+title: Recurrent DNA copy number losses associated with metastasis of larynx carcinoma.
+year: '1999'

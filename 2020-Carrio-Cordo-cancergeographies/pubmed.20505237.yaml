@@ -1,0 +1,25 @@
+authors: Brosens RP, Belt EJ, Haan JC, Buffart TE, Carvalho B, Grabsch H, Quirke P,
+  Cuesta MA, Engel AF, Ylstra B and Meijer GA.
+counts:
+  biosamples: 40.0
+  samples_acgh: 40.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Cell Oncol (2010)
+notes: NA
+pmid: '20505237'
+title: Deletion of Chromosome 4q Predicts Outcome in Stage Ii Colon Cancer Patients.
+year: '2010'

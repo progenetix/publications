@@ -1,0 +1,24 @@
+authors: Dahlback HS, Gorunova L, Micci F, Scheie D, Brandal P, Meling TR, Heim S.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Cytogenet. Genome Res. 134(2), 2011
+notes: NA
+pmid: '21555877'
+title: Molecular cytogenetic analysis of a gliosarcoma with osseous metaplasia.
+year: '2011'

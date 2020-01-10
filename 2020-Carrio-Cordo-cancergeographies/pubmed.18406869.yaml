@@ -1,0 +1,25 @@
+authors: Rassekh SR, Chan S, Harvard C, Dix D, Qiao Y, Rajcan-Separovic E.
+counts:
+  biosamples: 26.0
+  samples_acgh: 13.0
+  samples_ccgh: 13.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 182(2), 2008
+notes: NA
+pmid: '18406869'
+title: Screening for submicroscopic chromosomal rearrangements in Wilms tumor using
+  whole-genome microarrays.
+year: '2008'

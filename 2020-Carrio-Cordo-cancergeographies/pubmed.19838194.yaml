@@ -1,0 +1,28 @@
+authors: Mullighan CG, Collins-Underwood JR, Phillips LA, Loudin MG, Liu W, Zhang
+  J, Ma J, Coustan-Smith E, Harvey RC, Willman CL, Mikhail FM, Meyer J, Carroll AJ,
+  Williams RT, Cheng J, Heerema NA, Basso G, Pession A, Pui CH, Raimondi SC, Hunger
+  SP, Downing JR, Carroll WL, Rabin KR.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: ''
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: Nat. Genet. 41(11), 2009
+notes: NA
+pmid: '19838194'
+title: Rearrangement of CRLF2 in B-progenitor- and Down syndrome-associated acute
+  lymphoblastic leukemia.
+year: '2009'

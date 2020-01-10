@@ -1,0 +1,25 @@
+authors: Zhang L, Znoyko I, Costa LJ, Conlin LK, Daber RD, Self SE, Wolff DJ.
+counts:
+  biosamples: 25.0
+  samples_acgh: 25.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -88.18
+    - 39.5
+    type: Point
+  info:
+    city: Charleston
+    continent: ''
+    country: United States
+    label: Charleston, United States, North America
+    precision: city
+journal: Cancer Genet 204(12), 2011
+notes: NA
+pmid: '22285017'
+title: 'Clonal diversity analysis using SNP microarray: a new prognostic tool for
+  chronic lymphocytic leukemia.'
+year: '2011'

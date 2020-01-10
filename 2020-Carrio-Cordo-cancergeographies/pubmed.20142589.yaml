@@ -1,0 +1,27 @@
+authors: Zarghooni M, Bartels U, Lee E, Buczkowicz P, Morrison A, Huang A, Bouffet
+  E, Hawkins C.
+counts:
+  biosamples: 11.0
+  samples_acgh: 11.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: J. Clin. Oncol. 28(8), 2010
+notes: Article contains DIPG data. Data of 4 cases was excluded for quality reasons.
+pmid: '20142589'
+title: Whole-genome profiling of pediatric diffuse intrinsic pontine gliomas highlights
+  platelet-derived growth factor receptor alpha and poly (ADP-ribose) polymerase as
+  potential therapeutic targets.
+year: '2010'

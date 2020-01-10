@@ -1,0 +1,28 @@
+authors: Fix A, Lucchesi C, Ribeiro A, Lequin D, Pierron G, Schleiermacher G, Delattre
+  O, Janoueix-Lerosey I.
+counts:
+  biosamples: 65.0
+  samples_acgh: 65.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 47(10), 2008
+notes: Various versions of the BAC arrays were used. Also, 6 cell lines were additionally
+  analyzed with Affymetrix 100k SNP arrays.
+pmid: '18553563'
+title: 'Characterization of amplicons in neuroblastoma: high-resolution mapping using
+  DNA microarrays, relationship with outcome, and identification of overexpressed
+  genes.'
+year: '2008'

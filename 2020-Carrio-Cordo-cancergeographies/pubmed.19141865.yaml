@@ -1,0 +1,27 @@
+authors: O'Shea D, O'Riain C, Gupta M, Waters R, Yang Y, Wrench D, Gribben J, Rosenwald
+  A, Ott G, Rimsza LM, Holte H, Cazier JB, Johnson NA, Campo E, Chan WC, Gascoyne
+  RD, Young BD, Staudt LM, Lister TA, Fitzgibbon J.
+counts:
+  biosamples: 185.0
+  samples_acgh: 185.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Blood 113(10), 2009
+notes: NA
+pmid: '19141865'
+title: Regions of acquired uniparental disomy at diagnosis of follicular lymphoma
+  are associated with both overall survival and risk of transformation.
+year: '2009'

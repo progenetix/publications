@@ -1,0 +1,27 @@
+authors: "Carvalho B, Postma C, Mongera S, Hopmans E, Diskin S, van de Wiel MA, van\
+  \ Criekinge W, Thas O, Matth\xE4i A, Cuesta MA, Terhaar Sive Droste JS, Craanen\
+  \ M, Schr\xF6ck E, Ylstra B, Meijer GA."
+counts:
+  biosamples: 82.0
+  samples_acgh: 82.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Gut 58(1), 2009
+notes: NA
+pmid: '18829976'
+title: Multiple putative oncogenes at the chromosome 20q amplicon contribute to colorectal
+  adenoma to carcinoma progression.
+year: '2009'

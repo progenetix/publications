@@ -1,0 +1,26 @@
+authors: Nasri S, Anjomshoaa A, Song S, Guilford P, McNoe L, Black M, Phillips V,
+  Reeve A, Humar B.
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 170.5
+    - -45.87
+    type: Point
+  info:
+    city: Dunedin
+    continent: ''
+    country: New Zealand
+    label: Dunedin, New Zealand, Pacific
+    precision: city
+journal: Cancer Genet. Cytogenet. 198(1), 2010
+notes: NA
+pmid: '20303007'
+title: Oligonucleotide array outperforms SNP array on formalin-fixed paraffin-embedded
+  clinical samples.
+year: '2010'

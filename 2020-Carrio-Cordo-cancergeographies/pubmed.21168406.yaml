@@ -1,0 +1,26 @@
+authors: Rath P, Miller DC, Litofsky NS, Anthony DC, Feng Q, Franklin C, Pei L, Free
+  A, Liu J, Ren M, Kirk MD, Shi H.
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -87.04
+    - 35.62
+    type: Point
+  info:
+    city: Columbia
+    continent: ''
+    country: United States
+    label: Columbia, United States, North America
+    precision: city
+journal: Exp. Mol. Pathol. 90(2), 2011
+notes: NA
+pmid: '21168406'
+title: Isolation and characterization of a population of stem-like progenitor cells
+  from an atypical meningioma.
+year: '2011'

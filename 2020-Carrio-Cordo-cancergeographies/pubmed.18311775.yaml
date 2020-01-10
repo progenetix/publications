@@ -1,0 +1,28 @@
+authors: "Steinemann D, Cario G, Stanulla M, Karawajew L, Tauscher M, Weigmann A,\
+  \ G\xF6hring G, Ludwig WD, Harbott J, Radlwimmer B, Bartram C, Lichter P, Schrappe\
+  \ M, Schlegelberger B."
+counts:
+  biosamples: 50.0
+  samples_acgh: 50.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: ''
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 47(6), 2008
+notes: The data was taken from the ISCN annotations in the supplements. However, log2
+  data is provided there, too.
+pmid: '18311775'
+title: Copy number alterations in childhood acute lymphoblastic leukemia and their
+  association with minimal residual disease.
+year: '2008'

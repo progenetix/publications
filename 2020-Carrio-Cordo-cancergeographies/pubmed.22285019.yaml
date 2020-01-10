@@ -1,0 +1,25 @@
+authors: Woelfel C, Liehr T, Weise A, Langrehr J, Kotb WA, Pacyna-Gengelbach M, Katenkamp
+  D, Petersen I.
+counts:
+  biosamples: 7.0
+  samples_acgh: 0.0
+  samples_ccgh: 7.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: ''
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: Cancer Genet 204(12), 2011
+notes: NA
+pmid: '22285019'
+title: Molecular cytogenetic characterization of epithelioid hemangioendothelioma.
+year: '2011'

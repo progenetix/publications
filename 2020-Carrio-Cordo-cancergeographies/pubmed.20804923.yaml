@@ -1,0 +1,26 @@
+authors: "Urb\xE1nkov\xE1 H, Holzerov\xE1 M, Balc\xE1rkov\xE1 J, Raida L, Proch\xE1\
+  zka V, Pikalov\xE1 Z, Papaj\xEDk T, Indr\xE1k K, Jarosov\xE1 M."
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.25
+    - 49.6
+    type: Point
+  info:
+    city: Olomouc
+    continent: ''
+    country: Czech Republic
+    label: Olomouc, Czech Republic, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 202(1), 2010
+notes: NA
+pmid: '20804923'
+title: Array comparative genomic hybridization in the detection of chromosomal abnormalities
+  in T-cell prolymphocytic leukemia.
+year: '2010'

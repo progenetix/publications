@@ -1,0 +1,25 @@
+authors: Scuoppo C, Miething C, Lindqvist L, Reyes J, Ruse C, Appelmann I, Yoon S,
+  Krasnitz A, Teruya-Feldstein J, Pappin D, Pelletier J, Lowe SW.
+counts:
+  biosamples: 0.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Nature 487(7406), 2012
+notes: Analysis of copy number variations with Affymetrix SNP 6.0 Arrays
+pmid: '22722845'
+title: A tumour suppressor network relying on the polyamine-hypusine axis.
+year: '2012'

@@ -1,0 +1,25 @@
+authors: Grill J, Puget S, Andreiuolo F, Philippe C, MacConaill L, Kieran MW.
+counts:
+  biosamples: 63.0
+  samples_acgh: 63.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Pediatr Blood Cancer 58(4), 2012
+notes: The data is presented through PMID 22389665.
+pmid: '22190243'
+title: Critical oncogenic mutations in newly diagnosed pediatric diffuse intrinsic
+  pontine glioma.
+year: '2012'

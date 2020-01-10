@@ -1,0 +1,26 @@
+authors: Berg M, Agesen TH, Thiis-Evensen E, INFAC-study group, Merok MA, Teixeira
+  MR, Vatn MH, Nesbakken A, Skotheim RI, Lothe RA.
+counts:
+  biosamples: 40.0
+  samples_acgh: 40.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Mol. Cancer 9, 2010
+notes: NA
+pmid: '20459617'
+title: Distinct high resolution genome profiles of early onset and late onset colorectal
+  cancer integrated with gene expression data identify candidate susceptibility loci.
+year: '2010'

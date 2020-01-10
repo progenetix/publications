@@ -1,0 +1,25 @@
+authors: Murakami H, Mizuno T, Taniguchi T, Fujii M, Ishiguro F, Fukui T, Akatsuka
+  S, Horio Y, Hida T, Kondo Y, Toyokuni S, Osada H, Sekido Y.
+counts:
+  biosamples: 14.0
+  samples_acgh: 14.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 136.91
+    - 35.18
+    type: Point
+  info:
+    city: Nagoya-shi
+    continent: ''
+    country: Japan
+    label: Nagoya-shi, Japan, Asia
+    precision: city
+journal: Cancer Res. 71(3), 2011
+notes: NA
+pmid: '21245096'
+title: LATS2 is a tumor suppressor gene of malignant mesothelioma.
+year: '2011'

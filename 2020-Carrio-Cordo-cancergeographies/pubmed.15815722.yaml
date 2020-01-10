@@ -1,0 +1,26 @@
+authors: Mestre C, Rubio-Moscardo F, Rosenwald A, Climent J, Dyer MJ, Staudt L, Pinkel
+  D, Siebert R, Martinez-Climent JA.
+counts:
+  biosamples: 43.0
+  samples_acgh: 43.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: ''
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: Leukemia 19(6), 2005
+notes: NA
+pmid: '15815722'
+title: Homozygous deletion of SOCS1 in primary mediastinal B-cell lymphoma detected
+  by CGH to BAC microarrays.
+year: '2005'

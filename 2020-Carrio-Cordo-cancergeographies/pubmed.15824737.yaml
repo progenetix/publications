@@ -1,0 +1,27 @@
+authors: Snijders AM, Schmidt BL, Fridlyand J, Dekker N, Pinkel D, Jordan RC, Albertson
+  DG.
+counts:
+  biosamples: 89.0
+  samples_acgh: 89.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Oncogene 24(26), 2005
+notes: Imbalance data was generated from the supplementary log2 data table, using
+  the Bioconductor DNAcopy package with a 500kb filter.
+pmid: '15824737'
+title: Rare amplicons implicate frequent deregulation of cell fate specification pathways
+  in oral squamous cell carcinoma.
+year: '2005'

@@ -1,0 +1,26 @@
+authors: Camps J, Nguyen QT, Padilla-Nash HM, Knutsen T, McNeil NE, Wangsa D, Hummon
+  AB, Grade M, Ried T, Difilippantonio MJ.
+counts:
+  biosamples: 46.0
+  samples_acgh: 46.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 48(11), 2009
+notes: Copy number data for the 15 cell lines is provided in the online supplement.
+pmid: '19691111'
+title: Integrative genomics reveals mechanisms of copy number alterations responsible
+  for transcriptional deregulation in colorectal cancer.
+year: '2009'

@@ -1,0 +1,26 @@
+authors: Molinari C, Ballardini M, Teodorani N, Giannini M, Zoli W, Emiliani E, Lucci
+  E, Passardi A, Rosetti P, Saragoni L, Guidoboni M, Amadori D, Calistri D.
+counts:
+  biosamples: 48.0
+  samples_acgh: 48.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.51
+    - 41.89
+    type: Point
+  info:
+    city: Rome
+    continent: ''
+    country: Italy
+    label: Rome, Italy, Europe
+    precision: city
+journal: Radiat Oncol 6, 2011
+notes: NA
+pmid: '22099067'
+title: 'Genomic alterations in rectal tumors and response to neoadjuvant chemoradiotherapy:
+  an exploratory study.'
+year: '2011'

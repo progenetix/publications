@@ -1,0 +1,27 @@
+authors: Kloosterman WP, Hoogstraat M, Paling O, Tavakoli-Yaraki M, Renkens I, Vermaat
+  JS, van Roosmalen MJ, van Lieshout S, Nijman IJ, Roessingh W, van 't Slot R, van
+  de Belt J, Guryev V, Koudijs M, Voest E, Cuppen E.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.11
+    - 52.09
+    type: Point
+  info:
+    city: Utrecht
+    continent: ''
+    country: The Netherlands
+    label: Utrecht, The Netherlands
+    precision: city
+journal: Genome Biol. 12(10), 2011
+notes: NA
+pmid: '22014273'
+title: Chromothripsis is a common mechanism driving genomic rearrangements in primary
+  and metastatic colorectal cancer.
+year: '2011'

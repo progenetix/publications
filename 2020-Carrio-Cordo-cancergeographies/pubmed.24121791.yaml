@@ -1,0 +1,28 @@
+authors: "Balb\xE1s-Mart\xEDnez C, Sagrera A, Carrillo-de-Santa-Pau E, Earl J, M\xE1\
+  rquez M, Vazquez M, Lapi E, Castro-Giner F, Beltran S, Bay\xE9s M, Carrato A, Cigudosa\
+  \ JC, Dom\xEDnguez O, Gut M, Herranz J, Juanpere N, Kogevinas M, Langa X, L\xF3\
+  pez-Knowles E, Lorente JA, Lloreta J, Pisano DG, Richart L, Rico D, Salgado RN,\
+  \ Tard\xF3n A, Chanock S, Heath S, Valencia A, Losada A, Gut I, Malats N, Real FX."
+counts:
+  biosamples: 51.0
+  samples_acgh: 51.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: ''
+    country: Spain
+    label: null
+    precision: city
+journal: Nat. Genet. 45(12), 2013
+notes: 31 samples from 3 patients
+pmid: '24121791'
+title: Recurrent inactivation of STAG2 in bladder cancer is not associated with aneuploidy.
+year: '2013'

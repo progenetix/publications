@@ -1,0 +1,27 @@
+authors: Lombardi L, Poretti G, Mattioli M, Fabris S, Agnelli L, Bicciato S, Kwee
+  I, Rinaldi A, Ronchetti D, Verdelli D, Lambertenghi-Deliliers G, Bertoni F, Neri
+  A.
+counts:
+  biosamples: 17.0
+  samples_acgh: 17.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: ''
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 46(3), 2007
+notes: NA
+pmid: '17171682'
+title: 'Molecular characterization of human multiple myeloma cell lines by integrative
+  genomics: insights into the biology of the disease.'
+year: '2007'

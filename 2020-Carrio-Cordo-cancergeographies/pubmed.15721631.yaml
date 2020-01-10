@@ -1,0 +1,26 @@
+authors: Barenboim-Stapleton L, Yang X, Tsokos M, Wigginton JM, Padilla-Nash H, Ried
+  T, Thiele CJ.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 157(2), 2005
+notes: NA
+pmid: '15721631'
+title: 'Pediatric pancreatoblastoma: histopathologic and cytogenetic characterization
+  of tumor and derived cell line.'
+year: '2005'

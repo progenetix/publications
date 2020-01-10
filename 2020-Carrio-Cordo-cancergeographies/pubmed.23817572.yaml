@@ -1,0 +1,35 @@
+authors: "Jones DT, Hutter B, J\xE4ger N, Korshunov A, Kool M, Warnatz HJ, Zichner\
+  \ T, Lambert SR, Ryzhova M, Quang DA, Fontebasso AM, St\xFCtz AM, Hutter S, Zuckermann\
+  \ M, Sturm D, Gronych J, Lasitschka B, Schmidt S, Seker-Cin H, Witt H, Sultan M,\
+  \ Ralser M, Northcott PA, Hovestadt V, Bender S, Pfaff E, Stark S, Faury D, Schwartzentruber\
+  \ J, Majewski J, Weber UD, Zapatka M, Raeder B, Schlesner M, Worth CL, Bartholomae\
+  \ CC, von Kalle C, Imbusch CD, Radomski S, Lawerenz C, van Sluis P, Koster J, Volckmann\
+  \ R, Versteeg R, Lehrach H, Monoranu C, Winkler B, Unterberg A, Herold-Mende C,\
+  \ Milde T, Kulozik AE, Ebinger M, Schuhmann MU, Cho YJ, Pomeroy SL, von Deimling\
+  \ A, Witt O, Taylor MD, Wolf S, Karajannis MA, Eberhart CG, Scheurlen W, Hasselblatt\
+  \ M, Ligon KL, Kieran MW, Korbel JO, Yaspo ML, Brors B, Felsberg J, Reifenberger\
+  \ G, Collins VP, Jabado N, Eils R, Lichter P, Pfister SM, International Cancer Genome\
+  \ Consortium PedBrain Tumor Project."
+counts:
+  biosamples: 96.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 96.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Nat. Genet. 45(8), 2013
+notes: NA
+pmid: '23817572'
+title: Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma.
+year: '2013'

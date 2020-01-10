@@ -1,0 +1,28 @@
+authors: Natrajan R, Williams RD, Hing SN, Mackay A, Reis-Filho JS, Fenwick K, Iravani
+  M, Valgeirsson H, Grigoriadis A, Langford CF, Dovey O, Gregory SG, Weber BL, Ashworth
+  A, Grundy PE, Pritchard-Jones K, Jones C.
+counts:
+  biosamples: 76.0
+  samples_acgh: 76.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: ''
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: J. Pathol. 210(1), 2006
+notes: Data is available through ArrayExpress, contained in two accessions (E-TABM-10
+  and E-TABM-13).
+pmid: '16823893'
+title: Array CGH profiling of favourable histology Wilms tumours reveals novel gains
+  and losses associated with relapse.
+year: '2006'

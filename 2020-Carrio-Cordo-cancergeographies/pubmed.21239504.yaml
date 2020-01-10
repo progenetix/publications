@@ -1,0 +1,26 @@
+authors: Kim JC, Kim SY, Cho DH, Ha YJ, Choi EY, Kim CW, Roh SA, Kim TW, Ju H, Kim
+  YS.
+counts:
+  biosamples: 118.0
+  samples_acgh: 118.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Clin. Cancer Res. 17(5), 2011
+notes: NA
+pmid: '21239504'
+title: Novel chemosensitive single-nucleotide polymorphism markers to targeted regimens
+  in metastatic colorectal cancer.
+year: '2011'

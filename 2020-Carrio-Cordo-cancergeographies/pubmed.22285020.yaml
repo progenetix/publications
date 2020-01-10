@@ -1,0 +1,26 @@
+authors: Kyriazoglou AI, Dimitriadis E, Arnogiannaki N, Brandal P, Heim S, Pandis
+  N.
+counts:
+  biosamples: 3.0
+  samples_acgh: 0.0
+  samples_ccgh: 3.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.72
+    - 37.98
+    type: Point
+  info:
+    city: Athens
+    continent: ''
+    country: Greece
+    label: Athens, Greece, Europe
+    precision: city
+journal: Cancer Genet 204(12), 2011
+notes: NA
+pmid: '22285020'
+title: Similar cytogenetic findings in two synchronous secondary peripheral chondrosarcomas
+  in a patient with multiple osteochondromas.
+year: '2011'

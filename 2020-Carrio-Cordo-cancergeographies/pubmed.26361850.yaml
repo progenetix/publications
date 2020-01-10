@@ -1,0 +1,26 @@
+authors: "de Graaff MA, de Jong D, Briaire-de Bruijn IH, Hogendoorn PC, Bov\xE9e JV,\
+  \ Szuhai K."
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ''
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city
+journal: Cancer Genet 208(11), 2015
+notes: ''
+pmid: '26361850'
+title: 'A translocation t(6;14) in two cases of leiomyosarcoma: Molecular cytogenetic
+  and array-based comparative genomic hybridization characterization.'
+year: '2015'

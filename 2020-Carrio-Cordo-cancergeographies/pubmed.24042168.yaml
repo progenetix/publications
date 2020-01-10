@@ -1,0 +1,25 @@
+authors: Fu Y, Fesler M, Mahmud G, Bernreuter K, Jia D, Batanian JR.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -87.04
+    - 35.62
+    type: Point
+  info:
+    city: Columbia
+    continent: ''
+    country: United States
+    label: Columbia, United States, North America
+    precision: city
+journal: Cancer Genet 206(7-8), 2013
+notes: NA
+pmid: '24042168'
+title: Narrowing down the common deleted region of 5q to 6.0 Mb in blastic plasmacytoid
+  dendritic cell neoplasms.
+year: '2013'

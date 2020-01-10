@@ -1,0 +1,25 @@
+authors: Ni IB, Ching NC, Meng CK, Zakaria Z.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 101.69
+    - 3.14
+    type: Point
+  info:
+    city: Kuala Lumpur
+    continent: ''
+    country: Malaysia
+    label: Kuala Lumpur, Malaysia, Asia
+    precision: city
+journal: Hematol Rep 4(3), 2012
+notes: ''
+pmid: '23087808'
+title: 'Translocation t(11;14) (q13;q32) and genomic imbalances in multi-ethnic multiple
+  myeloma patients: a Malaysian study.'
+year: '2012'

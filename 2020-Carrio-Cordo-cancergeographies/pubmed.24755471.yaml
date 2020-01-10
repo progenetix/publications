@@ -1,0 +1,27 @@
+authors: Mouradov D, Sloggett C, Jorissen RN, Love CG, Li S, Burgess AW, Arango D,
+  Strausberg RL, Buchanan D, Wormald S, O'Connor L, Wilding JL, Bicknell D, Tomlinson
+  IP, Bodmer WF, Mariadason JM, Sieber OM.
+counts:
+  biosamples: 70.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 70.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Cancer Res. 74(12), 2014
+notes: 70 cell lines for SNP microarray analyses as well.
+pmid: '24755471'
+title: Colorectal cancer cell lines are representative models of the main molecular
+  subtypes of primary cancer.
+year: '2014'

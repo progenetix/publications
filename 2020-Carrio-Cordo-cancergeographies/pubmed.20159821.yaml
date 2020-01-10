@@ -1,0 +1,27 @@
+authors: Brekke HR, Ribeiro FR, Kolberg M, Agesen TH, Lind GE, Eknaes M, Hall KS,
+  Bjerkehagen B, van den Berg E, Teixeira MR, Mandahl N, Smeland S, Mertens F, Skotheim
+  RI, Lothe RA.
+counts:
+  biosamples: 78.0
+  samples_acgh: 20.0
+  samples_ccgh: 58.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: J. Clin. Oncol. 28(9), 2010
+notes: NA
+pmid: '20159821'
+title: Genomic changes in chromosomes 10, 16, and X in malignant peripheral nerve
+  sheath tumors identify a high-risk patient group.
+year: '2010'

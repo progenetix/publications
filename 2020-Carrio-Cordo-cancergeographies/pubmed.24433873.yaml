@@ -1,0 +1,26 @@
+authors: "Fried I, Artl M, Cota C, M\xFCller H, Bartolo E, Boi S, Chiarelli C, Vale\
+  \ E, Schmuth M, Wiesner T, Speicher MR, Cerroni L."
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 15.45
+    - 47.07
+    type: Point
+  info:
+    city: Graz
+    continent: ''
+    country: Austria
+    label: Graz, Austria, Europe
+    precision: city
+journal: J. Am. Acad. Dermatol. 70(4), 2014
+notes: 10 samples from 8 patients; overview aCGH data in paper
+pmid: '24433873'
+title: Clinicopathologic and molecular features in cutaneous extranodal natural killer-/T-cell
+  lymphoma, nasal type, with aggressive and indolent course.
+year: '2014'

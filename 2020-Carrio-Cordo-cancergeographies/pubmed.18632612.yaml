@@ -1,0 +1,28 @@
+authors: Holcomb IN, Grove DI, Kinnunen M, Friedman CL, Gallaher IS, Morgan TM, Sather
+  CL, Delrow JJ, Nelson PS, Lange PH, Ellis WJ, True LD, Young JM, Hsu L, Trask BJ,
+  Vessella RL.
+counts:
+  biosamples: 89.0
+  samples_acgh: 89.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.33
+    - 47.61
+    type: Point
+  info:
+    city: Seattle
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Cancer Res. 68(14), 2008
+notes: The exact number of samples analysed by aCGH is not clear from the article's
+  text.
+pmid: '18632612'
+title: Genomic alterations indicate tumor origin and varied metastatic potential of
+  disseminated cells from prostate cancer patients.
+year: '2008'

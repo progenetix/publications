@@ -1,0 +1,25 @@
+authors: Welkoborsky HJ, Jacob R, Riazimand SH, Bernauer HS, Mann WJ.
+counts:
+  biosamples: 7.0
+  samples_acgh: 0.0
+  samples_ccgh: 7.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: ''
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: Oncology 65(1), 2003
+notes: NA
+pmid: '12837984'
+title: Molecular biologic characteristics of seven new cell lines of squamous cell
+  carcinomas of the head and neck and comparison to fresh tumor tissue.
+year: '2003'

@@ -1,0 +1,26 @@
+authors: Hermsen MA, Baak JP, Meijer GA, Weiss JM, Walboomers JW, Snijders PJ, van
+  Diest PJ.
+counts:
+  biosamples: 53.0
+  samples_acgh: 0.0
+  samples_ccgh: 53.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: J. Pathol. 186(4), 1998
+notes: NA
+pmid: '10209483'
+title: Genetic analysis of 53 lymph node-negative breast carcinomas by CGH and relation
+  to clinical, pathological, morphometric, and DNA cytometric prognostic factors.
+year: '1998'

@@ -1,0 +1,25 @@
+authors: Poon TC, Wong N, Lai PB, Rattray M, Johnson PJ, Sung JJ.
+counts:
+  biosamples: 158.0
+  samples_acgh: 0.0
+  samples_ccgh: 158.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Gastroenterology 131(4), 2006
+notes: NA
+pmid: '17030195'
+title: 'A tumor progression model for hepatocellular carcinoma: bioinformatic analysis
+  of genomic data.'
+year: '2006'

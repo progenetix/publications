@@ -1,0 +1,25 @@
+authors: Hashimoto Y, Oga A, Okami K, Imate Y, Yamashita Y, Sasaki K.
+counts:
+  biosamples: 18.0
+  samples_acgh: 0.0
+  samples_ccgh: 18.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Cytometry 40(2), 2000
+notes: NA
+pmid: '10805936'
+title: Relationship between cytogenetic aberrations by CGH coupled with tissue microdissection
+  and DNA ploidy by laser scanning cytometry in head and neck squamous cell carcinoma.
+year: '2000'

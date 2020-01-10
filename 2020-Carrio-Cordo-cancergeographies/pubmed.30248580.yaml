@@ -1,0 +1,26 @@
+authors: Tang Z, Li Y, Wang W, Yin CC, Tang G, Aung PP, Hu S, Lu X, Toruner GA, Medeiros
+  LJ, Khoury JD.
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -94.9
+    - 29.38
+    type: Point
+  info:
+    city: Texas City
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Leuk. Res. 73, 2018
+notes: No PDF available yet
+pmid: '30248580'
+title: Genomic aberrations involving 12p/ETV6 are highly prevalent in blastic plasmacytoid
+  dendritic cell neoplasms and might represent early clonal events.
+year: '2018'

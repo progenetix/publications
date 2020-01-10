@@ -1,0 +1,25 @@
+authors: Fang Y, Elahi A, Denley RC, Rao PH, Brennan MF, Jhanwar SC.
+counts:
+  biosamples: 3.0
+  samples_acgh: 0.0
+  samples_ccgh: 3.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Anticancer Res. 29(4), 2009
+notes: NA
+pmid: '19414372'
+title: Molecular characterization of permanent cell lines from primary, metastatic
+  and recurrent malignant peripheral nerve sheath tumors (MPNST) with underlying neurofibromatosis-1.
+year: '2009'

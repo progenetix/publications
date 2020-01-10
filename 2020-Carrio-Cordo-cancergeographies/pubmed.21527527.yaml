@@ -1,0 +1,26 @@
+authors: Afable MG, Wlodarski M, Makishima H, Shaik M, Sekeres MA, Tiu RV, Kalaycio
+  M, O'Keefe CL, Maciejewski JP.
+counts:
+  biosamples: 117.0
+  samples_acgh: 117.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -84.88
+    - 35.16
+    type: Point
+  info:
+    city: Cleveland
+    continent: ''
+    country: United States
+    label: Cleveland, United States, North America
+    precision: city
+journal: Blood 117(25), 2011
+notes: NA
+pmid: '21527527'
+title: 'SNP array-based karyotyping: differences and similarities between aplastic
+  anemia and hypocellular myelodysplastic syndromes.'
+year: '2011'

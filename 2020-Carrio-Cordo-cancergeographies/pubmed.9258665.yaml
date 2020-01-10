@@ -1,0 +1,25 @@
+authors: Karhu R, Knuutila S, Kallioniemi OP, Siltonen S, Aine R, Vilpo L, Vilpo J.
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 25.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: ''
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 19(4), 1997
+notes: NA
+pmid: '9258665'
+title: 'Frequent loss of the 11q14-24 region in chronic lymphocytic leukemia: a study
+  by comparative genomic hybridization. Tampere CLL Group.'
+year: '1997'

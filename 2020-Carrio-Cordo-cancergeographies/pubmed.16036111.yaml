@@ -1,0 +1,27 @@
+authors: Bernardini M, Lee CH, Beheshti B, Prasad M, Albert M, Marrano P, Begley H,
+  Shaw P, Covens A, Murphy J, Rosen B, Minkin S, Squire JA, Macgregor PF.
+counts:
+  biosamples: 26.0
+  samples_acgh: 26.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Neoplasia 7(6), 2005
+notes: NA
+pmid: '16036111'
+title: High-resolution mapping of genomic imbalance and identification of gene expression
+  profiles associated with differential chemotherapy response in serous epithelial
+  ovarian cancer.
+year: '2005'

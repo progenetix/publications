@@ -1,0 +1,25 @@
+authors: Dyer S, Prebble E, Davison V, Davies P, Ramani P, Ellison D, Grundy R.
+counts:
+  biosamples: 42.0
+  samples_acgh: 0.0
+  samples_ccgh: 42.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.9
+    - 52.48
+    type: Point
+  info:
+    city: Birmingham
+    continent: ''
+    country: United Kingdom
+    label: Birmingham, United Kingdom, Europe
+    precision: city
+journal: Am. J. Pathol. 161(6), 2002
+notes: NA
+pmid: '12466129'
+title: Genomic imbalances in pediatric intracranial ependymomas define clinically
+  relevant groups.
+year: '2002'

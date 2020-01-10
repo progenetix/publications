@@ -1,0 +1,30 @@
+authors: Cancer Genome Atlas Research Network.
+counts:
+  biosamples: 223.0
+  samples_acgh: 223.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Nature 455(7216), 2008
+notes: The original data was submitted to the TCGA Data Coordinating Center. Data
+  represented in Progenetix is from 223 cases identified in the TCGA FTP archive (ftp://ftp1.nci.nih.gov:21/tcga/tumor/gbm/cgcc),
+  analyzed at the MSKCC using Agilent 244k genomic arrays (accessed 2008-09-16). Aberrant
+  genomic intervals were derived from the regions files, with fusion of duplicate
+  experiments as guessed from the sample IDs. Some filtering for apparently systematic
+  errors (14q11, 15q11 ...) was performed.
+pmid: '18772890'
+title: Comprehensive genomic characterization defines human glioblastoma genes and
+  core pathways.
+year: '2008'

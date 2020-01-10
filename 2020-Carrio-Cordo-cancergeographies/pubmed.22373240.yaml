@@ -1,0 +1,26 @@
+authors: Magbanua MJ, Sosa EV, Scott JH, Simko J, Collins C, Pinkel D, Ryan CJ, Park
+  JW.
+counts:
+  biosamples: 25.0
+  samples_acgh: 25.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: BMC Cancer 12, 2012
+notes: NA
+pmid: '22373240'
+title: Isolation and genomic analysis of circulating tumor cells from castration resistant
+  metastatic prostate cancer.
+year: '2012'

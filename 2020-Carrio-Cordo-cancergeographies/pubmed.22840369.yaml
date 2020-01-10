@@ -1,0 +1,27 @@
+authors: Arnedos M, Scott V, Job B, De La Cruz J, Commo F, Mathieu MC, Wolp-Diniz
+  R, Richon C, Campone M, Bachelot T, Dalenc F, Dessen P, Lacroix L, Lazar V, Soria
+  JC, Delaloge S, Andre F.
+counts:
+  biosamples: 108.0
+  samples_acgh: 108.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.36
+    - 48.79
+    type: Point
+  info:
+    city: Villejuif
+    continent: ''
+    country: France
+    label: Villejuif, France, Europe
+    precision: city
+journal: Eur. J. Cancer 48(15), 2012
+notes: NA
+pmid: '22840369'
+title: 'Array CGH and PIK3CA/AKT1 mutations to drive patients to specific targeted
+  agents: a clinical experience in 108 patients with metastatic breast cancer.'
+year: '2012'

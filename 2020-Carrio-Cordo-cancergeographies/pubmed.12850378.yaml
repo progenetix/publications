@@ -1,0 +1,25 @@
+authors: Brieger J, Jacob R, Riazimand HS, Essig E, Heinrich UR, Bittinger F, Mann
+  WJ.
+counts:
+  biosamples: 44.0
+  samples_acgh: 0.0
+  samples_ccgh: 44.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.28
+    - 49.98
+    type: Point
+  info:
+    city: Mainz
+    continent: ''
+    country: Germany
+    label: Mainz, Germany, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 144(2), 2003
+notes: NA
+pmid: '12850378'
+title: Chromosomal aberrations in premalignant and malignant squamous epithelium.
+year: '2003'

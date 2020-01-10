@@ -1,0 +1,25 @@
+authors: "Lamers F, Schild L, Koster J, Speleman F, \xD8ra I, Westerhout EM, van Sluis\
+  \ P, Versteeg R, Caron HN, Molenaar JJ."
+counts:
+  biosamples: 88.0
+  samples_acgh: 88.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: BMC Cancer 12, 2012
+notes: NA
+pmid: '22788920'
+title: Identification of BIRC6 as a novel intervention target for neuroblastoma therapy.
+year: '2012'

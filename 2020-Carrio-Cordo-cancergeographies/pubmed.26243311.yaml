@@ -1,0 +1,27 @@
+authors: "Torabi K, Mir\xF3 R, Fern\xE1ndez-Jim\xE9nez N, Quintanilla I, Ramos L,\
+  \ Prat E, del Rey J, Pujol N, Killian JK, Meltzer PS, Fern\xE1ndez PL, Ried T, Lozano\
+  \ JJ, Camps J, Ponsa I."
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Carcinogenesis 36(10), 2015
+notes: ''
+pmid: '26243311'
+title: Patterns of somatic uniparental disomy identify novel tumor suppressor genes
+  in colorectal cancer.
+year: '2015'

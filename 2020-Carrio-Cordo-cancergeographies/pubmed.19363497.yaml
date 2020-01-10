@@ -1,0 +1,27 @@
+authors: Liu W, Laitinen S, Khan S, Vihinen M, Kowalski J, Yu G, Chen L, Ewing CM,
+  Eisenberger MA, Carducci MA, Nelson WG, Yegnasubramanian S, Luo J, Wang Y, Xu J,
+  Isaacs WB, Visakorpi T, Bova GS.
+counts:
+  biosamples: 74.0
+  samples_acgh: 74.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.61
+    - 39.29
+    type: Point
+  info:
+    city: Baltimore
+    continent: ''
+    country: United States
+    label: Baltimore, United States, North America
+    precision: city
+journal: Nat. Med. 15(5), 2009
+notes: NA
+pmid: '19363497'
+title: Copy number analysis indicates monoclonal origin of lethal metastatic prostate
+  cancer.
+year: '2009'

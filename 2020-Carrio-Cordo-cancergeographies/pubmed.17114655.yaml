@@ -1,0 +1,28 @@
+authors: Modena P, Lualdi E, Facchinetti F, Veltman J, Reid JF, Minardi S, Janssen
+  I, Giangaspero F, Forni M, Finocchiaro G, Genitori L, Giordano F, Riccardi R, Schoenmakers
+  EF, Massimino M, Sozzi G.
+counts:
+  biosamples: 24.0
+  samples_acgh: 22.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: ''
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: J. Clin. Oncol. 24(33), 2006
+notes: The data for many cases was vey noisy, making segmentation difficult and with
+  some discrepancy to published chromosomal CGH data.
+pmid: '17114655'
+title: Identification of tumor-specific molecular signatures in intracranial ependymoma
+  and association with clinical characteristics.
+year: '2006'

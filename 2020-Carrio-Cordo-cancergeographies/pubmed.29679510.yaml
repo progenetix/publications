@@ -1,0 +1,25 @@
+authors: "Marguet F, Piton N, Adle-Biassette H, Renaud F, Bohers E, Boyer T, Zarea\
+  \ A, Derrey S, Sabourin JC, Laquerri\xEF\xBF\xBDre A."
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 1.1
+    - 49.44
+    type: Point
+  info:
+    city: Rouen
+    continent: ''
+    country: France
+    label: null
+    precision: city
+journal: Neuropathol. Appl. Neurobiol., 2018
+notes: Only germline variants were analysed for the cancer patients.
+pmid: '29679510'
+title: Molecular characteristics of multifocal brain histiocytic sarcoma.
+year: '2018'

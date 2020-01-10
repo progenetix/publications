@@ -1,0 +1,26 @@
+authors: Lin TT, Letsolo BT, Jones RE, Rowson J, Pratt G, Hewamana S, Fegan C, Pepper
+  C, Baird DM.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.18
+    - 51.48
+    type: Point
+  info:
+    city: Cardiff
+    continent: ''
+    country: United Kingdom
+    label: Cardiff, United Kingdom, Europe
+    precision: city
+journal: Blood 116(11), 2010
+notes: NA
+pmid: '20538793'
+title: 'Telomere dysfunction and fusion during the progression of chronic lymphocytic
+  leukemia: evidence for a telomere crisis.'
+year: '2010'

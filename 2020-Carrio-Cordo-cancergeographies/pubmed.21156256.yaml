@@ -1,0 +1,24 @@
+authors: "Schaefer IM, Gunawan B, F\xFCzesi L, Blech M, Frasunek J, Loertzer H."
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: ''
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 203(2), 2010
+notes: NA
+pmid: '21156256'
+title: Chromosomal imbalances in urinary bladder paraganglioma.
+year: '2010'

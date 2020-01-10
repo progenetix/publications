@@ -1,0 +1,25 @@
+authors: Hirsch D, Kemmerling R, Davis S, Camps J, Meltzer PS, Ried T, Gaiser T.
+counts:
+  biosamples: 18.0
+  samples_acgh: 18.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Cancer Res. 73(5), 2013
+notes: NA
+pmid: '23271725'
+title: Chromothripsis and focal copy number alterations determine poor outcome in
+  malignant melanoma.
+year: '2013'

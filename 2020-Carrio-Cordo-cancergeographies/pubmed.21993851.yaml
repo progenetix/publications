@@ -1,0 +1,26 @@
+authors: Yan B, Yau EX, Samanta S, Ong CW, Yong KJ, Ng LK, Bhattacharya B, Lim KH,
+  Soong R, Yeoh KG, Deng N, Tan P, Lam Y, Salto-Tellez M, Singapore Gastric Cancer
+  Consortium.
+counts:
+  biosamples: 105.0
+  samples_acgh: 105.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: ''
+    country: Singapore
+    label: Singapore, Singapore, Asia
+    precision: city
+journal: Gastric Cancer 15(2), 2012
+notes: NA
+pmid: '21993851'
+title: Clinical and therapeutic relevance of PIM1 kinase in gastric cancer.
+year: '2012'

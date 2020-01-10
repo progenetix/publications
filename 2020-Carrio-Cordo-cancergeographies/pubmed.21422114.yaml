@@ -1,0 +1,27 @@
+authors: Haferlach C, Bacher U, Kohlmann A, Schindela S, Alpermann T, Kern W, Schnittger
+  S, Haferlach T.
+counts:
+  biosamples: 463.0
+  samples_acgh: 463.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.58
+    - 48.14
+    type: Point
+  info:
+    city: Munich
+    continent: ''
+    country: Germany
+    label: Munich, Germany, Europe
+    precision: city
+journal: Haematologica 96(6), 2011
+notes: NA
+pmid: '21422114'
+title: CDKN1B, encoding the cyclin-dependent kinase inhibitor 1B (p27), is located
+  in the minimally deleted region of 12p abnormalities in myeloid malignancies and
+  its low expression is a favorable prognostic marker in acute myeloid leukemia.
+year: '2011'

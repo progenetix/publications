@@ -1,0 +1,27 @@
+authors: "Kryh H, Car\xE9n H, Erichsen J, Sj\xF6berg RM, Abrahamsson J, Kogner P,\
+  \ Martinsson T."
+counts:
+  biosamples: 134.0
+  samples_acgh: 134.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: ''
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: BMC Genomics 12, 2011
+notes: NA
+pmid: '21899760'
+title: Comprehensive SNP array study of frequently used neuroblastoma cell lines;
+  copy neutral loss of heterozygosity is common in the cell lines but uncommon in
+  primary tumors.
+year: '2011'

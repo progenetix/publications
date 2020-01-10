@@ -1,0 +1,27 @@
+authors: Petrini I, Meltzer PS, Kim IK, Lucchi M, Park KS, Fontanini G, Gao J, Zucali
+  PA, Calabrese F, Favaretto A, Rea F, Rodriguez-Canales J, Walker RL, Pineda M, Zhu
+  YJ, Lau C, Killian KJ, Bilke S, Voeller D, Dakshanamurthy S, Wang Y, Giaccone G.
+counts:
+  biosamples: 65.0
+  samples_acgh: 65.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.82
+    - 39.09
+    type: Point
+  info:
+    city: Maryland City
+    continent: ''
+    country: United States
+    label: Maryland City, United States, North America
+    precision: city
+journal: Nat. Genet. 46(8), 2014
+notes: ''
+pmid: '24974848'
+title: A specific missense mutation in GTF2I occurs at high frequency in thymic epithelial
+  tumors.
+year: '2014'

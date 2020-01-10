@@ -1,0 +1,26 @@
+authors: "Cardoso J, Molenaar L, de Menezes RX, van Leerdam M, Rosenberg C, M\xF6\
+  slein G, Sampson J, Morreau H, Boer JM, Fodde R."
+counts:
+  biosamples: 73.0
+  samples_acgh: 73.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ''
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city
+journal: Cancer Res. 66(5), 2006
+notes: Data was extracted fom the supplementary material. The data of 3 normal mucosa
+  samples (no aberrations) was not included.
+pmid: '16510566'
+title: Chromosomal instability in MYH- and APC-mutant adenomatous polyps.
+year: '2006'

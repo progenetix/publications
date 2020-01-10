@@ -1,0 +1,27 @@
+authors: Walter MJ, Shen D, Ding L, Shao J, Koboldt DC, Chen K, Larson DE, McLellan
+  MD, Dooling D, Abbott R, Fulton R, Magrini V, Schmidt H, Kalicki-Veizer J, O'Laughlin
+  M, Fan X, Grillot M, Witowski S, Heath S, Frater JL, Eades W, Tomasson M, Westervelt
+  P, DiPersio JF, Link DC, Mardis ER, Ley TJ, Wilson RK, Graubert TA.
+counts:
+  biosamples: 7.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 7.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.2
+    - 38.63
+    type: Point
+  info:
+    city: st.louis
+    continent: ''
+    country: United States
+    label: st.louis, United States
+    precision: city
+journal: N. Engl. J. Med. 366(12), 2012
+notes: ''
+pmid: '22417201'
+title: Clonal architecture of secondary acute myeloid leukemia.
+year: '2012'

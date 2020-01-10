@@ -1,0 +1,27 @@
+authors: Kolquist KA, Schultz RA, Slovak ML, McDaniel LD, Brown TC, Tubbs RR, Cook
+  JR, Theil KS, Cawich V, Valentin C, Minier S, Neill NJ, Byerly S, Morton SA, Sahoo
+  T, Ballif BC, Shaffer LG.
+counts:
+  biosamples: 34.0
+  samples_acgh: 34.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.43
+    - 47.66
+    type: Point
+  info:
+    city: Spokane
+    continent: ''
+    country: United States
+    label: Spokane, United States, North America
+    precision: city
+journal: Mol Cytogenet 4, 2011
+notes: NA
+pmid: '22087757'
+title: Evaluation of chronic lymphocytic leukemia by oligonucleotide-based microarray
+  analysis uncovers novel aberrations not detected by FISH or cytogenetic analysis.
+year: '2011'

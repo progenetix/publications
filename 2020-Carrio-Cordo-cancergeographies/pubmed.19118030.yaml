@@ -1,0 +1,26 @@
+authors: Nakagawa M, Nakagawa-Oshiro A, Karnan S, Tagawa H, Utsunomiya A, Nakamura
+  S, Takeuchi I, Ohshima K, Seto M.
+counts:
+  biosamples: 61.0
+  samples_acgh: 61.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 136.91
+    - 35.18
+    type: Point
+  info:
+    city: Nagoya-shi
+    continent: ''
+    country: Japan
+    label: Nagoya-shi, Japan, Asia
+    precision: city
+journal: Clin. Cancer Res. 15(1), 2009
+notes: NA
+pmid: '19118030'
+title: Array comparative genomic hybridization analysis of PTCL-U reveals a distinct
+  subgroup with genetic alterations similar to lymphoma-type adult T-cell leukemia/lymphoma.
+year: '2009'

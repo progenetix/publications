@@ -1,0 +1,27 @@
+authors: Kozono D, Li J, Nitta M, Sampetrean O, Gonda D, Kushwaha DS, Merzon D, Ramakrishnan
+  V, Zhu S, Zhu K, Matsui H, Harismendy O, Hua W, Mao Y, Kwon CH, Saya H, Nakano I,
+  Pizzo DP, VandenBerg SR, Chen CC.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.27
+    - 32.85
+    type: Point
+  info:
+    city: La Jolla
+    continent: ''
+    country: United States
+    label: La Jolla, United States, North America
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 112(30), 2015
+notes: ''
+pmid: '26159421'
+title: Dynamic epigenetic regulation of glioblastoma tumorigenicity through LSD1 modulation
+  of MYC expression.
+year: '2015'

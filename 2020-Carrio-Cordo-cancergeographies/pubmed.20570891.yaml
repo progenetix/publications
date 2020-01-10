@@ -1,0 +1,26 @@
+authors: "Hosein AN, Wu M, Arcand SL, Lavall\xE9e S, H\xE9bert J, Tonin PN, Basik\
+  \ M."
+counts:
+  biosamples: 25.0
+  samples_acgh: 25.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.59
+    - 45.51
+    type: Point
+  info:
+    city: Montreal
+    continent: ''
+    country: Canada
+    label: Montreal, Canada, North America
+    precision: city
+journal: Cancer Res. 70(14), 2010
+notes: NA
+pmid: '20570891'
+title: Breast carcinoma-associated fibroblasts rarely contain p53 mutations or chromosomal
+  aberrations.
+year: '2010'

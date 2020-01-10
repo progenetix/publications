@@ -1,0 +1,27 @@
+authors: Rinaldi A, Capello D, Scandurra M, Greiner TC, Chan WC, Bhagat G, Rossi D,
+  Morra E, Paulli M, Rambaldi A, Rancoita PM, Inghirami G, Ponzoni M, Moreno SM, Piris
+  MA, Mian M, Chigrinova E, Zucca E, Favera RD, Gaidano G, Kwee I, Bertoni F.
+counts:
+  biosamples: 44.0
+  samples_acgh: 44.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.02
+    - 46.19
+    type: Point
+  info:
+    city: Bellinzona
+    continent: ''
+    country: Switzerland
+    label: Bellinzona, Switzerland, Europe
+    precision: city
+journal: Br. J. Haematol. 149(4), 2010
+notes: NA
+pmid: '20230398'
+title: Single nucleotide polymorphism-arrays provide new insights in the pathogenesis
+  of post-transplant diffuse large B-cell lymphoma.
+year: '2010'

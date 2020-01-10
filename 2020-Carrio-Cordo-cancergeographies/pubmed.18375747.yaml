@@ -1,0 +1,26 @@
+authors: Al-Mulla F, Hagan S, Al-Ali W, Jacob SP, Behbehani AI, Bitar MS, Dallol A,
+  Kolch W.
+counts:
+  biosamples: 65.0
+  samples_acgh: 0.0
+  samples_ccgh: 65.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 47.98
+    - 29.37
+    type: Point
+  info:
+    city: Kuwait City
+    continent: ''
+    country: Kuwait
+    label: Kuwait City, Kuwait, Asia
+    precision: city
+journal: J. Clin. Pathol. 61(4), 2008
+notes: NA
+pmid: '18375747'
+title: 'Raf kinase inhibitor protein: mechanism of loss of expression and association
+  with genomic instability.'
+year: '2008'

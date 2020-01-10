@@ -1,0 +1,26 @@
+authors: "Lyng H, Beigi M, Svendsrud DH, Brustugun OT, Stokke T, Kristensen GB, Sundf\xF8\
+  r K, Skj\xF8nsberg A, De Angelis PM."
+counts:
+  biosamples: 55.0
+  samples_acgh: 0.0
+  samples_ccgh: 55.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Int. J. Cancer 111(3), 2004
+notes: NA
+pmid: '15221962'
+title: Intratumor chromosomal heterogeneity in advanced carcinomas of the uterine
+  cervix.
+year: '2004'

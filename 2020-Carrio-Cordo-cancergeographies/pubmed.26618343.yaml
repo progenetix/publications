@@ -1,0 +1,29 @@
+authors: "Bai H, Harmanc\u0131 AS, Erson-Omay EZ, Li J, Co\u015Fkun S, Simon M, Krischek\
+  \ B, \xD6zduman K, Omay SB, Sorensen EA, Turcan \u015E, Bak\u0131rc\u0131\u011F\
+  lu M, Carri\xF3n-Grant G, Murray PB, Clark VE, Ercan-Sencicek AG, Knight J, Sencar\
+  \ L, Alt\u0131nok S, Kaulen LD, G\xFClez B, Timmer M, Schramm J, Mishra-Gorur K,\
+  \ Henegariu O, Moliterno J, Louvi A, Chan TA, Tannheimer SL, Pamir MN, Vortmeyer\
+  \ AO, Bilguvar K, Yasuno K, G\xFCnel M."
+counts:
+  biosamples: 41.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 41.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -72.93
+    - 41.31
+    type: Point
+  info:
+    city: New Haven
+    continent: ''
+    country: United States
+    label: New Haven, United States, North America
+    precision: city
+journal: Nat. Genet. 48(1), 2016
+notes: ''
+pmid: '26618343'
+title: Integrated genomic characterization of IDH1-mutant glioma malignant progression.
+year: '2016'

@@ -1,0 +1,28 @@
+authors: Mueller S, Jain P, Liang WS, Kilburn L, Kline C, Gupta N, Panditharatna E,
+  Magge SN, Zhang B, Zhu Y, Crawford JR, Banerjee A, Nazemi K, Packer RJ, Petritsch
+  CK, Truffaux N, Roos A, Nasser S, Phillips JJ, Solomon D, Molinaro A, Waanders AJ,
+  Byron SA, Berens ME, Kuhn J, Nazarian J, Prados M, Resnick AC.
+counts:
+  biosamples: 28.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 14.0
+  samples_wgs: 14.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Int. J. Cancer, 2019
+notes: No PDF available yet
+pmid: '30861105'
+title: 'A pilot precision medicine trial for children with diffuse intrinsic pontine
+  glioma - PNOC003: a report from the Pacific Pediatric Neuro-Oncology Consortium.'
+year: '2019'

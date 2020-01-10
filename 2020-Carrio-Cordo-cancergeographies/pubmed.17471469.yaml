@@ -1,0 +1,26 @@
+authors: Lips EH, de Graaf EJ, Tollenaar RA, van Eijk R, Oosting J, Szuhai K, Karsten
+  T, Nanya Y, Ogawa S, van de Velde CJ, Eilers PH, van Wezel T, Morreau H.
+counts:
+  biosamples: 78.0
+  samples_acgh: 78.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ''
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city
+journal: J. Pathol. 212(3), 2007
+notes: NA
+pmid: '17471469'
+title: Single nucleotide polymorphism array analysis of chromosomal instability patterns
+  discriminates rectal adenomas from carcinomas.
+year: '2007'

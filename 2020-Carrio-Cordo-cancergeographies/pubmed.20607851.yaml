@@ -1,0 +1,26 @@
+authors: Morrison C, Miecznikowski J, Darcy KM, Dolce JM, Kandel E, Erwin DO, Liu
+  S, Shepherd L, Cohn D, McMeekin DS, Block AW, Nowak NJ, Maxwell L.
+counts:
+  biosamples: 80.0
+  samples_acgh: 80.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: ''
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 49(9), 2010
+notes: NA
+pmid: '20607851'
+title: A GOG 210 aCGH study of gain at 1q23 in endometrioid endometrial cancer in
+  the context of racial disparity and outcome.
+year: '2010'

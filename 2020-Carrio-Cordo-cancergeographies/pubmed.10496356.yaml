@@ -1,0 +1,25 @@
+authors: James LA, Kelsey AM, Birch JM, Varley JM.
+counts:
+  biosamples: 11.0
+  samples_acgh: 0.0
+  samples_ccgh: 11.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -2.24
+    - 53.48
+    type: Point
+  info:
+    city: Manchester
+    continent: ''
+    country: United Kingdom
+    label: Manchester, United Kingdom, Europe
+    precision: city
+journal: Br. J. Cancer 81(2), 1999
+notes: NA
+pmid: '10496356'
+title: Highly consistent genetic alterations in childhood adrenocortical tumours detected
+  by comparative genomic hybridization.
+year: '1999'

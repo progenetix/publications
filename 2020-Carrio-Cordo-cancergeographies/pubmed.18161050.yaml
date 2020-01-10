@@ -1,0 +1,25 @@
+authors: Schlaeger C, Longerich T, Schiller C, Bewerunge P, Mehrabi A, Toedt G, Kleeff
+  J, Ehemann V, Eils R, Lichter P, Schirmacher P, Radlwimmer B.
+counts:
+  biosamples: 67.0
+  samples_acgh: 67.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Hepatology 47(2), 2008
+notes: NA
+pmid: '18161050'
+title: Etiology-dependent molecular mechanisms in human hepatocarcinogenesis.
+year: '2008'

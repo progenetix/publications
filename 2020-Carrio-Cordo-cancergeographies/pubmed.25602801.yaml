@@ -1,0 +1,25 @@
+authors: Yeh I, de la Fouchardiere A, Pissaloux D, Mully TW, Garrido MC, Vemula SS,
+  Busam KJ, LeBoit PE, McCalmont TH, Bastian BC.
+counts:
+  biosamples: 19.0
+  samples_acgh: 19.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Am. J. Surg. Pathol. 39(5), 2015
+notes: ''
+pmid: '25602801'
+title: Clinical, histopathologic, and genomic features of Spitz tumors with ALK fusions.
+year: '2015'

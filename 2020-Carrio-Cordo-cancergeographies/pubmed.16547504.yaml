@@ -1,0 +1,26 @@
+authors: "Burnworth B, Popp S, Stark HJ, Steinkraus V, Br\xF6cker EB, Hartschuh W,\
+  \ Birek C, Boukamp P."
+counts:
+  biosamples: 24.0
+  samples_acgh: 0.0
+  samples_ccgh: 24.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Oncogene 25(32), 2006
+notes: NA
+pmid: '16547504'
+title: Gain of 11q/cyclin D1 overexpression is an essential early step in skin cancer
+  development and causes abnormal tissue organization and differentiation.
+year: '2006'

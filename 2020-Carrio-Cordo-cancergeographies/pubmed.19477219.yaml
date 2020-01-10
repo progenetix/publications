@@ -1,0 +1,26 @@
+authors: Kawamata N, Ogawa S, Gueller S, Ross SH, Huynh T, Chen J, Chang A, Nabavi-Nouis
+  S, Megrabian N, Siebert R, Martinez-Climent JA, Koeffler HP.
+counts:
+  biosamples: 33.0
+  samples_acgh: 33.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: ''
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: Exp. Hematol. 37(8), 2009
+notes: NA
+pmid: '19477219'
+title: Identified hidden genomic changes in mantle cell lymphoma using high-resolution
+  single nucleotide polymorphism genomic array.
+year: '2009'

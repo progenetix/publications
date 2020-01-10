@@ -1,0 +1,25 @@
+authors: Harada T, Okita K, Shiraishi K, Kusano N, Kondoh S, Sasaki K.
+counts:
+  biosamples: 71.0
+  samples_acgh: 0.0
+  samples_ccgh: 71.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Cancer Res. 62(3), 2002
+notes: NA
+pmid: '11830540'
+title: Interglandular cytogenetic heterogeneity detected by comparative genomic hybridization
+  in pancreatic cancer.
+year: '2002'

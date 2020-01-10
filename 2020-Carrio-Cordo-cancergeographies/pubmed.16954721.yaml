@@ -1,0 +1,26 @@
+authors: "Pyakurel P, Montag U, Casta\xF1os-V\xE9lez E, Kaaya E, Christensson B, T\xF6\
+  nnies H, Biberfeld P, Heiden T."
+counts:
+  biosamples: 27.0
+  samples_acgh: 0.0
+  samples_ccgh: 27.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: ''
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: AIDS 20(14), 2006
+notes: NA
+pmid: '16954721'
+title: CGH of microdissected Kaposi's sarcoma lesions reveals recurrent loss of chromosome
+  Y in early and additional chromosomal changes in late tumour stages.
+year: '2006'

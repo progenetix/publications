@@ -1,0 +1,30 @@
+authors: Guo G, Sun X, Chen C, Wu S, Huang P, Li Z, Dean M, Huang Y, Jia W, Zhou Q,
+  Tang A, Yang Z, Li X, Song P, Zhao X, Ye R, Zhang S, Lin Z, Qi M, Wan S, Xie L,
+  Fan F, Nickerson ML, Zou X, Hu X, Xing L, Lv Z, Mei H, Gao S, Liang C, Gao Z, Lu
+  J, Yu Y, Liu C, Li L, Fang X, Jiang Z, Yang J, Li C, Zhao X, Chen J, Zhang F, Lai
+  Y, Lin Z, Zhou F, Chen H, Chan HC, Tsang S, Theodorescu D, Li Y, Zhang X, Wang J,
+  Yang H, Gui Y, Wang J, Cai Z.
+counts:
+  biosamples: 198.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 99.0
+  samples_wgs: 99.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.07
+    - 22.55
+    type: Point
+  info:
+    city: Shenzhen
+    continent: ''
+    country: China
+    label: Shenzhen, China, Asia
+    precision: city
+journal: Nat. Genet. 45(12), 2013
+notes: NA
+pmid: '24121792'
+title: Whole-genome and whole-exome sequencing of bladder cancer identifies frequent
+  alterations in genes involved in sister chromatid cohesion and segregation.
+year: '2013'

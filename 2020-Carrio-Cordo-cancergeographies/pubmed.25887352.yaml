@@ -1,0 +1,26 @@
+authors: Kuilman T, Velds A, Kemper K, Ranzani M, Bombardelli L, Hoogstraat M, Nevedomskaya
+  E, Xu G, de Ruiter J, Lolkema MP, Ylstra B, Jonkers J, Rottenberg S, Wessels LF,
+  Adams DJ, Peeper DS, Krijgsman O.
+counts:
+  biosamples: 6.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 6.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: null
+    precision: city
+journal: Genome Biol. 16, 2015
+notes: GWAS
+pmid: '25887352'
+title: 'CopywriteR: DNA copy number detection from off-target sequence data.'
+year: '2015'

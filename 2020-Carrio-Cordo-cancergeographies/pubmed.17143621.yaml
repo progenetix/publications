@@ -1,0 +1,26 @@
+authors: Lassmann S, Weis R, Makowiec F, Roth J, Danciu M, Hopt U, Werner M.
+counts:
+  biosamples: 22.0
+  samples_acgh: 22.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.85
+    - 48.0
+    type: Point
+  info:
+    city: Freiburg
+    continent: ''
+    country: Germany
+    label: Freiburg, Germany, Europe
+    precision: city
+journal: J. Mol. Med. 85(3), 2007
+notes: NA
+pmid: '17143621'
+title: Array CGH identifies distinct DNA copy number profiles of oncogenes and tumor
+  suppressor genes in chromosomal- and microsatellite-unstable sporadic colorectal
+  carcinomas.
+year: '2007'

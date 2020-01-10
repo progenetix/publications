@@ -1,0 +1,25 @@
+authors: Skowronski K, Andrews J, Rodenhiser DI, Coomber BL.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -80.26
+    - 43.55
+    type: Point
+  info:
+    city: Guelph
+    continent: ''
+    country: Canada
+    label: Guelph, Canada, North America
+    precision: city
+journal: PLoS ONE 9(7), 2014
+notes: ''
+pmid: '25079072'
+title: Genome-wide analysis in human colorectal cancer cells reveals ischemia-mediated
+  expression of motility genes via DNA hypomethylation.
+year: '2014'

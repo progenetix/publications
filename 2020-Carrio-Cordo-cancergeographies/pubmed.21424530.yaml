@@ -1,0 +1,28 @@
+authors: Cin H, Meyer C, Herr R, Janzarik WG, Lambert S, Jones DT, Jacob K, Benner
+  A, Witt H, Remke M, Bender S, Falkenstein F, Van Anh TN, Olbrich H, von Deimling
+  A, Pekrun A, Kulozik AE, Gnekow A, Scheurlen W, Witt O, Omran H, Jabado N, Collins
+  VP, Brummer T, Marschalek R, Lichter P, Korshunov A, Pfister SM.
+counts:
+  biosamples: 125.0
+  samples_acgh: 125.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Acta Neuropathol. 121(6), 2011
+notes: NA
+pmid: '21424530'
+title: Oncogenic FAM131B-BRAF fusion resulting from 7q34 deletion comprises an alternative
+  mechanism of MAPK pathway activation in pilocytic astrocytoma.
+year: '2011'

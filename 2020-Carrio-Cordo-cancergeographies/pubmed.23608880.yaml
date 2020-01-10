@@ -1,0 +1,26 @@
+authors: Mraz M, Stano Kozubik K, Plevova K, Musilova K, Tichy B, Borsky M, Kuglik
+  P, Doubek M, Brychtova Y, Mayer J, Pospisilova S.
+counts:
+  biosamples: 40.0
+  samples_acgh: 40.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.61
+    - 49.2
+    type: Point
+  info:
+    city: Brno
+    continent: ''
+    country: Czech Republic
+    label: Brno, Czech Republic, Europe
+    precision: city
+journal: Leuk. Res. 37(7), 2013
+notes: The article lists a number of regions in the text.
+pmid: '23608880'
+title: The origin of deletion 22q11 in chronic lymphocytic leukemia is related to
+  the rearrangement of immunoglobulin lambda light chain locus.
+year: '2013'

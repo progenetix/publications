@@ -1,0 +1,25 @@
+authors: Jiang JK, Chen YJ, Lin CH, Yu IT, Lin JK.
+counts:
+  biosamples: 36.0
+  samples_acgh: 0.0
+  samples_ccgh: 36.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: ''
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: Genes Chromosomes Cancer 43(1), 2005
+notes: NA
+pmid: '15723340'
+title: Genetic changes and clonality relationship between primary colorectal cancers
+  and their pulmonary metastases--an analysis by comparative genomic hybridization.
+year: '2005'

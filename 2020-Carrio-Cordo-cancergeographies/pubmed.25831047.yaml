@@ -1,0 +1,25 @@
+authors: Kim SY, Jung SH, Kim MS, Baek IP, Lee SH, Kim TM, Chung YJ, Lee SH.
+counts:
+  biosamples: 32.0
+  samples_acgh: 16.0
+  samples_ccgh: 0.0
+  samples_wes: 16.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Oncotarget 6(10), 2015
+notes: ''
+pmid: '25831047'
+title: Genomic differences between pure ductal carcinoma in situ and synchronous ductal
+  carcinoma in situ with invasive breast cancer.
+year: '2015'

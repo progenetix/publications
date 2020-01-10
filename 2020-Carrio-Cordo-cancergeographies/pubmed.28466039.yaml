@@ -1,0 +1,26 @@
+authors: Grozdanov P, Hadjidekova S, Dimova I, Nikolova I, Toncheva D, Ganchev G,
+  Zlatkov V, Galabov AS.
+counts:
+  biosamples: 9.0
+  samples_acgh: 9.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.32
+    - 42.7
+    type: Point
+  info:
+    city: Sofia
+    continent: ''
+    country: Bulgaria
+    label: Sofia, Bulgaria, Europe
+    precision: city
+journal: Virusdisease 27(3), 2016
+notes: Additional samples were analyzed as pools.
+pmid: '28466039'
+title: Characterization of genomic changes in the cervical pre-cancerous lesions and
+  tumors induced by different types of human papillomaviruses.
+year: '2016'

@@ -1,0 +1,26 @@
+authors: Yan XJ, Xu J, Gu ZH, Pan CM, Lu G, Shen Y, Shi JY, Zhu YM, Tang L, Zhang
+  XW, Liang WX, Mi JQ, Song HD, Li KQ, Chen Z, Chen SJ.
+counts:
+  biosamples: 9.0
+  samples_acgh: 9.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: ''
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: Nat. Genet. 43(4), 2011
+notes: NA
+pmid: '21399634'
+title: Exome sequencing identifies somatic mutations of DNA methyltransferase gene
+  DNMT3A in acute monocytic leukemia.
+year: '2011'

@@ -1,0 +1,26 @@
+authors: Obermann EC, Junker K, Stoehr R, Dietmaier W, Zaak D, Schubert J, Hofstaedter
+  F, Knuechel R, Hartmann A.
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.12
+    - 49.03
+    type: Point
+  info:
+    city: Regensburg
+    continent: ''
+    country: Germany
+    label: Regensburg, Germany, Europe
+    precision: city
+journal: J. Pathol. 199(1), 2003
+notes: NA
+pmid: '12474226'
+title: Frequent genetic alterations in flat urothelial hyperplasias and concomitant
+  papillary bladder cancer as detected by CGH, LOH, and FISH analyses.
+year: '2003'

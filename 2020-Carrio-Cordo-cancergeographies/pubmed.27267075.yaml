@@ -1,0 +1,28 @@
+authors: Disciglio V, Devecchi A, Palumbo O, Carella M, Penso D, Milione M, Valle
+  G, Pierotti MA, Vitellaro M, Bertario L, Canevari S, Signoroni S, De Cecco L.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: ''
+    country: Italy
+    label: null
+    precision: city
+journal: Chin J Cancer 35(1), 2016
+notes: The exact number of samples analysed by aCGH is not clear from the article's
+  text.
+pmid: '27267075'
+title: Whole exome sequencing and single nucleotide polymorphism array analyses to
+  identify germline alterations in genes associated with testosterone metabolism in
+  a patient with androgen insensitivity syndrome and early-onset colorectal cancer.
+year: '2016'

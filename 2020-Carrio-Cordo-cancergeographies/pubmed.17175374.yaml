@@ -1,0 +1,26 @@
+authors: Szuhai K, IJszenga M, Tanke HJ, Taminiau AH, de Schepper A, van Duinen SG,
+  Rosenberg C, Hogendoorn PC.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ''
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city
+journal: Cancer Genet. Cytogenet. 172(1), 2007
+notes: NA
+pmid: '17175374'
+title: Detection and molecular cytogenetic characterization of a novel ring chromosome
+  in a histological variant of Ewing sarcoma.
+year: '2007'

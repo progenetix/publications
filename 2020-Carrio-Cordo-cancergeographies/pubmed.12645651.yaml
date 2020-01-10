@@ -1,0 +1,25 @@
+authors: Stallings RL, Howard J, Dunlop A, Mullarkey M, McDermott M, Breatnach F,
+  O'Meara A.
+counts:
+  biosamples: 15.0
+  samples_acgh: 0.0
+  samples_ccgh: 15.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -6.25
+    - 53.33
+    type: Point
+  info:
+    city: Dublin
+    continent: ''
+    country: Ireland
+    label: Dublin, Ireland, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 140(2), 2003
+notes: NA
+pmid: '12645651'
+title: Are gains of chromosomal regions 7q and 11p important abnormalities in neuroblastoma?
+year: '2003'

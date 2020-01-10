@@ -1,0 +1,25 @@
+authors: Seiser EL, Thomas R, Richards KL, Kelley MK, Moore P, Suter SE, Breen M.
+counts:
+  biosamples: 5.0
+  samples_acgh: 5.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -78.64
+    - 35.77
+    type: Point
+  info:
+    city: Raleigh
+    continent: ''
+    country: United States
+    label: Raleigh, United States, North America
+    precision: city
+journal: Vet Comp Oncol 11(1), 2013
+notes: NA
+pmid: '22236332'
+title: 'Reading between the lines: molecular characterization of five widely used
+  canine lymphoid tumour cell lines.'
+year: '2013'

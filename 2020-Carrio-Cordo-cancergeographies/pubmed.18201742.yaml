@@ -1,0 +1,25 @@
+authors: Hsu LI, Chiu AW, Pu YS, Wang YH, Huan SK, Hsiao CH, Hsieh FI, Chen CJ.
+counts:
+  biosamples: 48.0
+  samples_acgh: 0.0
+  samples_ccgh: 48.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: ''
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: Toxicol. Appl. Pharmacol. 227(2), 2008
+notes: NA
+pmid: '18201742'
+title: Comparative genomic hybridization study of arsenic-exposed and non-arsenic-exposed
+  urinary transitional cell carcinoma.
+year: '2008'

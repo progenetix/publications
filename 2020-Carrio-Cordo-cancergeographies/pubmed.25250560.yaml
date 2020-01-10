@@ -1,0 +1,26 @@
+authors: Ashktorab H, Daremipouran M, Devaney J, Varma S, Rahi H, Lee E, Shokrani
+  B, Schwartz R, Nickerson ML, Brim H.
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 12.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.04
+    - 38.9
+    type: Point
+  info:
+    city: Washington D.C.
+    continent: ''
+    country: United States
+    label: Washington D.C., United States, North America
+    precision: city
+journal: Cancer 121(1), 2015
+notes: ''
+pmid: '25250560'
+title: Identification of novel mutations by exome sequencing in African American colorectal
+  cancer patients.
+year: '2015'

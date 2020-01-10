@@ -1,0 +1,26 @@
+authors: Kondo Y, Nagai K, Nakahata S, Saito Y, Ichikawa T, Suekane A, Taki T, Iwakawa
+  R, Enari M, Taniwaki M, Yokota J, Sakoda S, Morishita K.
+counts:
+  biosamples: 28.0
+  samples_acgh: 28.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.42
+    - 31.91
+    type: Point
+  info:
+    city: Miyazaki-shi
+    continent: ''
+    country: Japan
+    label: Miyazaki-shi, Japan, Asia
+    precision: city
+journal: Cancer Sci. 103(4), 2012
+notes: NA
+pmid: '22320325'
+title: Overexpression of the DNA sensor proteins, absent in melanoma 2 and interferon-inducible
+  16, contributes to tumorigenesis of oral squamous cell carcinoma with p53 inactivation.
+year: '2012'

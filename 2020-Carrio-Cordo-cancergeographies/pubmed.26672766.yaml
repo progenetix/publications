@@ -1,0 +1,26 @@
+authors: Shi JY, Xing Q, Duan M, Wang ZC, Yang LX, Zhao YJ, Wang XY, Liu Y, Deng M,
+  Ding ZB, Ke AW, Zhou J, Fan J, Cao Y, Wang J, Xi R, Gao Q.
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 4.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: ''
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: Oncotarget 7(3), 2016
+notes: ''
+pmid: '26672766'
+title: Inferring the progression of multifocal liver cancer from spatial and temporal
+  genomic heterogeneity.
+year: '2016'

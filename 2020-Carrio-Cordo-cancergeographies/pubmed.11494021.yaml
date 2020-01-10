@@ -1,0 +1,24 @@
+authors: Lui WO, Tanenbaum DM, Larsson C.
+counts:
+  biosamples: 23.0
+  samples_acgh: 0.0
+  samples_ccgh: 23.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: ''
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: Int. J. Oncol. 19(3), 2001
+notes: NA
+pmid: '11494021'
+title: High level amplification of 1p32-33 and 2p22-24 in small cell lung carcinomas.
+year: '2001'

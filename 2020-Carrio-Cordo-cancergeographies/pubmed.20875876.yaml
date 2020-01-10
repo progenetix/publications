@@ -1,0 +1,25 @@
+authors: Naderi A.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.47
+    - 52.13
+    type: Point
+  info:
+    city: Bedford
+    continent: ''
+    country: United Kingdom
+    label: Bedford, United Kingdom, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 202(2), 2010
+notes: NA
+pmid: '20875876'
+title: Microdeletion of 22q11.1 is associated with two cases of familial nonsyndromic
+  basal cell carcinoma.
+year: '2010'

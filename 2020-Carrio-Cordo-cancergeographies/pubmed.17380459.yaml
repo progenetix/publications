@@ -1,0 +1,25 @@
+authors: Zhu YQ, Zhu ZG, Liu BY, Chen XH, Yin HR, Wang XH.
+counts:
+  biosamples: 23.0
+  samples_acgh: 0.0
+  samples_ccgh: 23.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: ''
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: Zhonghua Wei Chang Wai Ke Za Zhi 10(2), 2007
+notes: NA
+pmid: '17380459'
+title: '[Chromosomal alterations analyzed by comparative genomic hybridization in
+  primary gastric carcinoma].'
+year: '2007'

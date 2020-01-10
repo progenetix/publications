@@ -1,0 +1,26 @@
+authors: McKenna ES, Sansam CG, Cho YJ, Greulich H, Evans JA, Thom CS, Moreau LA,
+  Biegel JA, Pomeroy SL, Roberts CW.
+counts:
+  biosamples: 38.0
+  samples_acgh: 38.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Mol. Cell. Biol. 28(20), 2008
+notes: NA
+pmid: '18710953'
+title: Loss of the epigenetic tumor suppressor SNF5 leads to cancer without genomic
+  instability.
+year: '2008'

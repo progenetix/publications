@@ -1,0 +1,25 @@
+authors: Rajendra S, Wang B, Merrett N, Sharma P, Humphris J, Lee HC, Wu J.
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 12.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 151.21
+    - -33.87
+    type: Point
+  info:
+    city: Sydney
+    continent: ''
+    country: Australia
+    label: Sydney, Australia, Australia
+    precision: city
+journal: J. Med. Genet. 53(4), 2016
+notes: null
+pmid: '26470716'
+title: Genomic analysis of HPV-positive versus HPV-negative oesophageal adenocarcinoma
+  identifies a differential mutational landscape.
+year: '2016'

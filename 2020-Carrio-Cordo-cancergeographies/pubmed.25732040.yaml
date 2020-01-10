@@ -1,0 +1,28 @@
+authors: Favero F, McGranahan N, Salm M, Birkbak NJ, Sanborn JZ, Benz SC, Becq J,
+  Peden JF, Kingsbury Z, Grocok RJ, Humphray S, Bentley D, Spencer-Dene B, Gutteridge
+  A, Brada M, Roger S, Dietrich PY, Forshew T, Gerlinger M, Rowan A, Stamp G, Eklund
+  AC, Szallasi Z, Swanton C.
+counts:
+  biosamples: 5.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 5.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Ann. Oncol. 26(5), 2015
+notes: ''
+pmid: '25732040'
+title: Glioblastoma adaptation traced through decline of an IDH1 clonal driver and
+  macro-evolution of a double-minute chromosome.
+year: '2015'

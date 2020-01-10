@@ -1,0 +1,25 @@
+authors: Amin NA, Seymour E, Saiya-Cork K, Parkin B, Shedden K, Malek SN.
+counts:
+  biosamples: 61.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 61.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.0
+    - 0.0
+    type: Point
+  info:
+    city: null
+    continent: ''
+    country: null
+    label: null
+    precision: null
+journal: Clin. Cancer Res. 22(17), 2016
+notes: ''
+pmid: '27060156'
+title: A Quantitative Analysis of Subclonal and Clonal Gene Mutations before and after
+  Therapy in Chronic Lymphocytic Leukemia.
+year: '2016'

@@ -1,0 +1,27 @@
+authors: "Christgen M, Bruchhardt H, Hadamitzky C, Rudolph C, Steinemann D, Gadzicki\
+  \ D, Hasemeier B, R\xF6mermann D, Focken T, Krech T, Ballmaier M, Schlegelberger\
+  \ B, Kreipe H, Lehmann U."
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: ''
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: J. Pathol. 217(5), 2009
+notes: NA
+pmid: '19191266'
+title: 'Comprehensive genetic and functional characterization of IPH-926: a novel
+  CDH1-null tumour cell line from human lobular breast cancer.'
+year: '2009'

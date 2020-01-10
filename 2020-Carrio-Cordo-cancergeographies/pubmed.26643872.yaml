@@ -1,0 +1,27 @@
+authors: Kanojia D, Nagata Y, Garg M, Lee DH, Sato A, Yoshida K, Sato Y, Sanada M,
+  Mayakonda A, Bartenhagen C, Klein HU, Doan NB, Said JW, Mohith S, Gunasekar S, Shiraishi
+  Y, Chiba K, Tanaka H, Miyano S, Myklebost O, Yang H, Dugas M, Meza-Zepeda LA, Silberman
+  AW, Forscher C, Tyner JW, Ogawa S, Koeffler HP.
+counts:
+  biosamples: 111.0
+  samples_acgh: 0.0
+  samples_ccgh: 99.0
+  samples_wes: 12.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: ''
+    country: Singapore
+    label: Singapore, Singapore, Asia
+    precision: city
+journal: Oncotarget 6(40), 2015
+notes: ''
+pmid: '26643872'
+title: Genomic landscape of liposarcoma.
+year: '2015'

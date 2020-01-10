@@ -1,0 +1,26 @@
+authors: Eng L, Ibrahim-zada I, Jarjanazi H, Savas S, Meschian M, Pritchard KI, Ozcelik
+  H.
+counts:
+  biosamples: 58.0
+  samples_acgh: 58.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: BMC Med Genomics 4, 2011
+notes: NA
+pmid: '21314952'
+title: Bioinformatic analyses identifies novel protein-coding pharmacogenomic markers
+  associated with paclitaxel sensitivity in NCI60 cancer cell lines.
+year: '2011'

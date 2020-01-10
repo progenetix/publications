@@ -1,0 +1,26 @@
+authors: Collonge-Rame MA, Bresson-Hadni S, Koch S, Carbillet JP, Blagosklonova O,
+  Mantion G, Miguet JP, Heyd B, Bresson JL.
+counts:
+  biosamples: 16.0
+  samples_acgh: 0.0
+  samples_ccgh: 16.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.02
+    - 47.25
+    type: Point
+  info:
+    city: Besancon
+    continent: ''
+    country: France
+    label: Besancon, France, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 127(1), 2001
+notes: NA
+pmid: '11408065'
+title: Pattern of chromosomal imbalances in non-B virus related hepatocellular carcinoma
+  detected by comparative genomic hybridization.
+year: '2001'

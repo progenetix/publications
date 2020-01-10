@@ -1,0 +1,25 @@
+authors: Magrangeas F, Avet-Loiseau H, Munshi NC, Minvielle S.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.55
+    - 47.22
+    type: Point
+  info:
+    city: Nantes
+    continent: ''
+    country: France
+    label: Nantes, France, Europe
+    precision: city
+journal: Blood 118(3), 2011
+notes: NA
+pmid: '21628407'
+title: Chromothripsis identifies a rare and aggressive entity among newly diagnosed
+  multiple myeloma patients.
+year: '2011'

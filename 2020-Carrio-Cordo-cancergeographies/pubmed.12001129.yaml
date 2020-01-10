@@ -1,0 +1,25 @@
+authors: Xue WC, Guan XY, Ngan HY, Shen DH, Khoo US, Cheung AN.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: ''
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: Cancer 94(8), 2002
+notes: NA
+pmid: '12001129'
+title: 'Malignant placental site trophoblastic tumor: a cytogenetic study using comparative
+  genomic hybridization and chromosome in situ hybridization.'
+year: '2002'

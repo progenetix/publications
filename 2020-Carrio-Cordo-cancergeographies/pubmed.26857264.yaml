@@ -1,0 +1,27 @@
+authors: Hu N, Kadota M, Liu H, Abnet CC, Su H, Wu H, Freedman ND, Yang HH, Wang C,
+  Yan C, Wang L, Gere S, Hutchinson A, Song G, Wang Y, Ding T, Qiao YL, Koshiol J,
+  Dawsey SM, Giffen C, Goldstein AM, Taylor PR, Lee MP.
+counts:
+  biosamples: 105.0
+  samples_acgh: 90.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 15.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.15
+    - 39.08
+    type: Point
+  info:
+    city: Rockville
+    continent: ''
+    country: United States
+    label: Rockville, United States, North America
+    precision: city
+journal: Cancer Res. 76(7), 2016
+notes: Mixed cancer types (esophagus and gastric).
+pmid: '26857264'
+title: Genomic Landscape of Somatic Alterations in Esophageal Squamous Cell Carcinoma
+  and Gastric Cancer.
+year: '2016'

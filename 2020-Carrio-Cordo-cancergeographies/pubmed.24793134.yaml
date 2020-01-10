@@ -1,0 +1,26 @@
+authors: Wang Y, Marino-Enriquez A, Bennett RR, Zhu M, Shen Y, Eilers G, Lee JC, Henze
+  J, Fletcher BS, Gu Z, Fox EA, Antonescu CR, Fletcher CD, Guo X, Raut CP, Demetri
+  GD, van de Rijn M, Ordog T, Kunkel LM, Fletcher JA.
+counts:
+  biosamples: 47.0
+  samples_acgh: 47.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Nat. Genet. 46(6), 2014
+notes: NA
+pmid: '24793134'
+title: Dystrophin is a tumor suppressor in human cancers with myogenic programs.
+year: '2014'

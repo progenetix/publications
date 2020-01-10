@@ -1,0 +1,28 @@
+authors: Deng N, Goh LK, Wang H, Das K, Tao J, Tan IB, Zhang S, Lee M, Wu J, Lim KH,
+  Lei Z, Goh G, Lim QY, Tan AL, Sin Poh DY, Riahi S, Bell S, Shi MM, Linnartz R, Zhu
+  F, Yeoh KG, Toh HC, Yong WP, Cheong HC, Rha SY, Boussioutas A, Grabsch H, Rozen
+  S, Tan P.
+counts:
+  biosamples: 331.0
+  samples_acgh: 331.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: ''
+    country: Singapore
+    label: Singapore, Singapore, Asia
+    precision: city
+journal: Gut 61(5), 2012
+notes: NA
+pmid: '22315472'
+title: A comprehensive survey of genomic alterations in gastric cancer reveals systematic
+  patterns of molecular exclusivity and co-occurrence among distinct therapeutic targets.
+year: '2012'

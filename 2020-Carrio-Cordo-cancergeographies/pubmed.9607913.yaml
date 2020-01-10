@@ -1,0 +1,25 @@
+authors: Nakao K, Shibusawa M, Tsunoda A, Yoshizawa H, Murakami M, Kusano M, Uesugi
+  N, Sasaki K.
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Surg. Today 28(5), 1998
+notes: NA
+pmid: '9607913'
+title: Genetic changes in primary colorectal cancer by comparative genomic hybridization.
+year: '1998'

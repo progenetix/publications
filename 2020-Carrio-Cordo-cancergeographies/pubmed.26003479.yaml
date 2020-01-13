@@ -1,0 +1,26 @@
+authors: Lee E, Moon JW, Wang X, Kim C, Li S, Shin BK, Jung W, Kim HK, Kim HK, Lee
+  JY.
+counts:
+  biosamples: 47.0
+  samples_acgh: 47.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Hum. Pathol. 46(8), 2015
+notes: ''
+pmid: '26003479'
+title: Genomic Copy Number Signatures Uncovered a Genetically Distinct Group from
+  Adenocarcinoma and Squamous Cell Carcinoma in Non-Small Cell Lung Cancer.
+year: '2015'

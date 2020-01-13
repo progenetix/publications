@@ -1,0 +1,27 @@
+authors: Park H, Cho SY, Kim H, Na D, Han JY, Chae J, Park C, Park OK, Min S, Kang
+  J, Choi B, Min J, Kwon JY, Suh YS, Kong SH, Lee HJ, Liu ET, Kim JI, Kim S, Yang
+  HK, Lee C.
+counts:
+  biosamples: 158.0
+  samples_acgh: 103.0
+  samples_ccgh: 0.0
+  samples_wes: 55.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.42
+    - 37.78
+    type: Point
+  info:
+    city: Farmington
+    continent: ''
+    country: United States
+    label: Farmington, United States, North America
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 112(40), 2015
+notes: ''
+pmid: '26401016'
+title: Genomic alterations in BCL2L1 and DLC1 contribute to drug sensitivity in gastric
+  cancer.
+year: '2015'

@@ -1,0 +1,25 @@
+authors: Deffenbacher KE, Iqbal J, Liu Z, Fu K, Chan WC.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.94
+    - 41.26
+    type: Point
+  info:
+    city: Omaha
+    continent: ''
+    country: United States
+    label: Omaha, United States, North America
+    precision: city
+journal: J. Acquir. Immune Defic. Syndr. 54(1), 2010
+notes: NA
+pmid: '20216076'
+title: 'Recurrent chromosomal alterations in molecularly classified AIDS-related lymphomas:
+  an integrated analysis of DNA copy number and gene expression.'
+year: '2010'

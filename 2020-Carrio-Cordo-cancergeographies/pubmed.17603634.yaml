@@ -1,0 +1,25 @@
+authors: Ghazani AA, Arneson N, Warren K, Pintilie M, Bayani J, Squire JA, Done SJ.
+counts:
+  biosamples: 38.0
+  samples_acgh: 23.0
+  samples_ccgh: 15.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Neoplasia 9(6), 2007
+notes: Currently, only chromosomal CGH data (16 of 23 samples) has been included.
+pmid: '17603634'
+title: Genomic alterations in sporadic synchronous primary breast cancer using array
+  and metaphase comparative genomic hybridization.
+year: '2007'

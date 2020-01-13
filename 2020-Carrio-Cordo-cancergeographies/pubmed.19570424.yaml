@@ -1,0 +1,25 @@
+authors: Ying LS, Xu SH, Su D, Mou HZ, Gu LH, Zhu CH, Liu XL.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 120.16
+    - 30.29
+    type: Point
+  info:
+    city: Hangzhou
+    continent: ''
+    country: China
+    label: Hangzhou, China, Asia
+    precision: city
+journal: Zhonghua Fu Chan Ke Za Zhi 44(2), 2009
+notes: NA
+pmid: '19570424'
+title: '[Study of the metastasis-associated genes and its copy numbers variation in
+  highly metastatic epithelial ovarian cancer].'
+year: '2009'

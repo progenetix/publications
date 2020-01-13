@@ -1,0 +1,25 @@
+authors: Ernst T, Chase A, Zoi K, Waghorn K, Hidalgo-Curtis C, Score J, Jones A, Grand
+  F, Reiter A, Hochhaus A, Cross NC.
+counts:
+  biosamples: 68.0
+  samples_acgh: 68.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.8
+    - 51.07
+    type: Point
+  info:
+    city: Salisbury
+    continent: ''
+    country: United Kingdom
+    label: Salisbury, United Kingdom, Europe
+    precision: city
+journal: Haematologica 95(9), 2010
+notes: NA
+pmid: '20421268'
+title: Transcription factor mutations in myelodysplastic/myeloproliferative neoplasms.
+year: '2010'

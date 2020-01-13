@@ -1,0 +1,24 @@
+authors: Simon R, Burger H, Semjonow A, Hertle L, Terpe HJ, Bocker W.
+counts:
+  biosamples: 67.0
+  samples_acgh: 0.0
+  samples_ccgh: 67.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: ''
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: Int. J. Oncol. 17(5), 2000
+notes: NA
+pmid: '11029508'
+title: Patterns of chromosomal imbalances in muscle invasive bladder cancer.
+year: '2000'

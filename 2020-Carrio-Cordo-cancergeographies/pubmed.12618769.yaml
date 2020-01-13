@@ -1,0 +1,26 @@
+authors: "Wessendorf S, Schwaenen C, Kohlhammer H, Kienle D, Wrobel G, Barth TF, Nessling\
+  \ M, M\xF6ller P, D\xF6hner H, Lichter P, Bentz M."
+counts:
+  biosamples: 32.0
+  samples_acgh: 16.0
+  samples_ccgh: 16.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Oncogene 22(9), 2003
+notes: Array CGH article with reference to parallel analysis by chromosomal CGH.
+pmid: '12618769'
+title: Hidden gene amplifications in aggressive B-cell non-Hodgkin lymphomas detected
+  by microarray-based comparative genomic hybridization.
+year: '2003'

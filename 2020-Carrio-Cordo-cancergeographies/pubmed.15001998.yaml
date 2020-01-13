@@ -1,0 +1,25 @@
+authors: "Larramendy ML, Koljonen V, B\xF6hling T, Tukiainen E, Knuutila S."
+counts:
+  biosamples: 19.0
+  samples_acgh: 0.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Mod. Pathol. 17(5), 2004
+notes: NA
+pmid: '15001998'
+title: Recurrent DNA copy number changes revealed by comparative genomic hybridization
+  in primary Merkel cell carcinomas.
+year: '2004'

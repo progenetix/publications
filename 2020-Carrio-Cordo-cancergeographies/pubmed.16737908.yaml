@@ -1,0 +1,27 @@
+authors: "Osterberg L, Akeson M, Levan K, Partheen K, Zetterqvist BM, Br\xE4nnstr\xF6\
+  m M, Horvath G."
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: ''
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 167(2), 2006
+notes: Only CGH data from 20 serous borderline tumors was original to this article;
+  the 22 stage I cases had been published previously.
+pmid: '16737908'
+title: Genetic alterations of serous borderline tumors of the ovary compared to stage
+  I serous ovarian carcinomas.
+year: '2006'

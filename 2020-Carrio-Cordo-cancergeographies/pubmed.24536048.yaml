@@ -1,0 +1,26 @@
+authors: "Domingues PH, Sousa P, Otero \xC1, Gon\xE7alves JM, Ruiz L, de Oliveira\
+  \ C, Lopes MC, Orfao A, Tabernero MD."
+counts:
+  biosamples: 132.0
+  samples_acgh: 132.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.68
+    - 40.43
+    type: Point
+  info:
+    city: Salamanca
+    continent: ''
+    country: Spain
+    label: Salamanca, Spain, Europe
+    precision: city
+journal: Neuro-oncology 16(5), 2014
+notes: also 22371336
+pmid: '24536048'
+title: Proposal for a new risk stratification classification for meningioma based
+  on patient age, WHO tumor grade, size, localization, and karyotype.
+year: '2014'

@@ -1,0 +1,25 @@
+authors: Cao Y, Liu Y, Yang X, Liu X, Han N, Zhang K, Lin D.
+counts:
+  biosamples: 100.0
+  samples_acgh: 100.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: ''
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: Clin Lung Cancer 17(1), 2016
+notes: ''
+pmid: '26427646'
+title: Estimation of the Survival of Patients With Lung Squamous Cell Carcinoma Using
+  Genomic Copy Number Aberrations.
+year: '2016'

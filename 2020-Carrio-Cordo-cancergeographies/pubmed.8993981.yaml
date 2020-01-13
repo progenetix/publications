@@ -1,0 +1,26 @@
+authors: Marchio A, Meddeb M, Pineau P, Danglot G, Tiollais P, Bernheim A, Dejean
+  A.
+counts:
+  biosamples: 50.0
+  samples_acgh: 0.0
+  samples_ccgh: 50.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 18(1), 1997
+notes: NA
+pmid: '8993981'
+title: Recurrent chromosomal abnormalities in hepatocellular carcinoma detected by
+  comparative genomic hybridization.
+year: '1997'

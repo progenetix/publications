@@ -1,0 +1,25 @@
+authors: Schmid K, Oehl N, Wrba F, Pirker R, Pirker C, Filipits M.
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 4.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.37
+    - 48.21
+    type: Point
+  info:
+    city: Vienna
+    continent: ''
+    country: Austria
+    label: Vienna, Austria, Europe
+    precision: city
+journal: Clin. Cancer Res. 15(14), 2009
+notes: NA
+pmid: '19584155'
+title: EGFR/KRAS/BRAF mutations in primary lung adenocarcinomas and corresponding
+  locoregional lymph node metastases.
+year: '2009'

@@ -1,0 +1,27 @@
+authors: "Bollet MA, Servant N, Neuvial P, Decraene C, Lebigot I, Meyniel JP, De Rycke\
+  \ Y, Savignoni A, Rigaill G, Hup\xE9 P, Fourquet A, Sigal-Zafrani B, Barillot E,\
+  \ Thiery JP."
+counts:
+  biosamples: 44.0
+  samples_acgh: 44.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: J. Natl. Cancer Inst. 100(1), 2008
+notes: Data may be available through the institut Curie website.
+pmid: '18159071'
+title: High-resolution mapping of DNA breakpoints to define true recurrences among
+  ipsilateral breast cancers.
+year: '2008'

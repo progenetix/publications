@@ -1,0 +1,26 @@
+authors: Schmidt J, Salaverria I, Haake A, Bonzheim I, Adam P, Montes-Moreno S, Piris
+  MA, Fend F, Siebert R, Quintanilla-Martinez L.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.05
+    - 48.52
+    type: Point
+  info:
+    city: Tuebingen
+    continent: ''
+    country: Germany
+    label: Tuebingen, Germany, Europe
+    precision: city
+journal: Leukemia 28(5), 2014
+notes: Some of the samples may have been published previously.
+pmid: '24153014'
+title: Increasing genomic and epigenomic complexity in the clonal evolution from in
+  situ to manifest t(14;18)-positive follicular lymphoma.
+year: '2014'

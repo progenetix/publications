@@ -1,0 +1,29 @@
+authors: Khuong-Quang DA, Buczkowicz P, Rakopoulos P, Liu XY, Fontebasso AM, Bouffet
+  E, Bartels U, Albrecht S, Schwartzentruber J, Letourneau L, Bourgey M, Bourque G,
+  Montpetit A, Bourret G, Lepage P, Fleming A, Lichter P, Kool M, von Deimling A,
+  Sturm D, Korshunov A, Faury D, Jones DT, Majewski J, Pfister SM, Jabado N, Hawkins
+  C.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.59
+    - 45.51
+    type: Point
+  info:
+    city: Montreal
+    continent: ''
+    country: Canada
+    label: Montreal, Canada, North America
+    precision: city
+journal: Acta Neuropathol. 124(3), 2012
+notes: NA
+pmid: '22661320'
+title: K27M mutation in histone H3.3 defines clinically and biologically distinct
+  subgroups of pediatric diffuse intrinsic pontine gliomas.
+year: '2012'

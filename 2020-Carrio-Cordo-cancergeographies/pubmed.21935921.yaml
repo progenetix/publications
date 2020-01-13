@@ -1,0 +1,27 @@
+authors: "Mathiesen RR, Fjelldal R, Liest\xF8l K, Due EU, Geigl JB, Riethdorf S, Borgen\
+  \ E, Rye IH, Schneider IJ, Obenauf AC, Mauermann O, Nilsen G, Christian Lingjaerde\
+  \ O, B\xF8rresen-Dale AL, Pantel K, Speicher MR, Naume B, Baumbusch LO."
+counts:
+  biosamples: 79.0
+  samples_acgh: 79.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Int. J. Cancer 131(4), 2012
+notes: NA
+pmid: '21935921'
+title: High-resolution analyses of copy number changes in disseminated tumor cells
+  of patients with breast cancer.
+year: '2012'

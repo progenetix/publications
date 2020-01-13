@@ -1,0 +1,26 @@
+authors: "Manceau G, Letouz\xE9 E, Guichard C, Didelot A, Cazes A, Cort\xE9 H, Fabre\
+  \ E, Pallier K, Imbeaud S, Le Pimpec-Barthes F, Zucman-Rossi J, Laurent-Puig P,\
+  \ Blons H."
+counts:
+  biosamples: 84.0
+  samples_acgh: 84.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: null
+    precision: city
+journal: Int. J. Cancer 132(9), 2013
+notes: Samples from 55 Italian and 36 German patients were processed by aCGH.
+pmid: '23047306'
+title: Recurrent inactivating mutations of ARID2 in non-small cell lung carcinoma.
+year: '2013'

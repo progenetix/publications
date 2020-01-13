@@ -1,0 +1,24 @@
+authors: Dellas A, Torhorst J, Gaudenz R, Mihatsch MJ, Moch H.
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: ''
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: Clin. Cancer Res. 9(8), 2003
+notes: NA
+pmid: '12912946'
+title: DNA copy number changes in cervical adenocarcinoma.
+year: '2003'

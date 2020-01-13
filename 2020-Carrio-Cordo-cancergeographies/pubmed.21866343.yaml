@@ -1,0 +1,26 @@
+authors: Ahn MJ, Won HH, Lee J, Lee ST, Sun JM, Park YH, Ahn JS, Kwon OJ, Kim H, Shim
+  YM, Kim J, Kim K, Kim YH, Park JY, Kim JW, Park K.
+counts:
+  biosamples: 446.0
+  samples_acgh: 446.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Hum. Genet. 131(3), 2012
+notes: NA
+pmid: '21866343'
+title: The 18p11.22 locus is associated with never smoker non-small cell lung cancer
+  susceptibility in Korean populations.
+year: '2012'

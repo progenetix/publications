@@ -1,0 +1,25 @@
+authors: Harada K, Nishizaki T, Kubota H, Harada K, Suzuki M, Sasaki K.
+counts:
+  biosamples: 8.0
+  samples_acgh: 0.0
+  samples_ccgh: 8.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 125(2), 2001
+notes: NA
+pmid: '11369058'
+title: Distinct primary central nervous system lymphoma defined by comparative genomic
+  hybridization and laser scanning cytometry.
+year: '2001'

@@ -1,0 +1,25 @@
+authors: Yan W, Song L, Liang Q, Fang Y.
+counts:
+  biosamples: 39.0
+  samples_acgh: 0.0
+  samples_ccgh: 39.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 113.25
+    - 23.12
+    type: Point
+  info:
+    city: Guangzhou
+    continent: ''
+    country: China
+    label: Guangzhou, China, Asia
+    precision: city
+journal: Tumour Biol. 26(3), 2005
+notes: NA
+pmid: '15970651'
+title: Progression analysis of lung squamous cell carcinomas by comparative genomic
+  hybridization.
+year: '2005'

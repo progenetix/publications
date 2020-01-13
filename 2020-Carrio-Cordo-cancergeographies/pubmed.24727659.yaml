@@ -1,0 +1,24 @@
+authors: Zhang R, Lee JY, Wang X, Xu W, Hu X, Lu X, Niu Y, Tang R, Li S, Li Y.
+counts:
+  biosamples: 24.0
+  samples_acgh: 24.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 123.43
+    - 41.79
+    type: Point
+  info:
+    city: Shenyang
+    continent: ''
+    country: China
+    label: Shenyang, China, Asia
+    precision: city
+journal: PLoS ONE 9(4), 2014
+notes: ''
+pmid: '24727659'
+title: Identification of novel genomic aberrations in AML-M5 in a level of array CGH.
+year: '2014'

@@ -1,0 +1,26 @@
+authors: "Wolff E, Girod S, Liehr T, Vorderw\xFClbecke U, Ries J, Steininger H, Gebhart\
+  \ E."
+counts:
+  biosamples: 24.0
+  samples_acgh: 0.0
+  samples_ccgh: 24.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.01
+    - 49.59
+    type: Point
+  info:
+    city: Erlangen
+    continent: ''
+    country: Germany
+    label: Erlangen, Germany, Europe
+    precision: city
+journal: Oral Oncol. 34(3), 1998
+notes: NA
+pmid: '9692052'
+title: Oral squamous cell carcinomas are characterized by a rather uniform pattern
+  of genomic imbalances detected by comparative genomic hybridisation.
+year: '1998'

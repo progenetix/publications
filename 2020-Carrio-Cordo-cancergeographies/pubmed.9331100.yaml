@@ -1,0 +1,25 @@
+authors: Courjal F, Theillet C.
+counts:
+  biosamples: 61.0
+  samples_acgh: 0.0
+  samples_ccgh: 61.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.06
+    - 50.63
+    type: Point
+  info:
+    city: Lille
+    continent: ''
+    country: France
+    label: Lille, France, Europe
+    precision: city
+journal: Cancer Res. 57(19), 1997
+notes: NA
+pmid: '9331100'
+title: Comparative genomic hybridization analysis of breast tumors with predetermined
+  profiles of DNA amplification.
+year: '1997'

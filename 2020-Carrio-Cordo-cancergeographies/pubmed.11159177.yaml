@@ -1,0 +1,26 @@
+authors: Hing S, Lu YJ, Summersgill B, King-Underwood L, Nicholson J, Grundy P, Grundy
+  R, Gessler M, Shipley J, Pritchard-Jones K.
+counts:
+  biosamples: 79.0
+  samples_acgh: 0.0
+  samples_ccgh: 79.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: ''
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: Am. J. Pathol. 158(2), 2001
+notes: NA
+pmid: '11159177'
+title: Gain of 1q is associated with adverse outcome in favorable histology Wilms'
+  tumors.
+year: '2001'

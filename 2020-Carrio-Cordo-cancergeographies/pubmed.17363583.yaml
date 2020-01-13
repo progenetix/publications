@@ -1,0 +1,25 @@
+authors: Stark M, Hayward N.
+counts:
+  biosamples: 76.0
+  samples_acgh: 76.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 153.02
+    - -27.45
+    type: Point
+  info:
+    city: Herston
+    continent: ''
+    country: Australia
+    label: Herston, Australia, Australia
+    precision: city
+journal: Cancer Res. 67(6), 2007
+notes: NA
+pmid: '17363583'
+title: Genome-wide loss of heterozygosity and copy number analysis in melanoma using
+  high-density single-nucleotide polymorphism arrays.
+year: '2007'

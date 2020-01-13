@@ -1,0 +1,26 @@
+authors: "Gu\u017Evi\u0107 M, Braun B, Ganzer R, Burger M, Nerlich M, Winkler S, Werner-Klein\
+  \ M, Czy\u017C ZT, Polzer B, Klein CA."
+counts:
+  biosamples: 165.0
+  samples_acgh: 18.0
+  samples_ccgh: 24.0
+  samples_wes: 0.0
+  samples_wgs: 123.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.0
+    - 0.0
+    type: Point
+  info:
+    city: null
+    continent: ''
+    country: null
+    label: null
+    precision: null
+journal: Cancer Res. 74(24), 2014
+notes: ''
+pmid: '25320011'
+title: Combined genome and transcriptome analysis of single disseminated cancer cells
+  from bone marrow of prostate cancer patients reveals unexpected transcriptomes.
+year: '2014'

@@ -1,0 +1,28 @@
+authors: Arao T, Ueshima K, Matsumoto K, Nagai T, Kimura H, Hagiwara S, Sakurai T,
+  Haji S, Kanazawa A, Hidaka H, Iso Y, Kubota K, Shimada M, Utsunomiya T, Hirooka
+  M, Hiasa Y, Toyoki Y, Hakamada K, Yasui K, Kumada T, Toyoda H, Sato S, Hisai H,
+  Kuzuya T, Tsuchiya K, Izumi N, Arii S, Nishio K, Kudo M.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.5
+    - 34.69
+    type: Point
+  info:
+    city: Osaka-shi
+    continent: ''
+    country: Japan
+    label: Osaka-shi, Japan, Asia
+    precision: city
+journal: Hepatology 57(4), 2013
+notes: NA
+pmid: '22890726'
+title: FGF3/FGF4 amplification and multiple lung metastases in responders to sorafenib
+  in hepatocellular carcinoma.
+year: '2013'

@@ -1,0 +1,26 @@
+authors: Lo FY, Chang JW, Chang IS, Chen YJ, Hsu HS, Huang SF, Tsai FY, Jiang SS,
+  Kanteti R, Nandi S, Salgia R, Wang YC.
+counts:
+  biosamples: 60.0
+  samples_acgh: 60.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 120.21
+    - 22.99
+    type: Point
+  info:
+    city: Tainan
+    continent: ''
+    country: Taiwan
+    label: Tainan, Taiwan, Asia
+    precision: city
+journal: BMC Cancer 12, 2012
+notes: NA
+pmid: '22691236'
+title: The database of chromosome imbalance regions and genes resided in lung cancer
+  from Asian and Caucasian identified by array-comparative genomic hybridization.
+year: '2012'

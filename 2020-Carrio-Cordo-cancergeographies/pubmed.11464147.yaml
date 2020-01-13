@@ -1,0 +1,25 @@
+authors: Tiirikainen MI, Mullaney BP, Holly EA, Pallavicini MG, Jensen RH.
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 25.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: J. Acquir. Immune Defic. Syndr. 27(3), 2001
+notes: NA
+pmid: '11464147'
+title: DNA copy number alterations in HIV-positive and HIV-negative patients with
+  diffuse large-cell lymphomas.
+year: '2001'

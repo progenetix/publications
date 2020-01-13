@@ -1,0 +1,26 @@
+authors: Lin DC, Meng X, Hazawa M, Nagata Y, Varela AM, Xu L, Sato Y, Liu LZ, Ding
+  LW, Sharma A, Goh BC, Lee SC, Petersson BF, Yu FG, Macary P, Oo MZ, Ha CS, Yang
+  H, Ogawa S, Loh KS, Koeffler HP.
+counts:
+  biosamples: 52.0
+  samples_acgh: 52.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: ''
+    country: Singapore
+    label: Singapore, Singapore, Asia
+    precision: city
+journal: Nat. Genet. 46(8), 2014
+notes: NA
+pmid: '24952746'
+title: The genomic landscape of nasopharyngeal carcinoma.
+year: '2014'

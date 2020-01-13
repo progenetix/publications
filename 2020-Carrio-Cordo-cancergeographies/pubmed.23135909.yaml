@@ -1,0 +1,26 @@
+authors: Magbanua MJ, Sosa EV, Roy R, Eisenbud LE, Scott JH, Olshen A, Pinkel D, Rugo
+  HS, Park JW.
+counts:
+  biosamples: 134.0
+  samples_acgh: 134.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Cancer Res. 73(1), 2013
+notes: 31 samples from 3 patients
+pmid: '23135909'
+title: Genomic profiling of isolated circulating tumor cells from metastatic breast
+  cancer patients.
+year: '2013'

@@ -1,0 +1,26 @@
+authors: Nakao M, Kawauchi S, Furuya T, Uchiyama T, Adachi J, Okada T, Ikemoto K,
+  Oga A, Sasaki K.
+counts:
+  biosamples: 77.0
+  samples_acgh: 77.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 188(2), 2009
+notes: NA
+pmid: '19100508'
+title: Identification of DNA copy number aberrations associated with metastases of
+  colorectal cancer using array CGH profiles.
+year: '2009'

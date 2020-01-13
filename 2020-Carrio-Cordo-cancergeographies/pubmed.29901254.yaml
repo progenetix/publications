@@ -1,0 +1,27 @@
+authors: Colombo C, Urbini M, Astolfi A, Collini P, Indio V, Belfiore A, Paielli N,
+  Perrone F, Tarantino G, Palassini E, Fiore M, Pession A, Stacchiotti S, Pantaleo
+  MA, Gronchi A.
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 12.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: ''
+    country: Italy
+    label: null
+    precision: city
+journal: Genes Chromosomes Cancer, 2018
+notes: No PDF available yet
+pmid: '29901254'
+title: Novel intra-genic large deletions of CTNNB1 gene identified in WT desmoid-type
+  fibromatosis.
+year: '2018'

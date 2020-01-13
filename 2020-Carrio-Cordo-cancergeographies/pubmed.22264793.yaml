@@ -1,0 +1,27 @@
+authors: Yamagishi M, Nakano K, Miyake A, Yamochi T, Kagami Y, Tsutsumi A, Matsuda
+  Y, Sato-Otsubo A, Muto S, Utsunomiya A, Yamaguchi K, Uchimaru K, Ogawa S, Watanabe
+  T.
+counts:
+  biosamples: 168.0
+  samples_acgh: 168.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Cancer Cell 21(1), 2012
+notes: NA
+pmid: '22264793'
+title: "Polycomb-mediated loss of miR-31 activates NIK-dependent NF-\u03BAB pathway\
+  \ in adult T cell leukemia and other cancers."
+year: '2012'

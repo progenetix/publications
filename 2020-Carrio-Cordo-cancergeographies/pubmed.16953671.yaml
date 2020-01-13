@@ -1,0 +1,26 @@
+authors: Kimmel RR, Zhao LP, Nguyen D, Lee S, Aronszajn M, Cheng C, Troshin VP, Abrosimov
+  A, Delrow J, Tuttle RM, Tsyb AF, Kopecky KJ, Davis S, Neiman PE.
+counts:
+  biosamples: 43.0
+  samples_acgh: 43.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.33
+    - 47.61
+    type: Point
+  info:
+    city: Seattle
+    continent: ''
+    country: United States
+    label: Seattle, United States, North America
+    precision: city
+journal: Radiat. Res. 166(3), 2006
+notes: NA
+pmid: '16953671'
+title: Microarray comparative genomic hybridization reveals genome-wide patterns of
+  DNA gains and losses in post-Chernobyl thyroid cancer.
+year: '2006'

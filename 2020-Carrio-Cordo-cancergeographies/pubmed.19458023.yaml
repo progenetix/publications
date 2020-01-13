@@ -1,0 +1,25 @@
+authors: "Andersson E, Sw\xE4rd C, Stenman G, Ahlman H, Nilsson O."
+counts:
+  biosamples: 43.0
+  samples_acgh: 43.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Endocr. Relat. Cancer 16(3), 2009
+notes: NA
+pmid: '19458023'
+title: High-resolution genomic profiling reveals gain of chromosome 14 as a predictor
+  of poor outcome in ileal carcinoids.
+year: '2009'

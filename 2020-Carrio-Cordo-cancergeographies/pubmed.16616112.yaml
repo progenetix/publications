@@ -1,0 +1,25 @@
+authors: Park SJ, Jeong SY, Kim HJ.
+counts:
+  biosamples: 10.0
+  samples_acgh: 5.0
+  samples_ccgh: 5.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 127.78
+    - 36.18
+    type: Point
+  info:
+    city: Yeongdong-gun
+    continent: ''
+    country: Korean Republic
+    label: Yeongdong-gun, Korean Republic
+    precision: city
+journal: Cancer Genet. Cytogenet. 166(1), 2006
+notes: NA
+pmid: '16616112'
+title: Y chromosome loss and other genomic alterations in hepatocellular carcinoma
+  cell lines analyzed by CGH and CGH array.
+year: '2006'

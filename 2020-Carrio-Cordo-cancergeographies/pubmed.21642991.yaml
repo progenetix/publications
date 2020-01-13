@@ -1,0 +1,27 @@
+authors: Bott M, Brevet M, Taylor BS, Shimizu S, Ito T, Wang L, Creaney J, Lake RA,
+  Zakowski MF, Reva B, Sander C, Delsite R, Powell S, Zhou Q, Shen R, Olshen A, Rusch
+  V, Ladanyi M.
+counts:
+  biosamples: 131.0
+  samples_acgh: 131.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Nat. Genet. 43(7), 2011
+notes: NA
+pmid: '21642991'
+title: The nuclear deubiquitinase BAP1 is commonly inactivated by somatic mutations
+  and 3p21.1 losses in malignant pleural mesothelioma.
+year: '2011'

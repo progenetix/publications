@@ -1,0 +1,26 @@
+authors: "Fr\xFChwald MC, Hasselblatt M, Wirth S, K\xF6hler G, Schneppenheim R, Subero\
+  \ JI, Siebert R, Kordes U, J\xFCrgens H, Vormoor J."
+counts:
+  biosamples: 4.0
+  samples_acgh: 2.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: Pediatr Blood Cancer 47(3), 2006
+notes: No CNAs were identified in two patients from the same family.
+pmid: '16206192'
+title: Non-linkage of familial rhabdoid tumors to SMARCB1 implies a second locus for
+  the rhabdoid tumor predisposition syndrome.
+year: '2006'

@@ -1,0 +1,26 @@
+authors: Deshmukh H, Yeh TH, Yu J, Sharma MK, Perry A, Leonard JR, Watson MA, Gutmann
+  DH, Nagarajan R.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.2
+    - 38.63
+    type: Point
+  info:
+    city: st.louis
+    continent: ''
+    country: United States
+    label: st.louis, United States
+    precision: city
+journal: Oncogene 27(34), 2008
+notes: NA
+pmid: '18408760'
+title: High-resolution, dual-platform aCGH analysis reveals frequent HIPK2 amplification
+  and increased expression in pilocytic astrocytomas.
+year: '2008'

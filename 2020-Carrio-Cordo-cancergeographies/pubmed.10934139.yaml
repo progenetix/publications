@@ -1,0 +1,26 @@
+authors: Dannenberg H, Speel EJ, Zhao J, Saremaslani P, van Der Harst E, Roth J, Heitz
+  PU, Bonjer HJ, Dinjens WN, Mooi WJ, Komminoth P, de Krijger RR.
+counts:
+  biosamples: 29.0
+  samples_acgh: 0.0
+  samples_ccgh: 29.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ''
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city
+journal: Am. J. Pathol. 157(2), 2000
+notes: NA
+pmid: '10934139'
+title: Losses of chromosomes 1p and 3q are early genetic events in the development
+  of sporadic pheochromocytomas.
+year: '2000'

@@ -1,0 +1,27 @@
+authors: "Schneider KU, Dietrich D, Fleischhacker M, Leschber G, Merk J, Sch\xE4per\
+  \ F, Stapert HR, Vossenaar ER, Weickmann S, Liebenberg V, Kneip C, Seegebarth A,\
+  \ Erdogan F, Rappold G, Schmidt B."
+counts:
+  biosamples: 55.0
+  samples_acgh: 55.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: BMC Cancer 11, 2011
+notes: NA
+pmid: '21426551'
+title: Correlation of SHOX2 gene amplification and DNA methylation in lung cancer
+  tumors.
+year: '2011'

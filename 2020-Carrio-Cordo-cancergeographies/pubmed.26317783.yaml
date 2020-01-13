@@ -1,0 +1,28 @@
+authors: "Cabral de Almeida Cardoso L, Rodriguez-Laguna L, Del Carmen Crespo M, Vallesp\xED\
+  n E, Palomares-Bralo M, Martin-Arenas R, Rueda-Arenas I, Silvestre de Faria PA,\
+  \ GT-CSGP Working Group, Garc\xEDa-Miguel P, Lapunzina P, Regla Vargas F, Seuanez\
+  \ HN, Mart\xEDnez-Glez V."
+counts:
+  biosamples: 14.0
+  samples_acgh: 14.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -43.21
+    - -22.9
+    type: Point
+  info:
+    city: Rio de Janeiro
+    continent: ''
+    country: Brazil
+    label: Rio de Janeiro, Brazil, South America
+    precision: city
+journal: PLoS ONE 10(8), 2015
+notes: ''
+pmid: '26317783'
+title: Array CGH Analysis of Paired Blood and Tumor Samples from Patients with Sporadic
+  Wilms Tumor.
+year: '2015'

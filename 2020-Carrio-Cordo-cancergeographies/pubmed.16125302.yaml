@@ -1,0 +1,26 @@
+authors: Qin SL, Chen XJ, Xu X, Shou JZ, Bi XG, Ji L, Han YL, Cai Y, Wei F, Ma JH,
+  Wu M, Zhan QM, Wang MR.
+counts:
+  biosamples: 46.0
+  samples_acgh: 0.0
+  samples_ccgh: 46.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: ''
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: Cancer Lett. 238(2), 2006
+notes: NA
+pmid: '16125302'
+title: Detection of chromosomal alterations in bladder transitional cell carcinomas
+  from Northern China by comparative genomic hybridization.
+year: '2006'

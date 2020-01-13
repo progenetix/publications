@@ -1,0 +1,27 @@
+authors: Suzuki A, Shibata T, Shimada Y, Murakami Y, Horii A, Shiratori K, Hirohashi
+  S, Inazawa J, Imoto I.
+counts:
+  biosamples: 24.0
+  samples_acgh: 24.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Cancer Sci. 99(5), 2008
+notes: NA
+pmid: '18380791'
+title: Identification of SMURF1 as a possible target for 7q21.3-22.1 amplification
+  detected in a pancreatic cancer cell line by in-house array-based comparative genomic
+  hybridization.
+year: '2008'

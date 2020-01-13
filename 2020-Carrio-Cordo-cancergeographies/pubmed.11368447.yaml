@@ -1,0 +1,26 @@
+authors: "Guti\xE9rrez NC, Hern\xE1ndez JM, Garc\xEDa JL, Ca\xF1izo MC, Gonz\xE1lez\
+  \ M, Hern\xE1ndez J, Gonz\xE1lez MB, Garci\xE1-Marcos MA, San Miguel JF."
+counts:
+  biosamples: 30.0
+  samples_acgh: 0.0
+  samples_ccgh: 30.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.68
+    - 40.43
+    type: Point
+  info:
+    city: Salamanca
+    continent: ''
+    country: Spain
+    label: Salamanca, Spain, Europe
+    precision: city
+journal: Leukemia 15(5), 2001
+notes: NA
+pmid: '11368447'
+title: Differences in genetic changes between multiple myeloma and plasma cell leukemia
+  demonstrated by comparative genomic hybridization.
+year: '2001'

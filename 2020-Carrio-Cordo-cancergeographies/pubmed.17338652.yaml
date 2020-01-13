@@ -1,0 +1,24 @@
+authors: Konkimalla VB, Suhas VL, Chandra NR, Gebhart E, Efferth T.
+counts:
+  biosamples: 35.0
+  samples_acgh: 0.0
+  samples_ccgh: 35.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Expert Rev Anticancer Ther 7(3), 2007
+notes: NA
+pmid: '17338652'
+title: Diagnosis and therapy of oral squamous cell carcinoma.
+year: '2007'

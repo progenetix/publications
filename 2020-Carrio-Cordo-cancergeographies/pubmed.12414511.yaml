@@ -1,0 +1,25 @@
+authors: "Zettl A, Ott G, Makulik A, Katzenberger T, Starostik P, Eichler T, Puppe\
+  \ B, Bentz M, M\xFCller-Hermelink HK, Chott A."
+counts:
+  biosamples: 41.0
+  samples_acgh: 0.0
+  samples_ccgh: 41.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.95
+    - 49.79
+    type: Point
+  info:
+    city: Wuerzburg
+    continent: ''
+    country: Germany
+    label: Wuerzburg, Germany, Europe
+    precision: city
+journal: Am. J. Pathol. 161(5), 2002
+notes: NA
+pmid: '12414511'
+title: Chromosomal gains at 9q characterize enteropathy-type T-cell lymphoma.
+year: '2002'

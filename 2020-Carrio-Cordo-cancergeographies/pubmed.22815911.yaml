@@ -1,0 +1,27 @@
+authors: Hu C, Wei W, Chen X, Woodman CB, Yao Y, Nicholls JM, Joab I, Sihota SK, Shao
+  JY, Derkaoui KD, Amari A, Maloney SL, Bell AI, Murray PG, Dawson CW, Young LS, Arrand
+  JR.
+counts:
+  biosamples: 14.0
+  samples_acgh: 14.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.9
+    - 52.48
+    type: Point
+  info:
+    city: Birmingham
+    continent: ''
+    country: United Kingdom
+    label: null
+    precision: city
+journal: PLoS ONE 7(7), 2012
+notes: Samples from 55 Italian and 36 German patients were processed by aCGH.
+pmid: '22815911'
+title: 'A global view of the oncogenic landscape in nasopharyngeal carcinoma: an integrated
+  analysis at the genetic and expression levels.'
+year: '2012'

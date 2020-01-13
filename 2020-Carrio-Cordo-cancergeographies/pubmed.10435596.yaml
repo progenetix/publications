@@ -1,0 +1,27 @@
+authors: Smith JS, Alderete B, Minn Y, Borell TJ, Perry A, Mohapatra G, Hosek SM,
+  Kimmel D, O'Fallon J, Yates A, Feuerstein BG, Burger PC, Scheithauer BW, Jenkins
+  RB.
+counts:
+  biosamples: 115.0
+  samples_acgh: 0.0
+  samples_ccgh: 115.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: ''
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: Oncogene 18(28), 1999
+notes: NA
+pmid: '10435596'
+title: Localization of common deletion regions on 1p and 19q in human gliomas and
+  their association with histological subtype.
+year: '1999'

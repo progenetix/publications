@@ -1,0 +1,26 @@
+authors: Bernard-Pierrot I, Gruel N, Stransky N, Vincent-Salomon A, Reyal F, Raynal
+  V, Vallot C, Pierron G, Radvanyi F, Delattre O.
+counts:
+  biosamples: 152.0
+  samples_acgh: 152.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Cancer Res. 68(17), 2008
+notes: NA
+pmid: '18757432'
+title: Characterization of the recurrent 8p11-12 amplicon identifies PPAPDC1B, a phosphatase
+  protein, as a new therapeutic target in breast cancer.
+year: '2008'

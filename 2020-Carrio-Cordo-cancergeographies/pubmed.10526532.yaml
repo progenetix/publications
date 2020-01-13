@@ -1,0 +1,26 @@
+authors: Kujawski M, Aalto Y, Jaskula-Sztul R, Szyfter W, Szmeja Z, Szyfter K, Knuutila
+  S.
+counts:
+  biosamples: 38.0
+  samples_acgh: 0.0
+  samples_ccgh: 38.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.93
+    - 52.41
+    type: Point
+  info:
+    city: Poznan
+    continent: ''
+    country: Poland
+    label: Poznan, Poland, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 114(1), 1999
+notes: NA
+pmid: '10526532'
+title: DNA copy number losses are more frequent in primary larynx tumors with lymph
+  node metastases than in tumors without metastases.
+year: '1999'

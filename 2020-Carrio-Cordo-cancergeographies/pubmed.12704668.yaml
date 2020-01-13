@@ -1,0 +1,25 @@
+authors: "Scheil S, Hagen S, Br\xFCderlein S, Leuschner I, Behnisch W, M\xF6ller P."
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Int. J. Cancer 105(3), 2003
+notes: NA
+pmid: '12704668'
+title: Two novel in vitro human hepatoblastoma models, HepU1 and HepU2, are highly
+  characteristic of fetal-embryonal differentiation in hepatoblastoma.
+year: '2003'

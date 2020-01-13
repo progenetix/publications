@@ -1,0 +1,27 @@
+authors: Uchida K, Oga A, Okafuji M, Mihara M, Kawauchi S, Furuya T, Chochi Y, Ueyama
+  Y, Sasaki K.
+counts:
+  biosamples: 11.0
+  samples_acgh: 0.0
+  samples_ccgh: 11.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 167(2), 2006
+notes: Only the SKY data of the 11 cell lines is available; for CGH, an ideogram is
+  presented.
+pmid: '16737909'
+title: Molecular cytogenetic analysis of oral squamous cell carcinomas by comparative
+  genomic hybridization, spectral karyotyping, and fluorescence in situ hybridization.
+year: '2006'

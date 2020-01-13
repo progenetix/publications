@@ -1,0 +1,25 @@
+authors: Matteucci C, Galieni P, Leoncini L, Lazzi S, Lauria F, Polito E, Martelli
+  MF, Mecucci C.
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.39
+    - 43.11
+    type: Point
+  info:
+    city: Perugia
+    continent: ''
+    country: Italy
+    label: Perugia, Italy, Europe
+    precision: city
+journal: J. Pathol. 200(5), 2003
+notes: NA
+pmid: '12898603'
+title: Typical genomic imbalances in primary MALT lymphoma of the orbit.
+year: '2003'

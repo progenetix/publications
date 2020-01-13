@@ -1,0 +1,26 @@
+authors: Ocak S, Yamashita H, Udyavar AR, Miller AN, Gonzalez AL, Zou Y, Jiang A,
+  Yi Y, Shyr Y, Estrada L, Quaranta V, Massion PP.
+counts:
+  biosamples: 46.0
+  samples_acgh: 46.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -86.78
+    - 36.17
+    type: Point
+  info:
+    city: Nashville
+    continent: ''
+    country: United States
+    label: Nashville, United States, North America
+    precision: city
+journal: Oncogene 29(48), 2010
+notes: NA
+pmid: '20802517'
+title: DNA copy number aberrations in small-cell lung cancer reveal activation of
+  the focal adhesion pathway.
+year: '2010'

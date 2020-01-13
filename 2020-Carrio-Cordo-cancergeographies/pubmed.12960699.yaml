@@ -1,0 +1,25 @@
+authors: "Hostein I, Coindre JM, Derr\xE9 J, Mariani O, Chibon F, Aurias A."
+counts:
+  biosamples: 16.0
+  samples_acgh: 0.0
+  samples_ccgh: 16.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: ''
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: Diagn. Mol. Pathol. 12(3), 2003
+notes: NA
+pmid: '12960699'
+title: Comparative genomic hybridization study of paraffin-embedded dedifferentiated
+  liposarcoma fixed with Holland Bouin's fluid.
+year: '2003'

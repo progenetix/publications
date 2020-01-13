@@ -1,0 +1,25 @@
+authors: Gupta E, Guthrie KJ, Krishna M, Asmann Y, Parker AS, Joseph RW.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 1.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.23
+    - 39.73
+    type: Point
+  info:
+    city: Jacksonville
+    continent: ''
+    country: United States
+    label: Jacksonville, United States, North America
+    precision: city
+journal: Rare Tumors 7(1), 2015
+notes: ''
+pmid: '25918615'
+title: Whole exome sequencing of a patient with metastatic hidradenocarcinoma and
+  review of the literature.
+year: '2015'

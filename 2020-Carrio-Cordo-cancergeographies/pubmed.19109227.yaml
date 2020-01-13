@@ -1,0 +1,26 @@
+authors: Akagi T, Shih LY, Kato M, Kawamata N, Yamamoto G, Sanada M, Okamoto R, Miller
+  CW, Liang DC, Ogawa S, Koeffler HP.
+counts:
+  biosamples: 47.0
+  samples_acgh: 47.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: ''
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: Blood 113(8), 2009
+notes: NA
+pmid: '19109227'
+title: Hidden abnormalities and novel classification of t(15;17) acute promyelocytic
+  leukemia (APL) based on genomic alterations.
+year: '2009'

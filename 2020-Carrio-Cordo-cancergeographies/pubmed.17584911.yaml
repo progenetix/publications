@@ -1,0 +1,25 @@
+authors: Prochazkova M, Chevret E, Mainhaguiet G, Sobotka J, Vergier B, Belaud-Rotureau
+  MA, Beylot-Barry M, Merlio JP.
+counts:
+  biosamples: 16.0
+  samples_acgh: 0.0
+  samples_ccgh: 16.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: ''
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 46(9), 2007
+notes: NA
+pmid: '17584911'
+title: Common chromosomal abnormalities in mycosis fungoides transformation.
+year: '2007'

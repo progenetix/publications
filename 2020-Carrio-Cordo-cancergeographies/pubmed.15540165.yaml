@@ -1,0 +1,25 @@
+authors: "Atiye J, Wolf M, Kaur S, Monni O, B\xF6hling T, Kivioja A, Tas E, Serra\
+  \ M, Tarkkanen M, Knuutila S."
+counts:
+  biosamples: 22.0
+  samples_acgh: 22.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 42(2), 2005
+notes: NA
+pmid: '15540165'
+title: Gene amplifications in osteosarcoma-CGH microarray analysis.
+year: '2005'

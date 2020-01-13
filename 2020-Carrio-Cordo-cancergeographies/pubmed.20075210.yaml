@@ -1,0 +1,25 @@
+authors: Hagenkord JM, Monzon FA, Kash SF, Lilleberg S, Xie Q, Kant JA.
+counts:
+  biosamples: 29.0
+  samples_acgh: 29.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.94
+    - 41.26
+    type: Point
+  info:
+    city: Omaha
+    continent: ''
+    country: United States
+    label: Omaha, United States, North America
+    precision: city
+journal: J Mol Diagn 12(2), 2010
+notes: NA
+pmid: '20075210'
+title: 'Array-based karyotyping for prognostic assessment in chronic lymphocytic leukemia:
+  performance comparison of Affymetrix 10K2.0, 250K Nsp, and SNP6.0 arrays.'
+year: '2010'

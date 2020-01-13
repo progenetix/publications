@@ -1,0 +1,25 @@
+authors: "Prat E, Bernu\xE9s M, Caball\xEDn MR, Egozcue J, Gelabert A, Mir\xF3 R."
+counts:
+  biosamples: 30.0
+  samples_acgh: 0.0
+  samples_ccgh: 30.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Urology 57(5), 2001
+notes: NA
+pmid: '11337313'
+title: Detection of chromosomal imbalances in papillary bladder tumors by comparative
+  genomic hybridization.
+year: '2001'

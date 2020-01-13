@@ -1,0 +1,33 @@
+authors: "Schwartzentruber J, Korshunov A, Liu XY, Jones DT, Pfaff E, Jacob K, Sturm\
+  \ D, Fontebasso AM, Quang DA, T\xF6njes M, Hovestadt V, Albrecht S, Kool M, Nantel\
+  \ A, Konermann C, Lindroth A, J\xE4ger N, Rausch T, Ryzhova M, Korbel JO, Hielscher\
+  \ T, Hauser P, Garami M, Klekner A, Bognar L, Ebinger M, Schuhmann MU, Scheurlen\
+  \ W, Pekrun A, Fr\xFChwald MC, Roggendorf W, Kramm C, D\xFCrken M, Atkinson J, Lepage\
+  \ P, Montpetit A, Zakrzewska M, Zakrzewski K, Liberski PP, Dong Z, Siegel P, Kulozik\
+  \ AE, Zapatka M, Guha A, Malkin D, Felsberg J, Reifenberger G, von Deimling A, Ichimura\
+  \ K, Collins VP, Witt H, Milde T, Witt O, Zhang C, Castelo-Branco P, Lichter P,\
+  \ Faury D, Tabori U, Plass C, Majewski J, Pfister SM, Jabado N."
+counts:
+  biosamples: 48.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 48.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.59
+    - 45.51
+    type: Point
+  info:
+    city: Montreal
+    continent: ''
+    country: Canada
+    label: Montreal, Canada, North America
+    precision: city
+journal: Nature 482(7384), 2012
+notes: Contains DIPG data.
+pmid: '22286061'
+title: Driver mutations in histone H3.3 and chromatin remodelling genes in paediatric
+  glioblastoma.
+year: '2012'

@@ -1,0 +1,25 @@
+authors: Yi Y, Nowak NJ, Pacchia AL, Morrison C.
+counts:
+  biosamples: 24.0
+  samples_acgh: 24.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -86.78
+    - 36.17
+    type: Point
+  info:
+    city: Nashville
+    continent: ''
+    country: United States
+    label: Nashville, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 47(8), 2008
+notes: NA
+pmid: '18398822'
+title: 'Chromosome 11 genomic changes in parathyroid adenoma and hyperplasia: array
+  CGH, FISH, and tissue microarrays.'
+year: '2008'

@@ -1,0 +1,27 @@
+authors: Dettori T, Frau DV, Lai ML, Mariotti S, Uccheddu A, Daniele GM, Tallini G,
+  Faa G, Vanni R.
+counts:
+  biosamples: 5.0
+  samples_acgh: 0.0
+  samples_ccgh: 5.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.12
+    - 39.23
+    type: Point
+  info:
+    city: Cagliari
+    continent: ''
+    country: Italy
+    label: Cagliari, Italy, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 38(1), 2003
+notes: NA
+pmid: '12874783'
+title: 'Aneuploidy in oncocytic lesions of the thyroid gland: diffuse accumulation
+  of mitochondria within the cell is associated with trisomy 7 and progressive numerical
+  chromosomal alterations.'
+year: '2003'

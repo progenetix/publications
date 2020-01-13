@@ -1,0 +1,27 @@
+authors: Hamdi Y, Boujemaa M, Ben Rekaya M, Ben Hamda C, Mighri N, El Benna H, Mejri
+  N, Labidi S, Daoud N, Naouali C, Messaoud O, Chargui M, Ghedira K, Boubaker MS,
+  Mrad R, Boussen H, Abdelhak S, PEC Consortium.
+counts:
+  biosamples: 7.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 7.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.17
+    - 36.82
+    type: Point
+  info:
+    city: Tunis
+    continent: ''
+    country: Tunisia
+    label: null
+    precision: city
+journal: J Transl Med 16(1), 2018
+notes: No PDF available yet
+pmid: '29879995'
+title: 'Family specific genetic predisposition to breast cancer: results from Tunisian
+  whole exome sequenced breast cancer cases.'
+year: '2018'

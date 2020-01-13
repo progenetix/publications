@@ -1,0 +1,28 @@
+authors: "Bentz M, Barth TF, Br\xFCderlein S, Bock D, Schwerer MJ, Baudis M, Joos\
+  \ S, Viardot A, Feller AC, M\xFCller-Hermelink HK, Lichter P, D\xF6hner H, M\xF6\
+  ller P."
+counts:
+  biosamples: 43.0
+  samples_acgh: 0.0
+  samples_ccgh: 43.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 30(4), 2001
+notes: NA
+pmid: '11241792'
+title: 'Gain of chromosome arm 9p is characteristic of primary mediastinal B-cell
+  lymphoma (MBL): comprehensive molecular cytogenetic analysis and presentation of
+  a novel MBL cell line.'
+year: '2001'

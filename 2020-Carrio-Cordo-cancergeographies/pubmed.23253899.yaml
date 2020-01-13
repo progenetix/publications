@@ -1,0 +1,27 @@
+authors: "Sahlberg KK, Hongisto V, Edgren H, M\xE4kel\xE4 R, Hellstr\xF6m K, Due EU,\
+  \ Moen Vollan HK, Sahlberg N, Wolf M, B\xF8rresen-Dale AL, Per\xE4l\xE4 M, Kallioniemi\
+  \ O."
+counts:
+  biosamples: 11.0
+  samples_acgh: 11.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Mol Oncol 7(3), 2013
+notes: ''
+pmid: '23253899'
+title: The HER2 amplicon includes several genes required for the growth and survival
+  of HER2 positive breast cancer cells.
+year: '2013'

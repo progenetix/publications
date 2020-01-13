@@ -1,0 +1,25 @@
+authors: Biswas S, Wood M, Joshi A, Bown N, Strain L, Martinsson T, Campbell J, Ashworth
+  A, Swain A.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 1.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -2.23
+    - 53.0
+    type: Point
+  info:
+    city: Newcastle under Lyme
+    continent: ''
+    country: United Kingdom
+    label: Newcastle under Lyme, United Kingdom, Europe
+    precision: city
+journal: Front Oncol 5, 2015
+notes: ''
+pmid: '26557502'
+title: Exome Sequencing of an Adult Pituitary Atypical Teratoid Rhabdoid Tumor.
+year: '2015'

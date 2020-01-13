@@ -1,0 +1,26 @@
+authors: Cao W, Wu W, Yan M, Tian F, Ma C, Zhang Q, Li X, Han P, Liu Z, Gu J, Biddle
+  FG.
+counts:
+  biosamples: 4.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 2.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 113.65
+    - 34.76
+    type: Point
+  info:
+    city: Zhengzhou
+    continent: ''
+    country: China
+    label: Zhengzhou, China, Asia
+    precision: city
+journal: Oncogenesis 4, 2015
+notes: ''
+pmid: '26619400'
+title: Multiple region whole-exome sequencing reveals dramatically evolving intratumor
+  genomic heterogeneity in esophageal squamous cell carcinoma.
+year: '2015'

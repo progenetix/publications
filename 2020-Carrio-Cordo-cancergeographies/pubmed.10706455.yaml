@@ -1,0 +1,26 @@
+authors: "Huhta T, Vettenranta K, Heinonen K, Kanerva J, Larramendy ML, Mahlam\xE4\
+  ki E, Saarinen-Pihkala UM, Knuutila S."
+counts:
+  biosamples: 19.0
+  samples_acgh: 0.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Leuk. Lymphoma 35(3-4), 1999
+notes: NA
+pmid: '10706455'
+title: Comparative genomic hybridization and conventional cytogenetic analyses in
+  childhood acute myeloid leukemia.
+year: '1999'

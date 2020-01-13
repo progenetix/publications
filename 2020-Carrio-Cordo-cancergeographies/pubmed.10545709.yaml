@@ -1,0 +1,25 @@
+authors: Steenman M, Tomlinson G, Westerveld A, Mannens M.
+counts:
+  biosamples: 16.0
+  samples_acgh: 0.0
+  samples_ccgh: 16.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Cytogenet. Cell Genet. 86(2), 1999
+notes: NA
+pmid: '10545709'
+title: 'Comparative genomic hybridization analysis of hepatoblastomas: additional
+  evidence for a genetic link with Wilms tumor and rhabdomyosarcoma.'
+year: '1999'

@@ -1,0 +1,28 @@
+authors: Jiang Z, Jhunjhunwala S, Liu J, Haverty PM, Kennemer MI, Guan Y, Lee W, Carnevali
+  P, Stinson J, Johnson S, Diao J, Yeung S, Jubb A, Ye W, Wu TD, Kapadia SB, de Sauvage
+  FJ, Gentleman RC, Stern HM, Seshagiri S, Pant KP, Modrusan Z, Ballinger DG, Zhang
+  Z.
+counts:
+  biosamples: 40.0
+  samples_acgh: 40.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Genome Res. 22(4), 2012
+notes: Samples from 55 Italian and 36 German patients were processed by aCGH.
+pmid: '22267523'
+title: The effects of hepatitis B virus integration into the genomes of hepatocellular
+  carcinoma patients.
+year: '2012'

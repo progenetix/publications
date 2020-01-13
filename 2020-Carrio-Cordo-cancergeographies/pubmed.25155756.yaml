@@ -1,0 +1,30 @@
+authors: "Davis CF, Ricketts CJ, Wang M, Yang L, Cherniack AD, Shen H, Buhay C, Kang\
+  \ H, Kim SC, Fahey CC, Hacker KE, Bhanot G, Gordenin DA, Chu A, Gunaratne PH, Biehl\
+  \ M, Seth S, Kaipparettu BA, Bristow CA, Donehower LA, Wallen EM, Smith AB, Tickoo\
+  \ SK, Tamboli P, Reuter V, Schmidt LS, Hsieh JJ, Choueiri TK, Hakimi AA, The\xEF\
+  \xBF\xBDCancer Genome Atlas Research Network, Chin L, Meyerson M, Kucherlapati R,\
+  \ Park WY, Robertson AG, Laird PW, Henske EP, Kwiatkowski DJ, Park PJ, Morgan M,\
+  \ Shuch B, Muzny D, Wheeler DA, Linehan WM, Gibbs RA, Rathmell WK, Creighton CJ."
+counts:
+  biosamples: 182.0
+  samples_acgh: 66.0
+  samples_ccgh: 0.0
+  samples_wes: 66.0
+  samples_wgs: 50.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Cancer Cell 26(3), 2014
+notes: Number as from corresponding TCGA study (as date 21/03/2019)
+pmid: '25155756'
+title: The somatic genomic landscape of chromophobe renal cell carcinoma.
+year: '2014'

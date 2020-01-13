@@ -1,0 +1,27 @@
+authors: "Weber RG, Scheer M, Born IA, Joos S, Cobbers JM, Hofele C, Reifenberger\
+  \ G, Z\xF6ller JE, Lichter P."
+counts:
+  biosamples: 26.0
+  samples_acgh: 0.0
+  samples_ccgh: 26.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Am. J. Pathol. 153(1), 1998
+notes: NA
+pmid: '9665491'
+title: Recurrent chromosomal imbalances detected in biopsy material from oral premalignant
+  and malignant lesions by combined tissue microdissection, universal DNA amplification,
+  and comparative genomic hybridization.
+year: '1998'

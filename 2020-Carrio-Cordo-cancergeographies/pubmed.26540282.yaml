@@ -1,0 +1,26 @@
+authors: Castagnola P, Zoppoli G, Gandolfo S, Monticone M, Malacarne D, Cirmena G,
+  Brown D, Aiello C, Maffei M, Marino R, Giaretti W, Pentenero M.
+counts:
+  biosamples: 151.0
+  samples_acgh: 151.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: ''
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: PLoS ONE 10(11), 2015
+notes: ''
+pmid: '26540282'
+title: Genomic DNA Copy Number Aberrations, Histological Diagnosis, Oral Subsite and
+  Aneuploidy in OPMDs/OSCCs.
+year: '2015'

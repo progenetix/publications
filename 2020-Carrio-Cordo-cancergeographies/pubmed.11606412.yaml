@@ -1,0 +1,25 @@
+authors: Kunwar S, Mohapatra G, Bollen A, Lamborn KR, Prados M, Feuerstein BG.
+counts:
+  biosamples: 80.0
+  samples_acgh: 0.0
+  samples_ccgh: 80.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Cancer Res. 61(20), 2001
+notes: NA
+pmid: '11606412'
+title: Genetic subgroups of anaplastic astrocytomas correlate with patient age and
+  survival.
+year: '2001'

@@ -1,0 +1,26 @@
+authors: "Toft-Petersen M, Kjeldsen E, Nederby L, Gr\xF8nb\xE6k K, Hokland P, Roug\
+  \ AS."
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.21
+    - 56.16
+    type: Point
+  info:
+    city: Aarhus
+    continent: ''
+    country: Denmark
+    label: Aarhus, Denmark, Europe
+    precision: city
+journal: Leuk Res Rep 3(2), 2014
+notes: ''
+pmid: '25473623'
+title: A novel del(8)(q23.2q24.11) contributing to disease progression in a case of
+  JAK2/TET2 double mutated chronic myelomonocytic leukemia.
+year: '2014'

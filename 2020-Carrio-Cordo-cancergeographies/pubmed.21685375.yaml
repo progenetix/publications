@@ -1,0 +1,25 @@
+authors: Roy D, Sin SH, Damania B, Dittmer DP.
+counts:
+  biosamples: 49.0
+  samples_acgh: 49.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.06
+    - 35.91
+    type: Point
+  info:
+    city: Chapel Hill
+    continent: ''
+    country: United States
+    label: Chapel Hill, United States, North America
+    precision: city
+journal: Blood 118(7), 2011
+notes: NA
+pmid: '21685375'
+title: Tumor suppressor genes FHIT and WWOX are deleted in primary effusion lymphoma
+  (PEL) cell lines.
+year: '2011'

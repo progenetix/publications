@@ -1,0 +1,27 @@
+authors: "Binh MB, Sastre-Garau X, Guillou L, de Pinieux G, Terrier P, Lagac\xE9 R,\
+  \ Aurias A, Hostein I, Coindre JM."
+counts:
+  biosamples: 154.0
+  samples_acgh: 0.0
+  samples_ccgh: 154.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Am. J. Surg. Pathol. 29(10), 2005
+notes: NA
+pmid: '16160477'
+title: 'MDM2 and CDK4 immunostainings are useful adjuncts in diagnosing well-differentiated
+  and dedifferentiated liposarcoma subtypes: a comparative analysis of 559 soft tissue
+  neoplasms with genetic data.'
+year: '2005'

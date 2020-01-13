@@ -1,0 +1,26 @@
+authors: Gandolfi G, Longo C, Moscarella E, Zalaudek I, Sancisi V, Raucci M, Manzotti
+  G, Gugnoni M, Piana S, Argenziano G, Ciarrocchi A.
+counts:
+  biosamples: 41.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 41.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.63
+    - 44.7
+    type: Point
+  info:
+    city: Reggio nell Emilia
+    continent: ''
+    country: Italy
+    label: Reggio nell Emilia, Italy, Europe
+    precision: city
+journal: Pigment Cell Melanoma Res 29(2), 2016
+notes: ''
+pmid: '26575206'
+title: The extent of whole-genome copy number alterations predicts aggressive features
+  in primary melanomas.
+year: '2016'

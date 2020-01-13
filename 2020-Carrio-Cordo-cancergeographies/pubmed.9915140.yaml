@@ -1,0 +1,25 @@
+authors: "Aubele M, Zitzelsberger H, Schenck U, Walch A, H\xF6fler H, Werner M."
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.56
+    - 48.25
+    type: Point
+  info:
+    city: Oberschleissheim
+    continent: ''
+    country: Germany
+    label: Oberschleissheim, Germany, Europe
+    precision: city
+journal: Cancer 84(6), 1998
+notes: NA
+pmid: '9915140'
+title: Distinct cytogenetic alterations in squamous intraepithelial lesions of the
+  cervix revealed by laser-assisted microdissection and comparative genomic hybridization.
+year: '1998'

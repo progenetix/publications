@@ -1,0 +1,27 @@
+authors: Martin-Guerrero I, Salaverria I, Burkhardt B, Szczepanowski M, Baudis M,
+  Bens S, de Leval L, Garcia-Orad A, Horn H, Lisfeld J, Pellissery S, Klapper W, Oschlies
+  I, Siebert R.
+counts:
+  biosamples: 16.0
+  samples_acgh: 16.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.13
+    - 54.32
+    type: Point
+  info:
+    city: Kiel
+    continent: ''
+    country: Germany
+    label: Kiel, Germany, Europe
+    precision: city
+journal: Haematologica 98(8), 2013
+notes: NA
+pmid: '23445872'
+title: Recurrent loss of heterozygosity in 1p36 associated with TNFRSF14 mutations
+  in IRF4 translocation negative pediatric follicular lymphomas.
+year: '2013'

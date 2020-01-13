@@ -1,0 +1,28 @@
+authors: "van Kuilenburg AB, Meijer J, Mul AN, Meinsma R, Schmid V, Dobritzsch D,\
+  \ Hennekam RC, Mannens MM, Kiechle M, Etienne-Grimaldi MC, Kl\xFCmpen HJ, Maring\
+  \ JG, Derleyn VA, Maartense E, Milano G, Vijzelaar R, Gross E."
+counts:
+  biosamples: 92.0
+  samples_acgh: 92.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Hum. Genet. 128(5), 2010
+notes: NA
+pmid: '20803296'
+title: Intragenic deletions and a deep intronic mutation affecting pre-mRNA splicing
+  in the dihydropyrimidine dehydrogenase gene as novel mechanisms causing 5-fluorouracil
+  toxicity.
+year: '2010'

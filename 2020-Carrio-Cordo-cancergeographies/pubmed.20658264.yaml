@@ -1,0 +1,25 @@
+authors: Tran-Thanh D, Arneson NC, Pintilie M, Deliallisi A, Warren KS, Bane A, Done
+  SJ.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Breast Cancer Res. Treat. 128(1), 2011
+notes: NA
+pmid: '20658264'
+title: Amplification of the prolactin receptor gene in mammary lobular neoplasia.
+year: '2011'

@@ -1,0 +1,27 @@
+authors: Suehiro Y, Sakamoto M, Umayahara K, Iwabuchi H, Sakamoto H, Tanaka N, Takeshima
+  N, Yamauchi K, Hasumi K, Akiya T, Sakunaga H, Muroya T, Numa F, Kato H, Tenjin Y,
+  Sugishita T.
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 12.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Oncology 59(1), 2000
+notes: NA
+pmid: '10895067'
+title: Genetic aberrations detected by comparative genomic hybridization in ovarian
+  clear cell adenocarcinomas.
+year: '2000'

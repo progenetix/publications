@@ -1,0 +1,26 @@
+authors: Helou K, Padilla-Nash H, Wangsa D, Karlsson E, Osterberg L, Karlsson P, Ried
+  T, Knutsen T.
+counts:
+  biosamples: 33.0
+  samples_acgh: 0.0
+  samples_ccgh: 33.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: ''
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 170(1), 2006
+notes: NA
+pmid: '16965948'
+title: Comparative genome hybridization reveals specific genomic imbalances during
+  the genesis from benign through borderline to malignant ovarian tumors.
+year: '2006'

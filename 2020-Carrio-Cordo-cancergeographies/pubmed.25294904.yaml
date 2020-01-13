@@ -1,0 +1,26 @@
+authors: "Sucker A, Zhao F, Real B, Heeke C, Bielefeld N, Ma\u03B2en S, Horn S, Moll\
+  \ I, Maltaner R, Horn PA, Schilling B, Sabbatino F, Lennerz V, Kloor M, Ferrone\
+  \ S, Schadendorf D, Falk CS, Griewank K, Paschen A."
+counts:
+  biosamples: 5.0
+  samples_acgh: 5.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.01
+    - 51.46
+    type: Point
+  info:
+    city: Essen
+    continent: ''
+    country: Germany
+    label: Essen, Germany, Europe
+    precision: city
+journal: Clin. Cancer Res. 20(24), 2014
+notes: ''
+pmid: '25294904'
+title: Genetic evolution of T-cell resistance in the course of melanoma progression.
+year: '2014'

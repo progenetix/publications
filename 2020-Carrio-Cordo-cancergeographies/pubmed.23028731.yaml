@@ -1,0 +1,26 @@
+authors: Watkins AJ, Hamoudi RA, Zeng N, Yan Q, Huang Y, Liu H, Zhang J, Braggio E,
+  Fonseca R, de Leval L, Isaacson PG, Wotherspoon A, McPhail ED, Dogan A, Du MQ.
+counts:
+  biosamples: 56.0
+  samples_acgh: 56.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.2
+    type: Point
+  info:
+    city: Cambridge
+    continent: ''
+    country: United Kingdom
+    label: Cambridge, United Kingdom, Europe
+    precision: city
+journal: PLoS ONE 7(9), 2012
+notes: ''
+pmid: '23028731'
+title: An integrated genomic and expression analysis of 7q deletion in splenic marginal
+  zone lymphoma.
+year: '2012'

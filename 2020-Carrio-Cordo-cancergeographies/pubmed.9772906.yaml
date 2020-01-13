@@ -1,0 +1,25 @@
+authors: "Agarwal SK, Schr\xF6ck E, Kester MB, Burns AL, Heffess CS, Ried T, Marx\
+  \ SJ."
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 106(1), 1998
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: '9772906'
+title: Comparative genomic hybridization analysis of human parathyroid tumors.
+year: '1998'

@@ -1,0 +1,26 @@
+authors: Kusano N, Okita K, Shirahashi H, Harada T, Shiraishi K, Oga A, Kawauchi S,
+  Furuya T, Sasaki K.
+counts:
+  biosamples: 41.0
+  samples_acgh: 0.0
+  samples_ccgh: 41.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Cancer 94(3), 2002
+notes: NA
+pmid: '11857308'
+title: Chromosomal imbalances detected by comparative genomic hybridization are associated
+  with outcome of patients with hepatocellular carcinoma.
+year: '2002'

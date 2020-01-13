@@ -1,0 +1,29 @@
+authors: Rusch M, Nakitandwe J, Shurtleff S, Newman S, Zhang Z, Edmonson MN, Parker
+  M, Jiao Y, Ma X, Liu Y, Gu J, Walsh MF, Becksfort J, Thrasher A, Li Y, McMurry J,
+  Hedlund E, Patel A, Easton J, Yergeau D, Vadodaria B, Tatevossian RG, Raimondi S,
+  Hedges D, Chen X, Hagiwara K, McGee R, Robinson GW, Klco JM, Gruber TA, Ellison
+  DW, Downing JR, Zhang J.
+counts:
+  biosamples: 156.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 78.0
+  samples_wgs: 78.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Nat Commun 9(1), 2018
+notes: No PDF available yet
+pmid: '30262806'
+title: Clinical cancer genomic profiling by three-platform sequencing of whole genome,
+  whole exome and transcriptome.
+year: '2018'

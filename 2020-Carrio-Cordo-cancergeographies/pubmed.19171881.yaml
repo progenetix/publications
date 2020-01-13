@@ -1,0 +1,27 @@
+authors: Hollink IH, van den Heuvel-Eibrink MM, Zimmermann M, Balgobind BV, Arentsen-Peters
+  ST, Alders M, Willasch A, Kaspers GJ, Trka J, Baruchel A, de Graaf SS, Creutzig
+  U, Pieters R, Reinhardt D, Zwaan CM.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ''
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city
+journal: Blood 113(23), 2009
+notes: NA
+pmid: '19171881'
+title: Clinical relevance of Wilms tumor 1 gene mutations in childhood acute myeloid
+  leukemia.
+year: '2009'

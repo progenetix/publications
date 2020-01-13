@@ -1,0 +1,26 @@
+authors: "Blegen H, Einhorn N, Sj\xF6vall K, Roschke A, Ghadimi BM, McShane LM, Nilsson\
+  \ B, Shah K, Ried T, Auer G."
+counts:
+  biosamples: 80.0
+  samples_acgh: 0.0
+  samples_ccgh: 80.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: ''
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: Int. J. Gynecol. Cancer 10(6), 2000
+notes: NA
+pmid: '11240718'
+title: Prognostic significance of cell cycle proteins and genomic instability in borderline,
+  early and advanced stage ovarian carcinomas.
+year: '2000'

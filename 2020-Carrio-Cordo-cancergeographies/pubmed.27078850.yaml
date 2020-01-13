@@ -1,0 +1,25 @@
+authors: Singh H, Liu Y, Xiao X, Lin L, Kim J, Van Hummelen P, Wu CL, Bass AJ, Saylor
+  PJ.
+counts:
+  biosamples: 7.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 7.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Oncotarget 7(20), 2016
+notes: ''
+pmid: '27078850'
+title: Whole exome sequencing of urachal adenocarcinoma reveals recurrent NF1 mutations.
+year: '2016'

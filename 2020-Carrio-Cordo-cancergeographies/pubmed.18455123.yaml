@@ -1,0 +1,26 @@
+authors: Hu M, Yao J, Carroll DK, Weremowicz S, Chen H, Carrasco D, Richardson A,
+  Violette S, Nikolskaya T, Nikolsky Y, Bauerlein EL, Hahn WC, Gelman RS, Allred C,
+  Bissell MJ, Schnitt S, Polyak K.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Cancer Cell 13(5), 2008
+notes: NA
+pmid: '18455123'
+title: Regulation of in situ to invasive breast carcinoma transition.
+year: '2008'

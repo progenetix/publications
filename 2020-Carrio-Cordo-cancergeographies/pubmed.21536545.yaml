@@ -1,0 +1,25 @@
+authors: "M\xF6ller E, Hornick JL, Magnusson L, Veerla S, Domanski HA, Mertens F."
+counts:
+  biosamples: 9.0
+  samples_acgh: 9.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Clin. Cancer Res. 17(9), 2011
+notes: NA
+pmid: '21536545'
+title: FUS-CREB3L2/L1-positive sarcomas show a specific gene expression profile with
+  upregulation of CD24 and FOXL1.
+year: '2011'

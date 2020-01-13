@@ -1,0 +1,27 @@
+authors: Vollebergh MA, Lips EH, Nederlof PM, Wessels LF, Schmidt MK, van Beers EH,
+  Cornelissen S, Holtkamp M, Froklage FE, de Vries EG, Schrama JG, Wesseling J, van
+  de Vijver MJ, van Tinteren H, de Bruin M, Hauptmann M, Rodenhuis S, Linn SC.
+counts:
+  biosamples: 230.0
+  samples_acgh: 230.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Ann. Oncol. 22(7), 2011
+notes: NA
+pmid: '21135055'
+title: An aCGH classifier derived from BRCA1-mutated breast cancer and benefit of
+  high-dose platinum-based chemotherapy in HER2-negative breast cancer patients.
+year: '2011'

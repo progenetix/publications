@@ -1,0 +1,26 @@
+authors: Speicher MR, Prescher G, du Manoir S, Jauch A, Horsthemke B, Bornfeld N,
+  Becher R, Cremer T.
+counts:
+  biosamples: 11.0
+  samples_acgh: 0.0
+  samples_ccgh: 11.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Cancer Res. 54(14), 1994
+notes: NA
+pmid: '8033101'
+title: Chromosomal gains and losses in uveal melanomas detected by comparative genomic
+  hybridization.
+year: '1994'

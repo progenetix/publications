@@ -1,0 +1,25 @@
+authors: Gangnus R, Langer S, Breit E, Pantel K, Speicher MR.
+counts:
+  biosamples: 5.0
+  samples_acgh: 0.0
+  samples_ccgh: 5.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.58
+    - 48.14
+    type: Point
+  info:
+    city: Munich
+    continent: ''
+    country: Germany
+    label: Munich, Germany, Europe
+    precision: city
+journal: Clin. Cancer Res. 10(10), 2004
+notes: NA
+pmid: '15161702'
+title: Genomic profiling of viable and proliferative micrometastatic cells from early-stage
+  breast cancer patients.
+year: '2004'

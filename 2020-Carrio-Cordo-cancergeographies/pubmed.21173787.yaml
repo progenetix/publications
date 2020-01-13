@@ -1,0 +1,26 @@
+authors: Kim HK, Choi IJ, Kim CG, Kim HS, Oshima A, Yamada Y, Arao T, Nishio K, Michalowski
+  A, Green JE.
+counts:
+  biosamples: 96.0
+  samples_acgh: 96.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Pharmacogenomics J. 12(2), 2012
+notes: NA
+pmid: '21173787'
+title: Three-gene predictor of clinical outcome for gastric cancer patients treated
+  with chemotherapy.
+year: '2012'

@@ -1,0 +1,26 @@
+authors: "Lindgren D, Frigyesi A, Gudjonsson S, Sj\xF6dahl G, Hallden C, Chebil G,\
+  \ Veerla S, Ryden T, M\xE5nsson W, Liedberg F, H\xF6glund M."
+counts:
+  biosamples: 103.0
+  samples_acgh: 103.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Cancer Res. 70(9), 2010
+notes: NA
+pmid: '20406976'
+title: Combined gene expression and genomic profiling define two intrinsic molecular
+  subtypes of urothelial carcinoma and gene signatures for molecular grading and outcome.
+year: '2010'

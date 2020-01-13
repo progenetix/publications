@@ -1,0 +1,26 @@
+authors: Oudejans JJ, van Wieringen WN, Smeets SJ, Tijssen M, Vosse SJ, Meijer CJ,
+  Meijer GA, van de Wiel MA, Ylstra B.
+counts:
+  biosamples: 42.0
+  samples_acgh: 42.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 48(3), 2009
+notes: NA
+pmid: '19051311'
+title: Identification of genes putatively involved in the pathogenesis of diffuse
+  large B-cell lymphomas by integrative genomics.
+year: '2009'

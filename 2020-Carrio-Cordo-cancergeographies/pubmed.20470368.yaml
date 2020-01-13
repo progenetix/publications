@@ -1,0 +1,26 @@
+authors: Silva M, Veiga I, Ribeiro FR, Vieira J, Pinto C, Pinheiro M, Mesquita B,
+  Santos C, Soares M, Dinis J, Santos L, Lopes P, Afonso M, Lopes C, Teixeira MR.
+counts:
+  biosamples: 29.0
+  samples_acgh: 0.0
+  samples_ccgh: 29.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -8.61
+    - 41.15
+    type: Point
+  info:
+    city: Porto
+    continent: ''
+    country: Portugal
+    label: Porto, Portugal, Europe
+    precision: city
+journal: BMC Med 8, 2010
+notes: NA
+pmid: '20470368'
+title: Chromosome copy number changes carry prognostic information independent of
+  KIT/PDGFRA point mutations in gastrointestinal stromal tumors.
+year: '2010'

@@ -1,0 +1,27 @@
+authors: Sheffield BS, Tinker AV, Shen Y, Hwang H, Li-Chang HH, Pleasance E, Ch'ng
+  C, Lum A, Lorette J, McConnell YJ, Sun S, Jones SJ, Gown AM, Huntsman DG, Schaeffer
+  DF, Churg A, Yip S, Laskin J, Marra MA.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 2.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: PLoS ONE 10(3), 2015
+notes: ''
+pmid: '25798586'
+title: 'Personalized oncogenomics: clinical experience with malignant peritoneal mesothelioma
+  using whole genome sequencing.'
+year: '2015'

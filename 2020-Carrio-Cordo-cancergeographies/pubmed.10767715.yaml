@@ -1,0 +1,25 @@
+authors: Schleger C, Arens N, Zentgraf H, Bleyl U, Verbeke C.
+counts:
+  biosamples: 33.0
+  samples_acgh: 0.0
+  samples_ccgh: 33.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.48
+    - 49.5
+    type: Point
+  info:
+    city: Mannheim
+    continent: ''
+    country: Germany
+    label: Mannheim, Germany, Europe
+    precision: city
+journal: J. Pathol. 191(1), 2000
+notes: NA
+pmid: '10767715'
+title: Identification of frequent chromosomal aberrations in ductal adenocarcinoma
+  of the pancreas by comparative genomic hybridization (CGH).
+year: '2000'

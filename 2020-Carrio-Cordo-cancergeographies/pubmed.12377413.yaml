@@ -1,0 +1,26 @@
+authors: "Rigola MA, Casadevall C, Bernu\xE9s M, Caball\xEDn MR, Fuster C, Gelabert\
+  \ A, Egozcue J, Mir\xF3 R."
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 137(1), 2002
+notes: NA
+pmid: '12377413'
+title: Analysis of kidney tumors by comparative genomic hybridization and conventional
+  cytogenetics.
+year: '2002'

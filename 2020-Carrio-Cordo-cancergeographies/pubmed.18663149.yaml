@@ -1,0 +1,27 @@
+authors: Starczynowski DT, Vercauteren S, Telenius A, Sung S, Tohyama K, Brooks-Wilson
+  A, Spinelli JJ, Eaves CJ, Eaves AC, Horsman DE, Lam WL, Karsan A.
+counts:
+  biosamples: 38.0
+  samples_acgh: 38.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: Blood 112(8), 2008
+notes: NA
+pmid: '18663149'
+title: High-resolution whole genome tiling path array CGH analysis of CD34+ cells
+  from patients with low-risk myelodysplastic syndromes reveals cryptic copy number
+  alterations and predicts overall and leukemia-free survival.
+year: '2008'

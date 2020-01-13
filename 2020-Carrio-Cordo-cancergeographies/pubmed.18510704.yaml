@@ -1,0 +1,26 @@
+authors: "Bostr\xF6m H, Leuchowius KJ, Hallb\xF6\xF6k H, Nordgren A, Th\xF6rn I, Thorselius\
+  \ M, Rosenquist R, S\xF6derberg O, Sundstr\xF6m C."
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.64
+    - 59.86
+    type: Point
+  info:
+    city: Uppsala
+    continent: ''
+    country: Sweden
+    label: Uppsala, Sweden, Europe
+    precision: city
+journal: Eur. J. Haematol. 81(3), 2008
+notes: NA
+pmid: '18510704'
+title: U-2973, a novel B-cell line established from a patient with a mature B-cell
+  leukemia displaying concurrent t(14;18) and MYC translocation to a non-IG gene partner.
+year: '2008'

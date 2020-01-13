@@ -1,0 +1,27 @@
+authors: Veeriah S, Taylor BS, Meng S, Fang F, Yilmaz E, Vivanco I, Janakiraman M,
+  Schultz N, Hanrahan AJ, Pao W, Ladanyi M, Sander C, Heguy A, Holland EC, Paty PB,
+  Mischel PS, Liau L, Cloughesy TF, Mellinghoff IK, Solit DB, Chan TA.
+counts:
+  biosamples: 98.0
+  samples_acgh: 98.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Nat. Genet. 42(1), 2010
+notes: NA
+pmid: '19946270'
+title: Somatic mutations of the Parkinson's disease-associated gene PARK2 in glioblastoma
+  and other human malignancies.
+year: '2010'

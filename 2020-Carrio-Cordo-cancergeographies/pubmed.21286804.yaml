@@ -1,0 +1,27 @@
+authors: Didraga MA, van Beers EH, Joosse SA, Brandwijk KI, Oldenburg RA, Wessels
+  LF, Hogervorst FB, Ligtenberg MJ, Hoogerbrugge N, Verhoef S, Devilee P, Nederlof
+  PM.
+counts:
+  biosamples: 106.0
+  samples_acgh: 106.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Breast Cancer Res. Treat. 130(2), 2011
+notes: NA
+pmid: '21286804'
+title: A non-BRCA1/2 hereditary breast cancer sub-group defined by aCGH profiling
+  of genetically related patients.
+year: '2011'

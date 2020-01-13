@@ -1,0 +1,25 @@
+authors: Kim NG, Kim JJ, Ahn JY, Seong CM, Noh SH, Kim CB, Min JS, Kim H.
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Int. J. Cancer 85(5), 2000
+notes: NA
+pmid: '10699941'
+title: Putative chromosomal deletions on 9P, 9Q and 22Q occur preferentially in malignant
+  gastrointestinal stromal tumors.
+year: '2000'

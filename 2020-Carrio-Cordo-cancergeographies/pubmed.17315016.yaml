@@ -1,0 +1,27 @@
+authors: "Kuchinskaya E, Nordgren A, Heyman M, Schoumans J, Corcoran M, Staaf J, Borg\
+  \ A, S\xF6derh\xE4ll S, Grand\xE9r D, Nordenskj\xF6ld M, Blennow E."
+counts:
+  biosamples: 18.0
+  samples_acgh: 9.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: ''
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: Leukemia 21(6), 2007
+notes: NA
+pmid: '17315016'
+title: 'Tiling-resolution array-CGH reveals the pattern of DNA copy number alterations
+  in acute lymphoblastic leukemia with 21q amplification: the result of telomere dysfunction
+  and breakage/fusion/breakage cycles?'
+year: '2007'

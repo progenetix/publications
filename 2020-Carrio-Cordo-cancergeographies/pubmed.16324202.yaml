@@ -1,0 +1,27 @@
+authors: "Inda MM, Perot C, Guillaud-Bataille M, Danglot G, Rey JA, Bello MJ, Fan\
+  \ X, Eberhart C, Zazpe I, Portillo E, Tu\xF1\xF3n T, Mart\xEDnez-Pe\xF1uela JM,\
+  \ Bernheim A, Castresana JS."
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.36
+    - 48.79
+    type: Point
+  info:
+    city: Villejuif
+    continent: ''
+    country: France
+    label: Villejuif, France, Europe
+    precision: city
+journal: Histopathology 47(6), 2005
+notes: NA
+pmid: '16324202'
+title: Genetic heterogeneity in supratentorial and infratentorial primitive neuroectodermal
+  tumours of the central nervous system.
+year: '2005'

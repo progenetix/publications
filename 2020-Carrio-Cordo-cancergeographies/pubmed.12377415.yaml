@@ -1,0 +1,25 @@
+authors: Kasahara K, Taguchi T, Yamasaki I, Kamada M, Yuri K, Shuin T.
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 133.53
+    - 33.56
+    type: Point
+  info:
+    city: Kochi-shi
+    continent: ''
+    country: Japan
+    label: Kochi-shi, Japan, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 137(1), 2002
+notes: NA
+pmid: '12377415'
+title: Detection of genetic alterations in advanced prostate cancer by comparative
+  genomic hybridization.
+year: '2002'

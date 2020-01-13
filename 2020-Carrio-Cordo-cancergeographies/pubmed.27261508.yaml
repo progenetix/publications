@@ -1,0 +1,27 @@
+authors: "Zhao F, Sucker A, Horn S, Heeke C, Bielefeld N, Schr\xF6rs B, Bicker A,\
+  \ Lindemann M, Roesch A, Gaudernack G, Stiller M, Becker JC, Lennerz V, W\xF6lfel\
+  \ T, Schadendorf D, Griewank K, Paschen A."
+counts:
+  biosamples: 5.0
+  samples_acgh: 5.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.01
+    - 51.46
+    type: Point
+  info:
+    city: Essen
+    continent: ''
+    country: Germany
+    label: Essen, Germany, Europe
+    precision: city
+journal: Cancer Res. 76(15), 2016
+notes: ''
+pmid: '27261508'
+title: Melanoma Lesions Independently Acquire T-cell Resistance during Metastatic
+  Latency.
+year: '2016'

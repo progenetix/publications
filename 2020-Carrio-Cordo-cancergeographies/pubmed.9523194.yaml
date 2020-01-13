@@ -1,0 +1,26 @@
+authors: Mohapatra G, Bollen AW, Kim DH, Lamborn K, Moore DH, Prados MD, Feuerstein
+  BG.
+counts:
+  biosamples: 97.0
+  samples_acgh: 0.0
+  samples_ccgh: 97.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 21(3), 1998
+notes: NA
+pmid: '9523194'
+title: Genetic analysis of glioblastoma multiforme provides evidence for subgroups
+  within the grade.
+year: '1998'

@@ -1,0 +1,26 @@
+authors: Somiari SB, Shriver CD, He J, Parikh K, Jordan R, Hooke J, Hu H, Deyarmin
+  B, Lubert S, Malicki L, Heckman C, Somiari RI.
+counts:
+  biosamples: 14.0
+  samples_acgh: 14.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -78.84
+    - 40.24
+    type: Point
+  info:
+    city: Windber
+    continent: ''
+    country: United States
+    label: Windber, United States
+    precision: city
+journal: Cancer Genet. Cytogenet. 155(2), 2004
+notes: NA
+pmid: '15571796'
+title: Global search for chromosomal abnormalities in infiltrating ductal carcinoma
+  of the breast using array-comparative genomic hybridization.
+year: '2004'

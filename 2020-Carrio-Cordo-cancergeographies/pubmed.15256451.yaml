@@ -1,0 +1,26 @@
+authors: Douglas EJ, Fiegler H, Rowan A, Halford S, Bicknell DC, Bodmer W, Tomlinson
+  IP, Carter NP.
+counts:
+  biosamples: 85.0
+  samples_acgh: 85.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ''
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city
+journal: Cancer Res. 64(14), 2004
+notes: NA
+pmid: '15256451'
+title: Array comparative genomic hybridization analysis of colorectal cancer cell
+  lines and primary carcinomas.
+year: '2004'

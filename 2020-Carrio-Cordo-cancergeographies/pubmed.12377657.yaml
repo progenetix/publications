@@ -1,0 +1,27 @@
+authors: Ozaki T, Schaefer KL, Wai D, Yokoyama R, Ahrens S, Diallo R, Hasegawa T,
+  Shimoda T, Hirohashi S, Kawai A, Naito N, Morimoto Y, Inoue H, Boecker W, Juergens
+  H, Winkelmann W, Dockhorn-Dworniczak B, Poremba C.
+counts:
+  biosamples: 16.0
+  samples_acgh: 0.0
+  samples_ccgh: 16.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: Ann. Oncol. 13(10), 2002
+notes: NA
+pmid: '12377657'
+title: Population-based genetic alterations in Ewing's tumors from Japanese and European
+  Caucasian patients.
+year: '2002'

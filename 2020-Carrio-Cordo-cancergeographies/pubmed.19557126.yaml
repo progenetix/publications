@@ -1,0 +1,27 @@
+authors: "G\xF6ransson H, Edlund K, Ryd\xE5ker M, Rasmussen M, Winquist J, Ekman S,\
+  \ Bergqvist M, Thomas A, Lambe M, Rosenquist R, Holmberg L, Micke P, Botling J,\
+  \ Isaksson A."
+counts:
+  biosamples: 44.0
+  samples_acgh: 44.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.64
+    - 59.86
+    type: Point
+  info:
+    city: Uppsala
+    continent: ''
+    country: Sweden
+    label: Uppsala, Sweden, Europe
+    precision: city
+journal: PLoS ONE 4(6), 2009
+notes: NA
+pmid: '19557126'
+title: Quantification of normal cell fraction and copy number neutral LOH in clinical
+  lung cancer samples using SNP array data.
+year: '2009'

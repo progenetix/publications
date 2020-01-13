@@ -1,0 +1,27 @@
+authors: "Edstr\xF6m E, Mahlam\xE4ki E, Nord B, Kjellman M, Karhu R, H\xF6\xF6g A,\
+  \ Goncharov N, Teh BT, B\xE4ckdahl M, Larsson C."
+counts:
+  biosamples: 34.0
+  samples_acgh: 0.0
+  samples_ccgh: 34.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: ''
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: Am. J. Pathol. 156(2), 2000
+notes: NA
+pmid: '10666394'
+title: Comparative genomic hybridization reveals frequent losses of chromosomes 1p
+  and 3q in pheochromocytomas and abdominal paragangliomas, suggesting a common genetic
+  etiology.
+year: '2000'

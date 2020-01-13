@@ -1,0 +1,26 @@
+authors: Petersen I, Langreck H, Wolf G, Schwendel A, Psille R, Vogt P, Reichel MB,
+  Ried T, Dietel M.
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: ''
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: Br. J. Cancer 75(1), 1997
+notes: NA
+pmid: '9000602'
+title: Small-cell lung cancer is characterized by a high incidence of deletions on
+  chromosomes 3p, 4q, 5q, 10q, 13q and 17p.
+year: '1997'

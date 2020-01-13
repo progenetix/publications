@@ -1,0 +1,26 @@
+authors: Schwartz JR, Walsh MP, Ma J, Lamprecht T, Wang S, Wu G, Raimondi S, Triplett
+  B, Klco J.
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 6.0
+  samples_wgs: 4.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Cold Spring Harb Mol Case Stud, 2018
+notes: No PDF available yet
+pmid: '29891567'
+title: Clonal Dynamics of Donor-Derived MDS after Unrelated-HCT for High-Risk Pediatric
+  B-Lymphoblastic Leukemia.
+year: '2018'

@@ -1,0 +1,27 @@
+authors: Corver WE, Ruano D, Weijers K, den Hartog WC, van Nieuwenhuizen MP, de Miranda
+  N, van Eijk R, Middeldorp A, Jordanova ES, Jordanova ES, Oosting J, Kapiteijn E,
+  Hovens G, Smit J, van Wezel T, Morreau H.
+counts:
+  biosamples: 27.0
+  samples_acgh: 27.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ''
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city
+journal: PLoS ONE 7(6), 2012
+notes: ''
+pmid: '22675538'
+title: Genome haploidisation with chromosome 7 retention in oncocytic follicular thyroid
+  carcinoma.
+year: '2012'

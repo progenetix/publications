@@ -1,0 +1,24 @@
+authors: "Bockm\xFChl U, You X, Pacyna-Gengelbach M, Arps H, Draf W, Petersen I."
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.77
+    - 50.8
+    type: Point
+  info:
+    city: Marburg
+    continent: ''
+    country: Germany
+    label: Marburg, Germany, Europe
+    precision: city
+journal: Brain Pathol. 14(2), 2004
+notes: NA
+pmid: '15193028'
+title: CGH pattern of esthesioneuroblastoma and their metastases.
+year: '2004'

@@ -1,0 +1,26 @@
+authors: Dong H, Zhang L, Qian Z, Zhu X, Zhu G, Chen Y, Xie X, Ye Q, Zang J, Ren Z,
+  Ji Q.
+counts:
+  biosamples: 50.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 50.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: ''
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: PLoS ONE 10(4), 2015
+notes: ''
+pmid: '25901726'
+title: Identification of HBV-MLL4 Integration and Its Molecular Basis in Chinese Hepatocellular
+  Carcinoma.
+year: '2015'

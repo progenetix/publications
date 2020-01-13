@@ -1,0 +1,26 @@
+authors: Rodriguez S, Khabir A, Keryer C, Perrot C, Drira M, Ghorbel A, Jlidi R, Bernheim
+  A, Valent A, Busson P.
+counts:
+  biosamples: 23.0
+  samples_acgh: 0.0
+  samples_ccgh: 23.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.36
+    - 48.79
+    type: Point
+  info:
+    city: Villejuif
+    continent: ''
+    country: France
+    label: Villejuif, France, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 157(2), 2005
+notes: NA
+pmid: '15721635'
+title: Conventional and array-based comparative genomic hybridization analysis of
+  nasopharyngeal carcinomas from the Mediterranean area.
+year: '2005'

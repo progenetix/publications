@@ -1,0 +1,25 @@
+authors: "Viardot A, M\xF6ller P, H\xF6gel J, Werner K, Mechtersheimer G, Ho AD, Ott\
+  \ G, Barth TF, Siebert R, Gesk S, Schlegelberger B, D\xF6hner H, Bentz M."
+counts:
+  biosamples: 124.0
+  samples_acgh: 0.0
+  samples_ccgh: 124.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: J. Clin. Oncol. 20(23), 2002
+notes: NA
+pmid: '12454108'
+title: Clinicopathologic correlations of genomic gains and losses in follicular lymphoma.
+year: '2002'

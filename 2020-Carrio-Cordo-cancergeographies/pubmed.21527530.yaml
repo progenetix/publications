@@ -1,0 +1,27 @@
+authors: Rand V, Parker H, Russell LJ, Schwab C, Ensor H, Irving J, Jones L, Masic
+  D, Minto L, Morrison H, Ryan S, Robinson H, Sinclair P, Moorman AV, Strefford JC,
+  Harrison CJ.
+counts:
+  biosamples: 18.0
+  samples_acgh: 18.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.6099999999999999
+    - 54.97
+    type: Point
+  info:
+    city: Newcastle upon Tyne
+    continent: ''
+    country: United Kingdom
+    label: Newcastle upon Tyne, United Kingdom, Europe
+    precision: city
+journal: Blood 117(25), 2011
+notes: ''
+pmid: '21527530'
+title: Genomic characterization implicates iAMP21 as a likely primary genetic event
+  in childhood B-cell precursor acute lymphoblastic leukemia.
+year: '2011'

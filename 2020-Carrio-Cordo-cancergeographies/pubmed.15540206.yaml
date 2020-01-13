@@ -1,0 +1,27 @@
+authors: "Gronwald J, Jauch A, Cybulski C, Schoell B, B\xF6hm-Steuer B, Lener M, Grabowska\
+  \ E, G\xF3rski B, Jakubowska A, Domaga\u0142a W, Chosia M, Scott RJ, Lubi\u0144\
+  ski J."
+counts:
+  biosamples: 45.0
+  samples_acgh: 0.0
+  samples_ccgh: 45.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 14.55
+    - 53.43
+    type: Point
+  info:
+    city: Szczecin
+    continent: ''
+    country: Poland
+    label: Szczecin, Poland, Europe
+    precision: city
+journal: Int. J. Cancer 114(2), 2005
+notes: NA
+pmid: '15540206'
+title: Comparison of genomic abnormalities between BRCAX and sporadic breast cancers
+  studied by comparative genomic hybridization.
+year: '2005'

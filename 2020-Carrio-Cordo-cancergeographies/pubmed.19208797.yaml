@@ -1,0 +1,27 @@
+authors: "Wrage M, Ruosaari S, Eijk PP, Kaifi JT, Hollm\xE9n J, Yekebas EF, Izbicki\
+  \ JR, Brakenhoff RH, Streichert T, Riethdorf S, Glatzel M, Ylstra B, Pantel K, Wikman\
+  \ H."
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: null
+    precision: city
+journal: Clin. Cancer Res. 15(5), 2009
+notes: Samples from 55 Italian and 36 German patients were processed by aCGH.
+pmid: '19208797'
+title: 'Genomic profiles associated with early micrometastasis in lung cancer: relevance
+  of 4q deletion.'
+year: '2009'

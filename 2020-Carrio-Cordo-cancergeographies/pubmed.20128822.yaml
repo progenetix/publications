@@ -1,0 +1,26 @@
+authors: Ling ZQ, Mukaisho K, Yamamoto H, Chen KH, Asano S, Araki Y, Sugihara H, Mao
+  WM, Hattori T.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.87
+    - 35.0
+    type: Point
+  info:
+    city: Otsu-shi
+    continent: ''
+    country: Japan
+    label: Otsu-shi, Japan, Asia
+    precision: city
+journal: Cancer Sci. 101(3), 2010
+notes: NA
+pmid: '20128822'
+title: Initiation of malignancy by duodenal contents reflux and the role of ezrin
+  in developing esophageal squamous cell carcinoma.
+year: '2010'

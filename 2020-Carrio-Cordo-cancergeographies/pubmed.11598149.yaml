@@ -1,0 +1,27 @@
+authors: Zweemer RP, Ryan A, Snijders AM, Hermsen MA, Meijer GA, Beller U, Menko FH,
+  Jacobs IJ, Baak JP, Verheijen RH, Kenemans P, van Diest PJ.
+counts:
+  biosamples: 36.0
+  samples_acgh: 0.0
+  samples_ccgh: 36.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Lab. Invest. 81(10), 2001
+notes: NA
+pmid: '11598149'
+title: 'Comparative genomic hybridization of microdissected familial ovarian carcinoma:
+  two deleted regions on chromosome 15q not previously identified in sporadic ovarian
+  carcinoma.'
+year: '2001'

@@ -1,0 +1,27 @@
+authors: Krishnamurthy S, Woodward W, Yang W, Reuben JM, Tepperberg J, Ogura D, Niwa
+  S, Huo L, Gong Y, El-Zein R, Gonzalez-Angulo AM, Chavez-Macgregor M, Alvarez R,
+  Lucci A, Valero V, Ueno NT.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: ''
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: Springerplus 2, 2013
+notes: NA
+pmid: '24156086'
+title: Status of the anaplastic lymphoma kinase (ALK) gene in inflammatory breast
+  carcinoma.
+year: '2013'

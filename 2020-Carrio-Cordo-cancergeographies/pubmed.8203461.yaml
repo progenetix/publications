@@ -1,0 +1,26 @@
+authors: "Schr\xF6ck E, Thiel G, Lozanova T, du Manoir S, Meffert MC, Jauch A, Speicher\
+  \ MR, N\xFCrnberg P, Vogel S, J\xE4nisch W."
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Am. J. Pathol. 144(6), 1994
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: '8203461'
+title: Comparative genomic hybridization of human malignant gliomas reveals multiple
+  amplification sites and nonrandom chromosomal gains and losses.
+year: '1994'

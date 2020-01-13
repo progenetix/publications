@@ -1,0 +1,26 @@
+authors: Leong SH, Lwin KM, Lee SS, Ng WH, Ng KM, Tan SY, Ng BL, Carter NP, Tang C,
+  Lian Kon O.
+counts:
+  biosamples: 17.0
+  samples_acgh: 17.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: ''
+    country: SG
+    label: null
+    precision: city
+journal: NPJ Precis Oncol 1(1), 2017
+notes: No PDF available yet
+pmid: '29872697'
+title: 'Chromosomal breaks at FRA18C: association with reduced DOK6 expression, altered
+  oncogenic signaling and increased gastric cancer survival.'
+year: '2017'

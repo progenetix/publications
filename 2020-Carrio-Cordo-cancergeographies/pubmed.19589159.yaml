@@ -1,0 +1,25 @@
+authors: Stefansson OA, Jonasson JG, Johannsson OT, Olafsdottir K, Steinarsdottir
+  M, Valgeirsdottir S, Eyfjord JE.
+counts:
+  biosamples: 67.0
+  samples_acgh: 67.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -21.9
+    - 64.14
+    type: Point
+  info:
+    city: Reykjavik
+    continent: ''
+    country: Iceland
+    label: Reykjavik, Iceland, Atlantic
+    precision: city
+journal: Breast Cancer Res. 11(4), 2009
+notes: NA
+pmid: '19589159'
+title: Genomic profiling of breast tumours in relation to BRCA abnormalities and phenotypes.
+year: '2009'

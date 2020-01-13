@@ -1,0 +1,27 @@
+authors: Natrajan R, Lambros MB, Geyer FC, Marchio C, Tan DS, Vatcheva R, Shiu KK,
+  Hungermann D, Rodriguez-Pinilla SM, Palacios J, Ashworth A, Buerger H, Reis-Filho
+  JS.
+counts:
+  biosamples: 93.0
+  samples_acgh: 93.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 48(4), 2009
+notes: NA
+pmid: '19156836'
+title: 'Loss of 16q in high grade breast cancer is associated with estrogen receptor
+  status: Evidence for progression in tumors with a luminal phenotype?'
+year: '2009'

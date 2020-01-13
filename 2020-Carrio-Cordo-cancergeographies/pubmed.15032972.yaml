@@ -1,0 +1,26 @@
+authors: Ottesen AM, Rajpert-De Meyts E, Holm M, Andersen IL, Vogt PH, Lundsteen C,
+  Skakkebaek NE.
+counts:
+  biosamples: 3.0
+  samples_acgh: 0.0
+  samples_ccgh: 3.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.57
+    - 55.68
+    type: Point
+  info:
+    city: Copenhagen
+    continent: ''
+    country: Denmark
+    label: Copenhagen, Denmark, Europe
+    precision: city
+journal: Clin. Genet. 65(1), 2004
+notes: NA
+pmid: '15032972'
+title: Cytogenetic and molecular analysis of a family with three brothers afflicted
+  with germ-cell cancer.
+year: '2004'

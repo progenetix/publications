@@ -1,0 +1,26 @@
+authors: Xu X, Johnson EB, Leverton L, Arthur A, Watson Q, Chang FL, Raca G, Laffin
+  JJ.
+counts:
+  biosamples: 27.0
+  samples_acgh: 27.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.42
+    - 40.76
+    type: Point
+  info:
+    city: Madison
+    continent: ''
+    country: United States
+    label: Madison, United States, North America
+    precision: city
+journal: Cancer Genet 206(9-10), 2013
+notes: NA
+pmid: '24269304'
+title: The advantage of using SNP array in clinical testing for hematological malignancies--a
+  comparative study of three genetic testing methods.
+year: '2013'

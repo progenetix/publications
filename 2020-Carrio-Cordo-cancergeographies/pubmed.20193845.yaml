@@ -1,0 +1,25 @@
+authors: Yasar D, Karadogan I, Alanoglu G, Akkaya B, Luleci G, Salim O, Timuragaoglu
+  A, Toruner GA, Berker-Karauzum S.
+counts:
+  biosamples: 41.0
+  samples_acgh: 41.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 30.7
+    - 36.91
+    type: Point
+  info:
+    city: Antalya
+    continent: ''
+    country: Turkey
+    label: Antalya, Turkey, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 197(2), 2010
+notes: NA
+pmid: '20193845'
+title: Array comparative genomic hybridization analysis of adult acute leukemia patients.
+year: '2010'

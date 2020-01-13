@@ -1,0 +1,26 @@
+authors: Dirse V, Bertasiute A, Gineikiene E, Zvirblis T, Dambrauskiene R, Gerbutavicius
+  R, Juozaityte E, Malciute L, Paulsson K, Griskevicius L.
+counts:
+  biosamples: 66.0
+  samples_acgh: 66.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 25.28
+    - 54.69
+    type: Point
+  info:
+    city: Vilnius
+    continent: ''
+    country: Lithunia
+    label: Vilnius, Lithunia, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 54(5), 2015
+notes: ''
+pmid: '25706938'
+title: A population-based single nucleotide polymorphism array analysis of genomic
+  aberrations in younger adult acute lymphoblastic leukemia patients.
+year: '2015'

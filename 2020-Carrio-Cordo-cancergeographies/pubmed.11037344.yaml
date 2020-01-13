@@ -1,0 +1,25 @@
+authors: "Krismann M, Adams H, Jaworska M, M\xFCller KM, Johnen G."
+counts:
+  biosamples: 24.0
+  samples_acgh: 0.0
+  samples_ccgh: 24.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.22
+    - 51.48
+    type: Point
+  info:
+    city: Bochum
+    continent: ''
+    country: Germany
+    label: Bochum, Germany, Europe
+    precision: city
+journal: Virchows Arch. 437(3), 2000
+notes: CGH results were annotated with arm-size resolution.
+pmid: '11037344'
+title: Patterns of chromosomal imbalances in benign solitary fibrous tumours of the
+  pleura.
+year: '2000'

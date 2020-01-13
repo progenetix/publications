@@ -1,0 +1,25 @@
+authors: Mihic-Probst D, Zhao J, Saremaslani P, Baer A, Komminoth P, Heitz PU.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.55
+    - 47.37
+    type: Point
+  info:
+    city: Zurich
+    continent: ''
+    country: Switzerland
+    label: Zurich, Switzerland, Europe
+    precision: city
+journal: Virchows Arch. 439(6), 2001
+notes: NA
+pmid: '11787857'
+title: Spitzoid malignant melanoma with lymph-node metastasis. Is a copy-number loss
+  on chromosome 6q a marker of malignancy?
+year: '2001'

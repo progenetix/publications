@@ -1,0 +1,28 @@
+authors: Koh Y, Kim DY, Park SH, Jung SH, Park E, Kim HJ, Sohn SK, Joo YD, Kim SJ,
+  Shin HJ, Kim SH, Song HS, Chung J, Kim I, Yoon SS, Kim BK, Shin SH, Chung YJ, Park
+  S.
+counts:
+  biosamples: 45.0
+  samples_acgh: 45.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 203(2), 2010
+notes: NA
+pmid: '21156236'
+title: 'GSTT1 copy number gain is a poor predictive marker for escalated-dose imatinib
+  treatment in chronic myeloid leukemia: genetic predictive marker found using array
+  comparative genomic hybridization.'
+year: '2010'

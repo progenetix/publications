@@ -1,0 +1,26 @@
+authors: He QJ, Zeng WF, Sham JS, Xie D, Yang XW, Lin HL, Zhan WH, Lin F, Zeng SD,
+  Nie D, Ma LF, Li CJ, Lu S, Guan XY.
+counts:
+  biosamples: 26.0
+  samples_acgh: 0.0
+  samples_ccgh: 26.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 144(2), 2003
+notes: NA
+pmid: '12850373'
+title: Recurrent genetic alterations in 26 colorectal carcinomas and 21 adenomas from
+  Chinese patients.
+year: '2003'

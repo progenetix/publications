@@ -1,0 +1,27 @@
+authors: "Gunawan B, Schulten HJ, von Heydebreck A, Schmidt B, Enders C, H\xF6er J,\
+  \ Langer C, Sch\xFCler P, Schindler CG, Kuhlgatz J, F\xFCzesi L."
+counts:
+  biosamples: 52.0
+  samples_acgh: 0.0
+  samples_ccgh: 52.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: ''
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: J. Pathol. 202(4), 2004
+notes: The cases of this publication are now included in Gunawan et at, 2007 (PMID
+  17226762)
+pmid: '15095269'
+title: Site-independent prognostic value of chromosome 9q loss in primary gastrointestinal
+  stromal tumours.
+year: '2004'

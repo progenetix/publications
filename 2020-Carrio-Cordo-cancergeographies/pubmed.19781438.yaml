@@ -1,0 +1,25 @@
+authors: Woo KS, Kim KE, Kim KH, Kim SH, Park JI, Shaffer LG, Han JY.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -100.98
+    - 22.15
+    type: Point
+  info:
+    city: San Luis Potosi
+    continent: ''
+    country: Mexico
+    label: San Luis Potosi, Mexico, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 194(2), 2009
+notes: NA
+pmid: '19781438'
+title: 'Deletions of chromosome arms 7p and 7q in adult acute myeloid leukemia: a
+  marker chromosome confirmed by array comparative genomic hybridization.'
+year: '2009'

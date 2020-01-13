@@ -1,0 +1,26 @@
+authors: Chen QR, Bilke S, Wei JS, Greer BT, Steinberg SM, Westermann F, Schwab M,
+  Khan J.
+counts:
+  biosamples: 49.0
+  samples_acgh: 49.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.2
+    - 39.14
+    type: Point
+  info:
+    city: Gaithersburg
+    continent: ''
+    country: United States
+    label: Gaithersburg, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 45(9), 2006
+notes: NA
+pmid: '16804916'
+title: Increased WSB1 copy number correlates with its over-expression which associates
+  with increased survival in neuroblastoma.
+year: '2006'

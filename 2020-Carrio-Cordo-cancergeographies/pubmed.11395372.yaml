@@ -1,0 +1,25 @@
+authors: van Dekken H, Alers JC, Riegman PH, Rosenberg C, Tilanus HW, Vissers K.
+counts:
+  biosamples: 30.0
+  samples_acgh: 0.0
+  samples_ccgh: 30.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ''
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city
+journal: Am. J. Pathol. 158(6), 2001
+notes: NA
+pmid: '11395372'
+title: Molecular cytogenetic evaluation of gastric cardia adenocarcinoma and precursor
+  lesions.
+year: '2001'

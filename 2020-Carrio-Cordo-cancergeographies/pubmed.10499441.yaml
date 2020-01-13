@@ -1,0 +1,25 @@
+authors: Jung V, Romeike BF, Henn W, Feiden W, Moringlane JR, Zang KD, Urbschat S.
+counts:
+  biosamples: 32.0
+  samples_acgh: 0.0
+  samples_ccgh: 32.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.34
+    - 49.33
+    type: Point
+  info:
+    city: Homburg
+    continent: ''
+    country: Germany
+    label: Homburg, Germany, Europe
+    precision: city
+journal: J. Neuropathol. Exp. Neurol. 58(9), 1999
+notes: NA
+pmid: '10499441'
+title: Evidence of focal genetic microheterogeneity in glioblastoma multiforme by
+  area-specific CGH on microdissected tumor cells.
+year: '1999'

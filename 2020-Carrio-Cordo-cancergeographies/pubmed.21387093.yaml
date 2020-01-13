@@ -1,0 +1,26 @@
+authors: Nadarajan VS, Phan CL, Ang CH, Liang KL, Gan GG, Bee PC, Zakaria Z.
+counts:
+  biosamples: 39.0
+  samples_acgh: 39.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 101.69
+    - 3.14
+    type: Point
+  info:
+    city: Kuala Lumpur
+    continent: ''
+    country: Malaysia
+    label: Kuala Lumpur, Malaysia, Asia
+    precision: city
+journal: Int. J. Hematol. 93(4), 2011
+notes: NA
+pmid: '21387093'
+title: Identification of copy number alterations by array comparative genomic hybridization
+  in patients with late chronic or accelerated phase chronic myeloid leukemia treated
+  with imatinib mesylate.
+year: '2011'

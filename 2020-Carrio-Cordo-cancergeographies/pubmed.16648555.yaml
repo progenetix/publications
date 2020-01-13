@@ -1,0 +1,27 @@
+authors: Bussey KJ, Chin K, Lababidi S, Reimers M, Reinhold WC, Kuo WL, Gwadry F,
+  Ajay, Kouros-Mehr H, Fridlyand J, Jain A, Collins C, Nishizuka S, Tonon G, Roschke
+  A, Gehlhaus K, Kirsch I, Scudiero DA, Gray JW, Weinstein JN.
+counts:
+  biosamples: 60.0
+  samples_acgh: 60.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Mol. Cancer Ther. 5(4), 2006
+notes: NA
+pmid: '16648555'
+title: Integrating data on DNA copy number with gene expression levels and drug sensitivities
+  in the NCI-60 cell line panel.
+year: '2006'

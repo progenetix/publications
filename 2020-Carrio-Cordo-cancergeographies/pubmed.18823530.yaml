@@ -1,0 +1,25 @@
+authors: "Lundgren K, Holm K, Nordenskj\xF6ld B, Borg A, Landberg G."
+counts:
+  biosamples: 56.0
+  samples_acgh: 56.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Breast Cancer Res. 10(5), 2008
+notes: NA
+pmid: '18823530'
+title: Gene products of chromosome 11q and their association with CCND1 gene amplification
+  and tamoxifen resistance in premenopausal breast cancer.
+year: '2008'

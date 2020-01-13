@@ -1,0 +1,26 @@
+authors: "Habermann JK, Upender MB, Roblick UJ, Kr\xFCger S, Freitag S, Blegen H,\
+  \ Bruch HP, Schimmelpenning H, Auer G, Ried T."
+counts:
+  biosamples: 19.0
+  samples_acgh: 0.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 147(1), 2003
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: '14580765'
+title: Pronounced chromosomal instability and multiple gene amplifications characterize
+  ulcerative colitis-associated colorectal carcinomas.
+year: '2003'

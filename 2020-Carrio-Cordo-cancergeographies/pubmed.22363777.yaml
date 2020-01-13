@@ -1,0 +1,26 @@
+authors: Jasmine F, Rahaman R, Dodsworth C, Roy S, Paul R, Raza M, Paul-Brutus R,
+  Kamal M, Ahsan H, Kibriya MG.
+counts:
+  biosamples: 0.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -87.65
+    - 41.85
+    type: Point
+  info:
+    city: Chicago
+    continent: ''
+    country: United States
+    label: Chicago, United States, North America
+    precision: city
+journal: PLoS ONE 7(2), 2012
+notes: ''
+pmid: '22363777'
+title: 'A genome-wide study of cytogenetic changes in colorectal cancer using SNP
+  microarrays: opportunities for future personalized treatment.'
+year: '2012'

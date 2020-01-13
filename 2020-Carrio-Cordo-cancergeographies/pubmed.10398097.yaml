@@ -1,0 +1,26 @@
+authors: Buerger H, Otterbach F, Simon R, Poremba C, Diallo R, Decker T, Riethdorf
+  L, Brinkschmidt C, Dockhorn-Dworniczak B, Boecker W.
+counts:
+  biosamples: 44.0
+  samples_acgh: 0.0
+  samples_ccgh: 44.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: J. Pathol. 187(4), 1999
+notes: NA
+pmid: '10398097'
+title: Comparative genomic hybridization of ductal carcinoma in situ of the breast-evidence
+  of multiple genetic pathways.
+year: '1999'

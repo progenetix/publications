@@ -1,0 +1,27 @@
+authors: "Navarro A, Be\xE0 S, Fern\xE1ndez V, Prieto M, Salaverria I, Jares P, Hartmann\
+  \ E, Mozos A, L\xF3pez-Guillermo A, Villamor N, Colomer D, Puig X, Ott G, Sol\xE9\
+  \ F, Serrano S, Rosenwald A, Campo E, Hern\xE1ndez L."
+counts:
+  biosamples: 13.0
+  samples_acgh: 0.0
+  samples_ccgh: 13.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Cancer Res. 69(17), 2009
+notes: NA
+pmid: '19690137'
+title: MicroRNA expression, chromosomal alterations, and immunoglobulin variable heavy
+  chain hypermutations in Mantle cell lymphomas.
+year: '2009'

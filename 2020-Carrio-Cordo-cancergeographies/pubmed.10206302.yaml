@@ -1,0 +1,26 @@
+authors: "Avet-Loiseau H, V\xE9nuat AM, Terrier-Lacombe MJ, Lellouch-Tubiana A, Zerah\
+  \ M, Vassal G."
+counts:
+  biosamples: 23.0
+  samples_acgh: 0.0
+  samples_ccgh: 23.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.55
+    - 47.22
+    type: Point
+  info:
+    city: Nantes
+    continent: ''
+    country: France
+    label: Nantes, France, Europe
+    precision: city
+journal: Br. J. Cancer 79(11-12), 1999
+notes: NA
+pmid: '10206302'
+title: Comparative genomic hybridization detects many recurrent imbalances in central
+  nervous system primitive neuroectodermal tumours in children.
+year: '1999'

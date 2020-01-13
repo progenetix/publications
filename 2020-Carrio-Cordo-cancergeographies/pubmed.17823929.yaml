@@ -1,0 +1,26 @@
+authors: Michels E, Vandesompele J, De Preter K, Hoebeeck J, Vermeulen J, Schramm
+  A, Molenaar JJ, Menten B, Marques B, Stallings RL, Combaret V, Devalck C, De Paepe
+  A, Versteeg R, Eggert A, Laureys G, Van Roy N, Speleman F.
+counts:
+  biosamples: 107.0
+  samples_acgh: 107.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.7199999999999998
+    - 51.05
+    type: Point
+  info:
+    city: Gent
+    continent: ''
+    country: Belgium
+    label: Gent, Belgium, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 46(12), 2007
+notes: Data was made available in an interpreted/supervised format (ISCN conform annotation).
+pmid: '17823929'
+title: ArrayCGH-based classification of neuroblastoma into genomic subgroups.
+year: '2007'

@@ -1,0 +1,25 @@
+authors: "Tirkkonen M, Kainu T, Loman N, J\xF3hannsson OT, Olsson H, Barkard\xF3ttir\
+  \ RB, Kallioniemi OP, Borg A."
+counts:
+  biosamples: 26.0
+  samples_acgh: 0.0
+  samples_ccgh: 26.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: ''
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 24(1), 1999
+notes: NA
+pmid: '9892109'
+title: Somatic genetic alterations in BRCA2-associated and sporadic male breast cancer.
+year: '1999'

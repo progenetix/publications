@@ -1,0 +1,27 @@
+authors: Schraml P, Schwerdtfeger G, Burkhalter F, Raggi A, Schmidt D, Ruffalo T,
+  King W, Wilber K, Mihatsch MJ, Moch H.
+counts:
+  biosamples: 58.0
+  samples_acgh: 29.0
+  samples_ccgh: 29.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: ''
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: Am. J. Pathol. 163(3), 2003
+notes: aCGH was performed with the AmpliOnc I array (Vysis). This is not considered
+  for inclusion into the data base, due to the low probe number.
+pmid: '12937139'
+title: Combined array comparative genomic hybridization and tissue microarray analysis
+  suggest PAK1 at 11q13.5-q14 as a critical oncogene target in ovarian carcinoma.
+year: '2003'

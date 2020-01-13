@@ -1,0 +1,26 @@
+authors: Safavi S, Olsson L, Biloglav A, Veerla S, Blendberg M, Tayebwa J, Behrendtz
+  M, Castor A, Hansson M, Johansson B, Paulsson K.
+counts:
+  biosamples: 22.0
+  samples_acgh: 11.0
+  samples_ccgh: 0.0
+  samples_wes: 11.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Oncotarget 6(40), 2015
+notes: ''
+pmid: '26544893'
+title: Genetic and epigenetic characterization of hypodiploid acute lymphoblastic
+  leukemia.
+year: '2015'

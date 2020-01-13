@@ -1,0 +1,27 @@
+authors: Inoue T, Matsuura K, Yoshimoto T, Nguyen LT, Tsukamoto Y, Nakada C, Hijiya
+  N, Narimatsu T, Nomura T, Sato F, Nagashima Y, Kashima K, Hatakeyama S, Ohyama C,
+  Numakura K, Habuchi T, Nakagawa M, Seto M, Mimata H, Moriyama M.
+counts:
+  biosamples: 63.0
+  samples_acgh: 63.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.61
+    - 33.24
+    type: Point
+  info:
+    city: Oita
+    continent: ''
+    country: Japan
+    label: Oita, Japan, Asia
+    precision: city
+journal: Cancer Sci. 103(3), 2012
+notes: NA
+pmid: '22145865'
+title: Genomic profiling of renal cell carcinoma in patients with end-stage renal
+  disease.
+year: '2012'

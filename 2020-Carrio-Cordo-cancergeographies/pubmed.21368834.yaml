@@ -1,0 +1,27 @@
+authors: Wertz IE, Kusam S, Lam C, Okamoto T, Sandoval W, Anderson DJ, Helgason E,
+  Ernst JA, Eby M, Liu J, Belmont LD, Kaminker JS, O'Rourke KM, Pujara K, Kohli PB,
+  Johnson AR, Chiu ML, Lill JR, Jackson PK, Fairbrother WJ, Seshagiri S, Ludlam MJ,
+  Leong KG, Dueber EC, Maecker H, Huang DC, Dixit VM.
+counts:
+  biosamples: 104.0
+  samples_acgh: 104.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.41
+    - 37.65
+    type: Point
+  info:
+    city: South San Francisco
+    continent: ''
+    country: United States
+    label: South San Francisco, United States, North America
+    precision: city
+journal: Nature 471(7336), 2011
+notes: NA
+pmid: '21368834'
+title: Sensitivity to antitubulin chemotherapeutics is regulated by MCL1 and FBW7.
+year: '2011'

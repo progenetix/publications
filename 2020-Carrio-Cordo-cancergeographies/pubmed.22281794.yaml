@@ -1,0 +1,27 @@
+authors: Zafarana G, Ishkanian AS, Malloff CA, Locke JA, Sykes J, Thoms J, Lam WL,
+  Squire JA, Yoshimoto M, Ramnarine VR, Meng A, Ahmed O, Jurisica I, Milosevic M,
+  Pintilie M, van der Kwast T, Bristow RG.
+counts:
+  biosamples: 126.0
+  samples_acgh: 126.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Cancer 118(16), 2012
+notes: NA
+pmid: '22281794'
+title: Copy number alterations of c-MYC and PTEN are prognostic factors for relapse
+  after prostate cancer radiotherapy.
+year: '2012'

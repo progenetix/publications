@@ -1,0 +1,26 @@
+authors: Chen W, Salto-Tellez M, Palanisamy N, Ganesan K, Hou Q, Tan LK, Sii LH, Ito
+  K, Tan B, Wu J, Tay A, Tan KC, Ang E, Tan BK, Tan PH, Ito Y, Tan P.
+counts:
+  biosamples: 37.0
+  samples_acgh: 37.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: ''
+    country: Singapore
+    label: Singapore, Singapore, Asia
+    precision: city
+journal: Genes Chromosomes Cancer 46(3), 2007
+notes: GEO does not contain the CEL files.
+pmid: '17171680'
+title: Targets of genome copy number reduction in primary breast cancers identified
+  by integrative genomics.
+year: '2007'

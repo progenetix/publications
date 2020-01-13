@@ -1,0 +1,31 @@
+authors: Bouska A, McKeithan TW, Deffenbacher KE, Lachel C, Wright GW, Iqbal J, Smith
+  LM, Zhang W, Kucuk C, Rinaldi A, Bertoni F, Fitzgibbon J, Fu K, Weisenburger DD,
+  Greiner TC, Dave BJ, Gascoyne RD, Rosenwald A, Ott G, Campo E, Rimsza LM, Delabie
+  J, Jaffe ES, Braziel RM, Connors JM, Staudt LM, Chan WC.
+counts:
+  biosamples: 277.0
+  samples_acgh: 277.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.94
+    - 41.26
+    type: Point
+  info:
+    city: Omaha
+    continent: ''
+    country: United States
+    label: Omaha, United States, North America
+    precision: city
+journal: Blood 123(11), 2014
+notes: Array-based copy number analysis using the high-resolution GeneChip Human Mapping
+  250K Nsp SNP Array (Affymetrix) on 225 FL tumor samples and 84 tFL tumors to identify
+  abnormalities that contribute to FL and influence survival.Inclusion of 198 FL and
+  79 tFL arrays of sufficient quality.
+pmid: '24037725'
+title: Genome-wide copy-number analyses reveal genomic abnormalities involved in transformation
+  of follicular lymphoma.
+year: '2014'

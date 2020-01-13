@@ -1,0 +1,25 @@
+authors: Kim GJ, Kim JO, Hong EK, Kim H, Chun YH, Park SH.
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 147(1), 2003
+notes: NA
+pmid: '14580767'
+title: Detection of genetic alterations in Korean ovarian carcinomas by degenerate
+  oligonucleotide primed polymerase chain reaction-comparative genomic hybridization.
+year: '2003'

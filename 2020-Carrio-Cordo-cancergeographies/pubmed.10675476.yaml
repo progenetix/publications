@@ -1,0 +1,25 @@
+authors: Heller A, Chudoba I, Bleck C, Senger G, Claussen U, Liehr T.
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: ''
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: Int. J. Oncol. 16(3), 2000
+notes: NA
+pmid: '10675476'
+title: Microdissection based comparative genomic hybridization analysis (micro-CGH)
+  of secondary acute myelogenous leukemias.
+year: '2000'

@@ -1,0 +1,28 @@
+authors: Stachler MD, Taylor-Weiner A, Peng S, McKenna A, Agoston AT, Odze RD, Davison
+  JM, Nason KS, Loda M, Leshchiner I, Stewart C, Stojanov P, Seepo S, Lawrence MS,
+  Ferrer-Torres D, Lin J, Chang AC, Gabriel SB, Lander ES, Beer DG, Getz G, Carter
+  SL, Bass AJ.
+counts:
+  biosamples: 50.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 50.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Nat. Genet. 47(9), 2015
+notes: For the sample number, only the histologically aberrant (Barrett, AdCa) were
+  counted for the database.
+pmid: '26192918'
+title: Paired exome analysis of Barrett's esophagus and adenocarcinoma.
+year: '2015'

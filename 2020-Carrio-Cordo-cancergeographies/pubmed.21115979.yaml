@@ -1,0 +1,29 @@
+authors: Rinaldi A, Mian M, Chigrinova E, Arcaini L, Bhagat G, Novak U, Rancoita PM,
+  De Campos CP, Forconi F, Gascoyne RD, Facchetti F, Ponzoni M, Govi S, Ferreri AJ,
+  Mollejo M, Piris MA, Baldini L, Soulier J, Thieblemont C, Canzonieri V, Gattei V,
+  Marasca R, Franceschetti S, Gaidano G, Tucci A, Uccella S, Tibiletti MG, Dirnhofer
+  S, Tripodo C, Doglioni C, Dalla Favera R, Cavalli F, Zucca E, Kwee I, Bertoni F.
+counts:
+  biosamples: 218.0
+  samples_acgh: 218.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.02
+    - 46.19
+    type: Point
+  info:
+    city: Bellinzona
+    continent: ''
+    country: Switzerland
+    label: Bellinzona, Switzerland, Europe
+    precision: city
+journal: Blood 117(5), 2011
+notes: NA
+pmid: '21115979'
+title: Genome-wide DNA profiling of marginal zone lymphomas identifies subtype-specific
+  lesions with an impact on the clinical outcome.
+year: '2011'

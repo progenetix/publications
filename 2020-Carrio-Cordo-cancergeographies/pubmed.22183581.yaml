@@ -1,0 +1,26 @@
+authors: Ng CK, Cooke SL, Howe K, Newman S, Xian J, Temple J, Batty EM, Pole JC, Langdon
+  SP, Edwards PA, Brenton JD.
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ''
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city
+journal: J. Pathol. 226(5), 2012
+notes: NA
+pmid: '22183581'
+title: The role of tandem duplicator phenotype in tumour evolution in high-grade serous
+  ovarian cancer.
+year: '2012'

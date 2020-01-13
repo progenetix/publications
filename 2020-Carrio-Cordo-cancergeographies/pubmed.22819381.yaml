@@ -1,0 +1,28 @@
+authors: Yamamoto-Sugitani M, Kuroda J, Shimura Y, Nagoshi H, Chinen Y, Ohshiro M,
+  Mizutani S, Kiyota M, Nakayama R, Kobayashi T, Uchiyama H, Matsumoto Y, Horiike
+  S, Taniwaki M.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.75
+    - 35.02
+    type: Point
+  info:
+    city: Kyoto
+    continent: ''
+    country: Japan
+    label: Kyoto, Japan, Asia
+    precision: city
+journal: Cancer Genet 205(9), 2012
+notes: NA
+pmid: '22819381'
+title: Comprehensive cytogenetic study of primary cutaneous gamma-delta T-cell lymphoma
+  by means of spectral karyotyping and genome-wide single nucleotide polymorphism
+  array.
+year: '2012'

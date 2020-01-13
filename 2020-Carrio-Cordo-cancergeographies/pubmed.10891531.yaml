@@ -1,0 +1,25 @@
+authors: Mayama T, Fukushige S, Shineha R, Nishihira T, Satomi S, Horii A.
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.87
+    - 38.26
+    type: Point
+  info:
+    city: Sendai
+    continent: ''
+    country: Japan
+    label: Sendai, Japan, Asia
+    precision: city
+journal: Int. J. Oncol. 17(2), 2000
+notes: NA
+pmid: '10891531'
+title: Frequent loss of copy number on the long arm of chromosome 21 in human esophageal
+  squamous cell carcinoma.
+year: '2000'

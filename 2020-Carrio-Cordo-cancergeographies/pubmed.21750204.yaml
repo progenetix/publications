@@ -1,0 +1,27 @@
+authors: "Friboulet L, Barrios-Gonzales D, Commo F, Olaussen KA, Vagner S, Adam J,\
+  \ Goubar A, Dorvault N, Lazar V, Job B, Besse B, Validire P, Girard P, Lacroix L,\
+  \ Hasmats J, Dufour F, Andr\xE9 F, Soria JC."
+counts:
+  biosamples: 91.0
+  samples_acgh: 91.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.36
+    - 48.79
+    type: Point
+  info:
+    city: Villejuif
+    continent: ''
+    country: France
+    label: Villejuif, France, Europe
+    precision: city
+journal: Clin. Cancer Res. 17(17), 2011
+notes: NA
+pmid: '21750204'
+title: Molecular Characteristics of ERCC1-Negative versus ERCC1-Positive Tumors in
+  Resected NSCLC.
+year: '2011'

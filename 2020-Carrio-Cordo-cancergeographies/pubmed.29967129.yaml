@@ -1,0 +1,29 @@
+authors: Branford S, Wang P, Yeung DT, Thomson D, Purins A, Wadham C, Shahrin NH,
+  Marum JE, Nataren N, Parker WT, Geoghegan J, Feng J, Shanmuganathan N, Mueller MC,
+  Dietz C, Stangl D, Donaldson Z, Altamura H, Georgievski J, Braley J, Brown A, Hahn
+  C, Walker I, Kim SH, Choi SY, Park SH, Kim DW, White DL, Yong ASM, Ross DM, Scott
+  HS, Schreiber AW, Hughes TP.
+counts:
+  biosamples: 38.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 38.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 138.6
+    - -34.93
+    type: Point
+  info:
+    city: Adelaide
+    continent: ''
+    country: Australia
+    label: null
+    precision: city
+journal: Blood, 2018
+notes: No PDF available yet
+pmid: '29967129'
+title: Integrative genomic analysis reveals cancer-associated mutations at diagnosis
+  of CML in patients with high risk disease.
+year: '2018'

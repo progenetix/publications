@@ -1,0 +1,26 @@
+authors: "I\u017Cykowska K, Zawada M, Nowicka K, Grabarczyk P, Braun FCM, Delin M,\
+  \ M\xF6bs M, Beyer M, Sterry W, Schmidt CA, Przybylski GK."
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 2.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.93
+    - 52.41
+    type: Point
+  info:
+    city: Poznan
+    continent: ''
+    country: Poland
+    label: Poznan, Poland, Europe
+    precision: city
+journal: J. Invest. Dermatol. 133(11), 2013
+notes: In 14 samples, aCGH for chromosome 6 was performed (but no whole genome coverage).
+pmid: '23698072'
+title: "Identification of multiple complex rearrangements associated with deletions\
+  \ in the 6q23-27 region in S\xE9zary syndrome."
+year: '2013'

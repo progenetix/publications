@@ -1,0 +1,26 @@
+authors: Barba G, Matteucci C, Girolomoni G, Brandimarte L, Varasano E, Martelli MF,
+  Mecucci C.
+counts:
+  biosamples: 7.0
+  samples_acgh: 0.0
+  samples_ccgh: 7.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.39
+    - 43.11
+    type: Point
+  info:
+    city: Perugia
+    continent: ''
+    country: Italy
+    label: Perugia, Italy, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 184(1), 2008
+notes: NA
+pmid: '18558289'
+title: Comparative genomic hybridization identifies 17q11.2 approximately q12 duplication
+  as an early event in cutaneous T-cell lymphomas.
+year: '2008'

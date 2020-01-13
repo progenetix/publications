@@ -1,0 +1,25 @@
+authors: Richter H, Braselmann H, Hieber L, Thomas G, Bogdanova T, Tronko N, Zitzelsberger
+  H.
+counts:
+  biosamples: 89.0
+  samples_acgh: 0.0
+  samples_ccgh: 89.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.56
+    - 48.25
+    type: Point
+  info:
+    city: Oberschleissheim
+    continent: ''
+    country: Germany
+    label: Oberschleissheim, Germany, Europe
+    precision: city
+journal: Thyroid 14(12), 2004
+notes: NA
+pmid: '15650359'
+title: Chromosomal imbalances in post-chernobyl thyroid tumors.
+year: '2004'

@@ -1,0 +1,26 @@
+authors: "Bentz M, Huck K, du Manoir S, Joos S, Werner CA, Fischer K, D\xF6hner H,\
+  \ Lichter P."
+counts:
+  biosamples: 28.0
+  samples_acgh: 0.0
+  samples_ccgh: 28.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Blood 85(12), 1995
+notes: NA
+pmid: '7780145'
+title: Comparative genomic hybridization in chronic B-cell leukemias shows a high
+  incidence of chromosomal gains and losses.
+year: '1995'

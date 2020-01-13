@@ -1,0 +1,25 @@
+authors: 'Cancer Genome Atlas Research Network. Electronic address: wheeler@bcm.edu,
+  Cancer Genome Atlas Research Network.'
+counts:
+  biosamples: 756.0
+  samples_acgh: 378.0
+  samples_ccgh: 0.0
+  samples_wes: 378.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Cell 169(7), 2017
+notes: Number as from corresponding TCGA study (as date 21/03/2019)
+pmid: '28622513'
+title: Comprehensive and Integrative Genomic Characterization of Hepatocellular Carcinoma.
+year: '2017'

@@ -1,0 +1,26 @@
+authors: Dimova I, Orsetti B, Negre V, Rouge C, Ursule L, Lasorsa L, Dimitrov R, Doganov
+  N, Toncheva D, Theillet C.
+counts:
+  biosamples: 28.0
+  samples_acgh: 28.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.32
+    - 42.7
+    type: Point
+  info:
+    city: Sofia
+    continent: ''
+    country: Bulgaria
+    label: Sofia, Bulgaria, Europe
+    precision: city
+journal: Tumori 95(3), 2009
+notes: NA
+pmid: '19688977'
+title: Genomic markers for ovarian cancer at chromosomes 1, 8 and 17 revealed by array
+  CGH analysis.
+year: '2009'

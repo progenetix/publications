@@ -1,0 +1,27 @@
+authors: "Martinez-Climent JA, Vizcarra E, Sanchez D, Blesa D, Marugan I, Benet I,\
+  \ Sole F, Rubio-Moscardo F, Terol MJ, Climent J, Sarsotti E, Tormo M, Andreu E,\
+  \ Salido M, Ruiz MA, Prosper F, Siebert R, Dyer MJ, Garc\xEDa-Conde J."
+counts:
+  biosamples: 28.0
+  samples_acgh: 0.0
+  samples_ccgh: 28.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: ''
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: Blood 98(12), 2001
+notes: NA
+pmid: '11719392'
+title: Loss of a novel tumor suppressor gene locus at chromosome 8p is associated
+  with leukemic mantle cell lymphoma.
+year: '2001'

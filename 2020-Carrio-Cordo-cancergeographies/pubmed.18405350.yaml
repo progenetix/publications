@@ -1,0 +1,26 @@
+authors: "Carneiro A, Isinger A, Karlsson A, Johansson J, J\xF6nsson G, Bendahl PO,\
+  \ Falkenback D, Halvarsson B, Nilbert M."
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: BMC Cancer 8, 2008
+notes: NA
+pmid: '18405350'
+title: Prognostic impact of array-based genomic profiles in esophageal squamous cell
+  cancer.
+year: '2008'

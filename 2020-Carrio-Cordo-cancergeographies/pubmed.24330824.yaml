@@ -1,0 +1,24 @@
+authors: Yang J, Zhao L, Tian W, Liao Z, Zheng H, Wang G, Chen K.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 117.18
+    - 39.14
+    type: Point
+  info:
+    city: Tianjin
+    continent: ''
+    country: China
+    label: Tianjin, China, Asia
+    precision: city
+journal: BMC Med Genomics 6, 2013
+notes: NA
+pmid: '24330824'
+title: Correlation of WWOX, RUNX2 and VEGFA protein expression in human osteosarcoma.
+year: '2013'

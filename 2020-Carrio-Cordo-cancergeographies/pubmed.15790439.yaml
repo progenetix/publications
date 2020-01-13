@@ -1,0 +1,25 @@
+authors: Lin YS, Eng HL, Jan YJ, Lee HS, Ho WL, Liou CP, Lee WY, Tzeng CC.
+counts:
+  biosamples: 36.0
+  samples_acgh: 0.0
+  samples_ccgh: 36.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.45
+    - 25.03
+    type: Point
+  info:
+    city: Daan District
+    continent: ''
+    country: Taiwan
+    label: Daan District, Taiwan, 25.03
+    precision: city
+journal: Gynecol. Oncol. 97(1), 2005
+notes: NA
+pmid: '15790439'
+title: Molecular cytogenetics of ovarian granulosa cell tumors by comparative genomic
+  hybridization.
+year: '2005'

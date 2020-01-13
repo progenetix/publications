@@ -1,0 +1,27 @@
+authors: Novak AJ, Asmann YW, Maurer MJ, Wang C, Slager SL, Hodge LS, Manske M, Price-Troska
+  T, Yang ZZ, Zimmermann MT, Nowakowski GS, Ansell SM, Witzig TE, McPhail E, Ketterling
+  R, Feldman AL, Dogan A, Link BK, Habermann TM, Cerhan JR.
+counts:
+  biosamples: 51.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 51.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: ''
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: Blood Cancer J 5, 2015
+notes: ''
+pmid: '26314988'
+title: Whole-exome analysis reveals novel somatic genomic alterations associated with
+  outcome in immunochemotherapy-treated diffuse large B-cell lymphoma.
+year: '2015'

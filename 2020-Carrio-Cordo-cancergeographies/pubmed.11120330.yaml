@@ -1,0 +1,26 @@
+authors: Guan XY, Fu SB, Xia JC, Fang Y, Sham JS, Du BD, Zhou H, Lu S, Wang BQ, Lin
+  YZ, Liang Q, Li XM, Du B, Ning XM, Du JR, Li P, Trent JM.
+counts:
+  biosamples: 62.0
+  samples_acgh: 0.0
+  samples_ccgh: 62.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 123(1), 2000
+notes: NA
+pmid: '11120330'
+title: Recurrent chromosome changes in 62 primary gastric carcinomas detected by comparative
+  genomic hybridization.
+year: '2000'

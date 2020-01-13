@@ -1,0 +1,27 @@
+authors: Sekulic A, Kim SY, Hostetter G, Savage S, Einspahr JG, Prasad A, Sagerman
+  P, Curiel-Lewandrowski C, Krouse R, Bowden GT, Warneke J, Alberts DS, Pittelkow
+  MR, DiCaudo D, Nickoloff BJ, Trent JM, Bittner M.
+counts:
+  biosamples: 40.0
+  samples_acgh: 40.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: ''
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: Cancer Prev Res (Phila) 3(10), 2010
+notes: NA
+pmid: '20876729'
+title: Loss of inositol polyphosphate 5-phosphatase is an early event in development
+  of cutaneous squamous cell carcinoma.
+year: '2010'

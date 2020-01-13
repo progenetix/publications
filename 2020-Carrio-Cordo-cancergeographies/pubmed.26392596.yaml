@@ -1,0 +1,25 @@
+authors: Cargo CA, Rowbotham N, Evans PA, Barrans SL, Bowen DT, Crouch S, Jack AS.
+counts:
+  biosamples: 101.0
+  samples_acgh: 101.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.55
+    - 53.8
+    type: Point
+  info:
+    city: Leeds
+    continent: ''
+    country: United Kingdom
+    label: null
+    precision: city
+journal: Blood 126(21), 2015
+notes: GWAS
+pmid: '26392596'
+title: Targeted sequencing identifies patients with preclinical MDS at high risk of
+  disease progression.
+year: '2015'

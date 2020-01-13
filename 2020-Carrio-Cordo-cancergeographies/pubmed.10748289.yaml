@@ -1,0 +1,26 @@
+authors: Okada K, Sugihara H, Bamba M, Bamba T, Hattori T.
+counts:
+  biosamples: 5.0
+  samples_acgh: 0.0
+  samples_ccgh: 5.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.87
+    - 35.0
+    type: Point
+  info:
+    city: Otsu-shi
+    continent: ''
+    country: Japan
+    label: Otsu-shi, Japan, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 118(2), 2000
+notes: NA
+pmid: '10748289'
+title: 'Sequential numerical changes of chromosomes 7 and 18 in diffuse-type stomach
+  cancer cell lines: combined comparative genomic hybridization, fluorescence in situ
+  hybridization, and ploidy analyses.'
+year: '2000'

@@ -1,0 +1,26 @@
+authors: El-Rifai W, Sarlomo-Rikala M, Andersson LC, Knuutila S, Miettinen M.
+counts:
+  biosamples: 95.0
+  samples_acgh: 0.0
+  samples_ccgh: 95.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Cancer Res. 60(14), 2000
+notes: Only 76 of the experiments were included here, since the others were re-analyze
+  in a later study.
+pmid: '10919666'
+title: 'DNA sequence copy number changes in gastrointestinal stromal tumors: tumor
+  progression and prognostic significance.'
+year: '2000'

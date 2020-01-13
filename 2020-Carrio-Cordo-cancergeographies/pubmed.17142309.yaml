@@ -1,0 +1,28 @@
+authors: "Hicks J, Krasnitz A, Lakshmi B, Navin NE, Riggs M, Leibu E, Esposito D,\
+  \ Alexander J, Troge J, Grubor V, Yoon S, Wigler M, Ye K, B\xF8rresen-Dale AL, Naume\
+  \ B, Schlicting E, Norton L, H\xE4gerstr\xF6m T, Skoog L, Auer G, M\xE5n\xE9r S,\
+  \ Lundin P, Zetterberg A."
+counts:
+  biosamples: 243.0
+  samples_acgh: 243.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.47
+    - 40.86
+    type: Point
+  info:
+    city: Cold Spring Harbor
+    continent: ''
+    country: United States
+    label: Cold Spring Harbor, United States, North America
+    precision: city
+journal: Genome Res. 16(12), 2006
+notes: ROMA arrays of tumors from 2 Scandinavian cohorts
+pmid: '17142309'
+title: Novel patterns of genome rearrangement and their association with survival
+  in breast cancer.
+year: '2006'

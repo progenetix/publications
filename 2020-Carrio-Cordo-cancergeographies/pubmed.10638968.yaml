@@ -1,0 +1,26 @@
+authors: "Petersen S, Aninat-Meyer M, Schl\xFCns K, Gellert K, Dietel M, Petersen\
+  \ I."
+counts:
+  biosamples: 64.0
+  samples_acgh: 0.0
+  samples_ccgh: 64.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: ''
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: Br. J. Cancer 82(1), 2000
+notes: NA
+pmid: '10638968'
+title: Chromosomal alterations in the clonal evolution to the metastatic stage of
+  squamous cell carcinomas of the lung.
+year: '2000'

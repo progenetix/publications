@@ -1,0 +1,25 @@
+authors: Nicholson J, Wickramasinghe C, Ross F, Crolla J, Ellison D.
+counts:
+  biosamples: 27.0
+  samples_acgh: 0.0
+  samples_ccgh: 27.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.4
+    - 50.9
+    type: Point
+  info:
+    city: Southampton
+    continent: ''
+    country: United Kingdom
+    label: Southampton, United Kingdom, Europe
+    precision: city
+journal: MP, Mol. Pathol. 53(6), 2000
+notes: NA
+pmid: '11193050'
+title: Imbalances of chromosome 17 in medulloblastomas determined by comparative genomic
+  hybridisation and fluorescence in situ hybridisation.
+year: '2000'

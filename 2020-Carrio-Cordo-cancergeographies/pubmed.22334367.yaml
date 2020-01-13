@@ -1,0 +1,25 @@
+authors: Hirsch D, Camps J, Varma S, Kemmerling R, Stapleton M, Ried T, Gaiser T.
+counts:
+  biosamples: 26.0
+  samples_acgh: 26.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 51(5), 2012
+notes: NA
+pmid: '22334367'
+title: A new whole genome amplification method for studying clonal evolution patterns
+  in malignant colorectal polyps.
+year: '2012'

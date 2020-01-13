@@ -1,0 +1,28 @@
+authors: Ahronian LG, Sennott EM, Van Allen EM, Wagle N, Kwak EL, Faris JE, Godfrey
+  JT, Nishimura K, Lynch KD, Mermel CH, Lockerman EL, Kalsy A, Gurski JM, Bahl S,
+  Anderka K, Green LM, Lennon NJ, Huynh TG, Mino-Kenudson M, Getz G, Dias-Santagata
+  D, Iafrate AJ, Engelman JA, Garraway LA, Corcoran RB.
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 4.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Cancer Discov 5(4), 2015
+notes: ''
+pmid: '25673644'
+title: Clinical Acquired Resistance to RAF Inhibitor Combinations in BRAF-Mutant Colorectal
+  Cancer through MAPK Pathway Alterations.
+year: '2015'

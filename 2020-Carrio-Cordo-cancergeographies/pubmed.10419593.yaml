@@ -1,0 +1,25 @@
+authors: van Dekken H, Vissers CJ, Tilanus HW, Tanke HJ, Rosenberg C.
+counts:
+  biosamples: 6.0
+  samples_acgh: 0.0
+  samples_ccgh: 6.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ''
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city
+journal: J. Pathol. 188(3), 1999
+notes: NA
+pmid: '10419593'
+title: Clonal analysis of a case of multifocal oesophageal (Barrett's) adenocarcinoma
+  by comparative genomic hybridization.
+year: '1999'

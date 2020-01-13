@@ -1,0 +1,25 @@
+authors: "Frisk T, Zedenius J, Lundberg J, Wallin G, Kyt\xF6l\xE4 S, Larsson C."
+counts:
+  biosamples: 24.0
+  samples_acgh: 0.0
+  samples_ccgh: 24.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: ''
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: Int. J. Oncol. 18(6), 2001
+notes: NA
+pmid: '11351254'
+title: CGH alterations in medullary thyroid carcinomas in relation to the RET M918T
+  mutation and clinical outcome.
+year: '2001'

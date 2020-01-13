@@ -1,0 +1,26 @@
+authors: Brisset S, Schleiermacher G, Peter M, Mairal A, Oberlin O, Delattre O, Aurias
+  A.
+counts:
+  biosamples: 43.0
+  samples_acgh: 0.0
+  samples_ccgh: 43.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 130(1), 2001
+notes: NA
+pmid: '11672775'
+title: 'CGH analysis of secondary genetic changes in Ewing tumors: correlation with
+  metastatic disease in a series of 43 cases.'
+year: '2001'

@@ -1,0 +1,27 @@
+authors: Reck M, Blais N, Juhasz E, Gorbunova V, Jones CM, Urban L, Orlov S, Barlesi
+  F, Kio E, Keilholz U, Qin Q, Qian J, Nickner C, Dziubinski J, Xiong H, Mittapalli
+  RK, Dunbar M, Ansell P, He L, McKee M, Giranda V, Ramalingam SS.
+counts:
+  biosamples: 38.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 38.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.23
+    - 53.68
+    type: Point
+  info:
+    city: Ahrensburg
+    continent: ''
+    country: Germany
+    label: Ahrensburg, Germany, Europe
+    precision: city
+journal: J Thorac Oncol 12(7), 2017
+notes: International patient recruitment
+pmid: '28461256'
+title: "Smoking History Predicts Sensitivity to PARP Inhibitor\_Veliparib in Patients\
+  \ with Advanced Non-Small Cell Lung Cancer."
+year: '2017'

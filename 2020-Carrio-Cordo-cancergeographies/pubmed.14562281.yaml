@@ -1,0 +1,27 @@
+authors: "Terracciano LM, Bernasconi B, Ruck P, Stallmach T, Briner J, Sauter G, Moch\
+  \ H, Vecchione R, Pollice L, Pettinato G, G\xFCrtl B, Ratschek M, De Krijger R,\
+  \ Tornillo L, Bruder E."
+counts:
+  biosamples: 35.0
+  samples_acgh: 0.0
+  samples_ccgh: 35.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: ''
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: Hum. Pathol. 34(9), 2003
+notes: NA
+pmid: '14562281'
+title: Comparative genomic hybridization analysis of hepatoblastoma reveals high frequency
+  of X-chromosome gains and similarities between epithelial and stromal components.
+year: '2003'

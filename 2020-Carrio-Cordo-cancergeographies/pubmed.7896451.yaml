@@ -1,0 +1,25 @@
+authors: Kim DH, Mohapatra G, Bollen A, Waldman FM, Feuerstein BG.
+counts:
+  biosamples: 39.0
+  samples_acgh: 0.0
+  samples_ccgh: 39.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Int. J. Cancer 60(6), 1995
+notes: The CGH data of some cell lines is listed in the article.
+pmid: '7896451'
+title: Chromosomal abnormalities in glioblastoma multiforme tumors and glioma cell
+  lines detected by comparative genomic hybridization.
+year: '1995'

@@ -1,0 +1,28 @@
+authors: "K\xFChn MW, Radtke I, Bullinger L, Goorha S, Cheng J, Edelmann J, Gohlke\
+  \ J, Su X, Paschka P, Pounds S, Krauter J, Ganser A, Quessar A, Ribeiro R, Gaidzik\
+  \ VI, Shurtleff S, Kr\xF6nke J, Holzmann K, Ma J, Schlenk RF, Rubnitz JE, D\xF6\
+  hner K, D\xF6hner H, Downing JR."
+counts:
+  biosamples: 341.0
+  samples_acgh: 341.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Blood 119(10), 2012
+notes: NA
+pmid: '22234698'
+title: High-resolution genomic profiling of adult and pediatric core-binding factor
+  acute myeloid leukemia reveals new recurrent genomic alterations.
+year: '2012'

@@ -1,0 +1,26 @@
+authors: Stembalska A, Blin N, Ramsey D, Sasiadek MM.
+counts:
+  biosamples: 52.0
+  samples_acgh: 0.0
+  samples_ccgh: 52.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.03
+    - 51.1
+    type: Point
+  info:
+    city: Wroclaw
+    continent: ''
+    country: Poland
+    label: Wroclaw, Poland, Europe
+    precision: city
+journal: Oncol. Rep. 16(2), 2006
+notes: 52 cases of squamous cell carcinoma of the larynx (SCCL) were analyzed by CGH,
+  with addtl. LOH analysis of 13q.
+pmid: '16820925'
+title: Three distinct regions of deletion on 13q in squamous cell carcinoma of the
+  larynx.
+year: '2006'

@@ -1,0 +1,24 @@
+authors: "Petersen I, Petersen S, Bockm\xFChl U, Schwendel A, Wolf G, Dietel M."
+counts:
+  biosamples: 150.0
+  samples_acgh: 0.0
+  samples_ccgh: 150.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: ''
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: Verh Dtsch Ges Pathol 81, 1997
+notes: NA
+pmid: '9474883'
+title: '[Comparative genomic hybridization of bronchial carcinomas and their metastases]'
+year: '1997'

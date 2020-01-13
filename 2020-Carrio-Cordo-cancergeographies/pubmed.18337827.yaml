@@ -1,0 +1,26 @@
+authors: "Hahtola S, Burghart E, Jeskanen L, Karenko L, Abdel-Rahman WM, Polzer B,\
+  \ Kajanti M, Peltom\xE4ki P, Pettersson T, Klein CA, Ranki A."
+counts:
+  biosamples: 6.0
+  samples_acgh: 0.0
+  samples_ccgh: 6.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: J. Invest. Dermatol. 128(9), 2008
+notes: NA
+pmid: '18337827'
+title: Clinicopathological characterization and genomic aberrations in subcutaneous
+  panniculitis-like T-cell lymphoma.
+year: '2008'

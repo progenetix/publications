@@ -1,0 +1,28 @@
+authors: Song Y, Li L, Ou Y, Gao Z, Li E, Li X, Zhang W, Wang J, Xu L, Zhou Y, Ma
+  X, Liu L, Zhao Z, Huang X, Fan J, Dong L, Chen G, Ma L, Yang J, Chen L, He M, Li
+  M, Zhuang X, Huang K, Qiu K, Yin G, Guo G, Feng Q, Chen P, Wu Z, Wu J, Ma L, Zhao
+  J, Luo L, Fu M, Xu B, Chen B, Li Y, Tong T, Wang M, Liu Z, Lin D, Zhang X, Yang
+  H, Wang J, Zhan Q.
+counts:
+  biosamples: 211.0
+  samples_acgh: 123.0
+  samples_ccgh: 0.0
+  samples_wes: 71.0
+  samples_wgs: 17.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: ''
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: Nature 509(7498), 2014
+notes: NA
+pmid: '24670651'
+title: Identification of genomic alterations in oesophageal squamous cell cancer.
+year: '2014'

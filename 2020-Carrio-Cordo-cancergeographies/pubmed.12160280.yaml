@@ -1,0 +1,24 @@
+authors: Ell SR, Ashman JE, Stafford ND, Greenman J.
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.36
+    - 53.77
+    type: Point
+  info:
+    city: Kingston upon Hull
+    continent: ''
+    country: United Kingdom
+    label: Kingston upon Hull, United Kingdom
+    precision: city
+journal: Laryngoscope 112(6), 2002
+notes: 22 patients with head and neck squamous cell carcinoma were analyzed by CGH.
+pmid: '12160280'
+title: Global genetic differences in squamous cell carcinoma of the head and neck.
+year: '2002'

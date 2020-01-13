@@ -1,0 +1,26 @@
+authors: "Tarafa G, Prat E, Risques RA, Gonz\xE1lez S, Camps J, Grau M, Guin\xF3 E,\
+  \ Moreno V, Esteller M, Herman JG, Germ\xE0 JR, Mir\xF3 R, Peinado MA, Capell\xE1\
+  \ G."
+counts:
+  biosamples: 47.0
+  samples_acgh: 0.0
+  samples_ccgh: 47.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Cancer Res. 63(18), 2003
+notes: NA
+pmid: '14522893'
+title: Common genetic evolutionary pathways in familial adenomatous polyposis tumors.
+year: '2003'

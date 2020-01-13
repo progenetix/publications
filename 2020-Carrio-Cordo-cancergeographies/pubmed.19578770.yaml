@@ -1,0 +1,26 @@
+authors: Verdorfer I, Fehr A, Bullerdiek J, Scholz N, Brunner A, Krugmann J, Hager
+  M, Haufe H, Mikuz G, Scholtz A.
+counts:
+  biosamples: 19.0
+  samples_acgh: 0.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.39
+    - 47.26
+    type: Point
+  info:
+    city: Innsbruck
+    continent: ''
+    country: Austria
+    label: Innsbruck, Austria, Europe
+    precision: city
+journal: Oncol. Rep. 22(2), 2009
+notes: NA
+pmid: '19578770'
+title: Chromosomal imbalances, 11q21 rearrangement and MECT1-MAML2 fusion transcript
+  in mucoepidermoid carcinomas of the salivary gland.
+year: '2009'

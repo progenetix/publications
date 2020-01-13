@@ -1,0 +1,26 @@
+authors: Thorns C, Bastian B, Pinkel D, Roydasgupta R, Fridlyand J, Merz H, Krokowski
+  M, Bernd HW, Feller AC.
+counts:
+  biosamples: 61.0
+  samples_acgh: 61.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.69
+    - 53.87
+    type: Point
+  info:
+    city: Luebeck
+    continent: ''
+    country: Germany
+    label: Luebeck, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 46(1), 2007
+notes: NA
+pmid: '17044049'
+title: 'Chromosomal aberrations in angioimmunoblastic T-cell lymphoma and peripheral
+  T-cell lymphoma unspecified: A matrix-based CGH approach.'
+year: '2007'

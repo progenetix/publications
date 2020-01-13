@@ -1,0 +1,29 @@
+authors: Maser RS, Choudhury B, Campbell PJ, Feng B, Wong KK, Protopopov A, O'Neil
+  J, Gutierrez A, Ivanova E, Perna I, Lin E, Mani V, Jiang S, McNamara K, Zaghlul
+  S, Edkins S, Stevens C, Brennan C, Martin ES, Wiedemeyer R, Kabbarah O, Nogueira
+  C, Histen G, Aster J, Mansour M, Duke V, Foroni L, Fielding AK, Goldstone AH, Rowe
+  JM, Wang YA, Look AT, Stratton MR, Chin L, Futreal PA, DePinho RA.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Nature 447(7147), 2007
+notes: Besides murine tumors, 8 human T-ALL tumor samples were analyzed with aCGH.
+pmid: '17515920'
+title: Chromosomally unstable mouse tumours have genomic alterations similar to diverse
+  human cancers.
+year: '2007'

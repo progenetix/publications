@@ -1,0 +1,26 @@
+authors: Birch AH, Arcand SL, Oros KK, Rahimi K, Watters AK, Provencher D, Greenwood
+  CM, Mes-Masson AM, Tonin PN.
+counts:
+  biosamples: 70.0
+  samples_acgh: 70.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.59
+    - 45.51
+    type: Point
+  info:
+    city: Montreal
+    continent: ''
+    country: Canada
+    label: Montreal, Canada, North America
+    precision: city
+journal: PLoS ONE 6(12), 2011
+notes: NA
+pmid: '22163003'
+title: Chromosome 3 anomalies investigated by genome wide SNP analysis of benign,
+  low malignant potential and low grade ovarian serous tumours.
+year: '2011'

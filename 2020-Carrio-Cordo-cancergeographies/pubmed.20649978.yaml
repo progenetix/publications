@@ -1,0 +1,26 @@
+authors: Rose AE, Satagopan JM, Oddoux C, Zhou Q, Xu R, Olshen AB, Yu JZ, Dash A,
+  Jean-Gilles J, Reuter V, Gerald WL, Lee P, Osman I.
+counts:
+  biosamples: 41.0
+  samples_acgh: 41.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: J Transl Med 8, 2010
+notes: NA
+pmid: '20649978'
+title: Copy number and gene expression differences between African American and Caucasian
+  American prostate cancer.
+year: '2010'

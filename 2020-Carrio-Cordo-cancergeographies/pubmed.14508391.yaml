@@ -1,0 +1,26 @@
+authors: Terracciano LM, Glatz K, Mhawech P, Vasei M, Lehmann FS, Vecchione R, Tornillo
+  L.
+counts:
+  biosamples: 3.0
+  samples_acgh: 0.0
+  samples_ccgh: 3.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: ''
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: Am. J. Surg. Pathol. 27(10), 2003
+notes: NA
+pmid: '14508391'
+title: 'Hepatoid adenocarcinoma with liver metastasis mimicking hepatocellular carcinoma:
+  an immunohistochemical and molecular study of eight cases.'
+year: '2003'

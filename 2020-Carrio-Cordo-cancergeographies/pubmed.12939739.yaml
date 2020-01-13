@@ -1,0 +1,27 @@
+authors: Ottesen AM, Skakkebaek NE, Lundsteen C, Leffers H, Larsen J, Rajpert-De Meyts
+  E.
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.57
+    - 55.68
+    type: Point
+  info:
+    city: Copenhagen
+    continent: ''
+    country: Denmark
+    label: Copenhagen, Denmark, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 38(2), 2003
+notes: NA
+pmid: '12939739'
+title: High-resolution comparative genomic hybridization detects extra chromosome
+  arm 12p material in most cases of carcinoma in situ adjacent to overt germ cell
+  tumors, but not before the invasive tumor development.
+year: '2003'

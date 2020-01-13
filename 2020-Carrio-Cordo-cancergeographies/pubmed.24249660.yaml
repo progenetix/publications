@@ -1,0 +1,26 @@
+authors: "Demir HA, Bayhan T, \xDCner A, Kurtulan O, Karaku\u015F E, Emir S, \xD6\
+  zy\xF6r\xFCk D, Ceylaner S."
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 32.85
+    - 39.92
+    type: Point
+  info:
+    city: Ankara
+    continent: ''
+    country: Turkey
+    label: Ankara, Turkey, Europe
+    precision: city
+journal: Pediatr Blood Cancer 61(5), 2014
+notes: NA
+pmid: '24249660'
+title: 'Chronic lymphocytic leukemia in a child: a challenging diagnosis in pediatric
+  oncology practice.'
+year: '2014'

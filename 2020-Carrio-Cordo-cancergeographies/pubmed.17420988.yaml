@@ -1,0 +1,27 @@
+authors: Purdie KJ, Lambert SR, Teh MT, Chaplin T, Molloy G, Raghavan M, Kelsell DP,
+  Leigh IM, Harwood CA, Proby CM, Young BD.
+counts:
+  biosamples: 18.0
+  samples_acgh: 18.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 46(7), 2007
+notes: NA
+pmid: '17420988'
+title: Allelic imbalances and microdeletions affecting the PTPRD gene in cutaneous
+  squamous cell carcinomas detected using single nucleotide polymorphism microarray
+  analysis.
+year: '2007'

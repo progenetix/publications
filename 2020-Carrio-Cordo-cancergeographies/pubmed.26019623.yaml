@@ -1,0 +1,25 @@
+authors: Al Zeyadi M, Dimova I, Ranchich V, Rukova B, Nesheva D, Hamude Z, Georgiev
+  S, Petrov D, Toncheva D.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.32
+    - 42.7
+    type: Point
+  info:
+    city: Sofia
+    continent: ''
+    country: Bulgaria
+    label: Sofia, Bulgaria, Europe
+    precision: city
+journal: Biotechnol. Biotechnol. Equip. 29(1), 2015
+notes: ''
+pmid: '26019623'
+title: Whole genome microarray analysis in non-small cell lung cancer.
+year: '2015'

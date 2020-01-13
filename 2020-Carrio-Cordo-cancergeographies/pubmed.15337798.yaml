@@ -1,0 +1,26 @@
+authors: "Be\xE0 S, Colomo L, L\xF3pez-Guillermo A, Salaverria I, Puig X, Pinyol M,\
+  \ Rives S, Montserrat E, Campo E."
+counts:
+  biosamples: 66.0
+  samples_acgh: 0.0
+  samples_ccgh: 66.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: J. Clin. Oncol. 22(17), 2004
+notes: NA
+pmid: '15337798'
+title: Clinicopathologic significance and prognostic value of chromosomal imbalances
+  in diffuse large B-cell lymphomas.
+year: '2004'

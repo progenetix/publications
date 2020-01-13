@@ -1,0 +1,29 @@
+authors: "Walter MJ, Payton JE, Ries RE, Shannon WD, Deshmukh H, Zhao Y, Baty J, Heath\
+  \ S, Westervelt P, Watson MA, Tomasson MH, Nagarajan R, O'Gara BP, Bloomfield CD,\
+  \ Mr\xF3zek K, Selzer RR, Richmond TA, Kitzman J, Geoghegan J, Eis PS, Maupin R,\
+  \ Fulton RS, McLellan M, Wilson RK, Mardis ER, Link DC, Graubert TA, DiPersio JF,\
+  \ Ley TJ."
+counts:
+  biosamples: 86.0
+  samples_acgh: 86.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.2
+    - 38.63
+    type: Point
+  info:
+    city: st.louis
+    continent: ''
+    country: United States
+    label: st.louis, United States
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 106(31), 2009
+notes: Copy number data is accessible through dbGAP. Expression data for the series
+  is available through GEO (GSE10358).
+pmid: '19651600'
+title: Acquired copy number alterations in adult acute myeloid leukemia genomes.
+year: '2009'

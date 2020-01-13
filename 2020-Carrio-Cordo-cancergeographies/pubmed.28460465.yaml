@@ -1,0 +1,25 @@
+authors: McCormick A, Earp E, Elliot K, Cuthbert G, O'Donnell R, Wilson BT, Sutton
+  R, Leeson C, Thomas HD, Blair H, Fordham S, Lunec J, Allan J, Edmondson RJ.
+counts:
+  biosamples: 3.0
+  samples_acgh: 3.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -2.24
+    - 53.48
+    type: Point
+  info:
+    city: Manchester
+    continent: ''
+    country: United Kingdom
+    label: Manchester, United Kingdom, Europe
+    precision: city
+journal: Oncotarget 8(16), 2017
+notes: International patient recruitment
+pmid: '28460465'
+title: Functional characterisation of a novel ovarian cancer cell line, NUOC-1.
+year: '2017'

@@ -1,0 +1,27 @@
+authors: Paugh BS, Broniscer A, Qu C, Miller CP, Zhang J, Tatevossian RG, Olson JM,
+  Geyer JR, Chi SN, da Silva NS, Onar-Thomas A, Baker JN, Gajjar A, Ellison DW, Baker
+  SJ.
+counts:
+  biosamples: 51.0
+  samples_acgh: 51.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: ''
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: J. Clin. Oncol. 29(30), 2011
+notes: NA
+pmid: '21931021'
+title: Genome-wide analyses identify recurrent amplifications of receptor tyrosine
+  kinases and cell-cycle regulatory genes in diffuse intrinsic pontine glioma.
+year: '2011'

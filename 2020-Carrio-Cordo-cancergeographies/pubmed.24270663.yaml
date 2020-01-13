@@ -1,0 +1,27 @@
+authors: Pos Z, Spivey TL, Liu H, Sommariva M, Chen J, Wunderlich JR, Parisi G, Tomei
+  S, Ayotte BD, Stroncek DF, Malek JA, Robbins PF, Rivoltini L, Maio M, Chouchane
+  L, Wang E, Marincola FM.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 19.04
+    - 47.5
+    type: Point
+  info:
+    city: Budapest
+    continent: ''
+    country: Hungary
+    label: Budapest, Hungary, Europe
+    precision: city
+journal: J. Invest. Dermatol. 134(5), 2014
+notes: ''
+pmid: '24270663'
+title: Longitudinal study of recurrent metastatic melanoma cell lines underscores
+  the individuality of cancer biology.
+year: '2014'

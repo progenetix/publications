@@ -1,0 +1,26 @@
+authors: "Peters K, Zettl A, Starostik P, Greiner A, Rosenwald A, Katzenberger T,\
+  \ Ott G, M\xFCller-Hermelink HK."
+counts:
+  biosamples: 32.0
+  samples_acgh: 0.0
+  samples_ccgh: 32.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.95
+    - 49.79
+    type: Point
+  info:
+    city: Wuerzburg
+    continent: ''
+    country: Germany
+    label: Wuerzburg, Germany, Europe
+    precision: city
+journal: Diagn. Mol. Pathol. 9(1), 2000
+notes: NA
+pmid: '10718214'
+title: 'Genetic imbalances in primary gastric diffuse large B-cell lymphomas: comparison
+  of comparative genomic hybridization, microsatellite, and cytogenetic analysis.'
+year: '2000'

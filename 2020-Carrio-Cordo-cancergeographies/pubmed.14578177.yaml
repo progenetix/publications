@@ -1,0 +1,25 @@
+authors: Bastian BC, Olshen AB, LeBoit PE, Pinkel D.
+counts:
+  biosamples: 189.0
+  samples_acgh: 0.0
+  samples_ccgh: 189.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Am. J. Pathol. 163(5), 2003
+notes: 189 melanomas and benign nevi were analyzed by CGH. The data was provided by
+  Boris Bastian.
+pmid: '14578177'
+title: Classifying melanocytic tumors based on DNA copy number changes.
+year: '2003'

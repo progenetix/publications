@@ -1,0 +1,24 @@
+authors: Won D, Shin SY, Park CJ, Jang S, Chi HS, Lee KH, Lee JO, Seo EJ.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: null
+    precision: city
+journal: Blood 121(8), 2013
+notes: 31 samples from 3 patients
+pmid: '23287866'
+title: 'OBFC2A/RARA: a novel fusion gene in variant acute promyelocytic leukemia.'
+year: '2013'

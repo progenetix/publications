@@ -1,0 +1,26 @@
+authors: Leung SY, Yuen ST, Chan TL, Chan AS, Ho JW, Kwan K, Fan YW, Hung KN, Chung
+  LP, Wyllie AH.
+counts:
+  biosamples: 5.0
+  samples_acgh: 0.0
+  samples_ccgh: 5.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Oncogene 19(35), 2000
+notes: NA
+pmid: '10962567'
+title: Chromosomal instability and p53 inactivation are required for genesis of glioblastoma
+  but not for colorectal cancer in patients with germline mismatch repair gene mutation.
+year: '2000'

@@ -1,0 +1,27 @@
+authors: Lundin C, Heidenblad M, Strombeck B, Borg A, Hovland R, Heim S, Johansson
+  B.
+counts:
+  biosamples: 3.0
+  samples_acgh: 3.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Cytogenet. Genome Res. 118(1), 2007
+notes: NA
+pmid: '17901695'
+title: Tiling resolution array CGH of dic(7;9)(p11 approximately 13;p11 approximately
+  13) in B-cell precursor acute lymphoblastic leukemia reveals clustered breakpoints
+  at 7p11.2 approximately 12.1 and 9p13.1.
+year: '2007'

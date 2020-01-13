@@ -1,0 +1,25 @@
+authors: Noguchi T, Wirtz HC, Michaelis S, Gabbert HE, Mueller W.
+counts:
+  biosamples: 38.0
+  samples_acgh: 0.0
+  samples_ccgh: 38.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.61
+    - 33.24
+    type: Point
+  info:
+    city: Oita
+    continent: ''
+    country: Japan
+    label: Oita, Japan, Asia
+    precision: city
+journal: Am. J. Clin. Pathol. 115(6), 2001
+notes: NA
+pmid: '11392878'
+title: Chromosomal imbalances in gastric cancer. Correlation with histologic subtypes
+  and tumor progression.
+year: '2001'

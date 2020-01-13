@@ -1,0 +1,25 @@
+authors: Kros JM, Delwel EJ, de Jong TH, Tanghe HL, van Run PR, Vissers K, Alers JC.
+counts:
+  biosamples: 3.0
+  samples_acgh: 0.0
+  samples_ccgh: 3.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ''
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city
+journal: Acta Neuropathol. 104(2), 2002
+notes: NA
+pmid: '12111357'
+title: 'Desmoplastic infantile astrocytoma and ganglioglioma: a search for genomic
+  characteristics.'
+year: '2002'

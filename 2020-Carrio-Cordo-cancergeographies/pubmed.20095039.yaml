@@ -1,0 +1,26 @@
+authors: Huh J, Tiu RV, Gondek LP, O'Keefe CL, Jasek M, Makishima H, Jankowska AM,
+  Jiang Y, Verma A, Theil KS, McDevitt MA, Maciejewski JP.
+counts:
+  biosamples: 532.0
+  samples_acgh: 532.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -84.88
+    - 35.16
+    type: Point
+  info:
+    city: Cleveland
+    continent: ''
+    country: United States
+    label: Cleveland, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 49(4), 2010
+notes: NA
+pmid: '20095039'
+title: Characterization of chromosome arm 20q abnormalities in myeloid malignancies
+  using genome-wide single nucleotide polymorphism array analysis.
+year: '2010'

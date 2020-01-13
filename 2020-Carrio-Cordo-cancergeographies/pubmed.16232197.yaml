@@ -1,0 +1,26 @@
+authors: Peng WX, Shibata T, Katoh H, Kokubu A, Matsuno Y, Asamura H, Tsuchiya R,
+  Kanai Y, Hosoda F, Sakiyama T, Ohki M, Imoto I, Inazawa J, Hirohashi S.
+counts:
+  biosamples: 41.0
+  samples_acgh: 41.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.77
+    - 35.67
+    type: Point
+  info:
+    city: Chuo
+    continent: ''
+    country: Japan
+    label: Chuo, Japan
+    precision: city
+journal: Cancer Sci. 96(10), 2005
+notes: NA
+pmid: '16232197'
+title: Array-based comparative genomic hybridization analysis of high-grade neuroendocrine
+  tumors of the lung.
+year: '2005'

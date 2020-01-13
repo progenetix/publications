@@ -1,0 +1,26 @@
+authors: "Antinheimo J, Sallinen SL, Sallinen P, Haapasalo H, Helin H, Horelli-Kuitunen\
+  \ N, Wessman M, Sainio M, J\xE4\xE4skel\xE4inen J, Carp\xE9n O."
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 25.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Acta Neurochir (Wien) 142(10), 2000
+notes: NA
+pmid: '11129530'
+title: Genetic aberrations in sporadic and neurofibromatosis 2 (NF2)-associated schwannomas
+  studied by comparative genomic hybridization (CGH).
+year: '2000'

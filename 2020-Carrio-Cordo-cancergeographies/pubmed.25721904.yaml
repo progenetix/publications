@@ -1,0 +1,25 @@
+authors: Chi K, Li Y, Ding Q, Xu L, Chen Y, Wang X.
+counts:
+  biosamples: 33.0
+  samples_acgh: 33.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: ''
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: Leuk. Lymphoma 56(10), 2015
+notes: ''
+pmid: '25721904'
+title: High resolution single nucleotide polymorphism array reveals cryptic indicating
+  information about myelodysplastic syndrome-related myeloid malignancies.
+year: '2015'

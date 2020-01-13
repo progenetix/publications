@@ -1,0 +1,24 @@
+authors: Mullarkey M, Breen CJ, McDermott M, O'Meara A, Stallings RL.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -6.25
+    - 53.33
+    type: Point
+  info:
+    city: Dublin
+    continent: ''
+    country: Ireland
+    label: Dublin, Ireland, Europe
+    precision: city
+journal: Cytogenet. Cell Genet. 95(1-2), 2001
+notes: NA
+pmid: '11978962'
+title: Genetic abnormalities in a pre and post-chemotherapy hepatoblastoma.
+year: '2001'

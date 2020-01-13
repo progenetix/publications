@@ -1,0 +1,27 @@
+authors: "Jarosov\xE1 M, Holzerov\xE1 M, Mih\xE1l V, Lakom\xE1 I, Divok\xFD V, Blazek\
+  \ B, Posp\xEDsilov\xE1 D, Hajd\xFAch M, Nov\xE1k Z, Dusek L, Kopt\xEDkov\xE1 J,\
+  \ Poulsen TS, Indr\xE1k K."
+counts:
+  biosamples: 19.0
+  samples_acgh: 0.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.25
+    - 49.6
+    type: Point
+  info:
+    city: Olomouc
+    continent: ''
+    country: Czech Republic
+    label: Olomouc, Czech Republic, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 145(2), 2003
+notes: NA
+pmid: '12935929'
+title: 'Complex karyotypes in childhood acute lymphoblastic leukemia: cytogenetic
+  and molecular cytogenetic study of 21 cases.'
+year: '2003'

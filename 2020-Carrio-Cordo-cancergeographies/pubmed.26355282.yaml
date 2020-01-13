@@ -1,0 +1,26 @@
+authors: Biesma HD, Schouten PC, Lacle MM, Sanders J, Brugman W, Kerkhoven R, Mandjes
+  I, van der Groep P, van Diest PJ, Linn SC.
+counts:
+  biosamples: 69.0
+  samples_acgh: 69.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 54(12), 2015
+notes: ''
+pmid: '26355282'
+title: Copy number profiling by array comparative genomic hybridization identifies
+  frequently occurring BRCA2-like male breast cancer.
+year: '2015'

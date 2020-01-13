@@ -1,0 +1,27 @@
+authors: Thibodeau ML, Bonakdar M, Zhao E, Mungall KL, Reisle C, Zhang W, Bye MH,
+  Thiessen N, Bleile D, Mungall AJ, Ma YP, Jones MR, Renouf DJ, Lim HJ, Yip S, Ng
+  T, Ho C, Laskin J, Marra MA, Schrader KA, Jones SJM.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 1.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: null
+    precision: city
+journal: NPJ Precis Oncol 2(1), 2018
+notes: No PDF available yet
+pmid: '29872726'
+title: Whole genome and whole transcriptome genomic profiling of a metastatic eccrine
+  porocarcinoma.
+year: '2018'

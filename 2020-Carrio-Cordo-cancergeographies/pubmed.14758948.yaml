@@ -1,0 +1,26 @@
+authors: Tong CY, Hui AB, Yin XL, Pang JC, Zhu XL, Poon WS, Ng HK.
+counts:
+  biosamples: 27.0
+  samples_acgh: 13.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: J. Neurosurg. 100(2 Suppl Pediatrics), 2004
+notes: Only chromosomal CGH data was included since the AmpiOnc I array is not considered
+  a genomic screeing array due to the limitation to only 58 selected genes.
+pmid: '14758948'
+title: Detection of oncogene amplifications in medulloblastomas by comparative genomic
+  hybridization and array-based comparative genomic hybridization.
+year: '2004'

@@ -1,0 +1,26 @@
+authors: Serio G, Gentile M, Pennella A, Marzullo A, Buonadonna AL, Nazzaro P, Testini
+  M, Musti M, Scattone A.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.86
+    - 41.11
+    type: Point
+  info:
+    city: Bari
+    continent: ''
+    country: Italy
+    label: Bari, Italy, Europe
+    precision: city
+journal: Pathol. Int. 59(6), 2009
+notes: NA
+pmid: '19490474'
+title: Characterization of a complex chromosome aberration in two cases of peritoneal
+  mesothelioma arising primarily in the hernial sac.
+year: '2009'

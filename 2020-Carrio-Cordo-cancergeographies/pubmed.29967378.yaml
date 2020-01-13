@@ -1,0 +1,26 @@
+authors: "Lundin-Str\xEF\xBF\xBDm KB, Biloglav A, Lilljebj\xEF\xBF\xBDrn H, Rissler\
+  \ M, Fioretos T, Hansson M, Behrendtz M, Castor A, Olsson L, Johansson B."
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 25.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: null
+    precision: city
+journal: Leukemia, 2018
+notes: No PDF available yet
+pmid: '29967378'
+title: Whole-exome sequencing exploration of acquired uniparental disomies in B-cell
+  precursor acute lymphoblastic leukemia.
+year: '2018'

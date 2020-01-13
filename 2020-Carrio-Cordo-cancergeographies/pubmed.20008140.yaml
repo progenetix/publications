@@ -1,0 +1,28 @@
+authors: "Manner J, Radlwimmer B, Hohenberger P, M\xF6ssinger K, K\xFCffer S, Sauer\
+  \ C, Belharazem D, Zettl A, Coindre JM, Hallermann C, Hartmann JT, Katenkamp D,\
+  \ Katenkamp K, Sch\xF6ffski P, Sciot R, Wozniak A, Lichter P, Marx A, Str\xF6bel\
+  \ P."
+counts:
+  biosamples: 22.0
+  samples_acgh: 22.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.48
+    - 49.5
+    type: Point
+  info:
+    city: Mannheim
+    continent: ''
+    country: Germany
+    label: Mannheim, Germany, Europe
+    precision: city
+journal: Am. J. Pathol. 176(1), 2010
+notes: NA
+pmid: '20008140'
+title: MYC high level gene amplification is a distinctive feature of angiosarcomas
+  after irradiation or chronic lymphedema.
+year: '2010'

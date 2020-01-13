@@ -1,0 +1,25 @@
+authors: Luo JH, Ding Y, Chen R, Michalopoulos G, Nelson J, Tseng G, Yu YP.
+counts:
+  biosamples: 177.0
+  samples_acgh: 177.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -80.0
+    - 40.44
+    type: Point
+  info:
+    city: Pittsburgh
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Am. J. Pathol. 182(6), 2013
+notes: 31 samples from 3 patients
+pmid: '23583283'
+title: Genome-wide methylation analysis of prostate tissues reveals global methylation
+  patterns of prostate cancer.
+year: '2013'

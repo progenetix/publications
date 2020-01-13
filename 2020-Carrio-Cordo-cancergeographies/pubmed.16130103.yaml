@@ -1,0 +1,25 @@
+authors: Idbaih A, Marie Y, Pierron G, Brennetot C, Hoang-Xuan K, Kujas M, Mokhtari
+  K, Sanson M, Lejeune J, Aurias A, Delattre O, Delattre JY.
+counts:
+  biosamples: 108.0
+  samples_acgh: 108.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Ann. Neurol. 58(3), 2005
+notes: NA
+pmid: '16130103'
+title: Two types of chromosome 1p losses with opposite significance in gliomas.
+year: '2005'

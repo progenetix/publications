@@ -1,0 +1,28 @@
+authors: Brockschmidt A, Trost D, Peterziel H, Zimmermann K, Ehrler M, Grassmann H,
+  Pfenning PN, Waha A, Wohlleber D, Brockschmidt FF, Jugold M, Hoischen A, Kalla C,
+  Waha A, Seifert G, Knolle PA, Latz E, Hans VH, Wick W, Pfeifer A, Angel P, Weber
+  RG.
+counts:
+  biosamples: 23.0
+  samples_acgh: 23.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.1
+    - 50.73
+    type: Point
+  info:
+    city: Bonn
+    continent: ''
+    country: Germany
+    label: Bonn, Germany, Europe
+    precision: city
+journal: Brain 135(Pt 4), 2012
+notes: NA
+pmid: '22427331'
+title: KIAA1797/FOCAD encodes a novel focal adhesion protein with tumour suppressor
+  function in gliomas.
+year: '2012'

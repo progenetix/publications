@@ -1,0 +1,24 @@
+authors: Jayaraman SS, Rayhan DJ, Hazany S, Kolodney MS.
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 12.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.94
+    - 37.27
+    type: Point
+  info:
+    city: Roanoke
+    continent: ''
+    country: United States
+    label: Roanoke, United States, North America
+    precision: city
+journal: J. Invest. Dermatol. 134(1), 2014
+notes: NA
+pmid: '23774526'
+title: Mutational landscape of basal cell carcinomas by whole-exome sequencing.
+year: '2014'

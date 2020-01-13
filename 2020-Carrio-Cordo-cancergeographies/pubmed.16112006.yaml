@@ -1,0 +1,25 @@
+authors: Wong QW, Wong N, Lai PB, To KF, Wong N.
+counts:
+  biosamples: 11.0
+  samples_acgh: 0.0
+  samples_ccgh: 11.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Hum. Pathol. 36(8), 2005
+notes: NA
+pmid: '16112006'
+title: 'Clonal relationship of tumor nodules in hepatocellular carcinoma: a hierarchical
+  clustering analysis of comparative genomic hybridization data.'
+year: '2005'

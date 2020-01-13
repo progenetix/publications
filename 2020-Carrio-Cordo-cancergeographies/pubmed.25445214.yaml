@@ -1,0 +1,27 @@
+authors: van Wezel EM, Zwijnenburg D, Zappeij-Kannegieter L, Bus E, van Noesel MM,
+  Molenaar JJ, Versteeg R, Fiocco M, Caron HN, van der Schoot CE, Koster J, Tytgat
+  GA.
+counts:
+  biosamples: 8.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 8.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: J Mol Diagn 17(1), 2015
+notes: ''
+pmid: '25445214'
+title: Whole-genome sequencing identifies patient-specific DNA minimal residual disease
+  markers in neuroblastoma.
+year: '2015'

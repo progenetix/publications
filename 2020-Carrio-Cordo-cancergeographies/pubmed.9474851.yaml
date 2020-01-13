@@ -1,0 +1,25 @@
+authors: Sauter G.
+counts:
+  biosamples: 56.0
+  samples_acgh: 0.0
+  samples_ccgh: 56.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: ''
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: Verh Dtsch Ges Pathol 81, 1997
+notes: NA
+pmid: '9474851'
+title: '[Rudolf Virchow Prize 1997. Molecular cytogenetic analysis of superficial
+  urothelial cancer of the bladder]'
+year: '1997'

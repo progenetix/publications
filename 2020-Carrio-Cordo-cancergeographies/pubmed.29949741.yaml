@@ -1,0 +1,25 @@
+authors: Lee M, Kim K, Kim SY, Jung SH, Yoon J, Kim MS, Park HC, Jung ES, Chung YJ,
+  Lee SH.
+counts:
+  biosamples: 16.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 16.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: null
+    precision: city
+journal: Hum. Pathol., 2018
+notes: No PDF available yet
+pmid: '29949741'
+title: Genomic structures of dysplastic nodule and concurrent hepatocellular carcinoma.
+year: '2018'

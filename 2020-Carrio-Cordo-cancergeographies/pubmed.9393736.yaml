@@ -1,0 +1,26 @@
+authors: "Bockm\xFChl U, Petersen S, Schmidt S, Wolf G, Jahnke V, Dietel M, Petersen\
+  \ I."
+counts:
+  biosamples: 48.0
+  samples_acgh: 0.0
+  samples_ccgh: 48.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: ''
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: Cancer Res. 57(23), 1997
+notes: NA
+pmid: '9393736'
+title: Patterns of chromosomal alterations in metastasizing and nonmetastasizing primary
+  head and neck carcinomas.
+year: '1997'

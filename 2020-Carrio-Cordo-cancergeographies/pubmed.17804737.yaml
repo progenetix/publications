@@ -1,0 +1,27 @@
+authors: Kim JH, Dhanasekaran SM, Mehra R, Tomlins SA, Gu W, Yu J, Kumar-Sinha C,
+  Cao X, Dash A, Wang L, Ghosh D, Shedden K, Montie JE, Rubin MA, Pienta KJ, Shah
+  RB, Chinnaiyan AM.
+counts:
+  biosamples: 62.0
+  samples_acgh: 62.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.74
+    - 42.28
+    type: Point
+  info:
+    city: Ann Arbor
+    continent: ''
+    country: United States
+    label: Ann Arbor, United States, North America
+    precision: city
+journal: Cancer Res. 67(17), 2007
+notes: NA
+pmid: '17804737'
+title: Integrative analysis of genomic aberrations associated with prostate cancer
+  progression.
+year: '2007'

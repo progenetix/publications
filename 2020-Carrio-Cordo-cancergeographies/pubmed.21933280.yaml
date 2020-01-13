@@ -1,0 +1,26 @@
+authors: "Larsson N, Lilljebj\xF6rn H, Lassen C, Johansson B, Fioretos T."
+counts:
+  biosamples: 11.0
+  samples_acgh: 11.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Eur. J. Haematol. 88(2), 2012
+notes: NA
+pmid: '21933280'
+title: Myeloid malignancies with acquired trisomy 21 as the sole cytogenetic change
+  are clinically highly variable and display a heterogeneous pattern of copy number
+  alterations and mutations.
+year: '2012'

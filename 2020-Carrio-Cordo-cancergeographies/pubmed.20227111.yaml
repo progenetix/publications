@@ -1,0 +1,26 @@
+authors: Pedranzini L, Mottadelli F, Ronzoni S, Rossella F, Ferracin M, Magnani I,
+  Roversi G, Colapietro P, Negrini M, Pelicci PG, Larizza L.
+counts:
+  biosamples: 3.0
+  samples_acgh: 3.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: ''
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: Leuk. Res. 34(10), 2010
+notes: NA
+pmid: '20227111'
+title: Differential cytogenomics and miRNA signature of the Acute Myeloid Leukaemia
+  Kasumi-1 cell line CD34+38- compartment.
+year: '2010'

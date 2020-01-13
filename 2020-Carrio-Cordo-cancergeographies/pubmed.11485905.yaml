@@ -1,0 +1,25 @@
+authors: Wong N, Lam WC, Lai PB, Pang E, Lau WY, Johnson PJ.
+counts:
+  biosamples: 36.0
+  samples_acgh: 0.0
+  samples_ccgh: 36.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Am. J. Pathol. 159(2), 2001
+notes: NA
+pmid: '11485905'
+title: Hypomethylation of chromosome 1 heterochromatin DNA correlates with q-arm copy
+  gain in human hepatocellular carcinoma.
+year: '2001'

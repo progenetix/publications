@@ -1,0 +1,25 @@
+authors: Kim KY, Lee GY, Kim J, Jeung HC, Chung HC, Rha SY.
+counts:
+  biosamples: 24.0
+  samples_acgh: 24.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Genomics 94(5), 2009
+notes: NA
+pmid: '19699295'
+title: Identification of significant regional genetic variations using continuous
+  CNV values in aCGH data.
+year: '2009'

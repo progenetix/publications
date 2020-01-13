@@ -1,0 +1,26 @@
+authors: Albrethsen J, Knol JC, Piersma SR, Pham TV, de Wit M, Mongera S, Carvalho
+  B, Verheul HM, Fijneman RJ, Meijer GA, Jimenez CR.
+counts:
+  biosamples: 82.0
+  samples_acgh: 82.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Mol. Cell Proteomics 9(5), 2010
+notes: NA
+pmid: '20089989'
+title: 'Subnuclear proteomics in colorectal cancer: identification of proteins enriched
+  in the nuclear matrix fraction and regulation in adenoma to carcinoma progression.'
+year: '2010'

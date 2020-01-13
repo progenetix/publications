@@ -1,0 +1,25 @@
+authors: Lai LA, Kostadinov R, Barrett MT, Peiffer DA, Pokholok D, Odze R, Sanchez
+  CA, Maley CC, Reid BJ, Gunderson KL, Rabinovitch PS.
+counts:
+  biosamples: 56.0
+  samples_acgh: 56.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.33
+    - 47.61
+    type: Point
+  info:
+    city: Seattle
+    continent: ''
+    country: United States
+    label: Seattle, United States, North America
+    precision: city
+journal: Mol. Cancer Res. 8(8), 2010
+notes: NA
+pmid: '20647332'
+title: Deletion at fragile sites is a common and early event in Barrett's esophagus.
+year: '2010'

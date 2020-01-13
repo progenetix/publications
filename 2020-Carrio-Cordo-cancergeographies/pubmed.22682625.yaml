@@ -1,0 +1,25 @@
+authors: "Grygalewicz B, Woroniecka R, Pastwi\u0144ska A, Rygier J, Krawczyk P, Borg\
+  \ K, Makuch-\u0141asica H, Patkowska E, Pie\u0144kowska-Grela B."
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 21.01
+    - 52.23
+    type: Point
+  info:
+    city: Warsaw
+    continent: ''
+    country: Poland
+    label: Warsaw, Poland, Europe
+    precision: city
+journal: Cancer Genet 205(5), 2012
+notes: NA
+pmid: '22682625'
+title: Acute panmyelosis with myelofibrosis with EVI1 amplification.
+year: '2012'

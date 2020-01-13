@@ -1,0 +1,29 @@
+authors: "Spina V, Khiabanian H, Messina M, Monti S, Cascione L, Bruscaggin A, Spaccarotella\
+  \ E, Holmes AB, Arcaini L, Lucioni M, Tabb\xEF\xBF\xBD F, Zairis S, Diop F, Cerri\
+  \ M, Chiaretti S, Marasca R, Ponzoni M, Deaglio S, Ramponi A, Tiacci E, Pasqualucci\
+  \ L, Paulli M, Falini B, Inghirami G, Bertoni F, Fo\xEF\xBF\xBD R, Rabadan R, Gaidano\
+  \ G, Rossi D."
+counts:
+  biosamples: 35.0
+  samples_acgh: 35.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.62
+    - 45.45
+    type: Point
+  info:
+    city: Novara
+    continent: ''
+    country: Italy
+    label: null
+    precision: city
+journal: Blood 128(10), 2016
+notes: The exact number of samples analysed by aCGH is not clear from the article's
+  text.
+pmid: '27335277'
+title: The genetics of nodal marginal zone lymphoma.
+year: '2016'

@@ -1,0 +1,25 @@
+authors: Ahn DH, Ozer HG, Hancioglu B, Lesinski GB, Timmers C, Bekaii-Saab T.
+counts:
+  biosamples: 28.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 28.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.0
+    - 0.0
+    type: Point
+  info:
+    city: null
+    continent: ''
+    country: null
+    label: null
+    precision: null
+journal: Oncotarget 7(5), 2016
+notes: ''
+pmid: '26683364'
+title: Whole-exome tumor sequencing study in biliary cancer patients with a response
+  to MEK inhibitors.
+year: '2016'

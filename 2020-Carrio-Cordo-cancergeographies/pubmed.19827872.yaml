@@ -1,0 +1,26 @@
+authors: Dachrut S, Banthaisong S, Sripa M, Paeyao A, Ho C, Lee SA, Kosinski C, Patil
+  MA, Zhang J, Chen X, Sripa B, Pairojkul C.
+counts:
+  biosamples: 53.0
+  samples_acgh: 53.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 102.83
+    - 16.45
+    type: Point
+  info:
+    city: Khon Kaen
+    continent: ''
+    country: Thailand
+    label: Khon Kaen, Thailand, Asia
+    precision: city
+journal: Asian Pac. J. Cancer Prev. 10(4), 2009
+notes: NA
+pmid: '19827872'
+title: DNA copy-number loss on 1p36.1 harboring RUNX3 with promoter hypermethylation
+  and associated loss of RUNX3 expression in liver fluke-associated intrahepatic cholangiocarcinoma.
+year: '2009'

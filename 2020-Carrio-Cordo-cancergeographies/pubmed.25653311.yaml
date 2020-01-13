@@ -1,0 +1,27 @@
+authors: "Chalign\xE9 R, Popova T, Mendoza-Parra MA, Saleem MA, Gentien D, Ban K,\
+  \ Piolot T, Leroy O, Mariani O, Gronemeyer H, Vincent-Salomon A, Stern MH, Heard\
+  \ E."
+counts:
+  biosamples: 7.0
+  samples_acgh: 7.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Genome Res. 25(4), 2015
+notes: ''
+pmid: '25653311'
+title: The inactive X chromosome is epigenetically unstable and transcriptionally
+  labile in breast cancer.
+year: '2015'

@@ -1,0 +1,27 @@
+authors: Baker A, Braggio E, Jacobus S, Jung S, Larson D, Therneau T, Dispenzieri
+  A, Van Wier SA, Ahmann G, Levy J, Perkins L, Kim S, Henderson K, Vesole D, Rajkumar
+  SV, Jelinek DF, Carpten J, Fonseca R.
+counts:
+  biosamples: 141.0
+  samples_acgh: 141.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -111.9
+    - 33.51
+    type: Point
+  info:
+    city: Scottsdale
+    continent: ''
+    country: United States
+    label: Scottsdale, United States, North America
+    precision: city
+journal: Blood 121(16), 2013
+notes: ''
+pmid: '23422747'
+title: 'Uncovering the biology of multiple myeloma among African Americans: a comprehensive
+  genomics approach.'
+year: '2013'

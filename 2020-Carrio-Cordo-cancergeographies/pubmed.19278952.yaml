@@ -1,0 +1,26 @@
+authors: Li C, Kim SW, Rai D, Bolla AR, Adhvaryu S, Kinney MC, Robetorye RS, Aguiar
+  RC.
+counts:
+  biosamples: 86.0
+  samples_acgh: 86.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Blood 113(26), 2009
+notes: NA
+pmid: '19278952'
+title: Copy number abnormalities, MYC activity, and the genetic fingerprint of normal
+  B cells mechanistically define the microRNA profile of diffuse large B-cell lymphoma.
+year: '2009'

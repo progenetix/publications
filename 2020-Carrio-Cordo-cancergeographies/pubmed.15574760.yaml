@@ -1,0 +1,27 @@
+authors: Loo LW, Grove DI, Williams EM, Neal CL, Cousens LA, Schubert EL, Holcomb
+  IN, Massa HF, Glogovac J, Li CI, Malone KE, Daling JR, Delrow JJ, Trask BJ, Hsu
+  L, Porter PL.
+counts:
+  biosamples: 44.0
+  samples_acgh: 44.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.33
+    - 47.61
+    type: Point
+  info:
+    city: Seattle
+    continent: ''
+    country: United States
+    label: Seattle, United States, North America
+    precision: city
+journal: Cancer Res. 64(23), 2004
+notes: NA
+pmid: '15574760'
+title: Array comparative genomic hybridization analysis of genomic alterations in
+  breast cancer subtypes.
+year: '2004'

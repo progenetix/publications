@@ -1,0 +1,25 @@
+authors: Jin DH, Park SE, Lee J, Kim KM, Kim S, Kim DH, Park J.
+counts:
+  biosamples: 88.0
+  samples_acgh: 88.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 127.01
+    - 37.29
+    type: Point
+  info:
+    city: Suwon-si
+    continent: ''
+    country: Korean Republic
+    label: Suwon-si, Korean Republic, Asia
+    precision: city
+journal: PLoS ONE 10(9), 2015
+notes: ''
+pmid: '26360582'
+title: Copy Number Gains at 8q24 and 20q11-q13 in Gastric Cancer Are More Common in
+  Intestinal-Type than Diffuse-Type.
+year: '2015'

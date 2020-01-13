@@ -1,0 +1,26 @@
+authors: Wolf M, Korja M, Karhu R, Edgren H, Kilpinen S, Ojala K, Mousses S, Kallioniemi
+  A, Haapasalo H.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: BMC Cancer 10, 2010
+notes: NA
+pmid: '20444257'
+title: Array-based gene expression, CGH and tissue data defines a 12q24 gain in neuroblastic
+  tumors with prognostic implication.
+year: '2010'

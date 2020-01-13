@@ -1,0 +1,26 @@
+authors: Gilhuis HJ, Anderl KL, Boerman RH, Jeuken JM, James CD, Raffel C, Scheithauer
+  BW, Jenkins RB.
+counts:
+  biosamples: 11.0
+  samples_acgh: 0.0
+  samples_ccgh: 11.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ''
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city
+journal: Clin Neurol Neurosurg 102(4), 2000
+notes: NA
+pmid: '11154805'
+title: 'Comparative genomic hybridization of medulloblastomas and clinical relevance:
+  eleven new cases and a review of the literature.'
+year: '2000'

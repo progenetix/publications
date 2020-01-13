@@ -1,0 +1,27 @@
+authors: Takahashi Y, Mimori K, Yamamoto K, Watanabe M, Tanaka J, Kudo SE, Sugihara
+  K, Hase K, Mochizuki H, Kusunoki M, Yamada K, Shimada Y, Moriya Y, Mori M.
+counts:
+  biosamples: 107.0
+  samples_acgh: 107.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.5
+    - 33.28
+    type: Point
+  info:
+    city: Beppu
+    continent: ''
+    country: Japan
+    label: Beppu, Japan, Asia
+    precision: city
+journal: J. Gastroenterol. Hepatol. 27 Suppl 3, 2012
+notes: NA
+pmid: '22486879'
+title: Genomic copy number of a carcinogenic single nucleotide polymorphism at 8q24
+  in non-risk allele colorectal cancer associated with insulin growth factor 2 receptor
+  expression.
+year: '2012'

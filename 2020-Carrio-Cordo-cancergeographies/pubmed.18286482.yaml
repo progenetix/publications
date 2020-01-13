@@ -1,0 +1,26 @@
+authors: Haruta M, Matsumoto Y, Izumi H, Watanabe N, Fukuzawa M, Matsuura S, Kaneko
+  Y.
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 25.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.66
+    - 35.91
+    type: Point
+  info:
+    city: Saitama
+    continent: ''
+    country: Japan
+    label: Saitama, Japan, Asia
+    precision: city
+journal: Mol. Carcinog. 47(9), 2008
+notes: NA
+pmid: '18286482'
+title: Combined BubR1 protein down-regulation and RASSF1A hypermethylation in Wilms
+  tumors with diverse cytogenetic changes.
+year: '2008'

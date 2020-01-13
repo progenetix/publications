@@ -1,0 +1,28 @@
+authors: Cheng C, Cui H, Zhang L, Jia Z, Song B, Wang F, Li Y, Liu J, Kong P, Shi
+  R, Bi Y, Yang B, Wang J, Zhao Z, Zhang Y, Hu X, Yang J, He C, Zhao Z, Wang J, Xi
+  Y, Xu E, Li G, Guo S, Chen Y, Yang X, Chen X, Liang J, Guo J, Cheng X, Wang C, Zhan
+  Q, Cui Y.
+counts:
+  biosamples: 208.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 104.0
+  samples_wgs: 104.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 112.56
+    - 37.87
+    type: Point
+  info:
+    city: Taiyuan
+    continent: ''
+    country: China
+    label: Taiyuan, China, Asia
+    precision: city
+journal: Gigascience 5, 2016
+notes: ''
+pmid: '26759717'
+title: Genomic analyses reveal FAM84B and the NOTCH pathway are associated with the
+  progression of esophageal squamous cell carcinoma.
+year: '2016'

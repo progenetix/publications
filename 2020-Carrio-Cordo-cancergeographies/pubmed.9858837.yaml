@@ -1,0 +1,24 @@
+authors: Getman ME, Houseal TW, Miller GA, Grundy PE, Cowell JK, Landes GM.
+counts:
+  biosamples: 80.0
+  samples_acgh: 0.0
+  samples_ccgh: 80.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.42
+    - 42.28
+    type: Point
+  info:
+    city: Framingham
+    continent: ''
+    country: United States
+    label: Framingham, United States, North America
+    precision: city
+journal: Cytogenet. Cell Genet. 82(3-4), 1998
+notes: NA
+pmid: '9858837'
+title: Comparative genomic hybridization and its application to Wilms' tumorigenesis.
+year: '1998'

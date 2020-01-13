@@ -1,0 +1,25 @@
+authors: "Paulsson K, Lilljebj\xF6rn H, Biloglav A, Olsson L, Rissler M, Castor A,\
+  \ Barbany G, Fogelstrand L, Nordgren A, Sj\xF6gren H, Fioretos T, Johansson B."
+counts:
+  biosamples: 55.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 39.0
+  samples_wgs: 16.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Nat. Genet. 47(6), 2015
+notes: ''
+pmid: '25961940'
+title: The genomic landscape of high hyperdiploid childhood acute lymphoblastic leukemia.
+year: '2015'

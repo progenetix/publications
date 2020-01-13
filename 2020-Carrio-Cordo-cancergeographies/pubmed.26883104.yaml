@@ -1,0 +1,29 @@
+authors: "Messina M, Chiaretti S, Wang J, Fedullo AL, Peragine N, Gianfelici V, Piciocchi\
+  \ A, Brugnoletti F, Di Giacomo F, Pauselli S, Holmes AB, Puzzolo MC, Ceglie G, Apicella\
+  \ V, Mancini M, Te Kronnie G, Testi AM, Vitale A, Vignetti M, Guarini A, Rabadan\
+  \ R, Fo\xE0 R."
+counts:
+  biosamples: 94.0
+  samples_acgh: 13.0
+  samples_ccgh: 0.0
+  samples_wes: 81.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.51
+    - 41.89
+    type: Point
+  info:
+    city: Rome
+    continent: ''
+    country: Italy
+    label: Rome, Italy, Europe
+    precision: city
+journal: Oncotarget 7(12), 2016
+notes: 13 B-ALL SNP arrays and 12 matched controls, as well was 81 WES analyses and
+  additional panel sequencing
+pmid: '26883104'
+title: Prognostic and therapeutic role of targetable lesions in B-lineage acute lymphoblastic
+  leukemia without recurrent fusion genes.
+year: '2016'

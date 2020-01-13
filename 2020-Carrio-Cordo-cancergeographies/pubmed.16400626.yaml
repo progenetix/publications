@@ -1,0 +1,26 @@
+authors: "Ehrbrecht A, M\xFCller U, Wolter M, Hoischen A, Koch A, Radlwimmer B, Actor\
+  \ B, Mincheva A, Pietsch T, Lichter P, Reifenberger G, Weber RG."
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.1
+    - 50.73
+    type: Point
+  info:
+    city: Bonn
+    continent: ''
+    country: Germany
+    label: Bonn, Germany, Europe
+    precision: city
+journal: J. Pathol. 208(4), 2006
+notes: NA
+pmid: '16400626'
+title: 'Comprehensive genomic analysis of desmoplastic medulloblastomas: identification
+  of novel amplified genes and separate evaluation of the different histological components.'
+year: '2006'

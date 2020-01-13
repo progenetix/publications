@@ -1,0 +1,26 @@
+authors: Weiss MM, Kuipers EJ, Postma C, Snijders AM, Pinkel D, Meuwissen SG, Albertson
+  D, Meijer GA.
+counts:
+  biosamples: 35.0
+  samples_acgh: 35.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Cell. Oncol. 26(5-6), 2004
+notes: NA
+pmid: '15623941'
+title: Genomic alterations in primary gastric adenocarcinomas correlate with clinicopathological
+  characteristics and survival.
+year: '2004'

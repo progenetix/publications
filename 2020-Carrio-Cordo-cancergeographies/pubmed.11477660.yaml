@@ -1,0 +1,25 @@
+authors: "Kjellman P, Lagercrantz S, H\xF6\xF6g A, Wallin G, Larsson C, Zedenius J."
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 25.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: ''
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 32(1), 2001
+notes: NA
+pmid: '11477660'
+title: Gain of 1q and loss of 9q21.3-q32 are associated with a less favorable prognosis
+  in papillary thyroid carcinoma.
+year: '2001'

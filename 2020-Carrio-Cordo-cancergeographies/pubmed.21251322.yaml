@@ -1,0 +1,26 @@
+authors: Bajaj R, Xu F, Xiang B, Wilcox K, Diadamo AJ, Kumar R, Pietraszkiewicz A,
+  Halene S, Li P.
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -72.93
+    - 41.31
+    type: Point
+  info:
+    city: New Haven
+    continent: ''
+    country: United States
+    label: New Haven, United States, North America
+    precision: city
+journal: Mol Cytogenet 4, 2011
+notes: NA
+pmid: '21251322'
+title: Evidence-based genomic diagnosis characterized chromosomal and cryptic imbalances
+  in 30 elderly patients with myelodysplastic syndrome and acute myeloid leukemia.
+year: '2011'

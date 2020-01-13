@@ -1,0 +1,26 @@
+authors: Aust DE, Willenbucher RF, Terdiman JP, Ferrell LD, Chang CG, Moore DH, Molinaro-Clark
+  A, Baretton GB, Loehrs U, Waldman FM.
+counts:
+  biosamples: 74.0
+  samples_acgh: 0.0
+  samples_ccgh: 74.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Hum. Pathol. 31(1), 2000
+notes: NA
+pmid: '10665921'
+title: Chromosomal alterations in ulcerative colitis-related and sporadic colorectal
+  cancers by comparative genomic hybridization.
+year: '2000'

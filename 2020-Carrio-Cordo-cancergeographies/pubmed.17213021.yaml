@@ -1,0 +1,25 @@
+authors: Carr J, Bown NP, Case MC, Hall AG, Lunec J, Tweddle DA.
+counts:
+  biosamples: 12.0
+  samples_acgh: 6.0
+  samples_ccgh: 6.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.6099999999999999
+    - 54.97
+    type: Point
+  info:
+    city: Newcastle upon Tyne
+    continent: ''
+    country: United Kingdom
+    label: Newcastle upon Tyne, United Kingdom, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 172(2), 2007
+notes: NA
+pmid: '17213021'
+title: High-resolution analysis of allelic imbalance in neuroblastoma cell lines by
+  single nucleotide polymorphism arrays.
+year: '2007'

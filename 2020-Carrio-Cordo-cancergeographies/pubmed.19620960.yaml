@@ -1,0 +1,27 @@
+authors: Sanada M, Suzuki T, Shih LY, Otsu M, Kato M, Yamazaki S, Tamura A, Honda
+  H, Sakata-Yanagimoto M, Kumano K, Oda H, Yamagata T, Takita J, Gotoh N, Nakazaki
+  K, Kawamata N, Onodera M, Nobuyoshi M, Hayashi Y, Harada H, Kurokawa M, Chiba S,
+  Mori H, Ozawa K, Omine M, Hirai H, Nakauchi H, Koeffler HP, Ogawa S.
+counts:
+  biosamples: 222.0
+  samples_acgh: 222.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Nature 460(7257), 2009
+notes: NA
+pmid: '19620960'
+title: Gain-of-function of mutated C-CBL tumour suppressor in myeloid neoplasms.
+year: '2009'

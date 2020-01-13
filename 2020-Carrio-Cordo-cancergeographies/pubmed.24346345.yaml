@@ -1,0 +1,26 @@
+authors: Nakachi I, Rice JL, Coldren CD, Edwards MG, Stearman RS, Glidewell SC, Varella-Garcia
+  M, Franklin WA, Keith RL, Lewis MT, Gao B, Merrick DT, Miller YE, Geraci MW.
+counts:
+  biosamples: 30.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -104.98
+    - 39.74
+    type: Point
+  info:
+    city: Denver
+    continent: ''
+    country: United States
+    label: Denver, United States, North America
+    precision: city
+journal: Cancer Prev Res (Phila) 7(2), 2014
+notes: 30 samples and some additional technical and reference arrays
+pmid: '24346345'
+title: Application of SNP microarrays to the genome-wide analysis of chromosomal instability
+  in premalignant airway lesions.
+year: '2014'

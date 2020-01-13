@@ -1,0 +1,26 @@
+authors: Belaud-Rotureau MA, Marietta V, Vergier B, Mainhaguiet G, Turmo M, Idrissi
+  Y, Ferrer J, Beylot-Barry M, Dubus P, Merlio JP.
+counts:
+  biosamples: 21.0
+  samples_acgh: 21.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: ''
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: Virchows Arch. 452(6), 2008
+notes: NA
+pmid: '18311490'
+title: Inactivation of p16INK4a/CDKN2A gene may be a diagnostic feature of large B
+  cell lymphoma leg type among cutaneous B cell lymphomas.
+year: '2008'

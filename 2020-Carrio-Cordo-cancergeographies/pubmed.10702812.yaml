@@ -1,0 +1,26 @@
+authors: Zunino A, Viaggi S, Ottaggio L, Fronza G, Schenone A, Roncella S, Abbondandolo
+  A.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: ''
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: Haematologica 85(3), 2000
+notes: NA
+pmid: '10702812'
+title: Chromosomal aberrations evaluated by CGH, FISH and GTG-banding in a case of
+  AIDS-related Burkitt's lymphoma.
+year: '2000'

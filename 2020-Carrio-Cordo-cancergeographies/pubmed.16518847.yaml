@@ -1,0 +1,26 @@
+authors: Watanabe N, Nakadate H, Haruta M, Sugawara W, Sasaki F, Tsunematsu Y, Kikuta
+  A, Fukuzawa M, Okita H, Hata J, Soejima H, Kaneko Y.
+counts:
+  biosamples: 34.0
+  samples_acgh: 0.0
+  samples_ccgh: 34.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.66
+    - 35.91
+    type: Point
+  info:
+    city: Saitama
+    continent: ''
+    country: Japan
+    label: Saitama, Japan, Asia
+    precision: city
+journal: Genes Chromosomes Cancer 45(6), 2006
+notes: NA
+pmid: '16518847'
+title: Association of 11q loss, trisomy 12, and possible 16q loss with loss of imprinting
+  of insulin-like growth factor-II in Wilms tumor.
+year: '2006'

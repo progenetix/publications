@@ -1,0 +1,25 @@
+authors: "Nagel H, Schulten HJ, Gunawan B, Brinck U, F\xFCzesi L."
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: ''
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: Mod. Pathol. 15(8), 2002
+notes: NA
+pmid: '12181266'
+title: The potential value of comparative genomic hybridization analysis in effusion-and
+  fine needle aspiration cytology.
+year: '2002'

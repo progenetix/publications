@@ -1,0 +1,28 @@
+authors: "Wessendorf S, Barth TF, Viardot A, Mueller A, Kestler HA, Kohlhammer H,\
+  \ Lichter P, Bentz M, D\xF6hner H, M\xF6ller P, Schwaenen C."
+counts:
+  biosamples: 39.0
+  samples_acgh: 39.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Leukemia 21(12), 2007
+notes: Standardized ratio data from the supplementary file was converted to ISCN using
+  the aCGH2ProgenetiXML converter.
+pmid: '17728785'
+title: 'Further delineation of chromosomal consensus regions in primary mediastinal
+  B-cell lymphomas: an analysis of 37 tumor samples using high-resolution genomic
+  profiling (array-CGH).'
+year: '2007'

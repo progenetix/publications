@@ -1,0 +1,27 @@
+authors: Tiu RV, Gondek LP, O'Keefe CL, Elson P, Huh J, Mohamedali A, Kulasekararaj
+  A, Advani AS, Paquette R, List AF, Sekeres MA, McDevitt MA, Mufti GJ, Maciejewski
+  JP.
+counts:
+  biosamples: 430.0
+  samples_acgh: 430.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -84.88
+    - 35.16
+    type: Point
+  info:
+    city: Cleveland
+    continent: ''
+    country: United States
+    label: Cleveland, United States, North America
+    precision: city
+journal: Blood 117(17), 2011
+notes: NA
+pmid: '21285439'
+title: Prognostic impact of SNP array karyotyping in myelodysplastic syndromes and
+  related myeloid malignancies.
+year: '2011'

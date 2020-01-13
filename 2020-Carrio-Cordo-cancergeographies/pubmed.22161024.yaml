@@ -1,0 +1,26 @@
+authors: "Feh\xE9r LZ, Pocsay G, Kren\xE1cs L, Zvara A, Bagdi E, Pocsay R, Luk\xE1\
+  cs G, Gy\u0151ry F, Gazdag A, Tark\xF3 E, Pusk\xE1s LG."
+counts:
+  biosamples: 43.0
+  samples_acgh: 43.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 20.15
+    - 46.25
+    type: Point
+  info:
+    city: Szeged
+    continent: ''
+    country: Hungary
+    label: Szeged, Hungary, Europe
+    precision: city
+journal: Pathol. Oncol. Res. 18(2), 2012
+notes: NA
+pmid: '22161024'
+title: Amplification of thymosin beta 10 and AKAP13 genes in metastatic and aggressive
+  papillary thyroid carcinomas.
+year: '2012'

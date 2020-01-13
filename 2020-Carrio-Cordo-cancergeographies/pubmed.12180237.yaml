@@ -1,0 +1,25 @@
+authors: Wolter H, Trijic D, Gottfried HW, Mattfeldt T.
+counts:
+  biosamples: 48.0
+  samples_acgh: 0.0
+  samples_ccgh: 48.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Eur. Urol. 41(3), 2002
+notes: NA
+pmid: '12180237'
+title: Chromosomal changes in incidental prostatic carcinomas detected by comparative
+  genomic hybridization.
+year: '2002'

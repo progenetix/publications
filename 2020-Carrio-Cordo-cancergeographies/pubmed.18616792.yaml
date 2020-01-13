@@ -1,0 +1,26 @@
+authors: "Brommesson S, J\xF6nsson G, Strand C, Grabau D, Malmstr\xF6m P, Ringn\xE9\
+  r M, Fern\xF6 M, Hedenfalk I."
+counts:
+  biosamples: 33.0
+  samples_acgh: 33.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: BMC Clin Pathol 8, 2008
+notes: NA
+pmid: '18616792'
+title: Tiling array-CGH for the assessment of genomic similarities among synchronous
+  unilateral and bilateral invasive breast cancer tumor pairs.
+year: '2008'

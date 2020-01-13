@@ -1,0 +1,26 @@
+authors: "Aubele M, Cummings M, Walsch A, Zitzelsberger H, N\xE4hrig J, H\xF6fler\
+  \ H, Werner M."
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 25.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.56
+    - 48.25
+    type: Point
+  info:
+    city: Oberschleissheim
+    continent: ''
+    country: Germany
+    label: Oberschleissheim, Germany, Europe
+    precision: city
+journal: Anal Cell Pathol 20(1), 2000
+notes: Not all imbalances are listed in the article.
+pmid: '11007434'
+title: Heterogeneous chromosomal aberrations in intraductal breast lesions adjacent
+  to invasive carcinoma.
+year: '2000'

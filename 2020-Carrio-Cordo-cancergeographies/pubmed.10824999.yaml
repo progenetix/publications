@@ -1,0 +1,25 @@
+authors: Dohna M, Reincke M, Mincheva A, Allolio B, Solinas-Toldo S, Lichter P.
+counts:
+  biosamples: 50.0
+  samples_acgh: 0.0
+  samples_ccgh: 50.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 28(2), 2000
+notes: NA
+pmid: '10824999'
+title: Adrenocortical carcinoma is characterized by a high frequency of chromosomal
+  gains and high-level amplifications.
+year: '2000'

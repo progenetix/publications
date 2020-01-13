@@ -1,0 +1,26 @@
+authors: Stransky N, Vallot C, Reyal F, Bernard-Pierrot I, de Medina SG, Segraves
+  R, de Rycke Y, Elvin P, Cassidy A, Spraggon C, Graham A, Southgate J, Asselain B,
+  Allory Y, Abbou CC, Albertson DG, Thiery JP, Chopin DK, Pinkel D, Radvanyi F.
+counts:
+  biosamples: 57.0
+  samples_acgh: 57.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Nat. Genet. 38(12), 2006
+notes: NA
+pmid: '17099711'
+title: Regional copy number-independent deregulation of transcription in cancer.
+year: '2006'

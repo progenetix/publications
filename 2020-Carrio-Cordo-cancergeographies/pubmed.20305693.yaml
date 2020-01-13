@@ -1,0 +1,27 @@
+authors: "Szab\xF3 PM, Tam\xE1si V, Moln\xE1r V, Andr\xE1sfalvy M, T\xF6mb\xF6l Z,\
+  \ Farkas R, K\xF6vesdi K, Pat\xF3cs A, T\xF3th M, Szalai C, Falus A, R\xE1cz K,\
+  \ Igaz P."
+counts:
+  biosamples: 3.0
+  samples_acgh: 3.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 19.04
+    - 47.5
+    type: Point
+  info:
+    city: Budapest
+    continent: ''
+    country: Hungary
+    label: Budapest, Hungary, Europe
+    precision: city
+journal: Oncogene 29(21), 2010
+notes: NA
+pmid: '20305693'
+title: 'Meta-analysis of adrenocortical tumour genomics data: novel pathogenic pathways
+  revealed.'
+year: '2010'

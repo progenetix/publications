@@ -1,0 +1,25 @@
+authors: Bax DA, Mackay A, Little SE, Carvalho D, Viana-Pereira M, Tamber N, Grigoriadis
+  AE, Ashworth A, Reis RM, Ellison DW, Al-Sarraj S, Hargrave D, Jones C.
+counts:
+  biosamples: 63.0
+  samples_acgh: 63.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: ''
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: Clin. Cancer Res. 16(13), 2010
+notes: NA
+pmid: '20570930'
+title: A distinct spectrum of copy number aberrations in pediatric high-grade gliomas.
+year: '2010'

@@ -1,0 +1,27 @@
+authors: Valsesia A, Rimoldi D, Martinet D, Ibberson M, Benaglio P, Quadroni M, Waridel
+  P, Gaillard M, Pidoux M, Rapin B, Rivolta C, Xenarios I, Simpson AJ, Antonarakis
+  SE, Beckmann JS, Jongeneel CV, Iseli C, Stevenson BJ.
+counts:
+  biosamples: 28.0
+  samples_acgh: 28.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.63
+    - 46.52
+    type: Point
+  info:
+    city: Lausanne
+    continent: ''
+    country: Switzerland
+    label: Lausanne, Switzerland, Europe
+    precision: city
+journal: PLoS ONE 6(4), 2011
+notes: NA
+pmid: '21494657'
+title: Network-guided analysis of genes with altered somatic copy number and gene
+  expression reveals pathways commonly perturbed in metastatic melanoma.
+year: '2011'

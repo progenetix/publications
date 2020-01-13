@@ -1,0 +1,25 @@
+authors: Weber RG, Rieger J, Naumann U, Lichter P, Weller M.
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 12.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Int. J. Cancer 91(2), 2001
+notes: NA
+pmid: '11146447'
+title: Chromosomal imbalances associated with response to chemotherapy and cytotoxic
+  cytokines in human malignant glioma cell lines.
+year: '2001'

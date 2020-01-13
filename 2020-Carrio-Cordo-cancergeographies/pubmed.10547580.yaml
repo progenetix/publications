@@ -1,0 +1,25 @@
+authors: Terracciano L, Richter J, Tornillo L, Beffa L, Diener PA, Maurer R, Gasser
+  TC, Moch H, Mihatsch MJ, Sauter G.
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: ''
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: J. Pathol. 189(2), 1999
+notes: NA
+pmid: '10547580'
+title: Chromosomal imbalances in small cell carcinomas of the urinary bladder.
+year: '1999'

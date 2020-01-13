@@ -1,0 +1,28 @@
+authors: Waddell N, Arnold J, Cocciardi S, da Silva L, Marsh A, Riley J, Johnstone
+  CN, Orloff M, Assie G, Eng C, Reid L, Keith P, Yan M, Fox S, Devilee P, Godwin AK,
+  Hogervorst FB, Couch F, kConFab Investigators, Grimmond S, Flanagan JM, Khanna K,
+  Simpson PT, Lakhani SR, Chenevix-Trench G.
+counts:
+  biosamples: 34.0
+  samples_acgh: 34.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 153.03
+    - -27.47
+    type: Point
+  info:
+    city: Brisbane
+    continent: ''
+    country: Australia
+    label: Brisbane, Australia, Australia
+    precision: city
+journal: Breast Cancer Res. Treat. 123(3), 2010
+notes: NA
+pmid: '19960244'
+title: Subtypes of familial breast tumours revealed by expression and copy number
+  profiling.
+year: '2010'

@@ -1,0 +1,27 @@
+authors: "Wilkens L, Benten D, Tchinda J, Brabant G, P\xF6tter E, Dralle H, von Wasielewski\
+  \ R."
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: ''
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: Virchows Arch. 436(4), 2000
+notes: NA
+pmid: '10834532'
+title: Aberrations of chromosomes 5 and 8 as recurrent cytogenetic events in anaplastic
+  carcinoma of the thyroid as detected by fluorescence in situ hybridisation and comparative
+  genomic hybridisation.
+year: '2000'

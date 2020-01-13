@@ -1,0 +1,25 @@
+authors: Lee SY, Haq F, Kim D, Jun C, Jo HJ, Ahn SM, Lee WS.
+counts:
+  biosamples: 45.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 45.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: PLoS ONE 9(3), 2014
+notes: 45 samples were also processed for SNP array based copy number analysis
+pmid: '24599305'
+title: Comparative genomic analysis of primary and synchronous metastatic colorectal
+  cancers.
+year: '2014'

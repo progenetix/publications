@@ -1,0 +1,31 @@
+authors: Barretina J, Taylor BS, Banerji S, Ramos AH, Lagos-Quintana M, Decarolis
+  PL, Shah K, Socci ND, Weir BA, Ho A, Chiang DY, Reva B, Mermel CH, Getz G, Antipin
+  Y, Beroukhim R, Major JE, Hatton C, Nicoletti R, Hanna M, Sharpe T, Fennell TJ,
+  Cibulskis K, Onofrio RC, Saito T, Shukla N, Lau C, Nelander S, Silver SJ, Sougnez
+  C, Viale A, Winckler W, Maki RG, Garraway LA, Lash A, Greulich H, Root DE, Sellers
+  WR, Schwartz GK, Antonescu CR, Lander ES, Varmus HE, Ladanyi M, Sander C, Meyerson
+  M, Singer S.
+counts:
+  biosamples: 207.0
+  samples_acgh: 207.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Nat. Genet. 42(8), 2010
+notes: NA
+pmid: '20601955'
+title: Subtype-specific genomic alterations define new targets for soft-tissue sarcoma
+  therapy.
+year: '2010'

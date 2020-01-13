@@ -1,0 +1,27 @@
+authors: Thiel A, Beier M, Ingenhag D, Servan K, Hein M, Moeller V, Betz B, Hildebrandt
+  B, Evers C, Germing U, Royer-Pokora B.
+counts:
+  biosamples: 107.0
+  samples_acgh: 107.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.78
+    - 51.22
+    type: Point
+  info:
+    city: Dusseldorf
+    continent: ''
+    country: Germany
+    label: Dusseldorf, Germany, Europe
+    precision: city
+journal: Leukemia 25(3), 2011
+notes: NA
+pmid: '21274003'
+title: Comprehensive array CGH of normal karyotype myelodysplastic syndromes reveals
+  hidden recurrent and individual genomic copy number alterations with prognostic
+  relevance.
+year: '2011'

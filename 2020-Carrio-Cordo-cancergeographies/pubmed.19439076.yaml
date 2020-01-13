@@ -1,0 +1,26 @@
+authors: Li J, Gao F, Li N, Li S, Yin G, Tian G, Jia S, Wang K, Zhang X, Yang H, Nielsen
+  AL, Bolund L.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.21
+    - 56.16
+    type: Point
+  info:
+    city: Aarhus
+    continent: ''
+    country: Denmark
+    label: Aarhus, Denmark, Europe
+    precision: city
+journal: BMC Genomics 10, 2009
+notes: NA
+pmid: '19439076'
+title: An improved method for genome wide DNA methylation profiling correlated to
+  transcription and genomic instability in two breast cancer cell lines.
+year: '2009'

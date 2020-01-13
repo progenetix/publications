@@ -1,0 +1,26 @@
+authors: "Gebert C, Brinkschmidt C, Bielack S, Bernhardt T, J\xFCrgens H, B\xF6cker\
+  \ W, Winkelmann W, B\xFCrger H, Gosheger G."
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 25.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: Int. J. Surg. Pathol. 14(3), 2006
+notes: NA
+pmid: '16959697'
+title: The potential of comparative genomic hybridization as a tool in the differential
+  diagnosis of matrix-producing bone lesions.
+year: '2006'

@@ -1,0 +1,25 @@
+authors: Brazma D, Grace C, Howard J, Melo JV, Holyoke T, Apperley JF, Nacheva EP.
+counts:
+  biosamples: 66.0
+  samples_acgh: 66.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 46(11), 2007
+notes: NA
+pmid: '17696194'
+title: 'Genomic profile of chronic myelogenous leukemia: Imbalances associated with
+  disease progression.'
+year: '2007'

@@ -1,0 +1,26 @@
+authors: "Dittmann K, Przybylski GK, Grabarczyk P, D\xF6lken G, Gesk S, Siebert R,\
+  \ Schmidt CA."
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.39
+    - 54.09
+    type: Point
+  info:
+    city: Greifswald
+    continent: ''
+    country: Germany
+    label: Greifswald, Germany, Europe
+    precision: city
+journal: Acta Haematol. 127(1), 2012
+notes: NA
+pmid: '21986343'
+title: Fast approach for clarification of chromosomal aberrations by using LM-PCR
+  and FT-CGH in leukaemic sample.
+year: '2012'

@@ -1,0 +1,27 @@
+authors: Kirchhoff M, Rose H, Petersen BL, Maahr J, Gerdes T, Lundsteen C, Bryndorf
+  T, Kryger-Baggesen N, Christensen L, Engelholm SA, Philip J.
+counts:
+  biosamples: 46.0
+  samples_acgh: 0.0
+  samples_ccgh: 46.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.57
+    - 55.68
+    type: Point
+  info:
+    city: Copenhagen
+    continent: ''
+    country: Denmark
+    label: Copenhagen, Denmark, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 24(2), 1999
+notes: NA
+pmid: '9885981'
+title: Comparative genomic hybridization reveals a recurrent pattern of chromosomal
+  aberrations in severe dysplasia/carcinoma in situ of the cervix and in advanced-stage
+  cervical carcinoma.
+year: '1999'

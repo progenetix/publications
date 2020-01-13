@@ -1,0 +1,27 @@
+authors: Paris PL, Hofer MD, Albo G, Kuefer R, Gschwend JE, Hautmann RE, Fridyland
+  J, Simko J, Carroll PR, Rubin MA, Collins C.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Neoplasia 8(12), 2006
+notes: Supplementary data is mentioned in the article, but not available online (yet
+  ).
+pmid: '17217626'
+title: "Genomic profiling of hormone-na\xEFve lymph node metastases in patients with\
+  \ prostate cancer."
+year: '2006'

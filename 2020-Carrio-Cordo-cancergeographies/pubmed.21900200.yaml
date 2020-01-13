@@ -1,0 +1,27 @@
+authors: Lucioni M, Novara F, Fiandrino G, Riboni R, Fanoni D, Arra M, Venegoni L,
+  Nicola M, Dallera E, Arcaini L, Onida F, Vezzoli P, Travaglino E, Boveri E, Zuffardi
+  O, Paulli M, Berti E.
+counts:
+  biosamples: 21.0
+  samples_acgh: 21.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.16
+    - 45.19
+    type: Point
+  info:
+    city: Pavia
+    continent: ''
+    country: Italy
+    label: Pavia, Italy, Europe
+    precision: city
+journal: Blood 118(17), 2011
+notes: ''
+pmid: '21900200'
+title: 'Twenty-one cases of blastic plasmacytoid dendritic cell neoplasm: focus on
+  biallelic locus 9p21.3 deletion.'
+year: '2011'

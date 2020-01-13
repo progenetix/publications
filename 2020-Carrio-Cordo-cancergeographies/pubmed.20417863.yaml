@@ -1,0 +1,26 @@
+authors: Nowak NJ, Sait SN, Zeidan A, Deeb G, Gaile D, Liu S, Ford L, Wallace PK,
+  Wang ES, Wetzler M.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: ''
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 199(1), 2010
+notes: NA
+pmid: '20417863'
+title: Recurrent deletion of 9q34 in adult normal karyotype precursor B-cell acute
+  lymphoblastic leukemia.
+year: '2010'

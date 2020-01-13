@@ -1,0 +1,27 @@
+authors: Bodelon C, Vinokurova S, Sampson JN, den Boon JA, Walker JL, Horswill MA,
+  Korthauer K, Schiffman M, Sherman ME, Zuna RE, Mitchell J, Zhang X, Boland JF, Chaturvedi
+  AK, Dunn ST, Newton MA, Ahlquist P, Wang SS, Wentzensen N.
+counts:
+  biosamples: 38.0
+  samples_acgh: 38.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Carcinogenesis 37(2), 2016
+notes: ''
+pmid: '26660085'
+title: Chromosomal copy number alterations and HPV integration in cervical precancer
+  and invasive cancer.
+year: '2016'

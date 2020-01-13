@@ -1,0 +1,26 @@
+authors: "Krona C, Car\xE9n H, Sj\xF6berg RM, Sandstedt B, Laureys G, Kogner P, Martinsson\
+  \ T."
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: ''
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: Int. J. Oncol. 32(3), 2008
+notes: NA
+pmid: '18292934'
+title: Analysis of neuroblastoma tumour progression; loss of PHOX2B on 4p13 and 17q
+  gain are early events in neuroblastoma tumourigenesis.
+year: '2008'

@@ -1,0 +1,27 @@
+authors: Hayano T, Yokota Y, Hosomichi K, Nakaoka H, Yoshihara K, Adachi S, Kashima
+  K, Tsuda H, Moriya T, Tanaka K, Enomoto T, Inoue I.
+counts:
+  biosamples: 64.0
+  samples_acgh: 30.0
+  samples_ccgh: 0.0
+  samples_wes: 34.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 138.92
+    - 35.12
+    type: Point
+  info:
+    city: Mishima
+    continent: ''
+    country: Japan
+    label: null
+    precision: city
+journal: PLoS ONE 9(12), 2014
+notes: prostate cancer data from ICGC analysed for somatic CNVs; needs to be checked
+  for possible duplication of entry
+pmid: '25460179'
+title: Molecular characterization of an intact p53 pathway subtype in high-grade serous
+  ovarian cancer.
+year: '2014'

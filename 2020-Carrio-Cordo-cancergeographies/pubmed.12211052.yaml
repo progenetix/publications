@@ -1,0 +1,26 @@
+authors: Squire JA, Bayani J, Luk C, Unwin L, Tokunaga J, MacMillan C, Irish J, Brown
+  D, Gullane P, Kamel-Reid S.
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 12.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Head Neck 24(9), 2002
+notes: NA
+pmid: '12211052'
+title: 'Molecular cytogenetic analysis of head and neck squamous cell carcinoma: By
+  comparative genomic hybridization, spectral karyotyping, and expression array analysis.'
+year: '2002'

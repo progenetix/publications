@@ -1,0 +1,26 @@
+authors: "Hussenet T, Dali S, Exinger J, Monga B, Jost B, Dembel\xE9 D, Martinet N,\
+  \ Thibault C, Huelsken J, Brambilla E, du Manoir S."
+counts:
+  biosamples: 26.0
+  samples_acgh: 26.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.72
+    - 48.53
+    type: Point
+  info:
+    city: Illkirch-Graffenstaden
+    continent: ''
+    country: France
+    label: Illkirch-Graffenstaden, France, Europe
+    precision: city
+journal: PLoS ONE 5(1), 2010
+notes: ''
+pmid: '20126410'
+title: SOX2 is an oncogene activated by recurrent 3q26.3 amplifications in human lung
+  squamous cell carcinomas.
+year: '2010'

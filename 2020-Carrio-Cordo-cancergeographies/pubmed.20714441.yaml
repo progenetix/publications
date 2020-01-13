@@ -1,0 +1,25 @@
+authors: Hsiao YH, Su YA, Tsai HD, Mason JT, Chou MC, Man YG.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: ''
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: Int. J. Biol. Sci. 6(5), 2010
+notes: NA
+pmid: '20714441'
+title: Increased invasiveness and aggressiveness in breast epithelia with cytoplasmic
+  p63 expression.
+year: '2010'

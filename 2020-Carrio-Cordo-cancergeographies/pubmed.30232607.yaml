@@ -1,0 +1,28 @@
+authors: He H, Trpkov K, Martinek P, Isikci OT, Maggi-Galuzzi C, Alaghehbandan R,
+  Gill AJ, Tretiakova M, Lopez JI, Williamson SR, Montiel DP, Sperga M, Comperat E,
+  Brimo F, Yilmaz A, Pivovarcikova K, Michalova K, Slouka D, Prochazkova K, Hora M,
+  Bonert M, Michal M, Hes O.
+counts:
+  biosamples: 14.0
+  samples_acgh: 14.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.38
+    - 49.75
+    type: Point
+  info:
+    city: Pilsen
+    continent: ''
+    country: Czech Republic
+    label: null
+    precision: city
+journal: Virchows Arch., 2018
+notes: No PDF available yet
+pmid: '30232607'
+title: '"High-grade oncocytic renal tumor": morphologic, immunohistochemical, and
+  molecular genetic study of 14 cases.'
+year: '2018'

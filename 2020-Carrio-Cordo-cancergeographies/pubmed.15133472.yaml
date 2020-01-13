@@ -1,0 +1,27 @@
+authors: Hashimoto K, Mori N, Tamesa T, Okada T, Kawauchi S, Oga A, Furuya T, Tangoku
+  A, Oka M, Sasaki K.
+counts:
+  biosamples: 38.0
+  samples_acgh: 19.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Mod. Pathol. 17(6), 2004
+notes: Only th echromosomal CGH data was included, since aCGH data was only partially
+  presented.
+pmid: '15133472'
+title: Analysis of DNA copy number aberrations in hepatitis C virus-associated hepatocellular
+  carcinomas by conventional CGH and array CGH.
+year: '2004'

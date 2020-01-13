@@ -1,0 +1,31 @@
+authors: "Renault AL, Mebirouk N, Fuhrmann L, Bataillon G, Cavaciuti E, Le Gal D,\
+  \ Girard E, Popova T, La Rosa P, Beauvallet J, Eon-Marchais S, Dondon MG, d'Enghien\
+  \ CD, Laug\xEF\xBF\xBD A, Chemlali W, Raynal V, Labb\xEF\xBF\xBD M, Bi\xEF\xBF\xBD\
+  che I, Baulande S, Bay JO, Berthet P, Caron O, Buecher B, Faivre L, Fresnay M, Gauthier-Villars\
+  \ M, Gesta P, Janin N, Lejeune S, Maugard C, Moutton S, Venat-Bouvet L, Zattara\
+  \ H, Fricker JP, Gladieff L, Coupier I, CoF-AT, GENESIS, kConFab, Chenevix-Trench\
+  \ G, Hall J, Vincent-Salomon A, Stoppa-Lyonnet D, Andrieu N, Lesueur F."
+counts:
+  biosamples: 23.0
+  samples_acgh: 23.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: null
+    precision: city
+journal: Breast Cancer Res. 20(1), 2018
+notes: Only germline variants were analysed for the cancer patients.
+pmid: '29665859'
+title: Morphology and genomic hallmarks of breast tumours developed by ATM deleterious
+  variant carriers.
+year: '2018'

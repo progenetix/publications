@@ -1,0 +1,26 @@
+authors: "Muggerud AA, Edgren H, Wolf M, Kleivi K, Dejeux E, Tost J, S\xF8rlie T,\
+  \ Kallioniemi O."
+counts:
+  biosamples: 6.0
+  samples_acgh: 6.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: BMC Med Genomics 2, 2009
+notes: NA
+pmid: '19432969'
+title: Data integration from two microarray platforms identifies bi-allelic genetic
+  inactivation of RIC8A in a breast cancer cell line.
+year: '2009'

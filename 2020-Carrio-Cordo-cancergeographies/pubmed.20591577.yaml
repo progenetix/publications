@@ -1,0 +1,25 @@
+authors: Jin S, Sun C, Yu S, Wang Q, Wu W, Sun Y, Zhao W, An T.
+counts:
+  biosamples: 63.0
+  samples_acgh: 0.0
+  samples_ccgh: 63.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 117.18
+    - 39.14
+    type: Point
+  info:
+    city: Tianjin
+    continent: ''
+    country: China
+    label: Tianjin, China, Asia
+    precision: city
+journal: Pathol. Res. Pract. 206(10), 2010
+notes: NA
+pmid: '20591577'
+title: 'Chromosome DNA imbalances in human astrocytic tumors: a comparative genomic
+  hybridization study of 63 Chinese patients.'
+year: '2010'

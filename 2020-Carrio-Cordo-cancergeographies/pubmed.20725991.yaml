@@ -1,0 +1,26 @@
+authors: Micci F, Skotheim RI, Haugom L, Weimer J, Eibak AM, Abeler VM, Trope CG,
+  Arnold N, Lothe RA, Heim S.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 49(11), 2010
+notes: NA
+pmid: '20725991'
+title: Array-CGH analysis of microdissected chromosome 19 markers in ovarian carcinoma
+  identifies candidate target genes.
+year: '2010'

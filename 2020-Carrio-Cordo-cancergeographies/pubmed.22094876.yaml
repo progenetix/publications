@@ -1,0 +1,26 @@
+authors: Dondeti VR, Wubbenhorst B, Lal P, Gordan JD, D'Andrea K, Attiyeh EF, Simon
+  MC, Nathanson KL.
+counts:
+  biosamples: 54.0
+  samples_acgh: 54.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Cancer Res. 72(1), 2012
+notes: Samples from 55 Italian and 36 German patients were processed by aCGH.
+pmid: '22094876'
+title: Integrative genomic analyses of sporadic clear cell renal cell carcinoma define
+  disease subtypes and potential new therapeutic targets.
+year: '2012'

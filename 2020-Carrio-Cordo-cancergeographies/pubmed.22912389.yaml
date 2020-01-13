@@ -1,0 +1,28 @@
+authors: Wang ZC, Birkbak NJ, Culhane AC, Drapkin R, Fatima A, Tian R, Schwede M,
+  Alsop K, Daniels KE, Piao H, Liu J, Etemadmoghadam D, Miron A, Salvesen HB, Mitchell
+  G, DeFazio A, Quackenbush J, Berkowitz RS, Iglehart JD, Bowtell DD, Australian Ovarian
+  Cancer Study Group, Matulonis UA.
+counts:
+  biosamples: 47.0
+  samples_acgh: 47.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 18(20), 2012
+notes: NA
+pmid: '22912389'
+title: Profiles of genomic instability in high-grade serous ovarian cancer predict
+  treatment outcome.
+year: '2012'

@@ -1,0 +1,25 @@
+authors: Chen Y, Takita J, Choi YL, Kato M, Ohira M, Sanada M, Wang L, Soda M, Kikuchi
+  A, Igarashi T, Nakagawara A, Hayashi Y, Mano H, Ogawa S.
+counts:
+  biosamples: 214.0
+  samples_acgh: 214.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Nature 455(7215), 2008
+notes: NA
+pmid: '18923524'
+title: Oncogenic mutations of ALK kinase in neuroblastoma.
+year: '2008'

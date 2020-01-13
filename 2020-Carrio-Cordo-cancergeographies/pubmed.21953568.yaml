@@ -1,0 +1,27 @@
+authors: Rumi E, Harutyunyan A, Elena C, Pietra D, Klampfl T, Bagienski K, Berg T,
+  Casetti I, Pascutto C, Passamonti F, Kralovics R, Cazzola M.
+counts:
+  biosamples: 61.0
+  samples_acgh: 61.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.16
+    - 45.19
+    type: Point
+  info:
+    city: Pavia
+    continent: ''
+    country: Italy
+    label: Pavia, Italy, Europe
+    precision: city
+journal: Am. J. Hematol. 86(12), 2011
+notes: NA
+pmid: '21953568'
+title: Identification of genomic aberrations associated with disease transformation
+  by means of high-resolution SNP array analysis in patients with myeloproliferative
+  neoplasm.
+year: '2011'

@@ -1,0 +1,25 @@
+authors: Koo SH, Kwon KC, Shin SY, Jeon YM, Park JW, Kim SH, Noh SM.
+counts:
+  biosamples: 37.0
+  samples_acgh: 0.0
+  samples_ccgh: 37.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 127.42
+    - 36.32
+    type: Point
+  info:
+    city: Daejeon
+    continent: ''
+    country: Korean Republic
+    label: Daejeon, Korean Republic, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 117(2), 2000
+notes: NA
+pmid: '10704677'
+title: 'Genetic alterations of gastric cancer: comparative genomic hybridization and
+  fluorescence In situ hybridization studies.'
+year: '2000'

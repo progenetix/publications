@@ -1,0 +1,27 @@
+authors: "Scholtysik R, Kreuz M, Hummel M, Rosolowski M, Szczepanowski M, Klapper\
+  \ W, Loeffler M, Tr\xEF\xBF\xBDmper L, Siebert R, K\xEF\xBF\xBDppers R, Molecular\
+  \ Mechanisms in Malignant Lymphomas Network Project of the Deutsche Krebshilfe."
+counts:
+  biosamples: 148.0
+  samples_acgh: 148.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.77
+    - 51.43
+    type: Point
+  info:
+    city: Duisburg
+    continent: ''
+    country: Germany
+    label: null
+    precision: city
+journal: Int. J. Cancer 136(5), 2015
+notes: CNV analysis of germline variants, for association with NHL risk
+pmid: '25042405'
+title: Characterization of genomic imbalances in diffuse large B-cell lymphoma by
+  detailed SNP-chip analysis.
+year: '2015'

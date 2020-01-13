@@ -1,0 +1,27 @@
+authors: Lambrechts S, Smeets D, Moisse M, Braicu EI, Vanderstichele A, Zhao H, Van
+  Nieuwenhuysen E, Berns E, Sehouli J, Zeillinger R, Darb-Esfahani S, Cacsire Castillo-Tong
+  D, Lambrechts D, Vergote I.
+counts:
+  biosamples: 31.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 31.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.7
+    - 50.88
+    type: Point
+  info:
+    city: Leuven
+    continent: ''
+    country: Belgium
+    label: Leuven, Belgium, Europe
+    precision: city
+journal: Eur. J. Cancer 53, 2016
+notes: ''
+pmid: '26693899'
+title: Genetic heterogeneity after first-line chemotherapy in high-grade serous ovarian
+  cancer.
+year: '2016'

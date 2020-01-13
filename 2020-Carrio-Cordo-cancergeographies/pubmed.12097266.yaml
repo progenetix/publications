@@ -1,0 +1,26 @@
+authors: Massion PP, Kuo WL, Stokoe D, Olshen AB, Treseler PA, Chin K, Chen C, Polikoff
+  D, Jain AN, Pinkel D, Albertson DG, Jablons DM, Gray JW.
+counts:
+  biosamples: 37.0
+  samples_acgh: 37.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Cancer Res. 62(13), 2002
+notes: NA
+pmid: '12097266'
+title: 'Genomic copy number analysis of non-small cell lung cancer using array comparative
+  genomic hybridization: implications of the phosphatidylinositol 3-kinase pathway.'
+year: '2002'

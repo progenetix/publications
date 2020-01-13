@@ -1,0 +1,27 @@
+authors: Litchfield K, Summersgill B, Yost S, Sultana R, Labreche K, Dudakia D, Renwick
+  A, Seal S, Al-Saadi R, Broderick P, Turner NC, Houlston RS, Huddart R, Shipley J,
+  Turnbull C.
+counts:
+  biosamples: 42.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 42.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Nat Commun 6, 2015
+notes: ''
+pmid: '25609015'
+title: Whole-exome sequencing reveals the mutational spectrum of testicular germ cell
+  tumours.
+year: '2015'

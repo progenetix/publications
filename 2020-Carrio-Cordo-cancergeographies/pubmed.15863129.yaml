@@ -1,0 +1,24 @@
+authors: "Baumhoer D, Gunawan B, Becker H, F\xFCzesi L."
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 4.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: ''
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: Gynecol. Oncol. 97(2), 2005
+notes: NA
+pmid: '15863129'
+title: Comparative genomic hybridization in four angiosarcomas of the female breast.
+year: '2005'

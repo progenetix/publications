@@ -1,0 +1,27 @@
+authors: Jamshidi N, Margolis DJ, Raman S, Huang J, Reiter RE, Kuo MD.
+counts:
+  biosamples: 23.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 23.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: ''
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: Radiology 284(1), 2017
+notes: This publication reports a subset of data from the Australian Pancreatic Cancer
+  Genome Initiative (APGI); there may be an alternative publication for reporting
+  the data (it is part of ICGC).
+pmid: '28453432'
+title: Multiregional Radiogenomic Assessment of Prostate Microenvironments with Multiparametric
+  MR Imaging and DNA Whole-Exome Sequencing of Prostate Glands with Adenocarcinoma.
+year: '2017'

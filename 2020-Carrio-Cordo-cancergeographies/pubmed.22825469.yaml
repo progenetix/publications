@@ -1,0 +1,26 @@
+authors: Petrini I, Meltzer PS, Zucali PA, Luo J, Lee C, Santoro A, Lee HS, Killian
+  KJ, Wang Y, Tsokos M, Roncalli M, Steinberg SM, Wang Y, Giaccone G.
+counts:
+  biosamples: 59.0
+  samples_acgh: 59.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Cell Death Dis 3, 2012
+notes: NA
+pmid: '22825469'
+title: Copy number aberrations of BCL2 and CDKN2A/B identified by array-CGH in thymic
+  epithelial tumors.
+year: '2012'

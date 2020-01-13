@@ -1,0 +1,26 @@
+authors: Larramendy ML, Tarkkanen M, Blomqvist C, Virolainen M, Wiklund T, Asko-Seljavaara
+  S, Elomaa I, Knuutila S.
+counts:
+  biosamples: 58.0
+  samples_acgh: 0.0
+  samples_ccgh: 58.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Am. J. Pathol. 151(4), 1997
+notes: NA
+pmid: '9327749'
+title: Comparative genomic hybridization of malignant fibrous histiocytoma reveals
+  a novel prognostic marker.
+year: '1997'

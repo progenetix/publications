@@ -1,0 +1,24 @@
+authors: Molist R, Remvikos Y, Dutrillaux B, Muleris M.
+counts:
+  biosamples: 8.0
+  samples_acgh: 0.0
+  samples_ccgh: 8.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Oncogene 23(35), 2004
+notes: NA
+pmid: '15208688'
+title: Characterization of a new cytogenetic subtype of ductal breast carcinomas.
+year: '2004'

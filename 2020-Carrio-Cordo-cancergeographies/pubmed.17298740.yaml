@@ -1,0 +1,25 @@
+authors: Wu SS, Liu JF, Wang MR.
+counts:
+  biosamples: 16.0
+  samples_acgh: 0.0
+  samples_ccgh: 16.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: ''
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: Ai Zheng 26(2), 2007
+notes: NA
+pmid: '17298740'
+title: '[Analyzing chromosomal abnormality in primary esophageal cancer by comparative
+  genomic hybridization].'
+year: '2007'

@@ -1,0 +1,26 @@
+authors: Kim HJ, Shen SS, Ayala AG, Ro JY, Truong LD, Alvarez K, Bridge JA, Gatalica
+  Z, Hagenkord JM, Gonzalez-Berjon JM, Monzon FA.
+counts:
+  biosamples: 59.0
+  samples_acgh: 59.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Am. J. Surg. Pathol. 33(9), 2009
+notes: Samples from 55 Italian and 36 German patients were processed by aCGH.
+pmid: '19461508'
+title: 'Virtual-karyotyping with SNP microarrays in morphologically challenging renal
+  cell neoplasms: a practical and useful diagnostic modality.'
+year: '2009'

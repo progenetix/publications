@@ -1,0 +1,25 @@
+authors: Cowell JK, Barnett GH, Nowak NJ.
+counts:
+  biosamples: 14.0
+  samples_acgh: 14.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: ''
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: J. Neuropathol. Exp. Neurol. 63(2), 2004
+notes: NA
+pmid: '14989601'
+title: Characterization of the 1p/19q chromosomal loss in oligodendrogliomas using
+  comparative genomic hybridization arrays (CGHa).
+year: '2004'

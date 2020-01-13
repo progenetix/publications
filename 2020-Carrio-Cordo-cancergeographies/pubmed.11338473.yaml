@@ -1,0 +1,26 @@
+authors: "Buerger H, Mommers EC, Littmann R, Diallo R, Brinkschmidt C, Poremba C,\
+  \ Dockhorn-Dworniczak B, van Diest PJ, B\xF6cker W."
+counts:
+  biosamples: 57.0
+  samples_acgh: 0.0
+  samples_ccgh: 57.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: Am. J. Clin. Pathol. 114(6), 2000
+notes: An unknown number of the 57 cases had been reported in earlier publications.
+pmid: '11338473'
+title: Correlation of morphologic and cytogenetic parameters of genetic instability
+  with chromosomal alterations in in situ carcinomas of the breast.
+year: '2000'

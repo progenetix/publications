@@ -1,0 +1,28 @@
+authors: Tomioka N, Kobayashi H, Kageyama H, Ohira M, Nakamura Y, Sasaki F, Todo S,
+  Nakagawara A, Kaneko Y.
+counts:
+  biosamples: 59.0
+  samples_acgh: 0.0
+  samples_ccgh: 59.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.66
+    - 35.91
+    type: Point
+  info:
+    city: Saitama
+    continent: ''
+    country: Japan
+    label: Saitama, Japan, Asia
+    precision: city
+journal: Genes Chromosomes Cancer 36(2), 2003
+notes: NA
+pmid: '12508242'
+title: 'Chromosomes that show partial loss or gain in near-diploid tumors coincide
+  with chromosomes that show whole loss or gain in near-triploid tumors: evidence
+  suggesting the involvement of the same genes in the tumorigenesis of high- and low-risk
+  neuroblastomas.'
+year: '2003'

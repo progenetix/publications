@@ -1,0 +1,26 @@
+authors: "Mahlam\xE4ki EH, Kauraniemi P, Monni O, Wolf M, Hautaniemi S, Kallioniemi\
+  \ A."
+counts:
+  biosamples: 13.0
+  samples_acgh: 13.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: ''
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: Neoplasia 6(5), 2004
+notes: NA
+pmid: '15548351'
+title: High-resolution genomic and expression profiling reveals 105 putative amplification
+  target genes in pancreatic cancer.
+year: '2004'

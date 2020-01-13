@@ -1,0 +1,25 @@
+authors: Oikawa M, Yoshiura K, Kondo H, Miura S, Nagayasu T, Nakashima M.
+counts:
+  biosamples: 28.0
+  samples_acgh: 28.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 129.87
+    - 32.74
+    type: Point
+  info:
+    city: Nagasaki-shi
+    continent: ''
+    country: Japan
+    label: Nagasaki-shi, Japan, Asia
+    precision: city
+journal: Radiat Oncol 6, 2011
+notes: NA
+pmid: '22152285'
+title: 'Significance of genomic instability in breast cancer in atomic bomb survivors:
+  analysis of microarray-comparative genomic hybridization.'
+year: '2011'

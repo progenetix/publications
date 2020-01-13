@@ -1,0 +1,26 @@
+authors: "Tarkkanen M, Kiuru-Kuhlefelt S, Blomqvist C, Armengol G, B\xF6hling T, Ekfors\
+  \ T, Virolainen M, Lindholm P, Monge O, Picci P, Knuutila S, Elomaa I."
+counts:
+  biosamples: 28.0
+  samples_acgh: 0.0
+  samples_ccgh: 28.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 114(1), 1999
+notes: NA
+pmid: '10526533'
+title: Clinical correlations of genetic changes by comparative genomic hybridization
+  in Ewing sarcoma and related tumors.
+year: '1999'

@@ -1,0 +1,25 @@
+authors: Kwiecinska A, Ichimura K, Berglund M, Dinets A, Sulaiman L, Collins VP, Larsson
+  C, Porwit A, Lagercrantz SB.
+counts:
+  biosamples: 81.0
+  samples_acgh: 81.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.0
+    - 59.36
+    type: Point
+  info:
+    city: Solna
+    continent: ''
+    country: Sweden
+    label: Solna, Sweden, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 53(9), 2014
+notes: NA
+pmid: '24832791'
+title: Amplification of 2p as a genomic marker for transformation in lymphoma.
+year: '2014'

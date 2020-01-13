@@ -1,0 +1,33 @@
+authors: Gupta N, Goumnerova LC, Manley P, Chi SN, Neuberg D, Puligandla M, Fangusaro
+  J, Goldman S, Tomita T, Alden T, DiPatri A, Rubin JB, Gauvain K, Limbrick D, Leonard
+  J, Geyer JR, Leary S, Browd S, Wang Z, Sood S, Bendel A, Nagib M, Gardner S, Karajannis
+  MA, Harter D, Ayyanar K, Gump W, Bowers DC, Weprin B, MacDonald TJ, Aguilera D,
+  Brahma B, Robison NJ, Kiehna E, Krieger M, Sandler E, Aldana P, Khatib Z, Ragheb
+  J, Bhatia S, Mueller S, Banerjee A, Bredlau AL, Gururangan S, Fuchs H, Cohen KJ,
+  Jallo G, Dorris K, Handler M, Comito M, Dias M, Nazemi K, Baird L, Murray J, Lindeman
+  N, Hornick JL, Malkin H, Sinai C, Greenspan L, Wright KD, Prados M, Bandopadhayay
+  P, Ligon KL, Kieran MW.
+counts:
+  biosamples: 46.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 46.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Neuro-oncology, 2018
+notes: The GEO GSE48941 points to 11 Illumina samples, though SNP arrays are mentioned.
+pmid: '29741745'
+title: Prospective Feasibility and Safety Assessment of Surgical Biopsy for Patients
+  with Newly Diagnosed Diffuse Intrinsic Pontine Glioma.
+year: '2018'

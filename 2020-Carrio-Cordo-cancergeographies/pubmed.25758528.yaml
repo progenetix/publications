@@ -1,0 +1,28 @@
+authors: "Niederst MJ, Sequist LV, Poirier JT, Mermel CH, Lockerman EL, Garcia AR,\
+  \ Katayama R, Costa C, Ross KN, Moran T, Howe E, Fulton LE, Mulvey HE, Bernardo\
+  \ LA, Mohamoud F, Miyoshi N, VanderLaan PA, Costa DB, J\xE4nne PA, Borger DR, Ramaswamy\
+  \ S, Shioda T, Iafrate AJ, Getz G, Rudin CM, Mino-Kenudson M, Engelman JA."
+counts:
+  biosamples: 9.0
+  samples_acgh: 9.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Nat Commun 6, 2015
+notes: ''
+pmid: '25758528'
+title: RB loss in resistant EGFR mutant lung adenocarcinomas that transform to small-cell
+  lung cancer.
+year: '2015'

@@ -1,0 +1,27 @@
+authors: "Mestre-Escorihuela C, Rubio-Moscardo F, Richter JA, Siebert R, Climent J,\
+  \ Fresquet V, Beltran E, Agirre X, Marugan I, Mar\xEDn M, Rosenwald A, Sugimoto\
+  \ KJ, Wheat LM, Karran EL, Garc\xEDa JF, Sanchez L, Prosper F, Staudt LM, Pinkel\
+  \ D, Dyer MJ, Martinez-Climent JA."
+counts:
+  biosamples: 48.0
+  samples_acgh: 48.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: ''
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: Blood 109(1), 2007
+notes: NA
+pmid: '16960149'
+title: Homozygous deletions localize novel tumor suppressor genes in B-cell lymphomas.
+year: '2007'

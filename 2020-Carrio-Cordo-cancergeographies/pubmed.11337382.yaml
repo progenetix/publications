@@ -1,0 +1,26 @@
+authors: "Hern\xE1ndez JM, Garc\xEDa JL, Guti\xE9rrez NC, Mollejo M, Mart\xEDnez-Climent\
+  \ JA, Flores T, Gonz\xE1lez MB, Piris MA, San Miguel JF."
+counts:
+  biosamples: 29.0
+  samples_acgh: 0.0
+  samples_ccgh: 29.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.68
+    - 40.43
+    type: Point
+  info:
+    city: Salamanca
+    continent: ''
+    country: Spain
+    label: Salamanca, Spain, Europe
+    precision: city
+journal: Am. J. Pathol. 158(5), 2001
+notes: NA
+pmid: '11337382'
+title: Novel genomic imbalances in B-cell splenic marginal zone lymphomas revealed
+  by comparative genomic hybridization and cytogenetics.
+year: '2001'

@@ -1,0 +1,29 @@
+authors: Viswanathan SR, Ha G, Hoff AM, Wala JA, Carrot-Zhang J, Whelan CW, Haradhvala
+  NJ, Freeman SS, Reed SC, Rhoades J, Polak P, Cipicchio M, Wankowicz SA, Wong A,
+  Kamath T, Zhang Z, Gydush GJ, Rotem D, PCF/SU2C International Prostate Cancer Dream
+  Team, Love JC, Getz G, Gabriel S, Zhang CZ, Dehm SM, Nelson PS, Van Allen EM, Choudhury
+  AD, Adalsteinsson VA, Beroukhim R, Taplin ME, Meyerson M.
+counts:
+  biosamples: 23.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 23.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Cell, 2018
+notes: No PDF available yet
+pmid: '29909985'
+title: Structural Alterations Driving Castration-Resistant Prostate Cancer Revealed
+  by Linked-Read Genome Sequencing.
+year: '2018'

@@ -1,0 +1,25 @@
+authors: Dickman CT, Towle R, Saini R, Garnis C.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: J. Oral Pathol. Med. 44(5), 2015
+notes: ''
+pmid: '25169794'
+title: Molecular characterization of immortalized normal and dysplastic oral cell
+  lines.
+year: '2015'

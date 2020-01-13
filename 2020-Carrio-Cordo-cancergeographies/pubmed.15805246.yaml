@@ -1,0 +1,26 @@
+authors: Hu N, Wang C, Hu Y, Yang HH, Giffen C, Tang ZZ, Han XY, Goldstein AM, Emmert-Buck
+  MR, Buetow KH, Taylor PR, Lee MP.
+counts:
+  biosamples: 0.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.0
+    - 0.0
+    type: Point
+  info:
+    city: null
+    continent: ''
+    country: null
+    label: null
+    precision: null
+journal: Cancer Res. 65(7), 2005
+notes: GWAS
+pmid: '15805246'
+title: Genome-wide association study in esophageal cancer using GeneChip mapping 10K
+  array.
+year: '2005'

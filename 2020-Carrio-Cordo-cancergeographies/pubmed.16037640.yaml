@@ -1,0 +1,26 @@
+authors: "Hermsen M, Alonso Guerv\xF3s M, Meijer G, van Diest P, Su\xE1rez Nieto C,\
+  \ Marcos CA, Sampedro A."
+counts:
+  biosamples: 56.0
+  samples_acgh: 0.0
+  samples_ccgh: 56.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -5.84
+    - 43.36
+    type: Point
+  info:
+    city: Oviedo
+    continent: ''
+    country: Spain
+    label: Oviedo, Spain, Europe
+    precision: city
+journal: Cell. Oncol. 27(3), 2005
+notes: maja.hermsen@azvu.nl
+pmid: '16037640'
+title: Chromosomal changes in relation to clinical outcome in larynx and pharynx squamous
+  cell carcinoma.
+year: '2005'

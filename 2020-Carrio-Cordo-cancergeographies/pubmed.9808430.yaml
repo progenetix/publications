@@ -1,0 +1,27 @@
+authors: "Zitzelsberger H, Kulka U, Lehmann L, Walch A, Smida J, Aubele M, L\xF6rch\
+  \ T, H\xF6fler H, Bauchinger M, Werner M."
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.56
+    - 48.25
+    type: Point
+  info:
+    city: Oberschleissheim
+    continent: ''
+    country: Germany
+    label: Oberschleissheim, Germany, Europe
+    precision: city
+journal: Virchows Arch. 433(4), 1998
+notes: NA
+pmid: '9808430'
+title: Genetic heterogeneity in a prostatic carcinoma and associated prostatic intraepithelial
+  neoplasia as demonstrated by combined use of laser-microdissection, degenerate oligonucleotide
+  primed PCR and comparative genomic hybridization.
+year: '1998'

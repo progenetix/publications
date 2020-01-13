@@ -1,0 +1,26 @@
+authors: "Gon\xE7alves A, Finetti P, Sabatier R, Gilabert M, Adelaide J, Borg JP,\
+  \ Chaffanet M, Viens P, Birnbaum D, Bertucci F."
+counts:
+  biosamples: 260.0
+  samples_acgh: 260.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.38
+    - 43.3
+    type: Point
+  info:
+    city: Marseille
+    continent: ''
+    country: France
+    label: Marseille, France, Europe
+    precision: city
+journal: Breast Cancer Res. Treat. 127(1), 2011
+notes: Of the 260 samples, a subset of 93 probably had been reported previously (PMID
+  18089785).
+pmid: '21069454'
+title: 'Poly(ADP-ribose) polymerase-1 mRNA expression in human breast cancer: a meta-analysis.'
+year: '2011'

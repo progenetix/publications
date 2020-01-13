@@ -1,0 +1,25 @@
+authors: Flynn A, Benn D, Clifton-Bligh R, Robinson B, Trainer AH, James P, Hogg A,
+  Waldeck K, George J, Li J, Fox SB, Gill AJ, McArthur G, Hicks RJ, Tothill RW.
+counts:
+  biosamples: 80.0
+  samples_acgh: 40.0
+  samples_ccgh: 0.0
+  samples_wes: 40.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: ''
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: J. Pathol. 236(1), 2015
+notes: ''
+pmid: '25545346'
+title: The genomic landscape of phaeochromocytoma.
+year: '2015'

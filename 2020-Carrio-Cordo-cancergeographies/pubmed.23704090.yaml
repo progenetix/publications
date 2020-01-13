@@ -1,0 +1,27 @@
+authors: "Kr\xF6nke J, Bullinger L, Teleanu V, Tsch\xFCrtz F, Gaidzik VI, K\xFChn\
+  \ MW, R\xFCcker FG, Holzmann K, Paschka P, Kapp-Schw\xF6rer S, Sp\xE4th D, Kindler\
+  \ T, Schittenhelm M, Krauter J, Ganser A, G\xF6hring G, Schlegelberger B, Schlenk\
+  \ RF, D\xF6hner H, D\xF6hner K."
+counts:
+  biosamples: 159.0
+  samples_acgh: 159.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: null
+    precision: city
+journal: Blood 122(1), 2013
+notes: 31 samples from 3 patients
+pmid: '23704090'
+title: Clonal evolution in relapsed NPM1-mutated acute myeloid leukemia.
+year: '2013'

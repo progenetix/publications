@@ -1,0 +1,26 @@
+authors: "Verbeek W, Schulten HJ, Sperling M, Tiesmeier J, Stoop H, Dinjens W, Looijenga\
+  \ L, W\xF6rmann B, F\xFCzesi L, Donhuijsen K."
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.53
+    - 52.27
+    type: Point
+  info:
+    city: Braunschweig
+    continent: ''
+    country: Germany
+    label: Braunschweig, Germany, Europe
+    precision: city
+journal: Hum. Pathol. 35(11), 2004
+notes: NA
+pmid: '15668903'
+title: 'Rectal adenocarcinoma with choriocarcinomatous differentiation: clinical and
+  genetic aspects.'
+year: '2004'

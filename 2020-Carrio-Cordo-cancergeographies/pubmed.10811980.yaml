@@ -1,0 +1,25 @@
+authors: Gebhart E, Verdorfer I, Saul W, Trautmann U, Brecevic L.
+counts:
+  biosamples: 38.0
+  samples_acgh: 0.0
+  samples_ccgh: 38.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.01
+    - 49.59
+    type: Point
+  info:
+    city: Erlangen
+    continent: ''
+    country: Germany
+    label: Erlangen, Germany, Europe
+    precision: city
+journal: Int. J. Oncol. 16(6), 2000
+notes: NA
+pmid: '10811980'
+title: Delimiting the use of comparative genomic hybridization in human myeloid neoplastic
+  disorders.
+year: '2000'

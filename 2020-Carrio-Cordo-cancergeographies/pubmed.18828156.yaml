@@ -1,0 +1,31 @@
+authors: "Schwaenen C, Viardot A, Berger H, Barth TF, Bentink S, D\xF6hner H, Enz\
+  \ M, Feller AC, Hansmann ML, Hummel M, Kestler HA, Klapper W, Kreuz M, Lenze D,\
+  \ Loeffler M, M\xF6ller P, M\xFCller-Hermelink HK, Ott G, Rosolowski M, Rosenwald\
+  \ A, Ruf S, Siebert R, Spang R, Stein H, Truemper L, Lichter P, Bentz M, Wessendorf\
+  \ S, Molecular Mechanisms in Malignant Lymphomas Network Project of the Deutsche\
+  \ Krebshilfe."
+counts:
+  biosamples: 128.0
+  samples_acgh: 128.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 48(1), 2009
+notes: ISCN karyotypes were generated from the supplementary data table (clone status
+  data).
+pmid: '18828156'
+title: Microarray-based genomic profiling reveals novel genomic aberrations in follicular
+  lymphoma which associate with patient survival and gene expression status.
+year: '2009'

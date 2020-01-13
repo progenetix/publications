@@ -1,0 +1,26 @@
+authors: Krijgsman O, Gonzalez P, Ponz OB, Roemer MG, Slot S, Broeks A, Braaf L, Kerkhoven
+  RM, Bot F, van Groningen K, Beijert M, Ylstra B, de Jong D.
+counts:
+  biosamples: 56.0
+  samples_acgh: 56.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Haematologica 98(12), 2013
+notes: ''
+pmid: '23850804'
+title: Dissecting the gray zone between follicular lymphoma and marginal zone lymphoma
+  using morphological and genetic features.
+year: '2013'

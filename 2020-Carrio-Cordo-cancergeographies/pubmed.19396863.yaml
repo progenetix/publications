@@ -1,0 +1,26 @@
+authors: Agnelli L, Mosca L, Fabris S, Lionetti M, Andronache A, Kwee I, Todoerti
+  K, Verdelli D, Battaglia C, Bertoni F, Deliliers GL, Neri A.
+counts:
+  biosamples: 45.0
+  samples_acgh: 45.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: ''
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 48(7), 2009
+notes: NA
+pmid: '19396863'
+title: 'A SNP microarray and FISH-based procedure to detect allelic imbalances in
+  multiple myeloma: an integrated genomics approach reveals a wide gene dosage effect.'
+year: '2009'

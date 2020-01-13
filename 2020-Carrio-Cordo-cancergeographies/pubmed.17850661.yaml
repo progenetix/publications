@@ -1,0 +1,25 @@
+authors: Yau C, Fedele V, Roydasgupta R, Fridlyand J, Hubbard A, Gray JW, Chew K,
+  Dairkee SH, Moore DH, Schittulli F, Tommasi S, Paradiso A, Albertson DG, Benz CC.
+counts:
+  biosamples: 71.0
+  samples_acgh: 71.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.57
+    - 38.11
+    type: Point
+  info:
+    city: Novato
+    continent: ''
+    country: United States
+    label: Novato, United States, North America
+    precision: city
+journal: Breast Cancer Res. 9(5), 2007
+notes: NA
+pmid: '17850661'
+title: Aging impacts transcriptomes but not genomes of hormone-dependent breast cancers.
+year: '2007'

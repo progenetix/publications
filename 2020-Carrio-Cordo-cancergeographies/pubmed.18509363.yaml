@@ -1,0 +1,27 @@
+authors: Marty M, Prochazkova M, Laharanne E, Chevret E, Longy M, Jouary T, Vergier
+  B, Beylot-Barry M, Merlio JP.
+counts:
+  biosamples: 21.0
+  samples_acgh: 21.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: ''
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: J. Invest. Dermatol. 128(10), 2008
+notes: Of overall 24 aCGH analyses, 3 had been reported previously (Prochazkova et
+  al.).
+pmid: '18509363'
+title: Primary cutaneous T-cell lymphomas do not show specific NAV3 gene deletion
+  or translocation.
+year: '2008'

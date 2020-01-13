@@ -1,0 +1,27 @@
+authors: "McCabe MG, Ichimura K, Liu L, Plant K, B\xE4cklund LM, Pearson DM, Collins\
+  \ VP."
+counts:
+  biosamples: 41.0
+  samples_acgh: 41.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ''
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city
+journal: J. Neuropathol. Exp. Neurol. 65(6), 2006
+notes: The data was converted from the supplementary log2 data table, using the Bioconductor
+  DNAcopy package with a 1Mb filter.
+pmid: '16783165'
+title: High-resolution array-based comparative genomic hybridization of medulloblastomas
+  and supratentorial primitive neuroectodermal tumors.
+year: '2006'

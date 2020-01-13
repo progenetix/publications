@@ -1,0 +1,27 @@
+authors: Vandesompele J, Speleman F, Van Roy N, Laureys G, Brinskchmidt C, Christiansen
+  H, Lampert F, Lastowska M, Bown N, Pearson A, Nicholson JC, Ross F, Combaret V,
+  Delattre O, Feuerstein BG, Plantaz D.
+counts:
+  biosamples: 204.0
+  samples_acgh: 0.0
+  samples_ccgh: 204.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.7199999999999998
+    - 51.05
+    type: Point
+  info:
+    city: Gent
+    continent: ''
+    country: Belgium
+    label: Gent, Belgium, Europe
+    precision: city
+journal: Med. Pediatr. Oncol. 36(1), 2001
+notes: NA
+pmid: '11464905'
+title: 'Multicentre analysis of patterns of DNA gains and losses in 204 neuroblastoma
+  tumors: how many genetic subgroups are there?'
+year: '2001'

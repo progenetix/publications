@@ -1,0 +1,26 @@
+authors: Rosenberg C, Mostert MC, Schut TB, van de Pol M, van Echten J, de Jong B,
+  Raap AK, Tanke H, Oosterhuis JW, Looijenga LH.
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 4.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ''
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city
+journal: Genes Chromosomes Cancer 23(4), 1998
+notes: NA
+pmid: '9824200'
+title: 'Chromosomal constitution of human spermatocytic seminomas: comparative genomic
+  hybridization supported by conventional and interphase cytogenetics.'
+year: '1998'

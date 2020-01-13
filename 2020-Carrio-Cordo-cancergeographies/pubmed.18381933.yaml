@@ -1,0 +1,27 @@
+authors: Vincent-Salomon A, Lucchesi C, Gruel N, Raynal V, Pierron G, Goudefroye R,
+  Reyal F, Radvanyi F, Salmon R, Thiery JP, Sastre-Garau X, Sigal-Zafrani B, Fourquet
+  A, Delattre O, breast cancer study group of the Institut Curie.
+counts:
+  biosamples: 57.0
+  samples_acgh: 57.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Clin. Cancer Res. 14(7), 2008
+notes: NA
+pmid: '18381933'
+title: Integrated genomic and transcriptomic analysis of ductal carcinoma in situ
+  of the breast.
+year: '2008'

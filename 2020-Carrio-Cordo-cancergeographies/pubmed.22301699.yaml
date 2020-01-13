@@ -1,0 +1,26 @@
+authors: Braggio E, Dogan A, Keats JJ, Chng WJ, Huang G, Matthews JM, Maurer MJ, Law
+  ME, Bosler DS, Barrett M, Lossos IS, Witzig TE, Fonseca R.
+counts:
+  biosamples: 114.0
+  samples_acgh: 114.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -111.9
+    - 33.51
+    type: Point
+  info:
+    city: Scottsdale
+    continent: ''
+    country: United States
+    label: Scottsdale, United States, North America
+    precision: city
+journal: Mod. Pathol. 25(5), 2012
+notes: ''
+pmid: '22301699'
+title: Genomic analysis of marginal zone and lymphoplasmacytic lymphomas identified
+  common and disease-specific abnormalities.
+year: '2012'

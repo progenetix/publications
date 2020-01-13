@@ -1,0 +1,27 @@
+authors: "Toffoli S, Bar I, Abdel-Sater F, Delr\xE9e P, Hilbert P, Cavallin F, Moreau\
+  \ F, Van Criekinge W, Lacroix-Triki M, Campone M, Martin AL, Roch\xE9 H, Machiels\
+  \ JP, Carrasco J, Canon JL."
+counts:
+  biosamples: 131.0
+  samples_acgh: 131.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.44
+    - 50.41
+    type: Point
+  info:
+    city: Charleroi
+    continent: ''
+    country: Belgium
+    label: Charleroi, Belgium, Europe
+    precision: city
+journal: Breast Cancer Res. 16(6), 2014
+notes: ''
+pmid: '25416589'
+title: Identification by array comparative genomic hybridization of a new amplicon
+  on chromosome 17q highly recurrent in BRCA1 mutated triple negative breast cancer.
+year: '2014'

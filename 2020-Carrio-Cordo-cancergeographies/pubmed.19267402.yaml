@@ -1,0 +1,25 @@
+authors: "Pathare S, Sch\xE4ffer AA, Beerenwinkel N, Mahimkar M."
+counts:
+  biosamples: 97.0
+  samples_acgh: 0.0
+  samples_ccgh: 97.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 73.02
+    - 19.04
+    type: Point
+  info:
+    city: Navi Mumbai
+    continent: ''
+    country: India
+    label: Navi Mumbai, India, Asia
+    precision: city
+journal: Int. J. Cancer 124(12), 2009
+notes: NA
+pmid: '19267402'
+title: Construction of oncogenetic tree models reveals multiple pathways of oral cancer
+  progression.
+year: '2009'

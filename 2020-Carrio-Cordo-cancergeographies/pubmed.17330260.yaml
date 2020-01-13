@@ -1,0 +1,29 @@
+authors: "Ass\xE4m\xE4ki R, Sarlomo-Rikala M, Lopez-Guerrero JA, Lasota J, Andersson\
+  \ LC, Llombart-Bosch A, Miettinen M, Knuutila S."
+counts:
+  biosamples: 56.0
+  samples_acgh: 35.0
+  samples_ccgh: 21.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 46(6), 2007
+notes: All 35 tumors were analyzed with 16k cDNA arrays. In 8 tumors with 14q changes,
+  hybridizations were redone with 44k Agilent oligo-arrays. For some of the cases,
+  CGH data was available from another study (PMID 10919666); those cases were only
+  reported here, to avoid duplication of results in the database.
+pmid: '17330260'
+title: Array comparative genomic hybridization analysis of chromosomal imbalances
+  and their target genes in gastrointestinal stromal tumors.
+year: '2007'

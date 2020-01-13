@@ -1,0 +1,25 @@
+authors: Anderson K, Lutz C, van Delft FW, Bateman CM, Guo Y, Colman SM, Kempski H,
+  Moorman AV, Titley I, Swansbury J, Kearney L, Enver T, Greaves M.
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: ''
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: Nature 469(7330), 2011
+notes: NA
+pmid: '21160474'
+title: Genetic variegation of clonal architecture and propagating cells in leukaemia.
+year: '2011'

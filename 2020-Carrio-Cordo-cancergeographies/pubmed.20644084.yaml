@@ -1,0 +1,27 @@
+authors: Gutierrez A, Dahlberg SE, Neuberg DS, Zhang J, Grebliunaite R, Sanda T, Protopopov
+  A, Tosello V, Kutok J, Larson RS, Borowitz MJ, Loh ML, Ferrando AA, Winter SS, Mullighan
+  CG, Silverman LB, Chin L, Hunger SP, Sallan SE, Look AT.
+counts:
+  biosamples: 47.0
+  samples_acgh: 47.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: J. Clin. Oncol. 28(24), 2010
+notes: NA
+pmid: '20644084'
+title: Absence of biallelic TCRgamma deletion predicts early treatment failure in
+  pediatric T-cell acute lymphoblastic leukemia.
+year: '2010'

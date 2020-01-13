@@ -1,0 +1,26 @@
+authors: "Berglund M, Enblad G, Thunberg U, Amini RM, Sundstr\xF6m C, Roos G, Erlanson\
+  \ M, Rosenquist R, Larsson C, Lagercrantz S."
+counts:
+  biosamples: 58.0
+  samples_acgh: 0.0
+  samples_ccgh: 58.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: ''
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: Mod. Pathol. 20(1), 2007
+notes: NA
+pmid: '17170743'
+title: Genomic imbalances during transformation from follicular lymphoma to diffuse
+  large B-cell lymphoma.
+year: '2007'

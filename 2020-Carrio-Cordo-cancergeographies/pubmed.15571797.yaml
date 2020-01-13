@@ -1,0 +1,24 @@
+authors: Kleivi K, Teixeira MR, Eknaes M, Diep CB, Jakobsen KS, Hamelin R, Lothe RA.
+counts:
+  biosamples: 23.0
+  samples_acgh: 0.0
+  samples_ccgh: 23.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 155(2), 2004
+notes: NA
+pmid: '15571797'
+title: Genome signatures of colon carcinoma cell lines.
+year: '2004'

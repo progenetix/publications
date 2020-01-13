@@ -1,0 +1,26 @@
+authors: Bigner SH, Matthews MR, Rasheed BK, Wiltshire RN, Friedman HS, Friedman AH,
+  Stenzel TT, Dawes DM, McLendon RE, Bigner DD.
+counts:
+  biosamples: 55.0
+  samples_acgh: 0.0
+  samples_ccgh: 55.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -78.9
+    - 35.99
+    type: Point
+  info:
+    city: Durham
+    continent: ''
+    country: United States
+    label: Durham, United States, North America
+    precision: city
+journal: Am. J. Pathol. 155(2), 1999
+notes: NA
+pmid: '10433931'
+title: Molecular genetic aspects of oligodendrogliomas including analysis by comparative
+  genomic hybridization.
+year: '1999'

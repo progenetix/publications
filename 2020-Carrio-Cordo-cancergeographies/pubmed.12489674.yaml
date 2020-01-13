@@ -1,0 +1,24 @@
+authors: Heimberger AB, Wiltshire RN, Bronec R, McLendon RE, Cummings TJ.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: ''
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: Clin. Neuropathol. 21(6), 2002
+notes: NA
+pmid: '12489674'
+title: 'Biphasic malignant meningioma: a comparative genomic hybridization study.'
+year: '2002'

@@ -1,0 +1,26 @@
+authors: McArdle L, McDermott M, Purcell R, Grehan D, O'Meara A, Breatnach F, Catchpoole
+  D, Culhane AC, Jeffery I, Gallagher WM, Stallings RL.
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -6.25
+    - 53.33
+    type: Point
+  info:
+    city: Dublin
+    continent: ''
+    country: Ireland
+    label: Dublin, Ireland, Europe
+    precision: city
+journal: Carcinogenesis 25(9), 2004
+notes: NA
+pmid: '15090470'
+title: Oligonucleotide microarray analysis of gene expression in neuroblastoma displaying
+  loss of chromosome 11q.
+year: '2004'

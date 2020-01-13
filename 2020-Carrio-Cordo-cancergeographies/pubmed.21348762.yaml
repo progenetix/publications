@@ -1,0 +1,26 @@
+authors: Coco S, Valdora F, Bonassi S, Scaruffi P, Stigliani S, Oberthuer A, Berthold
+  F, Andolfo I, Servidei T, Riccardi R, Basso E, Iolascon A, Tonini GP.
+counts:
+  biosamples: 31.0
+  samples_acgh: 31.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: ''
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: OMICS 15(5), 2011
+notes: NA
+pmid: '21348762'
+title: Chromosome 9q and 16q loss identified by genome-wide pooled-analysis are associated
+  with tumor aggressiveness in patients with classic medulloblastoma.
+year: '2011'

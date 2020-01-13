@@ -1,0 +1,27 @@
+authors: "Heselmeyer K, Macville M, Schr\xF6ck E, Blegen H, Hellstr\xF6m AC, Shah\
+  \ K, Auer G, Ried T."
+counts:
+  biosamples: 30.0
+  samples_acgh: 0.0
+  samples_ccgh: 30.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 19(4), 1997
+notes: The data is also contained in the NCBI SKY-CGH database.
+pmid: '9258658'
+title: Advanced-stage cervical carcinomas are defined by a recurrent pattern of chromosomal
+  aberrations revealing high genetic instability and a consistent gain of chromosome
+  arm 3q.
+year: '1997'

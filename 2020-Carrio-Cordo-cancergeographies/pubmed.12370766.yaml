@@ -1,0 +1,24 @@
+authors: Fan X, Aalto Y, Sanko SG, Knuutila S, Klatzmann D, Castresana JS.
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.6400000000000001
+    - 42.82
+    type: Point
+  info:
+    city: Pamplona
+    continent: ''
+    country: Spain
+    label: Pamplona, Spain, Europe
+    precision: city
+journal: Int. J. Oncol. 21(5), 2002
+notes: NA
+pmid: '12370766'
+title: Genetic profile, PTEN mutation and therapeutic role of PTEN in glioblastomas.
+year: '2002'

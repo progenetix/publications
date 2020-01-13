@@ -1,0 +1,25 @@
+authors: Wong N, Lai P, Lee SW, Fan S, Pang E, Liew CT, Sheng Z, Lau JW, Johnson PJ.
+counts:
+  biosamples: 82.0
+  samples_acgh: 0.0
+  samples_ccgh: 82.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Am. J. Pathol. 154(1), 1999
+notes: NA
+pmid: '9916916'
+title: 'Assessment of genetic changes in hepatocellular carcinoma by comparative genomic
+  hybridization analysis: relationship to disease stage, tumor size, and cirrhosis.'
+year: '1999'

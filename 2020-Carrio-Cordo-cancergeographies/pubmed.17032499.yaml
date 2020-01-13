@@ -1,0 +1,26 @@
+authors: "Cerveira N, Ribeiro FR, Peixoto A, Costa V, Henrique R, Jer\xF3nimo C, Teixeira\
+  \ MR."
+counts:
+  biosamples: 59.0
+  samples_acgh: 0.0
+  samples_ccgh: 59.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -8.61
+    - 41.15
+    type: Point
+  info:
+    city: Porto
+    continent: ''
+    country: Portugal
+    label: Porto, Portugal, Europe
+    precision: city
+journal: Neoplasia 8(10), 2006
+notes: NA
+pmid: '17032499'
+title: TMPRSS2-ERG gene fusion causing ERG overexpression precedes chromosome copy
+  number changes in prostate carcinomas and paired HGPIN lesions.
+year: '2006'

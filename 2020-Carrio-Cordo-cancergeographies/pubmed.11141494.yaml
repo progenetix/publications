@@ -1,0 +1,25 @@
+authors: Jones C, Damiani S, Wells D, Chaggar R, Lakhani SR, Eusebi V.
+counts:
+  biosamples: 24.0
+  samples_acgh: 0.0
+  samples_ccgh: 24.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Am. J. Pathol. 158(1), 2001
+notes: NA
+pmid: '11141494'
+title: Molecular cytogenetic comparison of apocrine hyperplasia and apocrine carcinoma
+  of the breast.
+year: '2001'

@@ -1,0 +1,27 @@
+authors: "Stejskalov\xE1 E, Jarosov\xE1 M, Malis J, Sumerauer D, Urb\xE1nkov\xE1 H,\
+  \ Krskov\xE1 L, P\xFDcha K, Schovanec J, Balc\xE1rkov\xE1 J, Smelhaus V, Kodetov\xE1\
+  \ D, Star\xFD J."
+counts:
+  biosamples: 46.0
+  samples_acgh: 46.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 14.42
+    - 50.09
+    type: Point
+  info:
+    city: Prague
+    continent: ''
+    country: Czech Republic
+    label: Prague, Czech Republic, Europe
+    precision: city
+journal: Klin Onkol 22(2), 2009
+notes: NA
+pmid: '19522375'
+title: '[Clinical relevance of chromosomal aberrations in bone and soft tissue tumors
+  in children and young adults]'
+year: '2009'

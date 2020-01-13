@@ -1,0 +1,25 @@
+authors: Lee HH, Kim SY, Jung ES, Yoo J, Kim TM.
+counts:
+  biosamples: 15.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 15.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: null
+    precision: city
+journal: Gastric Cancer, 2018
+notes: No PDF available yet
+pmid: '30132154'
+title: Mutation heterogeneity between primary gastric cancers and their matched lymph
+  node metastases.
+year: '2018'

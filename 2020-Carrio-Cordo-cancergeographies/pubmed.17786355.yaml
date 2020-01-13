@@ -1,0 +1,26 @@
+authors: Rodrigues R, Roque L, Espadinha C, Pinto A, Domingues R, Dinis J, Catarino
+  A, Pereira T, Leite V.
+counts:
+  biosamples: 17.0
+  samples_acgh: 0.0
+  samples_ccgh: 17.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -9.13
+    - 38.72
+    type: Point
+  info:
+    city: Lisbon
+    continent: ''
+    country: Portugal
+    label: Lisbon, Portugal, Europe
+    precision: city
+journal: Oncol. Rep. 18(4), 2007
+notes: NA
+pmid: '17786355'
+title: Comparative genomic hybridization, BRAF, RAS, RET, and oligo-array analysis
+  in aneuploid papillary thyroid carcinomas.
+year: '2007'

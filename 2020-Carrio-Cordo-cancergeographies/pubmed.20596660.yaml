@@ -1,0 +1,25 @@
+authors: Kang JU, Koo SH, Kwon KC, Park JW.
+counts:
+  biosamples: 22.0
+  samples_acgh: 22.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Int. J. Oncol. 37(2), 2010
+notes: NA
+pmid: '20596660'
+title: Frequent silence of chromosome 9p, homozygous DOCK8, DMRT1 and DMRT3 deletion
+  at 9p24.3 in squamous cell carcinoma of the lung.
+year: '2010'

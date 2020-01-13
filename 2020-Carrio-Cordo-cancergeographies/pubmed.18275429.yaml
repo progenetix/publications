@@ -1,0 +1,27 @@
+authors: "Salaverria I, Be\xE0 S, Lopez-Guillermo A, Lespinet V, Pinyol M, Burkhardt\
+  \ B, Lamant L, Zettl A, Horsman D, Gascoyne R, Ott G, Siebert R, Delsol G, Campo\
+  \ E."
+counts:
+  biosamples: 74.0
+  samples_acgh: 0.0
+  samples_ccgh: 74.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Br. J. Haematol. 140(5), 2008
+notes: NA
+pmid: '18275429'
+title: Genomic profiling reveals different genetic aberrations in systemic ALK-positive
+  and ALK-negative anaplastic large cell lymphomas.
+year: '2008'

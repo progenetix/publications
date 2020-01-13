@@ -1,0 +1,26 @@
+authors: "Mertens F, Larramendy M, Gustavsson A, Gisselsson D, Rydholm A, Brosj\xF6\
+  \ O, Mitelman F, Knuutila S, Mandahl N."
+counts:
+  biosamples: 6.0
+  samples_acgh: 0.0
+  samples_ccgh: 6.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 116(2), 2000
+notes: NA
+pmid: '10640139'
+title: Radiation-associated sarcomas are characterized by complex karyotypes with
+  frequent rearrangements of chromosome arm 3p.
+year: '2000'

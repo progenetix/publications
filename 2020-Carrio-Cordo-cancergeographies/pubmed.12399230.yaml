@@ -1,0 +1,24 @@
+authors: Wong N, Li L, Tsang K, Lai PB, To KF, Johnson PJ.
+counts:
+  biosamples: 13.0
+  samples_acgh: 0.0
+  samples_ccgh: 13.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: J. Hepatol. 37(5), 2002
+notes: NA
+pmid: '12399230'
+title: Frequent loss of chromosome 3p and hypermethylation of RASSF1A in cholangiocarcinoma.
+year: '2002'

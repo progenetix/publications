@@ -1,0 +1,26 @@
+authors: Moody S, Thompson JS, Chuang SS, Liu H, Raderer M, Vassiliou G, Wlodarska
+  I, Wu F, Cogliatti S, Robson A, Ashton-Key M, Bi Y, Goodlad J, Du MQ.
+counts:
+  biosamples: 21.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 21.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.2
+    type: Point
+  info:
+    city: Cambridge
+    continent: ''
+    country: United Kingdom
+    label: null
+    precision: city
+journal: Haematologica, 2018
+notes: Only germline variants were analysed for the cancer patients.
+pmid: '29674500'
+title: Novel GPR34 and CCR6 mutation and distinct genetic profiles in MALT lymphomas
+  of different sites.
+year: '2018'

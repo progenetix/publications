@@ -1,0 +1,25 @@
+authors: Kim J, Kim MA, Min SY, Jee CD, Lee HE, Kim WH.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Genes Chromosomes Cancer 50(6), 2011
+notes: NA
+pmid: '21412930'
+title: Downregulation of methylthioadenosin phosphorylase by homozygous deletion in
+  gastric carcinoma.
+year: '2011'

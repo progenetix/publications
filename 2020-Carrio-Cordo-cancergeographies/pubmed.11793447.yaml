@@ -1,0 +1,26 @@
+authors: Gruszka-Westwood AM, Atkinson S, Summersgill BM, Shipley J, Elnenaei MO,
+  Jain P, Hamoudi RA, Kaeda JS, Wotherspoon AC, Matutes E, Catovsky D.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 33(2), 2002
+notes: NA
+pmid: '11793447'
+title: Unusual case of leukemic mantle cell lymphoma with amplified CCND1/IGH fusion
+  gene.
+year: '2002'

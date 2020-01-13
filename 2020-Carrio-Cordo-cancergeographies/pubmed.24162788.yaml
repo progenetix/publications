@@ -1,0 +1,26 @@
+authors: "Mamessier E, Song JY, Eberle FC, Pack S, Drevet C, Chetaille B, Abdullaev\
+  \ Z, Adela\xEFde J, Birnbaum D, Chaffanet M, Pittaluga S, Roulland S, Chott A, Jaffe\
+  \ ES, Nadel B."
+counts:
+  biosamples: 22.0
+  samples_acgh: 22.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.38
+    - 43.3
+    type: Point
+  info:
+    city: Marseille
+    continent: ''
+    country: France
+    label: Marseille, France, Europe
+    precision: city
+journal: Haematologica 99(3), 2014
+notes: No sample specific data was provided.
+pmid: '24162788'
+title: 'Early lesions of follicular lymphoma: a genetic perspective.'
+year: '2014'

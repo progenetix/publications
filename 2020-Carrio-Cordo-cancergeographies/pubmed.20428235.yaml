@@ -1,0 +1,27 @@
+authors: "Hovatta O, Jaconi M, T\xF6h\xF6nen V, B\xE9na F, Gimelli S, Bosman A, Holm\
+  \ F, Wyder S, Zdobnov EM, Irion O, Andrews PW, Antonarakis SE, Zucchelli M, Kere\
+  \ J, Feki A."
+counts:
+  biosamples: 5.0
+  samples_acgh: 5.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: ''
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: PLoS ONE 5(4), 2010
+notes: NA
+pmid: '20428235'
+title: A teratocarcinoma-like human embryonic stem cell (hESC) line and four hESC
+  lines reveal potentially oncogenic genomic changes.
+year: '2010'

@@ -1,0 +1,26 @@
+authors: Lambros MB, Fiegler H, Jones A, Gorman P, Roylance RR, Carter NP, Tomlinson
+  IP.
+counts:
+  biosamples: 23.0
+  samples_acgh: 23.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: J. Pathol. 205(1), 2005
+notes: NA
+pmid: '15586366'
+title: Analysis of ovarian cancer cell lines using array-based comparative genomic
+  hybridization.
+year: '2005'

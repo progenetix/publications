@@ -1,0 +1,25 @@
+authors: Chien G, Yuen PW, Kwong D, Kwong YL.
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 126(1), 2001
+notes: NA
+pmid: '11343782'
+title: 'Comparative genomic hybridization analysis of nasopharygeal carcinoma: consistent
+  patterns of genetic aberrations and clinicopathological correlations.'
+year: '2001'

@@ -1,0 +1,27 @@
+authors: Larramendy ML, el-Rifai W, Kokkola A, Puolakkainen P, Monni O, Salovaara
+  R, Aarnio M, Knuutila S.
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 25.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 106(1), 1998
+notes: NA
+pmid: '9772911'
+title: Comparative genomic hybridization reveals differences in DNA copy number changes
+  between sporadic gastric carcinomas and gastric carcinomas from patients with hereditary
+  nonpolyposis colorectal cancer.
+year: '1998'

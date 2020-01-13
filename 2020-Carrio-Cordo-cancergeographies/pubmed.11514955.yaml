@@ -1,0 +1,25 @@
+authors: "Bal\xE1zs M, Ad\xE1m Z, Treszl A, B\xE9g\xE1ny A, Hunyadi J, Ad\xE1ny R."
+counts:
+  biosamples: 28.0
+  samples_acgh: 0.0
+  samples_ccgh: 28.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 21.63
+    - 47.53
+    type: Point
+  info:
+    city: Debrecen
+    continent: ''
+    country: Hungary
+    label: Debrecen, Hungary, Europe
+    precision: city
+journal: Cytometry 46(4), 2001
+notes: NA
+pmid: '11514955'
+title: Chromosomal imbalances in primary and metastatic melanomas revealed by comparative
+  genomic hybridization.
+year: '2001'

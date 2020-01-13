@@ -1,0 +1,25 @@
+authors: Ma SK, Wan TS, Cheuk AT, Fung LF, Chan GC, Chan SY, Ha SY, Chan LC.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Leukemia 15(9), 2001
+notes: NA
+pmid: '11516105'
+title: 'Characterization of additional genetic events in childhood acute lymphoblastic
+  leukemia with TEL/AML1 gene fusion: a molecular cytogenetics study.'
+year: '2001'

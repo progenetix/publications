@@ -1,0 +1,25 @@
+authors: Kang J.
+counts:
+  biosamples: 19.0
+  samples_acgh: 19.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 127.15
+    - 36.81
+    type: Point
+  info:
+    city: Cheonan
+    continent: ''
+    country: Korean Republic
+    label: Cheonan, Korean Republic, Asia
+    precision: city
+journal: Exp Ther Med 9(2), 2015
+notes: ''
+pmid: '25574196'
+title: Genomic alterations on 8p21-p23 are the most frequent genetic events in stage
+  I squamous cell carcinoma of the lung.
+year: '2015'

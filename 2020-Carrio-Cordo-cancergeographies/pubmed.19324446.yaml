@@ -1,0 +1,26 @@
+authors: Boelens MC, Kok K, van der Vlies P, van der Vries G, Sietsma H, Timens W,
+  Postma DS, Groen HJ, van den Berg A.
+counts:
+  biosamples: 34.0
+  samples_acgh: 34.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.57
+    - 53.22
+    type: Point
+  info:
+    city: Groningen
+    continent: ''
+    country: The Netherlands
+    label: Groningen, The Netherlands
+    precision: city
+journal: Lung Cancer 66(3), 2009
+notes: NA
+pmid: '19324446'
+title: Genomic aberrations in squamous cell lung carcinoma related to lymph node or
+  distant metastasis.
+year: '2009'

@@ -1,0 +1,25 @@
+authors: Kim BR, Kim JE, Woo KS, Kim KH, Kim JM, Lee S, Shaffer LG, Han JY.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 129.04
+    - 35.1
+    type: Point
+  info:
+    city: Busan
+    continent: ''
+    country: Korean Republic
+    label: Busan, Korean Republic, Asia
+    precision: city
+journal: Ann Lab Med 32(4), 2012
+notes: NA
+pmid: '22779072'
+title: A case of near-triploidy in myelodysplastic syndrome with del(5q) combined
+  with del(1p) and del(13q).
+year: '2012'

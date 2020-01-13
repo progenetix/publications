@@ -1,0 +1,25 @@
+authors: Kurihara Y, Ghazizadeh M, Bo H, Shimizu H, Kawanami O, Moriyama Y, Onda M.
+counts:
+  biosamples: 7.0
+  samples_acgh: 0.0
+  samples_ccgh: 7.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: J Nippon Med Sch 69(3), 2002
+notes: NA
+pmid: '12068314'
+title: Genome-wide screening of laser capture microdissected gastric signet-ring cell
+  carcinomas.
+year: '2002'

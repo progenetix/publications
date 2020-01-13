@@ -1,0 +1,26 @@
+authors: Loukopoulos P, Shibata T, Katoh H, Kokubu A, Sakamoto M, Yamazaki K, Kosuge
+  T, Kanai Y, Hosoda F, Imoto I, Ohki M, Inazawa J, Hirohashi S.
+counts:
+  biosamples: 44.0
+  samples_acgh: 44.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -98.49
+    - 29.42
+    type: Point
+  info:
+    city: San Antonio
+    continent: ''
+    country: United States
+    label: San Antonio, United States, North America
+    precision: city
+journal: Cancer Sci. 98(3), 2007
+notes: NA
+pmid: '17233815'
+title: 'Genome-wide array-based comparative genomic hybridization analysis of pancreatic
+  adenocarcinoma: identification of genetic indicators that predict patient outcome.'
+year: '2007'

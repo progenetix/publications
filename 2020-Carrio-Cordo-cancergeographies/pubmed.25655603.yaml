@@ -1,0 +1,28 @@
+authors: "Paiva B, Corchete LA, Vidriales MB, Garc\xEDa-Sanz R, Perez JJ, Aires-Mejia\
+  \ I, Sanchez ML, Barcena P, Alignani D, Jimenez C, Sarasquete ME, Mateos MV, Ocio\
+  \ EM, Puig N, Escalante F, Hern\xE1ndez J, Cuello R, Garc\xEDa de Coca A, Sierra\
+  \ M, Montes MC, Gonz\xE1lez-L\xF3pez TJ, Galende J, B\xE1rez A, Alonso J, Pardal\
+  \ E, Orfao A, Gutierrez NC, San Miguel JF."
+counts:
+  biosamples: 37.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 37.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.6400000000000001
+    - 42.82
+    type: Point
+  info:
+    city: Pamplona
+    continent: ''
+    country: Spain
+    label: Pamplona, Spain, Europe
+    precision: city
+journal: Blood 125(15), 2015
+notes: ''
+pmid: '25655603'
+title: "The cellular origin and malignant transformation of Waldenstr\xF6m macroglobulinemia."
+year: '2015'

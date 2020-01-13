@@ -1,0 +1,26 @@
+authors: Trucco MM, Awad O, Wilky BA, Goldstein SD, Huang R, Walker RL, Shah P, Katuri
+  V, Gul N, Zhu YJ, McCarthy EF, Paz-Priel I, Meltzer PS, Austin CP, Xia M, Loeb DM.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: PLoS ONE 8(11), 2013
+notes: 31 samples from 3 patients
+pmid: '24223206'
+title: "A novel chordoma xenograft allows in vivo drug testing and reveals the importance\
+  \ of NF-\u03BAB signaling in chordoma biology."
+year: '2013'

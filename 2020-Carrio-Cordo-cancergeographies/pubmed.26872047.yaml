@@ -1,0 +1,31 @@
+authors: "Forero-Castro M, Robledo C, Benito R, Ab\xEF\xBF\xBDigar M, \xEF\xBF\xBD\
+  frica Mart\xEF\xBF\xBDn A, Arefi M, Fuster JL, de Las Heras N, Rodr\xEF\xBF\xBD\
+  guez JN, Quintero J, Riesco S, Hermos\xEF\xBF\xBDn L, de la Fuente I, Recio I, Ribera\
+  \ J, Labrador J, Alonso JM, Olivier C, Sierra M, Megido M, Corchete-S\xEF\xBF\xBD\
+  nchez LA, Ciudad Pizarro J, Garc\xEF\xBF\xBDa JL, Ribera JM, Hern\xEF\xBF\xBDndez-Rivas\
+  \ JM."
+counts:
+  biosamples: 265.0
+  samples_acgh: 265.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.68
+    - 40.43
+    type: Point
+  info:
+    city: Salamanca
+    continent: ''
+    country: Spain
+    label: null
+    precision: city
+journal: PLoS ONE 11(2), 2016
+notes: The exact number of samples analysed by aCGH is not clear from the article's
+  text.
+pmid: '26872047'
+title: Genome-Wide DNA Copy Number Analysis of Acute Lymphoblastic Leukemia Identifies
+  New Genetic Markers Associated with Clinical Outcome.
+year: '2016'

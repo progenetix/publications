@@ -1,0 +1,26 @@
+authors: Wei F, Ni J, Wu SS, Liu H, Xu X, Han YL, Cai Y, Zhang JW, Chen XJ, Pang H,
+  Lu N, Ji L, Wu M, Wang MR.
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 25.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: ''
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 138(1), 2002
+notes: NA
+pmid: '12419583'
+title: Cytogenetic studies of esophageal squamous cell carcinomas in the northern
+  Chinese population by comparative genomic hybridization.
+year: '2002'

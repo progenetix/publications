@@ -1,0 +1,27 @@
+authors: Bos R, van Diest PJ, van der Groep P, Greijer AE, Hermsen MA, Heijnen I,
+  Meijer GA, Baak JP, Pinedo HM, van der Wall E, Shvarts A.
+counts:
+  biosamples: 33.0
+  samples_acgh: 0.0
+  samples_ccgh: 33.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Oncogene 22(55), 2003
+notes: The study mentions 86 patients analyzed by CGH, of which 53 had been published
+  previously.
+pmid: '14654791'
+title: Protein expression of B-cell lymphoma gene 6 (BCL-6) in invasive breast cancer
+  is associated with cyclin D1 and hypoxia-inducible factor-1alpha (HIF-1alpha).
+year: '2003'

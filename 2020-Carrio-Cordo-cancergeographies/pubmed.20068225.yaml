@@ -1,0 +1,28 @@
+authors: "Thoennissen NH, Krug UO, Lee DH, Kawamata N, Iwanski GB, Lasho T, Weiss\
+  \ T, Nowak D, Koren-Michowitz M, Kato M, Sanada M, Shih LY, Nagler A, Raynaud SD,\
+  \ M\xFCller-Tidow C, Mesa R, Haferlach T, Gilliland DG, Tefferi A, Ogawa S, Koeffler\
+  \ HP."
+counts:
+  biosamples: 159.0
+  samples_acgh: 159.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: ''
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: Blood 115(14), 2010
+notes: NA
+pmid: '20068225'
+title: Prevalence and prognostic impact of allelic imbalances associated with leukemic
+  transformation of Philadelphia chromosome-negative myeloproliferative neoplasms.
+year: '2010'

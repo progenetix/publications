@@ -1,0 +1,26 @@
+authors: O'Malley DP, Giudice C, Chang AS, Chang D, Barry TS, Hibbard MK, Chen R,
+  Chen ST.
+counts:
+  biosamples: 57.0
+  samples_acgh: 57.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.73
+    - 33.57
+    type: Point
+  info:
+    city: Aliso Viejo
+    continent: ''
+    country: United States
+    label: Aliso Viejo, United States, North America
+    precision: city
+journal: Int J Lab Hematol 33(3), 2011
+notes: NA
+pmid: '21143592'
+title: Comparison of array comparative genomic hybridization (aCGH) to FISH and cytogenetics
+  in prognostic evaluation of chronic lymphocytic leukemia.
+year: '2011'

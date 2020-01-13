@@ -1,0 +1,25 @@
+authors: "Wolf NG, Abdul-Karim FW, Farver C, Schr\xF6ck E, du Manoir S, Schwartz S."
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -84.88
+    - 35.16
+    type: Point
+  info:
+    city: Cleveland
+    continent: ''
+    country: United States
+    label: Cleveland, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 25(4), 1999
+notes: NA
+pmid: '10398423'
+title: Analysis of ovarian borderline tumors using comparative genomic hybridization
+  and fluorescence in situ hybridization.
+year: '1999'

@@ -1,0 +1,26 @@
+authors: Tornillo L, Carafa V, Richter J, Sauter G, Moch H, Minola E, Gambacorta M,
+  Bianchi L, Vecchione R, Terracciano LM.
+counts:
+  biosamples: 41.0
+  samples_acgh: 0.0
+  samples_ccgh: 41.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: ''
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: J. Pathol. 192(3), 2000
+notes: NA
+pmid: '11054713'
+title: Marked genetic similarities between hepatitis B virus-positive and hepatitis
+  C virus-positive hepatocellular carcinomas.
+year: '2000'

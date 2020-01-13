@@ -1,0 +1,27 @@
+authors: "Palomo L, Xicoy B, Garcia O, Mallo M, Adem\xE0 V, Cabez\xF3n M, Arnan M,\
+  \ Pomares H, Jos\xE9 Larrayoz M, Jos\xE9 Calasanz M, Maciejewski JP, Huang D, Shih\
+  \ LY, Ogawa S, Cervera J, Such E, Coll R, Grau J, Sol\xE9 F, Zamora L."
+counts:
+  biosamples: 128.0
+  samples_acgh: 128.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Am. J. Hematol. 91(2), 2016
+notes: ''
+pmid: '26509444'
+title: Impact of SNP array karyotyping on the diagnosis and the outcome of chronic
+  myelomonocytic leukemia with low risk cytogenetic features or no metaphases.
+year: '2016'

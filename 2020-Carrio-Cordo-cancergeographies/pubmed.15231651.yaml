@@ -1,0 +1,27 @@
+authors: "Holzmann K, Kohlhammer H, Schwaenen C, Wessendorf S, Kestler HA, Schwoerer\
+  \ A, Rau B, Radlwimmer B, D\xF6hner H, Lichter P, Gress T, Bentz M."
+counts:
+  biosamples: 38.0
+  samples_acgh: 19.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Cancer Res. 64(13), 2004
+notes: NA
+pmid: '15231651'
+title: Genomic DNA-chip hybridization reveals a higher incidence of genomic amplifications
+  in pancreatic cancer than conventional comparative genomic hybridization and leads
+  to the identification of novel candidate genes.
+year: '2004'

@@ -1,0 +1,25 @@
+authors: Prat E, Del Rey J, Camps J, Ponsa I, Lloreta J, Egozcue J, Gelabert A, Campillo
+  M, Miro R.
+counts:
+  biosamples: 13.0
+  samples_acgh: 0.0
+  samples_ccgh: 13.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Diagn. Mol. Pathol. 17(3), 2008
+notes: NA
+pmid: '18382360'
+title: 'Genomic imbalances in urothelial cancer: intratumor heterogeneity versus multifocality.'
+year: '2008'

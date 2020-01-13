@@ -1,0 +1,25 @@
+authors: Morio T, Morimitsu Y, Hisaoka M, Makishima K, Hashimoto H.
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 130.42
+    - 33.61
+    type: Point
+  info:
+    city: Fukuoka-shi
+    continent: ''
+    country: Japan
+    label: Fukuoka-shi, Japan, Asia
+    precision: city
+journal: Pathol. Int. 52(8), 2002
+notes: NA
+pmid: '12366808'
+title: 'DNA copy number changes in carcinoma in pleomorphic adenoma of the salivary
+  gland: a comparative genomic hybridization study.'
+year: '2002'

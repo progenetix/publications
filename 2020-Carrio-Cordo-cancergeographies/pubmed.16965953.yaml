@@ -1,0 +1,26 @@
+authors: Yoshimoto M, Bayani J, Nuin PA, Silva NS, Cavalheiro S, Stavale JN, Andrade
+  JA, Zielenska M, Squire JA, de Toledo SR.
+counts:
+  biosamples: 9.0
+  samples_acgh: 1.0
+  samples_ccgh: 8.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 170(1), 2006
+notes: NA
+pmid: '16965953'
+title: 'Metaphase and array comparative genomic hybridization: unique copy number
+  changes and gene amplification of medulloblastomas in South America.'
+year: '2006'

@@ -1,0 +1,25 @@
+authors: Klevebring D, Lindberg J, Rockberg J, Hilliges C, Hall P, Sandberg M, Czene
+  K.
+counts:
+  biosamples: 50.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 50.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: ''
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: Breast Cancer Res. Treat. 151(2), 2015
+notes: ''
+pmid: '25922084'
+title: Exome sequencing of contralateral breast cancer identifies metastatic disease.
+year: '2015'

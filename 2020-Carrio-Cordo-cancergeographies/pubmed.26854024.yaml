@@ -1,0 +1,31 @@
+authors: "Nairism\xEF\xBF\xBDgi ML, Tan J, Lim JQ, Nagarajan S, Ng CC, Rajasegaran\
+  \ V, Huang D, Lim WK, Laurensia Y, Wijaya GC, Li ZM, Cutcutache I, Pang WL, Thangaraju\
+  \ S, Ha J, Khoo LP, Chin ST, Dey S, Poore G, Tan LH, Koh HK, Sabai K, Rao HL, Chuah\
+  \ KL, Ho YH, Ng SB, Chuang SS, Zhang F, Liu YH, Pongpruttipan T, Ko YH, Cheah PL,\
+  \ Karim N, Chng WJ, Tang T, Tao M, Tay K, Farid M, Quek R, Rozen SG, Tan P, Teh\
+  \ BT, Lim ST, Tan SY, Ong CK."
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: ''
+    country: SG
+    label: null
+    precision: city
+journal: Leukemia 30(6), 2016
+notes: The exact number of samples analysed by aCGH is not clear from the article's
+  text.
+pmid: '26854024'
+title: JAK-STAT and G-protein-coupled receptor signaling pathways are frequently altered
+  in epitheliotropic intestinal T-cell lymphoma.
+year: '2016'

@@ -1,0 +1,24 @@
+authors: "Micci F, Haugom L, Abeler VM, Trop\xE9 CG, Danielsen HE, Heim S."
+counts:
+  biosamples: 5.0
+  samples_acgh: 0.0
+  samples_ccgh: 5.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Virchows Arch. 452(3), 2008
+notes: NA
+pmid: '18188592'
+title: Consistent numerical chromosome aberrations in thecofibromas of the ovary.
+year: '2008'

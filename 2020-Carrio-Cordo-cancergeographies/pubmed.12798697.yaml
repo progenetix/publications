@@ -1,0 +1,25 @@
+authors: Hu J, Khanna V, Jones MW, Surti U.
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -80.0
+    - 40.44
+    type: Point
+  info:
+    city: Pittsburgh
+    continent: ''
+    country: United States
+    label: Pittsburgh, United States, North America
+    precision: city
+journal: Gynecol. Oncol. 89(3), 2003
+notes: NA
+pmid: '12798697'
+title: 'Comparative study of primary and recurrent ovarian serous carcinomas: comparative
+  genomic hybridization analysis with a potential application for prognosis.'
+year: '2003'

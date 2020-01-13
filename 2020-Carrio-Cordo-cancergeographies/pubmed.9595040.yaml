@@ -1,0 +1,26 @@
+authors: Wong N, Chen SJ, Cao Q, Su XY, Niu C, Wu QW, Leung TW, Wickham N, Johnson
+  PJ, Chen Z.
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 79.85
+    - 6.93
+    type: Point
+  info:
+    city: Colombo
+    continent: ''
+    country: Sri Lanka
+    label: Colombo, Sri Lanka, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 103(1), 1998
+notes: NA
+pmid: '9595040'
+title: Detection of chromosome over- and underrepresentations in hyperdiploid acute
+  lymphoblastic leukemia by comparative genomic hybridization.
+year: '1998'

@@ -1,0 +1,26 @@
+authors: Lee JH, Giovannetti E, Hwang JH, Petrini I, Wang Q, Voortman J, Wang Y, Steinberg
+  SM, Funel N, Meltzer PS, Wang Y, Giaccone G.
+counts:
+  biosamples: 44.0
+  samples_acgh: 44.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 18(2), 2012
+notes: NA
+pmid: '22128300'
+title: Loss of 18q22.3 involving the carboxypeptidase of glutamate-like gene is associated
+  with poor prognosis in resected pancreatic cancer.
+year: '2012'

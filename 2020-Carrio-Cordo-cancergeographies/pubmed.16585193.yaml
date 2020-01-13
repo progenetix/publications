@@ -1,0 +1,26 @@
+authors: Stallings RL, Nair P, Maris JM, Catchpoole D, McDermott M, O'Meara A, Breatnach
+  F.
+counts:
+  biosamples: 56.0
+  samples_acgh: 56.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -98.49
+    - 29.42
+    type: Point
+  info:
+    city: San Antonio
+    continent: ''
+    country: United States
+    label: San Antonio, United States, North America
+    precision: city
+journal: Cancer Res. 66(7), 2006
+notes: NA
+pmid: '16585193'
+title: High-resolution analysis of chromosomal breakpoints and genomic instability
+  identifies PTPRD as a candidate tumor suppressor gene in neuroblastoma.
+year: '2006'

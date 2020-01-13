@@ -1,0 +1,26 @@
+authors: Mateo EC, Lorea CF, Duarte AA, Moreno D, Neder L, Junior ST, Scrileli CA,
+  Tone LG.
+counts:
+  biosamples: 16.0
+  samples_acgh: 0.0
+  samples_ccgh: 16.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -46.64
+    - -23.55
+    type: Point
+  info:
+    city: Sao Paulo
+    continent: ''
+    country: Brazil
+    label: Sao Paulo, Brazil, South America
+    precision: city
+journal: Cancer Genet 204(6), 2011
+notes: NA
+pmid: '21763626'
+title: A study of adrenocortical tumors in children and adolescents by a comparative
+  genomic hybridization technique.
+year: '2011'

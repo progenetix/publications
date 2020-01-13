@@ -1,0 +1,29 @@
+authors: Ma X, Edmonson M, Yergeau D, Muzny DM, Hampton OA, Rusch M, Song G, Easton
+  J, Harvey RC, Wheeler DA, Ma J, Doddapaneni H, Vadodaria B, Wu G, Nagahawatte P,
+  Carroll WL, Chen IM, Gastier-Foster JM, Relling MV, Smith MA, Devidas M, Guidry
+  Auvil JM, Downing JR, Loh ML, Willman CL, Gerhard DS, Mullighan CG, Hunger SP, Zhang
+  J.
+counts:
+  biosamples: 40.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 40.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: ''
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: Nat Commun 6, 2015
+notes: ''
+pmid: '25790293'
+title: Rise and fall of subclones from diagnosis to relapse in pediatric B-acute lymphoblastic
+  leukaemia.
+year: '2015'

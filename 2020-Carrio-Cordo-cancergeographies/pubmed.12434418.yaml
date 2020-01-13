@@ -1,0 +1,25 @@
+authors: "Hungermann D, Roeser K, Buerger H, J\xE4kel T, L\xF6ning T, Herbst H."
+counts:
+  biosamples: 30.0
+  samples_acgh: 0.0
+  samples_ccgh: 30.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: J. Pathol. 198(4), 2002
+notes: NA
+pmid: '12434418'
+title: Relative paucity of gross genetic alterations in myoepitheliomas and myoepithelial
+  carcinomas of salivary glands.
+year: '2002'

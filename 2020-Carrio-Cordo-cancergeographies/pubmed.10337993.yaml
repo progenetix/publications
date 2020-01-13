@@ -1,0 +1,25 @@
+authors: Aalto Y, Nordling S, Kivioja AH, Karaharju E, Elomaa I, Knuutila S.
+counts:
+  biosamples: 27.0
+  samples_acgh: 27.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: null
+    precision: city
+journal: Genes Chromosomes Cancer 25(2), 1999
+notes: The GEO GSE48941 points to 11 Illumina samples, though SNP arrays are mentioned.
+pmid: '10337993'
+title: Among numerous DNA copy number changes, losses of chromosome 13 are highly
+  recurrent in plasmacytoma.
+year: '1999'

@@ -1,0 +1,27 @@
+authors: Timmermann B, Kerick M, Roehr C, Fischer A, Isau M, Boerno ST, Wunderlich
+  A, Barmeyer C, Seemann P, Koenig J, Lappe M, Kuss AW, Garshasbi M, Bertram L, Trappe
+  K, Werber M, Herrmann BG, Zatloukal K, Lehrach H, Schweiger MR.
+counts:
+  biosamples: 4.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 2.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: ''
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: PLoS ONE 5(12), 2010
+notes: NA
+pmid: '21203531'
+title: Somatic mutation profiles of MSI and MSS colorectal cancer identified by whole
+  exome next generation sequencing and bioinformatics analysis.
+year: '2010'

@@ -1,0 +1,26 @@
+authors: Snijders AM, Nowee ME, Fridlyand J, Piek JM, Dorsman JC, Jain AN, Pinkel
+  D, van Diest PJ, Verheijen RH, Albertson DG.
+counts:
+  biosamples: 14.0
+  samples_acgh: 14.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Oncogene 22(27), 2003
+notes: NA
+pmid: '12833150'
+title: Genome-wide-array-based comparative genomic hybridization reveals genetic homogeneity
+  and frequent copy number increases encompassing CCNE1 in fallopian tube carcinoma.
+year: '2003'

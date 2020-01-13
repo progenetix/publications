@@ -1,0 +1,25 @@
+authors: Chen HK, Huang HY, Li CF, Ko SF, Changchien CC, Chen WJ, Huang CC.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 120.31
+    - 22.62
+    type: Point
+  info:
+    city: Kaohsiung
+    continent: ''
+    country: Taiwan
+    label: Kaohsiung, Taiwan, Asia
+    precision: city
+journal: Int. J. Gynecol. Pathol. 28(6), 2009
+notes: NA
+pmid: '19851200'
+title: 'Synchronous presentation of uterine leiomyosarcoma and retroperitoneal liposarcoma:
+  analysis by comparative genomic hybridization and review of the literature.'
+year: '2009'

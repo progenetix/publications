@@ -1,0 +1,26 @@
+authors: Jones AM, Thirlwell C, Howarth KM, Graham T, Chambers W, Segditsas S, Page
+  KM, Phillips RK, Thomas HJ, Sieber OM, Sawyer EJ, Tomlinson IP.
+counts:
+  biosamples: 58.0
+  samples_acgh: 34.0
+  samples_ccgh: 24.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: J. Pathol. 213(3), 2007
+notes: A subset of cases was addtl. analyzed with Illumina SNP arrays.
+pmid: '17893889'
+title: Analysis of copy number changes suggests chromosomal instability in a minority
+  of large colorectal adenomas.
+year: '2007'

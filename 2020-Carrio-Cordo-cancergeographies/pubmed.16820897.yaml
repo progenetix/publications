@@ -1,0 +1,25 @@
+authors: Ishiguro M, Iwasaki H, Takeshita M, Hirose Y, Kaneko Y.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 130.42
+    - 33.61
+    type: Point
+  info:
+    city: Fukuoka-shi
+    continent: ''
+    country: Japan
+    label: Fukuoka-shi, Japan, Asia
+    precision: city
+journal: Oncol. Rep. 16(2), 2006
+notes: NA
+pmid: '16820897'
+title: A cytogenetic analysis in two cases of malignant peripheral nerve sheath tumor
+  showing hypodiploid karyotype.
+year: '2006'

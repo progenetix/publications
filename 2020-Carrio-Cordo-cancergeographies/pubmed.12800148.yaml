@@ -1,0 +1,25 @@
+authors: Alcock HE, Stephenson TJ, Royds JA, Hammond DW.
+counts:
+  biosamples: 53.0
+  samples_acgh: 0.0
+  samples_ccgh: 53.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.47
+    - 53.38
+    type: Point
+  info:
+    city: Sheffield
+    continent: ''
+    country: United Kingdom
+    label: Sheffield, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 37(4), 2003
+notes: NA
+pmid: '12800148'
+title: Analysis of colorectal tumor progression by microdissection and comparative
+  genomic hybridization.
+year: '2003'

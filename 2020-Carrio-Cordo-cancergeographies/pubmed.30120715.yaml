@@ -1,0 +1,25 @@
+authors: Chang YS, Chang CC, Huang HY, Lin CY, Yeh KT, Chang JG.
+counts:
+  biosamples: 7.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 7.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 120.68
+    - 24.15
+    type: Point
+  info:
+    city: Taichung
+    continent: ''
+    country: Taiwan
+    label: null
+    precision: city
+journal: Endocr. Pathol., 2018
+notes: No PDF available yet
+pmid: '30120715'
+title: Detection of Molecular Alterations in Taiwanese Patients with Medullary Thyroid
+  Cancer Using Whole-Exome Sequencing.
+year: '2018'

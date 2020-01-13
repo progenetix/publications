@@ -1,0 +1,42 @@
+authors: "Northcott PA, Shih DJ, Peacock J, Garzia L, Morrissy AS, Zichner T, St\xFC\
+  tz AM, Korshunov A, Reimand J, Schumacher SE, Beroukhim R, Ellison DW, Marshall\
+  \ CR, Lionel AC, Mack S, Dubuc A, Yao Y, Ramaswamy V, Luu B, Rolider A, Cavalli\
+  \ FM, Wang X, Remke M, Wu X, Chiu RY, Chu A, Chuah E, Corbett RD, Hoad GR, Jackman\
+  \ SD, Li Y, Lo A, Mungall KL, Nip KM, Qian JQ, Raymond AG, Thiessen NT, Varhol RJ,\
+  \ Birol I, Moore RA, Mungall AJ, Holt R, Kawauchi D, Roussel MF, Kool M, Jones DT,\
+  \ Witt H, Fernandez-L A, Kenney AM, Wechsler-Reya RJ, Dirks P, Aviv T, Grajkowska\
+  \ WA, Perek-Polnik M, Haberler CC, Delattre O, Reynaud SS, Doz FF, Pernet-Fattet\
+  \ SS, Cho BK, Kim SK, Wang KC, Scheurlen W, Eberhart CG, F\xE8vre-Montange M, Jouvet\
+  \ A, Pollack IF, Fan X, Muraszko KM, Gillespie GY, Di Rocco C, Massimi L, Michiels\
+  \ EM, Kloosterhof NK, French PJ, Kros JM, Olson JM, Ellenbogen RG, Zitterbart K,\
+  \ Kren L, Thompson RC, Cooper MK, Lach B, McLendon RE, Bigner DD, Fontebasso A,\
+  \ Albrecht S, Jabado N, Lindsey JC, Bailey S, Gupta N, Weiss WA, Bogn\xE1r L, Klekner\
+  \ A, Van Meter TE, Kumabe T, Tominaga T, Elbabaa SK, Leonard JR, Rubin JB, Liau\
+  \ LM, Van Meir EG, Fouladi M, Nakamura H, Cinalli G, Garami M, Hauser P, Saad AG,\
+  \ Iolascon A, Jung S, Carlotti CG, Vibhakar R, Ra YS, Robinson S, Zollo M, Faria\
+  \ CC, Chan JA, Levy ML, Sorensen PH, Meyerson M, Pomeroy SL, Cho YJ, Bader GD, Tabori\
+  \ U, Hawkins CE, Bouffet E, Scherer SW, Rutka JT, Malkin D, Clifford SC, Jones SJ,\
+  \ Korbel JO, Pfister SM, Marra MA, Taylor MD."
+counts:
+  biosamples: 1097.0
+  samples_acgh: 1097.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Nature 488(7409), 2012
+notes: NA
+pmid: '22832581'
+title: Subgroup-specific structural variation across 1,000 medulloblastoma genomes.
+year: '2012'

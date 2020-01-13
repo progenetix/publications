@@ -1,0 +1,25 @@
+authors: Cher ML, Lewis PE, Banerjee M, Hurley PM, Sakr W, Grignon DJ, Powell IJ.
+counts:
+  biosamples: 32.0
+  samples_acgh: 0.0
+  samples_ccgh: 32.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.05
+    - 42.33
+    type: Point
+  info:
+    city: Detroit
+    continent: ''
+    country: United States
+    label: Detroit, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 4(5), 1998
+notes: NA
+pmid: '9607587'
+title: A similar pattern of chromosomal alterations in prostate cancers from African-Americans
+  and Caucasian Americans.
+year: '1998'

@@ -1,0 +1,28 @@
+authors: "Salaverria I, Royo C, Carvajal-Cuenca A, Clot G, Navarro A, Valera A, Song\
+  \ JY, Woroniecka R, Rymkiewicz G, Klapper W, Hartmann EM, Sujobert P, Wlodarska\
+  \ I, Ferry JA, Gaulard P, Ott G, Rosenwald A, Lopez-Guillermo A, Quintanilla-Martinez\
+  \ L, Harris NL, Jaffe ES, Siebert R, Campo E, Be\xE0 S."
+counts:
+  biosamples: 40.0
+  samples_acgh: 40.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Blood 121(8), 2013
+notes: NA
+pmid: '23255553'
+title: CCND2 rearrangements are the most frequent genetic events in cyclin D1(-) mantle
+  cell lymphoma.
+year: '2013'

@@ -1,0 +1,27 @@
+authors: Pantaleo MA, Astolfi A, Di Battista M, Heinrich MC, Paterini P, Scotlandi
+  K, Santini D, Catena F, Manara MC, Nannini M, Maleddu A, Saponara M, Lolli C, Formica
+  S, Biasco G.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.34
+    - 44.49
+    type: Point
+  info:
+    city: Bologna
+    continent: ''
+    country: Italy
+    label: Bologna, Italy, Europe
+    precision: city
+journal: Int. J. Cancer 125(12), 2009
+notes: Expression data for this series is available through GEO (GSE8167).
+pmid: '19672856'
+title: 'Insulin-like growth factor 1 receptor expression in wild-type GISTs: a potential
+  novel therapeutic target.'
+year: '2009'

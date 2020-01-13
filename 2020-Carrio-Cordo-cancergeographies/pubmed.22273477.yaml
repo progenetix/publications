@@ -1,0 +1,26 @@
+authors: Bierkens M, Wilting SM, van Wieringen WN, van de Wiel MA, Ylstra B, Meijer
+  CJ, Snijders PJ, Steenbergen RD.
+counts:
+  biosamples: 43.0
+  samples_acgh: 43.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: BMC Cancer 12, 2012
+notes: NA
+pmid: '22273477'
+title: HPV type-related chromosomal profiles in high-grade cervical intraepithelial
+  neoplasia.
+year: '2012'

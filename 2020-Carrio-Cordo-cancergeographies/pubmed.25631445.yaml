@@ -1,0 +1,24 @@
+authors: Cancer Genome Atlas Network.
+counts:
+  biosamples: 827.0
+  samples_acgh: 519.0
+  samples_ccgh: 0.0
+  samples_wes: 279.0
+  samples_wgs: 29.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.06
+    - 35.91
+    type: Point
+  info:
+    city: Chapel Hill
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Nature 517(7536), 2015
+notes: Number as from corresponding TCGA study (as date 21/03/2019)
+pmid: '25631445'
+title: Comprehensive genomic characterization of head and neck squamous cell carcinomas.
+year: '2015'

@@ -1,0 +1,27 @@
+authors: "Pasmant E, Sabbagh A, Spurlock G, Laurendeau I, Grillo E, Hamel MJ, Martin\
+  \ L, Barbarot S, Leheup B, Rodriguez D, Lacombe D, Dollfus H, Pasquier L, Isidor\
+  \ B, Ferkal S, Soulier J, Sanson M, Dieux-Coeslier A, Bi\xE8che I, Parfait B, Vidaud\
+  \ M, Wolkenstein P, Upadhyaya M, Vidaud D, members of the NF France Network."
+counts:
+  biosamples: 70.0
+  samples_acgh: 70.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Hum. Mutat. 31(6), 2010
+notes: NA
+pmid: '20513137'
+title: 'NF1 microdeletions in neurofibromatosis type 1: from genotype to phenotype.'
+year: '2010'

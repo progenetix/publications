@@ -1,0 +1,26 @@
+authors: Reifenberger G, Weber T, Weber RG, Wolter M, Brandis A, Kuchelmeister K,
+  Pilz P, Reusche E, Lichter P, Wiestler OD.
+counts:
+  biosamples: 4.0
+  samples_acgh: 0.0
+  samples_ccgh: 4.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.1
+    - 50.73
+    type: Point
+  info:
+    city: Bonn
+    continent: ''
+    country: Germany
+    label: Bonn, Germany, Europe
+    precision: city
+journal: Brain Pathol. 9(4), 1999
+notes: NA
+pmid: '10517500'
+title: 'Chordoid glioma of the third ventricle: immunohistochemical and molecular
+  genetic characterization of a novel tumor entity.'
+year: '1999'

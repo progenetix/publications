@@ -1,0 +1,26 @@
+authors: Hostetter G, Kim SY, Savage S, Gooden GC, Barrett M, Zhang J, Alla L, Watanabe
+  A, Einspahr J, Prasad A, Nickoloff BJ, Carpten J, Trent J, Alberts D, Bittner M.
+counts:
+  biosamples: 216.0
+  samples_acgh: 216.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -112.07
+    - 33.45
+    type: Point
+  info:
+    city: Phoenix
+    continent: ''
+    country: United States
+    label: Phoenix, United States, North America
+    precision: city
+journal: Nucleic Acids Res. 38(2), 2010
+notes: NA
+pmid: '19875416'
+title: Random DNA fragmentation allows detection of single-copy, single-exon alterations
+  of copy number by oligonucleotide array CGH in clinical FFPE samples.
+year: '2010'

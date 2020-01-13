@@ -1,0 +1,26 @@
+authors: "Usvasalo A, Ninomiya S, R\xE4ty R, Hollm\xE9n J, Saarinen-Pihkala UM, Elonen\
+  \ E, Knuutila S."
+counts:
+  biosamples: 247.0
+  samples_acgh: 247.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 49(4), 2010
+notes: NA
+pmid: '20013897'
+title: Focal 9p instability in hematologic neoplasias revealed by comparative genomic
+  hybridization and single-nucleotide polymorphism microarray analyses.
+year: '2010'

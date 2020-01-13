@@ -1,0 +1,27 @@
+authors: Maire G, Brown CW, Bayani J, Pereira C, Gravel DH, Bell JC, Zielenska M,
+  Squire JA.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 181(2), 2008
+notes: NA
+pmid: '18295659'
+title: 'Complex rearrangement of chromosomes 19, 21, and 22 in Ewing sarcoma involving
+  a novel reciprocal inversion-insertion mechanism of EWS-ERG fusion gene formation:
+  a case analysis and literature review.'
+year: '2008'

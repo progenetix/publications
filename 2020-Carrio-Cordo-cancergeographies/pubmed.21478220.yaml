@@ -1,0 +1,27 @@
+authors: Goh XY, Rees JR, Paterson AL, Chin SF, Marioni JC, Save V, O'Donovan M, Eijk
+  PP, Alderson D, Ylstra B, Caldas C, Fitzgerald RC.
+counts:
+  biosamples: 56.0
+  samples_acgh: 56.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ''
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city
+journal: Gut 60(10), 2011
+notes: NA
+pmid: '21478220'
+title: Integrative analysis of array-comparative genomic hybridisation and matched
+  gene expression profiling data reveals novel genes with prognostic significance
+  in oesophageal adenocarcinoma.
+year: '2011'

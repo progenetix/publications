@@ -1,0 +1,26 @@
+authors: Umayahara K, Numa F, Suehiro Y, Sakata A, Nawata S, Ogata H, Suminami Y,
+  Sakamoto M, Sasaki K, Kato H.
+counts:
+  biosamples: 60.0
+  samples_acgh: 0.0
+  samples_ccgh: 60.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Genes Chromosomes Cancer 33(1), 2002
+notes: NA
+pmid: '11746992'
+title: Comparative genomic hybridization detects genetic alterations during early
+  stages of cervical cancer progression.
+year: '2002'

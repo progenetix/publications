@@ -1,0 +1,25 @@
+authors: Abedalthagafi MS, Bi WL, Merrill PH, Gibson WJ, Rose MF, Du Z, Francis JM,
+  Du R, Dunn IF, Ligon AH, Beroukhim R, Santagata S.
+counts:
+  biosamples: 6.0
+  samples_acgh: 3.0
+  samples_ccgh: 0.0
+  samples_wes: 3.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.11
+    - 42.38
+    type: Point
+  info:
+    city: Cambridge
+    continent: ''
+    country: United States
+    label: Cambridge, United States, North America
+    precision: city
+journal: Cancer Genet 208(6), 2015
+notes: ''
+pmid: '25963524'
+title: ARID1A and TERT promoter mutations in dedifferentiated meningioma.
+year: '2015'

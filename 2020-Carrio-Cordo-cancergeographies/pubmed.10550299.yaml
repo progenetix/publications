@@ -1,0 +1,24 @@
+authors: Rickert CH, Dockhorn-Dworniczak B, Simon R, Paulus W.
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: Am. J. Pathol. 155(5), 1999
+notes: Aberrations were only resolved up to chromosomal arms.
+pmid: '10550299'
+title: Chromosomal imbalances in primary lymphomas of the central nervous system.
+year: '1999'

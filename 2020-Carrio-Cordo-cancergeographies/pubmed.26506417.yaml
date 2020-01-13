@@ -1,0 +1,27 @@
+authors: Hunter SM, Anglesio MS, Ryland GL, Sharma R, Chiew YE, Rowley SM, Doyle MA,
+  Li J, Gilks CB, Moss P, Allan PE, Stephens AN, Huntsman DG, deFazio A, Bowtell DD,
+  Australian Ovarian Cancer Study Group, Gorringe KL, Campbell IG.
+counts:
+  biosamples: 23.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 23.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: ''
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: Oncotarget 6(35), 2015
+notes: ''
+pmid: '26506417'
+title: Molecular profiling of low grade serous ovarian tumours identifies novel candidate
+  driver genes.
+year: '2015'

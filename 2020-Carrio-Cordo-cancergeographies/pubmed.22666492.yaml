@@ -1,0 +1,26 @@
+authors: Armeanu-Ebinger S, Wenz J, Seitz G, Leuschner I, Handgretinger R, Mau-Holzmann
+  UA, Bonin M, Sipos B, Fuchs J, Warmann SW.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.05
+    - 48.52
+    type: Point
+  info:
+    city: Tuebingen
+    continent: ''
+    country: Germany
+    label: Tuebingen, Germany, Europe
+    precision: city
+journal: PLoS ONE 7(5), 2012
+notes: NA
+pmid: '22666492'
+title: Characterisation of the cell line HC-AFW1 derived from a pediatric hepatocellular
+  carcinoma.
+year: '2012'

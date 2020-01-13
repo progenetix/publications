@@ -1,0 +1,26 @@
+authors: "Barth TF, Bentz M, Leith\xE4user F, Stilgenbauer S, Siebert R, Schlotter\
+  \ M, Schlenk RF, D\xF6hner H, M\xF6ller P."
+counts:
+  biosamples: 52.0
+  samples_acgh: 0.0
+  samples_ccgh: 52.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 31(4), 2001
+notes: NA
+pmid: '11433522'
+title: Molecular-cytogenetic comparison of mucosa-associated marginal zone B-cell
+  lymphoma and large B-cell lymphoma arising in the gastro-intestinal tract.
+year: '2001'

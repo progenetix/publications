@@ -1,0 +1,27 @@
+authors: "Heinrich MC, Patterson J, Beadling C, Wang Y, Debiec-Rychter M, Dewaele\
+  \ B, Corless CL, Duensing A, Raut CP, Rubin B, Ordog T, van de Rijn M, Call J, M\xEF\
+  \xBF\xBDhlenberg T, Fletcher JA, Bauer S."
+counts:
+  biosamples: 29.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 29.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -97.32
+    - 27.88
+    type: Point
+  info:
+    city: Portland
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Clin Sarcoma Res 9, 2019
+notes: No PDF available yet
+pmid: '30867899'
+title: Genomic aberrations in cell cycle genes predict progression of KIT-mutant gastrointestinal
+  stromal tumors (GISTs).
+year: '2019'

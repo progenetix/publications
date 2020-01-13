@@ -1,0 +1,26 @@
+authors: Sadikovic B, Yoshimoto M, Chilton-MacNeill S, Thorner P, Squire JA, Zielenska
+  M.
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Hum. Mol. Genet. 18(11), 2009
+notes: NA
+pmid: '19286668'
+title: Identification of interactive networks of gene expression associated with osteosarcoma
+  oncogenesis by integrated molecular profiling.
+year: '2009'

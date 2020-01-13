@@ -1,0 +1,27 @@
+authors: "Soucek K, Gajduskov\xE1 P, Br\xE1zdov\xE1 M, H\xFDzd'alov\xE1 M, Koc\xED\
+  \ L, Vydra D, Trojanec R, Pernicov\xE1 Z, Lentvorsk\xE1 L, Hajd\xFAch M, Hofmanov\xE1\
+  \ J, Kozub\xEDk A."
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.61
+    - 49.2
+    type: Point
+  info:
+    city: Brno
+    continent: ''
+    country: Czech Republic
+    label: Brno, Czech Republic, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 197(2), 2010
+notes: NA
+pmid: '20193843'
+title: Fetal colon cell line FHC exhibits tumorigenic phenotype, complex karyotype,
+  and TP53 gene mutation.
+year: '2010'

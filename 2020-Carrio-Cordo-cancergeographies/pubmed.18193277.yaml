@@ -1,0 +1,25 @@
+authors: Schipf A, Mayr D, Kirchner T, Diebold J.
+counts:
+  biosamples: 30.0
+  samples_acgh: 0.0
+  samples_ccgh: 30.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.31
+    - 47.05
+    type: Point
+  info:
+    city: Luzern
+    continent: ''
+    country: Switzerland
+    label: Luzern, Switzerland, Europe
+    precision: city
+journal: Virchows Arch. 452(3), 2008
+notes: NA
+pmid: '18193277'
+title: Molecular genetic aberrations of ovarian and uterine carcinosarcomas--a CGH
+  and FISH study.
+year: '2008'

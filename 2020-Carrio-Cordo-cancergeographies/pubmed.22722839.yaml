@@ -1,0 +1,27 @@
+authors: Grasso CS, Wu YM, Robinson DR, Cao X, Dhanasekaran SM, Khan AP, Quist MJ,
+  Jing X, Lonigro RJ, Brenner JC, Asangani IA, Ateeq B, Chun SY, Siddiqui J, Sam L,
+  Anstett M, Mehra R, Prensner JR, Palanisamy N, Ryslik GA, Vandin F, Raphael BJ,
+  Kunju LP, Rhodes DR, Pienta KJ, Chinnaiyan AM, Tomlins SA.
+counts:
+  biosamples: 155.0
+  samples_acgh: 94.0
+  samples_ccgh: 0.0
+  samples_wes: 61.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.74
+    - 42.28
+    type: Point
+  info:
+    city: Ann Arbor
+    continent: ''
+    country: United States
+    label: Ann Arbor, United States, North America
+    precision: city
+journal: Nature 487(7406), 2012
+notes: ''
+pmid: '22722839'
+title: The mutational landscape of lethal  castration-resistant prostate cancer.
+year: '2012'

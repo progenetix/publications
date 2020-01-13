@@ -1,0 +1,26 @@
+authors: Harvell JD, Kohler S, Zhu S, Hernandez-Boussard T, Pollack JR, van de Rijn
+  M.
+counts:
+  biosamples: 10.0
+  samples_acgh: 5.0
+  samples_ccgh: 5.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.17
+    - 37.43
+    type: Point
+  info:
+    city: Stanford
+    continent: ''
+    country: United States
+    label: Stanford, United States, North America
+    precision: city
+journal: Diagn. Mol. Pathol. 13(1), 2004
+notes: NA
+pmid: '15163005'
+title: High-resolution array-based comparative genomic hybridization for distinguishing
+  paraffin-embedded Spitz nevi and melanomas.
+year: '2004'

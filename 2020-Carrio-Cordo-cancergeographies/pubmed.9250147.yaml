@@ -1,0 +1,25 @@
+authors: "Werner CA, D\xF6hner H, Joos S, Tr\xFCmper LH, Baudis M, Barth TF, Ott G,\
+  \ M\xF6ller P, Lichter P, Bentz M."
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Am. J. Pathol. 151(2), 1997
+notes: NA
+pmid: '9250147'
+title: High-level DNA amplifications are common genetic aberrations in B-cell neoplasms.
+year: '1997'

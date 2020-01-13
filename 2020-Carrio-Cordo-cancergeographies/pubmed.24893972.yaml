@@ -1,0 +1,24 @@
+authors: von Holstein SL.
+counts:
+  biosamples: 43.0
+  samples_acgh: 43.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.57
+    - 55.68
+    type: Point
+  info:
+    city: Copenhagen
+    continent: ''
+    country: Denmark
+    label: Copenhagen, Denmark, Europe
+    precision: city
+journal: Acta Ophthalmol 91 Thesis 6, 2013
+notes: ''
+pmid: '24893972'
+title: Tumours of the lacrimal gland. Epidemiological, clinical and genetic characteristics.
+year: '2013'

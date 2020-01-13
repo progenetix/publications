@@ -1,0 +1,26 @@
+authors: Theissen J, Oberthuer A, Hombach A, Volland R, Hertwig F, Fischer M, Spitz
+  R, Zapatka M, Brors B, Ortmann M, Simon T, Hero B, Berthold F.
+counts:
+  biosamples: 37.0
+  samples_acgh: 37.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.95
+    - 50.93
+    type: Point
+  info:
+    city: Koeln
+    continent: ''
+    country: Germany
+    label: Koeln, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 53(8), 2014
+notes: ''
+pmid: '24737690'
+title: Chromosome 17/17q gain and unaltered profiles in high resolution array-CGH
+  are prognostically informative in neuroblastoma.
+year: '2014'

@@ -1,0 +1,26 @@
+authors: "P\xE9rot G, Chibon F, Montero A, Lagarde P, de Th\xE9 H, Terrier P, Guillou\
+  \ L, Ranch\xE8re D, Coindre JM, Aurias A."
+counts:
+  biosamples: 143.0
+  samples_acgh: 143.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Am. J. Pathol. 177(4), 2010
+notes: NA
+pmid: '20884963'
+title: Constant p53 pathway inactivation in a large series of soft tissue sarcomas
+  with complex genetics.
+year: '2010'

@@ -1,0 +1,25 @@
+authors: Snijders AM, Fridlyand J, Mans DA, Segraves R, Jain AN, Pinkel D, Albertson
+  DG.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Oncogene 22(28), 2003
+notes: NA
+pmid: '12853973'
+title: Shaping of tumor and drug-resistant genomes by instability and selection.
+year: '2003'

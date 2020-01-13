@@ -1,0 +1,26 @@
+authors: Kallioniemi A, Kallioniemi OP, Piper J, Tanner M, Stokke T, Chen L, Smith
+  HS, Pinkel D, Gray JW, Waldman FM.
+counts:
+  biosamples: 38.0
+  samples_acgh: 0.0
+  samples_ccgh: 38.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: ''
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 91(6), 1994
+notes: In this early CGH article, only gains were described.
+pmid: '8134364'
+title: Detection and mapping of amplified DNA sequences in breast cancer by comparative
+  genomic hybridization.
+year: '1994'

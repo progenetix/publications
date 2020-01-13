@@ -1,0 +1,27 @@
+authors: Konecny GE, Winterhoff B, Kolarova T, Qi J, Manivong K, Dering J, Yang G,
+  Chalukya M, Wang HJ, Anderson L, Kalli KR, Finn RS, Ginther C, Jones S, Velculescu
+  VE, Riehle D, Cliby WA, Randolph S, Koehler M, Hartmann LC, Slamon DJ.
+counts:
+  biosamples: 40.0
+  samples_acgh: 40.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: ''
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 17(6), 2011
+notes: NA
+pmid: '21278246'
+title: Expression of p16 and retinoblastoma determines response to CDK4/6 inhibition
+  in ovarian cancer.
+year: '2011'

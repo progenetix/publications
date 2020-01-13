@@ -1,0 +1,25 @@
+authors: "Palacios-\xEF\xBF\xBDlvarez I, Bueno E, Fern\xEF\xBF\xBDndez-L\xEF\xBF\xBD\
+  pez E, Garc\xEF\xBF\xBDa JL, Gonz\xEF\xBF\xBDlez-Sarmiento R."
+counts:
+  biosamples: 13.0
+  samples_acgh: 13.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.68
+    - 40.43
+    type: Point
+  info:
+    city: Salamanca
+    continent: ''
+    country: Spain
+    label: null
+    precision: city
+journal: J Dtsch Dermatol Ges, 2019
+notes: No PDF available yet
+pmid: '30629797'
+title: Comparative genomic hybridization analysis of basal cell carcinoma.
+year: '2019'

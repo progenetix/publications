@@ -1,0 +1,25 @@
+authors: Blaveri E, Brewer JL, Roydasgupta R, Fridlyand J, DeVries S, Koppie T, Pejavar
+  S, Mehta K, Carroll P, Simko JP, Waldman FM.
+counts:
+  biosamples: 98.0
+  samples_acgh: 98.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 11(19 Pt 1), 2005
+notes: supplementary material from online publication
+pmid: '16203795'
+title: Bladder cancer stage and outcome by array-based comparative genomic hybridization.
+year: '2005'

@@ -1,0 +1,27 @@
+authors: Knutsen T, Pack S, Petropavlovskaja M, Padilla-Nash H, Knight C, Mickley
+  LA, Ried T, Elwood PC, Roberts SJ.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 2.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 37(3), 2003
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: '12759925'
+title: Cytogenetic, spectral karyotyping, fluorescence in situ hybridization, and
+  comparative genomic hybridization characterization of two new secondary leukemia
+  cell lines with 5q deletions, and MYC and MLL amplification.
+year: '2003'

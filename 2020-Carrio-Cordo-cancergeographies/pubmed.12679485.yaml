@@ -1,0 +1,26 @@
+authors: "Marsh DJ, Theodosopoulos G, Martin-Schulte K, Richardson AL, Philips J,\
+  \ R\xF6her HD, Delbridge L, Robinson BG."
+counts:
+  biosamples: 38.0
+  samples_acgh: 0.0
+  samples_ccgh: 38.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 151.19
+    - -33.82
+    type: Point
+  info:
+    city: St. Leonards
+    continent: ''
+    country: Australia
+    label: St. Leonards, Australia
+    precision: city
+journal: J. Clin. Endocrinol. Metab. 88(4), 2003
+notes: NA
+pmid: '12679485'
+title: Genome-wide copy number imbalances identified in familial and sporadic medullary
+  thyroid carcinoma.
+year: '2003'

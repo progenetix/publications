@@ -1,0 +1,25 @@
+authors: Haga T, Kim SH, Jensen RH, Darragh T, Palefsky JM.
+counts:
+  biosamples: 37.0
+  samples_acgh: 0.0
+  samples_ccgh: 37.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: J. Acquir. Immune Defic. Syndr. 26(3), 2001
+notes: NA
+pmid: '11242198'
+title: Detection of genetic changes in anal intraepithelial neoplasia (AIN) of HIV-positive
+  and HIV-negative men.
+year: '2001'

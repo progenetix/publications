@@ -1,0 +1,25 @@
+authors: "Schneider RK, Adem\xE0 V, Heckl D, J\xE4r\xE5s M, Mallo M, Lord AM, Chu\
+  \ LP, McConkey ME, Kramann R, Mullally A, Bejar R, Sol\xE9 F, Ebert BL."
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.25
+    - 41.45
+    type: Point
+  info:
+    city: Badalona
+    continent: ''
+    country: Spain
+    label: Badalona, Spain, Europe
+    precision: city
+journal: Cancer Cell 26(4), 2014
+notes: ''
+pmid: '25242043'
+title: Role of casein kinase 1A1 in the biology and targeted therapy of del(5q) MDS.
+year: '2014'

@@ -1,0 +1,26 @@
+authors: "T\xF6nnies H, Toliat MR, Ramel C, Pape UF, Neitzel H, Berger W, Wiedenmann\
+  \ B."
+counts:
+  biosamples: 26.0
+  samples_acgh: 0.0
+  samples_ccgh: 26.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: ''
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: Gut 48(4), 2001
+notes: Only arm-specific data is available.
+pmid: '11247899'
+title: Analysis of sporadic neuroendocrine tumours of the enteropancreatic system
+  by comparative genomic hybridisation.
+year: '2001'

@@ -1,0 +1,25 @@
+authors: Ashman JN, Brigham J, Cowen ME, Bahia H, Greenman J, Lind M, Cawkwell L.
+counts:
+  biosamples: 6.0
+  samples_acgh: 0.0
+  samples_ccgh: 6.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.44
+    - 53.77
+    type: Point
+  info:
+    city: Cottingham
+    continent: ''
+    country: United Kingdom
+    label: Cottingham, United Kingdom
+    precision: city
+journal: Int. J. Cancer 102(3), 2002
+notes: NA
+pmid: '12397641'
+title: Chromosomal alterations in small cell lung cancer revealed by multicolour fluorescence
+  in situ hybridization.
+year: '2002'

@@ -1,0 +1,27 @@
+authors: Nakamura Y, Migita T, Hosoda F, Okada N, Gotoh M, Arai Y, Fukushima M, Ohki
+  M, Miyata S, Takeuchi K, Imoto I, Katai H, Yamaguchi T, Inazawa J, Hirohashi S,
+  Ishikawa Y, Shibata T.
+counts:
+  biosamples: 50.0
+  samples_acgh: 50.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.77
+    - 35.67
+    type: Point
+  info:
+    city: Chuo
+    continent: ''
+    country: Japan
+    label: Chuo, Japan
+    precision: city
+journal: Int. J. Cancer 125(8), 2009
+notes: NA
+pmid: '19588488'
+title: "Kr\xFCppel-like factor 12 plays a significant role in poorly differentiated\
+  \ gastric cancer progression."
+year: '2009'

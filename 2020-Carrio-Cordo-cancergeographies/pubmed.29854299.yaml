@@ -1,0 +1,26 @@
+authors: Kahen EJ, Brohl A, Yu D, Welch D, Cubitt CL, Lee JK, Chen Y, Yoder SJ, Teer
+  JK, Zhang YO, Wallace MR, Reed DR.
+counts:
+  biosamples: 3.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 3.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -82.46
+    - 27.95
+    type: Point
+  info:
+    city: Tampa
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Oncotarget 9(32), 2018
+notes: No PDF available yet
+pmid: '29854299'
+title: Neurofibromin level directs RAS pathway signaling and mediates sensitivity
+  to targeted agents in malignant peripheral nerve sheath tumors.
+year: '2018'

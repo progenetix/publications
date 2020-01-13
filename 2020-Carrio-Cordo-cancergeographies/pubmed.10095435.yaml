@@ -1,0 +1,26 @@
+authors: "Ota\xF1o-Joos M, Mechtersheimer G, Ohl S, Lehnert T, Willeke F, M\xF6ller\
+  \ P, Otto HF, Lichter P, Joos S."
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Verh Dtsch Ges Pathol 82, 1998
+notes: NA
+pmid: '10095435'
+title: '[Analysis of chromosome copy number changes in leiomyosarcoma through molecular
+  cytogenetic methods]'
+year: '1998'

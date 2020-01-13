@@ -1,0 +1,27 @@
+authors: Loudin MG, Wang J, Leung HC, Gurusiddappa S, Meyer J, Condos G, Morrison
+  D, Tsimelzon A, Devidas M, Heerema NA, Carroll AJ, Plon SE, Hunger SP, Basso G,
+  Pession A, Bhojwani D, Carroll WL, Rabin KR.
+counts:
+  biosamples: 126.0
+  samples_acgh: 126.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: ''
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: Leukemia 25(10), 2011
+notes: The series contains additional germline Down syndrome and control samples.
+pmid: '21647151'
+title: Genomic profiling in Down syndrome acute lymphoblastic leukemia identifies
+  histone gene deletions associated with altered methylation profiles.
+year: '2011'

@@ -1,0 +1,25 @@
+authors: Liang CW, Lee YS, Marino-Enriquez A, Tsui K, Huang SH.
+counts:
+  biosamples: 19.0
+  samples_acgh: 19.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: ''
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: Pathology 44(1), 2012
+notes: ''
+pmid: '22157688'
+title: The utility and limitation of single nucleotide polymorphism analysis on whole
+  genome amplified mesenchymal tumour DNA in formalin fixed tumour samples.
+year: '2012'

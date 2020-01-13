@@ -1,0 +1,26 @@
+authors: Kumps C, Van Roy N, Heyrman L, Goossens D, Del-Favero J, Noguera R, Vandesompele
+  J, Speleman F, De Preter K.
+counts:
+  biosamples: 52.0
+  samples_acgh: 52.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.7199999999999998
+    - 51.05
+    type: Point
+  info:
+    city: Gent
+    continent: ''
+    country: Belgium
+    label: Gent, Belgium, Europe
+    precision: city
+journal: BMC Genomics 11, 2010
+notes: NA
+pmid: '20459859'
+title: Multiplex Amplicon Quantification (MAQ), a fast and efficient method for the
+  simultaneous detection of copy number alterations in neuroblastoma.
+year: '2010'

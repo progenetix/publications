@@ -1,0 +1,24 @@
+authors: "Kaveh F, Edvardsen H, B\xF8rresen-Dale AL, N Kristensen V, Solvang HK."
+counts:
+  biosamples: 112.0
+  samples_acgh: 112.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: BMC Med Genomics 4, 2011
+notes: NA
+pmid: '22188678'
+title: Allele-specific disparity in breast cancer.
+year: '2011'

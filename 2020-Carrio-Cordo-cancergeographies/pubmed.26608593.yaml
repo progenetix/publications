@@ -1,0 +1,27 @@
+authors: "Mareschal S, Dubois S, Viailly PJ, Bertrand P, Bohers E, Maingonnat C, Ja\xEF\
+  s JP, Tesson B, Ruminy P, Peyrouze P, Copie-Bergman C, Fest T, Jo Molina T, Haioun\
+  \ C, Salles G, Tilly H, Lecroq T, Leroy K, Jardin F."
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 14.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 1.1
+    - 49.44
+    type: Point
+  info:
+    city: Rouen
+    continent: ''
+    country: France
+    label: Rouen, France, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 55(3), 2016
+notes: ''
+pmid: '26608593'
+title: Whole exome sequencing of relapsed/refractory patients expands the repertoire
+  of somatic mutations in diffuse large B-cell lymphoma.
+year: '2016'

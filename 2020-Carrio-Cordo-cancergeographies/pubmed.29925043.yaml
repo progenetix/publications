@@ -1,0 +1,25 @@
+authors: Park JH, Lee C, Chang MS, Kim K, Choi S, Lee H, Lee HS, Moon KC.
+counts:
+  biosamples: 2.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 2.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: null
+    precision: city
+journal: Transl Oncol 11(4), 2018
+notes: No PDF available yet
+pmid: '29925043'
+title: Molecular Characterization and Putative Pathogenic Pathways of Tuberous Sclerosis
+  Complex-Associated Renal Cell Carcinoma.
+year: '2018'

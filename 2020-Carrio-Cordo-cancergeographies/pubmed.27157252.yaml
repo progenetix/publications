@@ -1,0 +1,27 @@
+authors: Mikulasova A, Smetana J, Wayhelova M, Janyskova H, Sandecka V, Kufova Z,
+  Almasi M, Jarkovsky J, Gregora E, Kessler P, Wrobel M, Walker BA, Wardell CP, Morgan
+  GJ, Hajek R, Kuglik P.
+counts:
+  biosamples: 33.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 33.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.61
+    - 49.2
+    type: Point
+  info:
+    city: Brno
+    continent: ''
+    country: Czech Republic
+    label: Brno, Czech Republic, Europe
+    precision: city
+journal: Eur. J. Haematol. 97(6), 2016
+notes: ''
+pmid: '27157252'
+title: Genomewide profiling of copy-number alteration in monoclonal gammopathy of
+  undetermined significance.
+year: '2016'

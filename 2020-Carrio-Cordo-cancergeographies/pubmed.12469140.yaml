@@ -1,0 +1,25 @@
+authors: Kawauchi S, Hayatsu Y, Takahashi M, Furuya T, Oga A, Niwa S, Sasaki K.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Oncol. Rep. 10(1), 2003
+notes: NA
+pmid: '12469140'
+title: 'Spindle-cell ameloblastic carcinoma: A case report with immunohistochemical,
+  ultrastructural, and comparative genomic hybridization analyses.'
+year: '2003'

@@ -1,0 +1,25 @@
+authors: "Krismann M, M\xFCller KM, Jaworska M, Johnen G."
+counts:
+  biosamples: 72.0
+  samples_acgh: 0.0
+  samples_ccgh: 72.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.22
+    - 51.48
+    type: Point
+  info:
+    city: Bochum
+    continent: ''
+    country: Germany
+    label: Bochum, Germany, Europe
+    precision: city
+journal: J. Pathol. 197(3), 2002
+notes: NA
+pmid: '12115883'
+title: 'Molecular cytogenetic differences between histological subtypes of malignant
+  mesotheliomas: DNA cytometry and comparative genomic hybridization of 90 cases.'
+year: '2002'

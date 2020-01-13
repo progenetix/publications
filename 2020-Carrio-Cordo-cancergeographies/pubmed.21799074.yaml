@@ -1,0 +1,27 @@
+authors: "van Boerdonk RA, Sutedja TG, Snijders PJ, Reinen E, Wilting SM, van de Wiel\
+  \ MA, Thunnissen FE, Duin S, Kooi C, Ylstra B, Meijer CJ, Meijer GA, Gr\xFCnberg\
+  \ K, Daniels JM, Postmus PE, Smit EF, Heideman DA."
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Am. J. Respir. Crit. Care Med. 184(8), 2011
+notes: NA
+pmid: '21799074'
+title: DNA copy number alterations in endobronchial squamous metaplastic lesions predict
+  lung cancer.
+year: '2011'

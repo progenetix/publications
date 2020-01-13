@@ -1,0 +1,26 @@
+authors: Burton EC, Lamborn KR, Feuerstein BG, Prados M, Scott J, Forsyth P, Passe
+  S, Jenkins RB, Aldape KD.
+counts:
+  biosamples: 63.0
+  samples_acgh: 0.0
+  samples_ccgh: 63.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Cancer Res. 62(21), 2002
+notes: NA
+pmid: '12414648'
+title: Genetic aberrations defined by comparative genomic hybridization distinguish
+  long-term from typical survivors of glioblastoma.
+year: '2002'

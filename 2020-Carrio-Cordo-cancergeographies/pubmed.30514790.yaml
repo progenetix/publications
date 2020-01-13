@@ -1,0 +1,27 @@
+authors: Tsang ES, Shen Y, Chooback N, Ho C, Jones M, Renouf DJ, Lim H, Sun S, Yip
+  S, Pleasance E, Ionescu DN, Mungall K, Kasaian K, Ma Y, Zhao Y, Mungall A, Moore
+  R, Jones SJM, Marra M, Laskin J.
+counts:
+  biosamples: 29.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 29.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: null
+    precision: city
+journal: Cold Spring Harb Mol Case Stud, 2018
+notes: No PDF available yet
+pmid: '30514790'
+title: 'Clinical Outcomes after Whole Genome Sequencing in Patients with Metastatic
+  Non-Small Cell Lung Cancer. '
+year: '2018'

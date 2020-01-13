@@ -1,0 +1,26 @@
+authors: "Klijanienko J, Couturier J, Brisse H, Pierron G, Fr\xE9neaux P, Berger F,\
+  \ Maciorowski Z, Sastre-Garau X, Michon J, Schleiermacher G."
+counts:
+  biosamples: 66.0
+  samples_acgh: 66.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Cancer Cytopathol 119(6), 2011
+notes: NA
+pmid: '21774092'
+title: 'Diagnostic and prognostic information obtained on fine-needle aspirates of
+  primary neuroblastic tumors: Proposal for a cytology prognostic score.'
+year: '2011'

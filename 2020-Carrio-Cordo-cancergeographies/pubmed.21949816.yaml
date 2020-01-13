@@ -1,0 +1,25 @@
+authors: "Olsson L, Paulsson K, Bov\xE9e JV, Nord KH."
+counts:
+  biosamples: 16.0
+  samples_acgh: 16.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: PLoS ONE 6(9), 2011
+notes: NA
+pmid: '21949816'
+title: Clonal evolution through loss of chromosomes and subsequent polyploidization
+  in chondrosarcoma.
+year: '2011'

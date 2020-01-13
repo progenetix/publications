@@ -1,0 +1,26 @@
+authors: Misra A, Pellarin M, Nigro J, Smirnov I, Moore D, Lamborn KR, Pinkel D, Albertson
+  DG, Feuerstein BG.
+counts:
+  biosamples: 108.0
+  samples_acgh: 54.0
+  samples_ccgh: 54.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 11(8), 2005
+notes: NA
+pmid: '15837741'
+title: Array comparative genomic hybridization identifies genetic subgroups in grade
+  4 human astrocytoma.
+year: '2005'

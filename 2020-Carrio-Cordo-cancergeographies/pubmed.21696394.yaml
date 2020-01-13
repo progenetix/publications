@@ -1,0 +1,27 @@
+authors: "Edsg\xE4rd D, Scheel M, Hansen NT, Ralfkiaer U, Jensen TS, Skakkebaek NE,\
+  \ Brunak S, Gupta R, Rajpert-De Meyts E, Ottesen AM."
+counts:
+  biosamples: 16.0
+  samples_acgh: 16.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.49
+    - 55.76
+    type: Point
+  info:
+    city: Lyngby
+    continent: ''
+    country: Denmark
+    label: Lyngby, Denmark
+    precision: city
+journal: Int. J. Androl. 34(4 Pt 2), 2011
+notes: NA
+pmid: '21696394'
+title: Heterozygous deletion at the RLN1 locus in a family with testicular germ cell
+  cancer identified by integrating copy number variation data with phenome and interactome
+  information.
+year: '2011'

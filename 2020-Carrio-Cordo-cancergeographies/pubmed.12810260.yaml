@@ -1,0 +1,26 @@
+authors: Amiel A, Atzmon H, Klein Z, Kidron D, Gaber E, Vassilyev O, Shalom-Paz E,
+  Fishman A, Fejgin MD.
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 34.91
+    - 32.18
+    type: Point
+  info:
+    city: Kfar Saba
+    continent: ''
+    country: Israel
+    label: Kfar Saba, Israel, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 144(1), 2003
+notes: NA
+pmid: '12810260'
+title: Application of comparative genomic hybridization technique for detection of
+  chromosomal aberrations in benign cystic teratoma.
+year: '2003'

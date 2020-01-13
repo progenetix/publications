@@ -1,0 +1,27 @@
+authors: Bauer J, Kilic E, Vaarwater J, Bastian BC, Garbe C, de Klein A.
+counts:
+  biosamples: 68.0
+  samples_acgh: 0.0
+  samples_ccgh: 68.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.05
+    - 48.52
+    type: Point
+  info:
+    city: Tuebingen
+    continent: ''
+    country: Germany
+    label: Tuebingen, Germany, Europe
+    precision: city
+journal: Br. J. Cancer 101(5), 2009
+notes: No case specific CGH data is posted in the article. It is stated that the copy
+  number of chromosome 8q could be determined in 68 cases; this was taken as the number
+  of successful CGH experiments.
+pmid: '19654573'
+title: Oncogenic GNAQ mutations are not correlated with disease-free survival in uveal
+  melanoma.
+year: '2009'

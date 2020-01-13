@@ -1,0 +1,27 @@
+authors: Mattison J, Kool J, Uren AG, de Ridder J, Wessels L, Jonkers J, Bignell GR,
+  Butler A, Rust AG, Brosch M, Wilson CH, van der Weyden L, Largaespada DA, Stratton
+  MR, Futreal PA, van Lohuizen M, Berns A, Collier LS, Hubbard T, Adams DJ.
+counts:
+  biosamples: 598.0
+  samples_acgh: 598.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.18
+    - 52.08
+    type: Point
+  info:
+    city: hinxton
+    continent: ''
+    country: United Kingdom
+    label: hinxton, United Kingdom
+    precision: city
+journal: Cancer Res. 70(3), 2010
+notes: NA
+pmid: '20103622'
+title: Novel candidate cancer genes identified by a large-scale cross-species comparative
+  oncogenomics approach.
+year: '2010'

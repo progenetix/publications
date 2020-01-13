@@ -1,0 +1,28 @@
+authors: "Italiano A, Lagarde P, Brulard C, Terrier P, La\xEB M, Marques B, Ranchere-Vince\
+  \ D, Michels JJ, Trassard M, Cioffi A, Cioffi A, Piperno-Neumann S, Chevreau C,\
+  \ Blay JY, Delcambre C, Isambert N, Penel N, Bay JO, Bonvalot S, Le Cesne A, Coindre\
+  \ JM, Chibon F."
+counts:
+  biosamples: 73.0
+  samples_acgh: 73.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: ''
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: Clin. Cancer Res. 19(5), 2013
+notes: NA
+pmid: '23329812'
+title: Genetic profiling identifies two classes of soft-tissue leiomyosarcomas with
+  distinct clinical characteristics.
+year: '2013'

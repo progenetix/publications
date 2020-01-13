@@ -1,0 +1,27 @@
+authors: Dallosso AR, Hancock AL, Szemes M, Moorwood K, Chilukamarri L, Tsai HH, Sarkar
+  A, Barasch J, Vuononvirta R, Jones C, Pritchard-Jones K, Royer-Pokora B, Lee SB,
+  Owen C, Malik S, Feng Y, Frank M, Ward A, Brown KW, Malik K.
+counts:
+  biosamples: 5.0
+  samples_acgh: 5.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -2.6
+    - 51.46
+    type: Point
+  info:
+    city: Bristol
+    continent: ''
+    country: United Kingdom
+    label: Bristol, United Kingdom, Europe
+    precision: city
+journal: PLoS Genet. 5(11), 2009
+notes: NA
+pmid: '19956686'
+title: Frequent long-range epigenetic silencing of protocadherin gene clusters on
+  chromosome 5q31 in Wilms' tumor.
+year: '2009'

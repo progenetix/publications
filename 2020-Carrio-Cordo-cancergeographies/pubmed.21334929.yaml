@@ -1,0 +1,26 @@
+authors: Cha JD, Kim HJ, Cha IH.
+counts:
+  biosamples: 7.0
+  samples_acgh: 7.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 129.04
+    - 35.1
+    type: Point
+  info:
+    city: Busan
+    continent: ''
+    country: Korean Republic
+    label: Busan, Korean Republic, Asia
+    precision: city
+journal: Oral Surg Oral Med Oral Pathol Oral Radiol Endod 111(5), 2011
+notes: NA
+pmid: '21334929'
+title: Genetic alterations in oral squamous cell carcinoma progression detected by
+  combining array-based comparative genomic hybridization and multiplex ligation-dependent
+  probe amplification.
+year: '2011'

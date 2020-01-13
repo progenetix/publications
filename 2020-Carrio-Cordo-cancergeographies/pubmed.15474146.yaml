@@ -1,0 +1,24 @@
+authors: Wullich B, Riedinger S, Brinck U, Stoeckle M, Kamradt J, Ketter R, Jung V.
+counts:
+  biosamples: 5.0
+  samples_acgh: 0.0
+  samples_ccgh: 5.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.34
+    - 49.33
+    type: Point
+  info:
+    city: Homburg
+    continent: ''
+    country: Germany
+    label: Homburg, Germany, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 154(2), 2004
+notes: NA
+pmid: '15474146'
+title: Evidence for gains at 15q and 20q in brain metastases of prostate cancer.
+year: '2004'

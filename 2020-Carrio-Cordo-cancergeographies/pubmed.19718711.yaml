@@ -1,0 +1,25 @@
+authors: Or YY, Chung GT, To KF, Chow C, Choy KW, Tong CY, Leung AW, Hui AB, Tsao
+  SW, Ng HK, Yip TT, Busson P, Lo KW.
+counts:
+  biosamples: 18.0
+  samples_acgh: 18.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: ''
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: J. Pathol. 220(1), 2010
+notes: NA
+pmid: '19718711'
+title: Identification of a novel 12p13.3 amplicon in nasopharyngeal carcinoma.
+year: '2010'

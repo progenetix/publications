@@ -1,0 +1,27 @@
+authors: Haverty PM, Fridlyand J, Li L, Getz G, Beroukhim R, Lohr S, Wu TD, Cavet
+  G, Zhang Z, Chant J.
+counts:
+  biosamples: 51.0
+  samples_acgh: 51.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.41
+    - 37.65
+    type: Point
+  info:
+    city: South San Francisco
+    continent: ''
+    country: United States
+    label: South San Francisco, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 47(6), 2008
+notes: Supp. material is avalable through http://www.mrw.interscience.wiley.com/suppmat/1045-2257/suppmat/gcc.20558.html,
+  but does not contain case specific copy number information.
+pmid: '18335499'
+title: High-resolution genomic and expression analyses of copy number alterations
+  in breast tumors.
+year: '2008'

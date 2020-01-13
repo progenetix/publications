@@ -1,0 +1,26 @@
+authors: Iriyama N, Takahashi H, Naruse H, Miura K, Uchino Y, Nakagawa M, Iizuka K,
+  Hamada T, Hatta Y, Nakayama T, Takei M.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 1.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: null
+    precision: city
+journal: Mol Genet Genomic Med, 2019
+notes: No PDF available yet
+pmid: '30697976'
+title: A novel fusion gene involving PDGFRB and GCC2 in a chronic eosinophilic leukemia
+  patient harboring t(2;5)(q37;q31).
+year: '2019'

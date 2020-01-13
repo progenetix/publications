@@ -1,0 +1,27 @@
+authors: "Hasselblatt M, Bl\xFCmcke I, Jeibmann A, Rickert CH, Jouvet A, van de Nes\
+  \ JA, Kuchelmeister K, Brunn A, Fevre-Montange M, Paulus W."
+counts:
+  biosamples: 5.0
+  samples_acgh: 0.0
+  samples_ccgh: 5.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: Neuropathol. Appl. Neurobiol. 32(3), 2006
+notes: The CGH data from the 5 cases had been published previously in PMID 11891207
+  (then under another diagnosis). It was removed from that dataset.
+pmid: '16640646'
+title: Immunohistochemical profile and chromosomal imbalances in papillary tumours
+  of the pineal region.
+year: '2006'

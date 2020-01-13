@@ -1,0 +1,27 @@
+authors: Fieuw A, Kumps C, Schramm A, Pattyn F, Menten B, Antonacci F, Sudmant P,
+  Schulte JH, Van Roy N, Vergult S, Buckley PG, De Paepe A, Noguera R, Versteeg R,
+  Stallings R, Eggert A, Vandesompele J, De Preter K, Speleman F.
+counts:
+  biosamples: 221.0
+  samples_acgh: 221.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.7199999999999998
+    - 51.05
+    type: Point
+  info:
+    city: Gent
+    continent: ''
+    country: Belgium
+    label: Gent, Belgium, Europe
+    precision: city
+journal: Int. J. Cancer 130(11), 2012
+notes: NA
+pmid: '21796619'
+title: Identification of a novel recurrent 1q42.2-1qter deletion in high risk MYCN
+  single copy 11q deleted neuroblastomas.
+year: '2012'

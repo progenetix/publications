@@ -1,0 +1,26 @@
+authors: Hieronymus H, Schultz N, Gopalan A, Carver BS, Chang MT, Xiao Y, Heguy A,
+  Huberman K, Bernstein M, Assel M, Murali R, Vickers A, Scardino PT, Sander C, Reuter
+  V, Taylor BS, Sawyers CL.
+counts:
+  biosamples: 108.0
+  samples_acgh: 104.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 4.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 111(30), 2014
+notes: ''
+pmid: '25024180'
+title: Copy number alteration burden predicts prostate cancer relapse.
+year: '2014'

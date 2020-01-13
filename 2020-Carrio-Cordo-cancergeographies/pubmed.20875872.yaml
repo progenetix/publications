@@ -1,0 +1,27 @@
+authors: Wang ES, Sait SN, Gold D, Mashtare T, Starostik P, Ford LA, Wetzler M, Nowak
+  NJ, Deeb G.
+counts:
+  biosamples: 17.0
+  samples_acgh: 17.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: ''
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 202(2), 2010
+notes: NA
+pmid: '20875872'
+title: Genomic, immunophenotypic, and NPM1/FLT3 mutational studies on 17 patients
+  with normal karyotype acute myeloid leukemia (AML) followed by aberrant karyotype
+  AML at relapse.
+year: '2010'

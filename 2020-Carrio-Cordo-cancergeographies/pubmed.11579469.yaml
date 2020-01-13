@@ -1,0 +1,25 @@
+authors: Alvarez S, MacGrogan D, Calasanz MJ, Nimer SD, Jhanwar SC.
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 12.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 32(3), 2001
+notes: NA
+pmid: '11579469'
+title: Frequent gain of chromosome 19 in megakaryoblastic leukemias detected by comparative
+  genomic hybridization.
+year: '2001'

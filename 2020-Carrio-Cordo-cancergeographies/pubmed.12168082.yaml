@@ -1,0 +1,27 @@
+authors: Umayahara K, Numa F, Inokuma A, Sueoka K, Kawasaki K, Hirakawa H, Emoto T,
+  Sakaguchi Y, Nawata S, Ogata H, Sakamoto M, Hasumi K, Kawauchi S, Sasaki K, Kato
+  H.
+counts:
+  biosamples: 30.0
+  samples_acgh: 0.0
+  samples_ccgh: 30.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: ''
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: Oncol. Rep. 9(5), 2002
+notes: NA
+pmid: '12168082'
+title: Genetic alterations related to lymph node metastasis and peritoneal dissemination
+  in epithelial ovarian cancers.
+year: '2002'

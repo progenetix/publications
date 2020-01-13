@@ -1,0 +1,26 @@
+authors: Stallings RL, Carty P, McArdle L, Mullarkey M, McDermott M, O'Meara A, Ryan
+  E, Catchpoole D, Breatnach F.
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -6.25
+    - 53.33
+    type: Point
+  info:
+    city: Dublin
+    continent: ''
+    country: Ireland
+    label: Dublin, Ireland, Europe
+    precision: city
+journal: Cytogenet. Genome Res. 106(1), 2004
+notes: Only CGH data from the 24 cases with 2p gains were presented in the article.
+  Of these, only the 10 cases not previously published are presented here.
+pmid: '15218241'
+title: Evolution of unbalanced gain of distal chromosome 2p in neuroblastoma.
+year: '2004'

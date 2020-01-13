@@ -1,0 +1,26 @@
+authors: Hashizume R, Smirnov I, Liu S, Phillips JJ, Hyer J, McKnight TR, Wendland
+  M, Prados M, Banerjee A, Nicolaides T, Mueller S, James CD, Gupta N.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: J. Neurooncol. 110(3), 2012
+notes: HG18 mapped CNA data was provided in the article.
+pmid: '22983601'
+title: 'Characterization of a diffuse intrinsic pontine glioma cell line: implications
+  for future investigations and treatment.'
+year: '2012'

@@ -1,0 +1,25 @@
+authors: "Zettl A, Str\xF6bel P, Wagner K, Katzenberger T, Ott G, Rosenwald A, Peters\
+  \ K, Krein A, Semik M, M\xFCller-Hermelink HK, Marx A."
+counts:
+  biosamples: 39.0
+  samples_acgh: 0.0
+  samples_ccgh: 39.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.95
+    - 49.79
+    type: Point
+  info:
+    city: Wuerzburg
+    continent: ''
+    country: Germany
+    label: Wuerzburg, Germany, Europe
+    precision: city
+journal: Am. J. Pathol. 157(1), 2000
+notes: NA
+pmid: '10880395'
+title: Recurrent genetic aberrations in thymoma and thymic carcinoma.
+year: '2000'

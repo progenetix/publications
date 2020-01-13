@@ -1,0 +1,26 @@
+authors: Aragane H, Sakakura C, Nakanishi M, Yasuoka R, Fujita Y, Taniguchi H, Hagiwara
+  A, Yamaguchi T, Abe T, Inazawa J, Yamagishi H.
+counts:
+  biosamples: 46.0
+  samples_acgh: 0.0
+  samples_ccgh: 46.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.75
+    - 35.02
+    type: Point
+  info:
+    city: Kyoto
+    continent: ''
+    country: Japan
+    label: Kyoto, Japan, Asia
+    precision: city
+journal: Int. J. Cancer 94(5), 2001
+notes: NA
+pmid: '11745455'
+title: Chromosomal aberrations in colorectal cancers and liver metastases analyzed
+  by comparative genomic hybridization.
+year: '2001'

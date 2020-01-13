@@ -1,0 +1,25 @@
+authors: Jeuken JW, Sprenger SH, Gilhuis J, Teepen HL, Grotenhuis AJ, Wesseling P.
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ''
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city
+journal: J. Pathol. 197(2), 2002
+notes: NA
+pmid: '12015749'
+title: Correlation between localization, age, and chromosomal imbalances in ependymal
+  tumours as detected by CGH.
+year: '2002'

@@ -1,0 +1,27 @@
+authors: "Bekhouche I, Finetti P, Adela\xEFde J, Ferrari A, Tarpin C, Charafe-Jauffret\
+  \ E, Charpin C, Houvenaeghel G, Jacquemier J, Bidaut G, Birnbaum D, Viens P, Chaffanet\
+  \ M, Bertucci F."
+counts:
+  biosamples: 197.0
+  samples_acgh: 197.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.38
+    - 43.3
+    type: Point
+  info:
+    city: Marseille
+    continent: ''
+    country: France
+    label: Marseille, France, Europe
+    precision: city
+journal: PLoS ONE 6(2), 2011
+notes: NA
+pmid: '21339811'
+title: High-resolution comparative genomic hybridization of inflammatory breast cancer
+  and identification of candidate genes.
+year: '2011'

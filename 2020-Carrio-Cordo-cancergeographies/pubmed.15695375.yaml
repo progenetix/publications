@@ -1,0 +1,26 @@
+authors: Raghavan M, Lillington DM, Skoulakis S, Debernardi S, Chaplin T, Foot NJ,
+  Lister TA, Young BD.
+counts:
+  biosamples: 64.0
+  samples_acgh: 64.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Cancer Res. 65(2), 2005
+notes: NA
+pmid: '15695375'
+title: Genome-wide single nucleotide polymorphism analysis reveals frequent partial
+  uniparental disomy due to somatic recombination in acute myeloid leukemias.
+year: '2005'

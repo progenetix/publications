@@ -1,0 +1,25 @@
+authors: "Vauhkonen H, B\xF6hling T, Eissa S, Shoman S, Knuutila S."
+counts:
+  biosamples: 10.0
+  samples_acgh: 10.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 177(2), 2007
+notes: NA
+pmid: '17854674'
+title: Can bladder adenocarcinomas be distinguished from schistosomiasis-associated
+  bladder cancers by using array comparative genomic hybridization analysis?
+year: '2007'

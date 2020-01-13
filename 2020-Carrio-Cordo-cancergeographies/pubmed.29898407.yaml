@@ -1,0 +1,31 @@
+authors: "Shen H, Shih J, Hollern DP, Wang L, Bowlby R, Tickoo SK, Thorsson V, Mungall\
+  \ AJ, Newton Y, Hegde AM, Armenia J, S\xEF\xBF\xBDnchez-Vega F, Pluta J, Pyle LC,\
+  \ Mehra R, Reuter VE, Godoy G, Jones J, Shelley CS, Feldman DR, Vidal DO, Lessel\
+  \ D, Kulis T, C\xEF\xBF\xBDrcano FM, Leraas KM, Lichtenberg TM, Brooks D, Cherniack\
+  \ AD, Cho J, Heiman DI, Kasaian K, Liu M, Noble MS, Xi L, Zhang H, Zhou W, ZenKlusen\
+  \ JC, Hutter CM, Felau I, Zhang J, Schultz N, Getz G, Meyerson M, Stuart JM, Cancer\
+  \ Genome Atlas Research Network, Akbani R, Wheeler DA, Laird PW, Nathanson KL, Cortessis\
+  \ VK, Hoadley KA."
+counts:
+  biosamples: 278.0
+  samples_acgh: 139.0
+  samples_ccgh: 0.0
+  samples_wes: 139.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.06
+    - 35.91
+    type: Point
+  info:
+    city: Chapel Hill
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Cell Rep 23(11), 2018
+notes: "Number as from corresponding TCGA study (as date 21/03/2019)\r\n"
+pmid: '29898407'
+title: Integrated Molecular Characterization of Testicular Germ Cell Tumors.
+year: '2018'

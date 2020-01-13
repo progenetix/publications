@@ -1,0 +1,28 @@
+authors: "Catenacci DV, Cervantes G, Yala S, Nelson EA, El-Hashani E, Kanteti R, El\
+  \ Dinali M, Hasina R, Br\xE4gelmann J, Seiwert T, Sanicola M, Henderson L, Grushko\
+  \ TA, Olopade O, Karrison T, Bang YJ, Kim WH, Tretiakova M, Vokes E, Frank DA, Kindler\
+  \ HL, Huet H, Salgia R."
+counts:
+  biosamples: 3.0
+  samples_acgh: 3.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -87.65
+    - 41.85
+    type: Point
+  info:
+    city: Chicago
+    continent: ''
+    country: United States
+    label: Chicago, United States, North America
+    precision: city
+journal: Cancer Biol. Ther. 12(1), 2011
+notes: NA
+pmid: '21543897'
+title: RON (MST1R) is a novel prognostic marker and therapeutic target for gastroesophageal
+  adenocarcinoma.
+year: '2011'

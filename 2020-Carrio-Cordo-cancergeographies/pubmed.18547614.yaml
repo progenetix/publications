@@ -1,0 +1,26 @@
+authors: "Agaimy A, Pelz AF, Wieacker P, Roessner A, W\xFCnsch PH, Schneider-Stock\
+  \ R."
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.08
+    - 49.45
+    type: Point
+  info:
+    city: Nuernberg
+    continent: ''
+    country: Germany
+    label: Nuernberg, Germany, Europe
+    precision: city
+journal: Hum. Pathol. 39(8), 2008
+notes: NA
+pmid: '18547614'
+title: 'Gastrointestinal stromal tumors of the vermiform appendix: clinicopathologic,
+  immunohistochemical, and molecular study of 2 cases with literature review.'
+year: '2008'

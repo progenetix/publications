@@ -1,0 +1,24 @@
+authors: Castuma MV, Rao PH, Acevedo SH, Larripa IB.
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -58.38
+    - -34.61
+    type: Point
+  info:
+    city: Buenos Aires
+    continent: ''
+    country: Argentina
+    label: Buenos Aires, Argentina, South America
+    precision: city
+journal: Acta Haematol. 104(1), 2000
+notes: NA
+pmid: '11111118'
+title: Comparative genomic hybridization study of de novo myeloid neoplasia.
+year: '2000'

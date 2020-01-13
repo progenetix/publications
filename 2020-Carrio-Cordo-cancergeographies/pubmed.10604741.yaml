@@ -1,0 +1,26 @@
+authors: Vos CB, ter Haar NT, Rosenberg C, Peterse JL, Cleton-Jansen AM, Cornelisse
+  CJ, van de Vijver MJ.
+counts:
+  biosamples: 15.0
+  samples_acgh: 0.0
+  samples_ccgh: 15.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ''
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city
+journal: Br. J. Cancer 81(8), 1999
+notes: NA
+pmid: '10604741'
+title: Genetic alterations on chromosome 16 and 17 are important features of ductal
+  carcinoma in situ of the breast and are associated with histologic type.
+year: '1999'

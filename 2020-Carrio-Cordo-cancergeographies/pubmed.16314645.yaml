@@ -1,0 +1,26 @@
+authors: Mendrzyk F, Radlwimmer B, Joos S, Kokocinski F, Benner A, Stange DE, Neben
+  K, Fiegler H, Carter NP, Reifenberger G, Korshunov A, Lichter P.
+counts:
+  biosamples: 47.0
+  samples_acgh: 47.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: J. Clin. Oncol. 23(34), 2005
+notes: Data was derived from GEO (GSE2139) and converted using aCGH2ProgenetiXML software.
+pmid: '16314645'
+title: Genomic and protein expression profiling identifies CDK6 as novel independent
+  prognostic marker in medulloblastoma.
+year: '2005'

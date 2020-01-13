@@ -1,0 +1,25 @@
+authors: Costa AR, Belangero SI, Melaragno MI, Chauffaille Mde L.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -46.64
+    - -23.55
+    type: Point
+  info:
+    city: Sao Paulo
+    continent: ''
+    country: Brazil
+    label: Sao Paulo, Brazil, South America
+    precision: city
+journal: Med. Oncol. 29(3), 2012
+notes: NA
+pmid: '22116774'
+title: Additional chromosomal abnormalities detected by array comparative genomic
+  hybridization in AML.
+year: '2012'

@@ -1,0 +1,27 @@
+authors: Gunn SR, Mohammed MS, Gorre ME, Cotter PD, Kim J, Bahler DW, Preobrazhensky
+  SN, Higgins RA, Bolla AR, Ismail SH, de Jong D, Eldering E, van Oers MH, Mellink
+  CH, Keating MJ, Schlette EJ, Abruzzo LV, Robetorye RS.
+counts:
+  biosamples: 174.0
+  samples_acgh: 174.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -98.49
+    - 29.42
+    type: Point
+  info:
+    city: San Antonio
+    continent: ''
+    country: United States
+    label: San Antonio, United States, North America
+    precision: city
+journal: J Mol Diagn 10(5), 2008
+notes: A subset of 36 cases was analyzed with Agilent 44k oligonucleotide arrays.
+pmid: '18687794'
+title: Whole-genome scanning by array comparative genomic hybridization as a clinical
+  tool for risk assessment in chronic lymphocytic leukemia.
+year: '2008'

@@ -1,0 +1,26 @@
+authors: Petri BJ, Speel EJ, Korpershoek E, Claessen SM, van Nederveen FH, Giesen
+  V, Dannenberg H, van der Harst E, Dinjens WN, de Krijger RR.
+counts:
+  biosamples: 51.0
+  samples_acgh: 0.0
+  samples_ccgh: 51.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ''
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city
+journal: Mod. Pathol. 21(4), 2008
+notes: NA
+pmid: '18223555'
+title: Frequent loss of 17p, but no p53 mutations or protein overexpression in benign
+  and malignant pheochromocytomas.
+year: '2008'

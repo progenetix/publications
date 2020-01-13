@@ -1,0 +1,26 @@
+authors: "Sulaiman L, Nilsson IL, Juhlin CC, Haglund F, H\xF6\xF6g A, Larsson C, Hashemi\
+  \ J."
+counts:
+  biosamples: 21.0
+  samples_acgh: 21.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.0
+    - 0.0
+    type: Point
+  info:
+    city: null
+    continent: ''
+    country: null
+    label: null
+    precision: null
+journal: Endocr. Relat. Cancer 19(3), 2012
+notes: "Array CGH was performed for LPTA cases 1\xE2\x80\x9321 using human BAC 38K\
+  \ arrays generated at the SCIBLU Genomics Centre at Lund University, Sweden"
+pmid: '22454399'
+title: Genetic characterization of large parathyroid adenomas.
+year: '2012'

@@ -1,0 +1,28 @@
+authors: "Ribeiro FR, Jer\xF3nimo C, Henrique R, Fonseca D, Oliveira J, Lothe RA,\
+  \ Teixeira MR."
+counts:
+  biosamples: 71.0
+  samples_acgh: 0.0
+  samples_ccgh: 71.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -8.61
+    - 41.15
+    type: Point
+  info:
+    city: Porto
+    continent: ''
+    country: Portugal
+    label: Porto, Portugal, Europe
+    precision: city
+journal: Clin. Cancer Res. 12(13), 2006
+notes: Of the 125 biopsies analyzed, 71 showed >25  abnormal cells in the biopsies,
+  and were therefore estimated to have material for successful CGH analysis. The other
+  samples were excluded from the database.
+pmid: '16818693'
+title: 8q gain is an independent predictor of poor survival in diagnostic needle biopsies
+  from prostate cancer suspects.
+year: '2006'

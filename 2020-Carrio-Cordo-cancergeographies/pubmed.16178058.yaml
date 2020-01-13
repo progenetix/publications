@@ -1,0 +1,26 @@
+authors: Coco S, Defferrari R, Scaruffi P, Cavazzana A, Di Cristofano C, Longo L,
+  Mazzocco K, Perri P, Gambini C, Moretti S, Bonassi S, Tonini GP.
+counts:
+  biosamples: 12.0
+  samples_acgh: 0.0
+  samples_ccgh: 12.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: ''
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: J. Pathol. 207(3), 2005
+notes: NA
+pmid: '16178058'
+title: Genome analysis and gene expression profiling of neuroblastoma and ganglioneuroblastoma
+  reveal differences between neuroblastic and Schwannian stromal cells.
+year: '2005'

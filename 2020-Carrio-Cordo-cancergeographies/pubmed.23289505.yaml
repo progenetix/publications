@@ -1,0 +1,26 @@
+authors: Gunn S, Reveles X, Weldon K, Barrera A, Ishaque M, Taylor D, McCaskill C,
+  Kim J, Shah R, Mohammed M, Barry T, Kaiser B, Patnaik A, Tolcher A.
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -98.49
+    - 29.42
+    type: Point
+  info:
+    city: San Antonio
+    continent: ''
+    country: United States
+    label: San Antonio, United States, North America
+    precision: city
+journal: J Ovarian Res 6(1), 2013
+notes: 14 additional low-density arrays were analyzed.
+pmid: '23289505'
+title: Molecular cytogenetics as a clinical test for prognostic and predictive biomarkers
+  in newly diagnosed ovarian cancer.
+year: '2013'

@@ -1,0 +1,25 @@
+authors: "Chambon M, Orsetti B, Berthe ML, Bascoul-Mollevi C, Rodriguez C, Duong V,\
+  \ Gleizes M, Th\xE9not S, Bibeau F, Theillet C, Cavaill\xE8s V."
+counts:
+  biosamples: 238.0
+  samples_acgh: 238.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.88
+    - 43.61
+    type: Point
+  info:
+    city: Montpellier
+    continent: ''
+    country: France
+    label: Montpellier, France, Europe
+    precision: city
+journal: Am. J. Pathol. 178(4), 2011
+notes: NA
+pmid: '21435435'
+title: "Prognostic significance of TRIM24/TIF-1\u03B1 gene expression in breast cancer."
+year: '2011'

@@ -1,0 +1,25 @@
+authors: Luo W, Tian P, Wang Y, Xu H, Chen L, Tang C, Shu Y, Zhang S, Wang Z, Zhang
+  J, Zhang L, Jiang L, Liu L, Che G, Guo C, Zhang H, Wang J, Li W.
+counts:
+  biosamples: 36.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 36.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 104.07
+    - 30.67
+    type: Point
+  info:
+    city: Chengdu
+    continent: ''
+    country: China
+    label: null
+    precision: city
+journal: Int. J. Cancer, 2018
+notes: Only germline variants were analysed for the cancer patients.
+pmid: '29667179'
+title: Characteristics of genomic alterations of lung adenocarcinoma in young never-smokers.
+year: '2018'

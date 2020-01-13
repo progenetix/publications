@@ -1,0 +1,24 @@
+authors: Mullaney BP, Ng VL, Herndier BG, McGrath MS, Pallavicini MG.
+counts:
+  biosamples: 8.0
+  samples_acgh: 0.0
+  samples_ccgh: 8.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Arch. Pathol. Lab. Med. 124(6), 2000
+notes: NA
+pmid: '10835513'
+title: Comparative genomic analyses of primary effusion lymphoma.
+year: '2000'

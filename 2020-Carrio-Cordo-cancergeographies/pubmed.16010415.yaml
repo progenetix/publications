@@ -1,0 +1,25 @@
+authors: Karst C, Heller A, Claussen U, Gebhart E, Liehr T.
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: ''
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: Int. J. Oncol. 27(2), 2005
+notes: NA
+pmid: '16010415'
+title: Detection of cryptic chromosomal aberrations in the in vitro non-proliferating
+  cells of acute myeloid leukemia.
+year: '2005'

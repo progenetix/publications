@@ -1,0 +1,26 @@
+authors: "Villam\xF3n E, Piqueras M, Mackintosh C, Alonso J, de Alava E, Navarro S,\
+  \ Noguera R."
+counts:
+  biosamples: 34.0
+  samples_acgh: 20.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: ''
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: Virchows Arch. 453(1), 2008
+notes: NA
+pmid: '18574593'
+title: Comparison of different techniques for the detection of genetic risk-identifying
+  chromosomal gains and losses in neuroblastoma.
+year: '2008'

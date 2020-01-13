@@ -1,0 +1,27 @@
+authors: "No\xEF\xBF\xBD M, Pea A, Luchini C, Felsenstein M, Barbi S, Bhaijee F, Yonescu\
+  \ R, Ning Y, Adsay NV, Zamboni G, Lawlor RT, Scarpa A, Offerhaus GJA, Brosens LAA,\
+  \ Hruban RH, Roberts NJ, Wood LD."
+counts:
+  biosamples: 6.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 6.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.61
+    - 39.29
+    type: Point
+  info:
+    city: Baltimore
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Mod. Pathol., 2018
+notes: No PDF available yet
+pmid: '29849115'
+title: Whole-exome sequencing of duodenal neuroendocrine tumors in patients with neurofibromatosis
+  type 1.
+year: '2018'

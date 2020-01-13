@@ -1,0 +1,28 @@
+authors: "Salgado R, Servitje O, Gallardo F, Vermeer MH, Ortiz-Romero PL, Karpova\
+  \ MB, Zipser MC, Muniesa C, Garc\xEDa-Muret MP, Estrach T, Salido M, S\xE1nchez-Schmidt\
+  \ J, Herrera M, Romagosa V, Suela J, Ferreira BI, Cigudosa JC, Barranco C, Serrano\
+  \ S, Dummer R, Tensen CP, Sol\xE9 F, Pujol RM, Espinet B."
+counts:
+  biosamples: 41.0
+  samples_acgh: 41.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: J. Invest. Dermatol. 130(4), 2010
+notes: Log2 data available through GEO was converted using the Progenetix online tools.
+pmid: '19759554'
+title: Oligonucleotide array-CGH identifies genomic subgroups and prognostic markers
+  for tumor stage mycosis fungoides.
+year: '2010'

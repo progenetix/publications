@@ -1,0 +1,26 @@
+authors: "Joos S, Menz CK, Wrobel G, Siebert R, Gesk S, Ohl S, Mechtersheimer G, Tr\xFC\
+  mper L, M\xF6ller P, Lichter P, Barth TF."
+counts:
+  biosamples: 41.0
+  samples_acgh: 0.0
+  samples_ccgh: 41.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Blood 99(4), 2002
+notes: NA
+pmid: '11830490'
+title: Classical Hodgkin lymphoma is characterized by recurrent copy number gains
+  of the short arm of chromosome 2.
+year: '2002'

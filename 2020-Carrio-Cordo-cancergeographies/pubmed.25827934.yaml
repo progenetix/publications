@@ -1,0 +1,25 @@
+authors: Nakazawa A, Haga C, Ohira M, Okita H, Kamijo T, Nakagawara A.
+counts:
+  biosamples: 86.0
+  samples_acgh: 86.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Cancer Sci. 106(6), 2015
+notes: ''
+pmid: '25827934'
+title: Correlation between the International Neuroblastoma Pathology Classification
+  and genomic signature in neuroblastoma.
+year: '2015'

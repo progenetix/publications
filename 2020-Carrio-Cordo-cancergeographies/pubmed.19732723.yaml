@@ -1,0 +1,27 @@
+authors: "Klemm L, Duy C, Iacobucci I, Kuchen S, von Levetzow G, Feldhahn N, Henke\
+  \ N, Li Z, Hoffmann TK, Kim YM, Hofmann WK, Jumaa H, Groffen J, Heisterkamp N, Martinelli\
+  \ G, Lieber MR, Casellas R, M\xFCschen M."
+counts:
+  biosamples: 23.0
+  samples_acgh: 23.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: ''
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: Cancer Cell 16(3), 2009
+notes: NA
+pmid: '19732723'
+title: The B cell mutator AID promotes B lymphoid blast crisis and drug resistance
+  in chronic myeloid leukemia.
+year: '2009'

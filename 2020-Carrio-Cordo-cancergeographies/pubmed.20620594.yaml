@@ -1,0 +1,26 @@
+authors: "Isinger-Ekstrand A, Johansson J, Ohlsson M, Francis P, Staaf J, J\xF6nsson\
+  \ M, Borg A, Nilbert M."
+counts:
+  biosamples: 27.0
+  samples_acgh: 27.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 200(2), 2010
+notes: NA
+pmid: '20620594'
+title: 'Genetic profiles of gastroesophageal cancer: combined analysis using expression
+  array and tiling array--comparative genomic hybridization.'
+year: '2010'

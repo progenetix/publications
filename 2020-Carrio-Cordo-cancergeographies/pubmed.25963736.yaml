@@ -1,0 +1,26 @@
+authors: Weinberg OK, Ma L, Hoppe RT, Arber DA.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.17
+    - 37.43
+    type: Point
+  info:
+    city: Stanford
+    continent: ''
+    country: United States
+    label: Stanford, United States, North America
+    precision: city
+journal: Am. J. Hematol. 90(8), 2015
+notes: ''
+pmid: '25963736'
+title: Biological characterization of stage I follicular lymphoma according to extranodal
+  or nodal primary origin and t(14;18) status using high-resolution array-based comparative
+  genomic hybridization.
+year: '2015'

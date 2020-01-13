@@ -1,0 +1,29 @@
+authors: "D\xC4\x99bniak T, Scott RJ, Lea RA, G\xC3\xB3rski B, Masoj\xC4\x87 B, Cybulski\
+  \ C, Kram A, Maleszka R, Gromowski T, Paszkowska-Szczur K, Kashyap A, Lener MR,\
+  \ Mali\xC5\x84ska K, Rogo\xC5\xBCa E, Murawa D, Rudnicka H, Deptu\xC5\x82a J, Lubi\xC5\
+  \x84ski J."
+counts:
+  biosamples: '96000'
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: '96'
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 14.55
+    - 53.43
+    type: Point
+  info:
+    city: Szczecin
+    continent: ''
+    country: Poland
+    label: null
+    precision: city
+journal: Cancer Res Treat, 2018
+notes: The GEO GSE48941 points to 11 Illumina samples, though SNP arrays are mentioned.
+pmid: '29764119'
+title: Founder Mutations for Early Onset Melanoma as Revealed by Whole Exome Sequencing
+  Suggests That This is Not Associated with the Increasing Incidence of Melanoma in
+  Poland.
+year: '2018'

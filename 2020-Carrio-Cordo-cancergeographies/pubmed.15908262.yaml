@@ -1,0 +1,27 @@
+authors: Kasamatsu A, Endo Y, Uzawa K, Nakashima D, Koike H, Hashitani S, Numata T,
+  Urade M, Tanzawa H.
+counts:
+  biosamples: 19.0
+  samples_acgh: 0.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.77
+    - 35.67
+    type: Point
+  info:
+    city: Chuo
+    continent: ''
+    country: Japan
+    label: Chuo, Japan
+    precision: city
+journal: Int. J. Biochem. Cell Biol. 37(9), 2005
+notes: NA
+pmid: '15908262'
+title: Identification of candidate genes associated with salivary adenoid cystic carcinomas
+  using combined comparative genomic hybridization and oligonucleotide microarray
+  analyses.
+year: '2005'

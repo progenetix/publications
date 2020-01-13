@@ -1,0 +1,25 @@
+authors: Takahashi S, Hirose Y, Ikeda E, Fukaya R, Kawase T.
+counts:
+  biosamples: 6.0
+  samples_acgh: 0.0
+  samples_ccgh: 6.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: J. Neurosurg. 106(3), 2007
+notes: NA
+pmid: '17367075'
+title: Chromosome arm 1q gain associated with good response to chemotherapy in a malignant
+  glioma. Case report.
+year: '2007'

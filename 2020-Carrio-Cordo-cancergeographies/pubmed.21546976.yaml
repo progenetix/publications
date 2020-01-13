@@ -1,0 +1,26 @@
+authors: "Pathare SM, Gerstung M, Beerenwinkel N, Sch\xE4ffer AA, Kannan S, Pai P,\
+  \ Pathak KA, Borges AM, Mahimkar MB."
+counts:
+  biosamples: 97.0
+  samples_acgh: 0.0
+  samples_ccgh: 97.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 73.02
+    - 19.04
+    type: Point
+  info:
+    city: Navi Mumbai
+    continent: ''
+    country: India
+    label: Navi Mumbai, India, Asia
+    precision: city
+journal: Oncol Lett 2(3), 2011
+notes: NA
+pmid: '21546976'
+title: Clinicopathological and prognostic implications of genetic alterations in oral
+  cancers.
+year: '2011'

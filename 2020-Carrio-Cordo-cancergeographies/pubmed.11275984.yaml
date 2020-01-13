@@ -1,0 +1,25 @@
+authors: Trautmann K, Thakker RV, Ellison DW, Ibrahim A, Lees PD, Harding B, Fischer
+  C, Popp S, Bartram CR, Jauch A.
+counts:
+  biosamples: 34.0
+  samples_acgh: 0.0
+  samples_ccgh: 34.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Int. J. Cancer 91(6), 2001
+notes: NA
+pmid: '11275984'
+title: Chromosomal aberrations in sporadic pituitary tumors.
+year: '2001'

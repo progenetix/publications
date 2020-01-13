@@ -1,0 +1,26 @@
+authors: Kadota M, Sato M, Duncan B, Ooshima A, Yang HH, Diaz-Meyer N, Gere S, Kageyama
+  S, Fukuoka J, Nagata T, Tsukada K, Dunn BK, Wakefield LM, Lee MP.
+counts:
+  biosamples: 161.0
+  samples_acgh: 161.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Cancer Res. 69(18), 2009
+notes: NA
+pmid: '19706770'
+title: Identification of novel gene amplifications in breast cancer and coexistence
+  of gene amplification with an activating mutation of PIK3CA.
+year: '2009'

@@ -1,0 +1,26 @@
+authors: "Carracedo A, Salido M, Corominas JM, Rojo F, Ferreira BI, Suela J, Tusquets\
+  \ I, Corzo C, Segura M, Espinet B, Cigudosa JC, Arumi M, Albanell J, Serrano S,\
+  \ Sol\xE9 F."
+counts:
+  biosamples: 148.0
+  samples_acgh: 148.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Cancer Genet 205(4), 2012
+notes: NA
+pmid: '22559974'
+title: Are ER+PR+ and ER+PR- breast tumors genetically different? A CGH array study.
+year: '2012'

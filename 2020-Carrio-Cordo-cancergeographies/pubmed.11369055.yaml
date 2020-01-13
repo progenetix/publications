@@ -1,0 +1,25 @@
+authors: "Vettenranta K, Aalto Y, Wikstr\xF6m S, Knuutila S, Saarinen-Pihkala U."
+counts:
+  biosamples: 27.0
+  samples_acgh: 0.0
+  samples_ccgh: 27.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: ''
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 125(2), 2001
+notes: NA
+pmid: '11369055'
+title: Comparative genomic hybridization reveals changes in DNA-copy number in poor-risk
+  neuroblastoma.
+year: '2001'

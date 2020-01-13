@@ -1,0 +1,25 @@
+authors: Brunner C, Jung V, Henn W, Zang KD, Urbschat S.
+counts:
+  biosamples: 19.0
+  samples_acgh: 0.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.34
+    - 49.33
+    type: Point
+  info:
+    city: Homburg
+    continent: ''
+    country: Germany
+    label: Homburg, Germany, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 121(2), 2000
+notes: NA
+pmid: '11063794'
+title: Comparative genomic hybridization reveals recurrent enhancements on chromosome
+  20 and in one case combined amplification sites on 15q24q26 and 20p11p12 in glioblastomas.
+year: '2000'

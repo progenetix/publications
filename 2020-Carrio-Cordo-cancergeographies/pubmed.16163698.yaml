@@ -1,0 +1,26 @@
+authors: "Juh\xE1sz A, Bal\xE1zs M, Sziklay I, R\xE1kosy Z, Treszl A, R\xE9p\xE1ssy\
+  \ G, Ad\xE1ny R."
+counts:
+  biosamples: 29.0
+  samples_acgh: 0.0
+  samples_ccgh: 29.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 21.63
+    - 47.53
+    type: Point
+  info:
+    city: Debrecen
+    continent: ''
+    country: Hungary
+    label: Debrecen, Hungary, Europe
+    precision: city
+journal: Cytometry A 67(2), 2005
+notes: NA
+pmid: '16163698'
+title: Chromosomal imbalances in laryngeal and hypopharyngeal cancers detected by
+  comparative genomic hybridization.
+year: '2005'

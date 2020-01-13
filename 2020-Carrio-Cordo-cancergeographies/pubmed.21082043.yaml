@@ -1,0 +1,26 @@
+authors: Rantala JK, Edgren H, Lehtinen L, Wolf M, Kleivi K, Vollan HK, Aaltola AR,
+  Laasola P, Kilpinen S, Saviranta P, Iljin K, Kallioniemi O.
+counts:
+  biosamples: 6.0
+  samples_acgh: 6.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 22.27
+    - 60.45
+    type: Point
+  info:
+    city: Turku
+    continent: ''
+    country: Finland
+    label: Turku, Finland, Europe
+    precision: city
+journal: Neoplasia 12(11), 2010
+notes: NA
+pmid: '21082043'
+title: Integrative functional genomics analysis of sustained polyploidy phenotypes
+  in breast cancer cells identifies an oncogenic profile for GINS2.
+year: '2010'

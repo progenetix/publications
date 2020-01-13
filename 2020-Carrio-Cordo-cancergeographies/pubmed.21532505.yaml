@@ -1,0 +1,26 @@
+authors: Li C, Sun Y, Fang Z, Han X, Fang R, Zhang Y, Pan Y, Zhang W, Ren Y, Ji H,
+  Chen H.
+counts:
+  biosamples: 77.0
+  samples_acgh: 77.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: ''
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: J Thorac Oncol 6(6), 2011
+notes: NA
+pmid: '21532505'
+title: Comprehensive analysis of epidermal growth factor receptor gene status in lung
+  adenocarcinoma.
+year: '2011'

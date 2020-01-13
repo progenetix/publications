@@ -1,0 +1,27 @@
+authors: Walker BA, Wardell CP, Murison A, Boyle EM, Begum DB, Dahir NM, Proszek PZ,
+  Melchor L, Pawlyn C, Kaiser MF, Johnson DC, Qiang YW, Jones JR, Cairns DA, Gregory
+  WM, Owen RG, Cook G, Drayson MT, Jackson GH, Davies FE, Morgan GJ.
+counts:
+  biosamples: 463.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 463.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Nat Commun 6, 2015
+notes: ''
+pmid: '25904160'
+title: APOBEC family mutational signatures are associated with poor prognosis translocations
+  in multiple myeloma.
+year: '2015'

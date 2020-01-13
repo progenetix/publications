@@ -1,0 +1,24 @@
+authors: Junker K, Kania K, Fiedler W, Hartmann A, Schubert J, Werner W.
+counts:
+  biosamples: 83.0
+  samples_acgh: 0.0
+  samples_ccgh: 83.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: ''
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: Int. J. Oncol. 20(3), 2002
+notes: NA
+pmid: '11836583'
+title: Molecular genetic evaluation of fluorescence diagnosis in bladder cancer.
+year: '2002'

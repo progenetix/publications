@@ -1,0 +1,26 @@
+authors: Garcia-Casado Z, Romero I, Fernandez-Serra A, Rubio L, Llopis F, Garcia A,
+  Llombart P, Lopez-Guerrero JA.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: ''
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: BMC Med. Genet. 12, 2011
+notes: NA
+pmid: '21989022'
+title: A de novo complete BRCA1 gene deletion identified in a Spanish woman with early
+  bilateral breast cancer.
+year: '2011'

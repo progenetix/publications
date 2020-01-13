@@ -1,0 +1,26 @@
+authors: Wang J, Yao Z, Jonsson P, Allen AN, Qin ACR, Uddin S, Dunkel IJ, Petriccione
+  M, Manova K, Haque S, Rosenblum MK, Pisapia DJ, Rosen N, Taylor BS, Pratilas CA.
+counts:
+  biosamples: 86.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 86.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.61
+    - 39.29
+    type: Point
+  info:
+    city: Baltimore
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Cancer Discov, 2018
+notes: No PDF available yet
+pmid: '29880583'
+title: A secondary mutation in BRAF confers resistance to RAF inhibition in a BRAF
+  V600E-mutant brain tumor.
+year: '2018'

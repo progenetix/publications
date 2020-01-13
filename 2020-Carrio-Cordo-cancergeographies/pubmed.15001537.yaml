@@ -1,0 +1,29 @@
+authors: Nakao K, Mehta KR, Fridlyand J, Moore DH, Jain AN, Lafuente A, Wiencke JW,
+  Terdiman JP, Waldman FM.
+counts:
+  biosamples: 125.0
+  samples_acgh: 125.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: ''
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Carcinogenesis 25(8), 2004
+notes: Data for the 40 cases (out of the original 125) presented here was found as
+  part of the BioC aCGH package (author Jane Fridlyand). Log2 ratios were extracted,
+  and case specific pseudo ISCN annotations were generated using the aCGH2ProgenetiXML
+  software.
+pmid: '15001537'
+title: High-resolution analysis of DNA copy number alterations in colorectal cancer
+  by array-based comparative genomic hybridization.
+year: '2004'

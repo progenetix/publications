@@ -1,0 +1,26 @@
+authors: Horlings HM, Lai C, Nuyten DS, Halfwerk H, Kristel P, van Beers E, Joosse
+  SA, Klijn C, Nederlof PM, Reinders MJ, Wessels LF, van de Vijver MJ.
+counts:
+  biosamples: 68.0
+  samples_acgh: 68.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Clin. Cancer Res. 16(2), 2010
+notes: NA
+pmid: '20068109'
+title: Integration of DNA copy number alterations and prognostic gene expression signatures
+  in breast cancer patients.
+year: '2010'

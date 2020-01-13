@@ -1,0 +1,26 @@
+authors: Iwatsuki M, Mimori K, Ishii H, Yokobori T, Takatsuno Y, Sato T, Toh H, Onoyama
+  I, Nakayama KI, Baba H, Mori M.
+counts:
+  biosamples: 130.0
+  samples_acgh: 130.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.5
+    - 33.28
+    type: Point
+  info:
+    city: Beppu
+    continent: ''
+    country: Japan
+    label: Beppu, Japan, Asia
+    precision: city
+journal: Int. J. Cancer 126(8), 2010
+notes: NA
+pmid: '19739118'
+title: 'Loss of FBXW7, a cell cycle regulating gene, in colorectal cancer: clinical
+  significance.'
+year: '2010'

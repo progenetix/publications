@@ -1,0 +1,25 @@
+authors: "Ercan D, Zejnullahu K, Yonesaka K, Xiao Y, Capelletti M, Rogers A, Lifshits\
+  \ E, Brown A, Lee C, Christensen JG, Kwiatkowski DJ, Engelman JA, J\xE4nne PA."
+counts:
+  biosamples: 3.0
+  samples_acgh: 3.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Oncogene 29(16), 2010
+notes: NA
+pmid: '20118985'
+title: Amplification of EGFR T790M causes resistance to an irreversible EGFR inhibitor.
+year: '2010'

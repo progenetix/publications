@@ -1,0 +1,27 @@
+authors: Rothenberg SM, Mohapatra G, Rivera MN, Winokur D, Greninger P, Nitta M, Sadow
+  PM, Sooriyakumar G, Brannigan BW, Ulman MJ, Perera RM, Wang R, Tam A, Ma XJ, Erlander
+  M, Sgroi DC, Rocco JW, Lingen MW, Cohen EE, Louis DN, Settleman J, Haber DA.
+counts:
+  biosamples: 684.0
+  samples_acgh: 684.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.38
+    type: Point
+  info:
+    city: Charlestown
+    continent: ''
+    country: United States
+    label: Charlestown, United States, North America
+    precision: city
+journal: Cancer Res. 70(6), 2010
+notes: NA
+pmid: '20215515'
+title: A genome-wide screen for microdeletions reveals disruption of polarity complex
+  genes in diverse human cancers.
+year: '2010'

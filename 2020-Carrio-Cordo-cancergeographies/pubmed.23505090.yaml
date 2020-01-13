@@ -1,0 +1,26 @@
+authors: Wang K, Lim HY, Shi S, Lee J, Deng S, Xie T, Zhu Z, Wang Y, Pocalyko D, Yang
+  WJ, Rejto PA, Mao M, Park CK, Xu J.
+counts:
+  biosamples: 286.0
+  samples_acgh: 286.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Hepatology 58(2), 2013
+notes: The samples were collected at a hospital in Seoul.
+pmid: '23505090'
+title: Genomic landscape of copy number aberrations enables the identification of
+  oncogenic drivers in hepatocellular carcinoma.
+year: '2013'

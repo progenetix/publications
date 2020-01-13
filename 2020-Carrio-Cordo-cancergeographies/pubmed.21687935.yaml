@@ -1,0 +1,25 @@
+authors: Ching HC, Naidu R, Seong MK, Har YC, Taib NA.
+counts:
+  biosamples: 70.0
+  samples_acgh: 70.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 101.69
+    - 3.14
+    type: Point
+  info:
+    city: Kuala Lumpur
+    continent: ''
+    country: Malaysia
+    label: Kuala Lumpur, Malaysia, Asia
+    precision: city
+journal: Int. J. Oncol. 39(3), 2011
+notes: NA
+pmid: '21687935'
+title: Integrated analysis of copy number and loss of heterozygosity in primary breast
+  carcinomas using high-density SNP array.
+year: '2011'

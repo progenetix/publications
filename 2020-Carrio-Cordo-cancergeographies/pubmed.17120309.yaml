@@ -1,0 +1,26 @@
+authors: Schick B, Wemmert S, Bechtel U, Nicolai P, Hofmann T, Golabek W, Urbschat
+  S.
+counts:
+  biosamples: 29.0
+  samples_acgh: 0.0
+  samples_ccgh: 29.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.01
+    - 49.59
+    type: Point
+  info:
+    city: Erlangen
+    continent: ''
+    country: Germany
+    label: Erlangen, Germany, Europe
+    precision: city
+journal: Head Neck 29(5), 2007
+notes: NA
+pmid: '17120309'
+title: Comprehensive genomic analysis identifies MDM2 and AURKA as novel amplified
+  genes in juvenile angiofibromas.
+year: '2007'

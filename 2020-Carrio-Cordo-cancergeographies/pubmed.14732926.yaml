@@ -1,0 +1,27 @@
+authors: "van Dekken H, Paris PL, Albertson DG, Alers JC, Andaya A, Kowbel D, van\
+  \ der Kwast TH, Pinkel D, Schr\xF6der FH, Vissers KJ, Wildhagen MF, Collins C."
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ''
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city
+journal: Genes Chromosomes Cancer 39(3), 2004
+notes: The data was represented in a derived ISCN annotation. Supplementary material
+  is linked through the article.
+pmid: '14732926'
+title: Evaluation of genetic patterns in different tumor areas of intermediate-grade
+  prostatic adenocarcinomas by high-resolution genomic array analysis.
+year: '2004'

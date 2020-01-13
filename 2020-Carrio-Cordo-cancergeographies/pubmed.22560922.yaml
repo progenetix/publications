@@ -1,0 +1,25 @@
+authors: Arai J, Tsuchiya T, Oikawa M, Mochinaga K, Hayashi T, Yoshiura K, Tsukamoto
+  K, Yamasaki N, Matsumoto K, Miyazaki T, Nagayasu T.
+counts:
+  biosamples: 119.0
+  samples_acgh: 119.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 129.87
+    - 32.74
+    type: Point
+  info:
+    city: Nagasaki-shi
+    continent: ''
+    country: Japan
+    label: Nagasaki-shi, Japan, Asia
+    precision: city
+journal: Lung Cancer 77(2), 2012
+notes: NA
+pmid: '22560922'
+title: Clinical and molecular analysis of synchronous double lung cancers.
+year: '2012'

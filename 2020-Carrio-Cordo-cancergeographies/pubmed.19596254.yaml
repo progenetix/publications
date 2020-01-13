@@ -1,0 +1,26 @@
+authors: Hameed M, Ulger C, Yasar D, Limaye N, Kurvathi R, Streck D, Benevenia J,
+  Patterson F, Dermody JJ, Toruner GA.
+counts:
+  biosamples: 25.0
+  samples_acgh: 25.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.75
+    - 39.68
+    type: Point
+  info:
+    city: Newark
+    continent: ''
+    country: United States
+    label: Newark, United States, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 192(2), 2009
+notes: NA
+pmid: '19596254'
+title: Genome profiling of chondrosarcoma using oligonucleotide array-based comparative
+  genomic hybridization.
+year: '2009'

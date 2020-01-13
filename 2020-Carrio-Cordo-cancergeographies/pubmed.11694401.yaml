@@ -1,0 +1,25 @@
+authors: "Lindvall C, Nordenskj\xF6ld M, Porwit A, Bj\xF6rkholm M, Blennow E."
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: ''
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: Haematologica 86(11), 2001
+notes: A combined karyotype is presented (SKY/CGH).
+pmid: '11694401'
+title: Molecular cytogenetic characterization of acute myeloid leukemia and myelodysplastic
+  syndromes with multiple chromosome rearrangements.
+year: '2001'

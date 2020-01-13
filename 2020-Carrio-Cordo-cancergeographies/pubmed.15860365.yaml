@@ -1,0 +1,26 @@
+authors: Freier K, Flechtenmacher C, Walch A, Ohl S, Devens F, Burke B, Hassfeld S,
+  Lichter P, Joos S, Hofele C.
+counts:
+  biosamples: 27.0
+  samples_acgh: 0.0
+  samples_ccgh: 27.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 159(1), 2005
+notes: NA
+pmid: '15860365'
+title: Copy number gains on 22q13 in adenoid cystic carcinoma of the salivary gland
+  revealed by comparative genomic hybridization and tissue microarray analysis.
+year: '2005'

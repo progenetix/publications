@@ -1,0 +1,26 @@
+authors: Tchinda J, Volpert S, Kropff M, Berdel WE, Kienast J, Meinhardt F, Horst
+  J.
+counts:
+  biosamples: 57.0
+  samples_acgh: 0.0
+  samples_ccgh: 57.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: Am. J. Clin. Pathol. 122(6), 2004
+notes: NA
+pmid: '15539380'
+title: Frequent gains of the short arm of chromosome 9 in multiple myeloma with normal
+  G-banded karyotype detected by comparative genomic hybridization.
+year: '2004'

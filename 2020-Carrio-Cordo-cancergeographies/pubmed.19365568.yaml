@@ -1,0 +1,27 @@
+authors: Bax DA, Little SE, Gaspar N, Perryman L, Marshall L, Viana-Pereira M, Jones
+  TA, Williams RD, Grigoriadis A, Vassal G, Workman P, Sheer D, Reis RM, Pearson AD,
+  Hargrave D, Jones C.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: ''
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: PLoS ONE 4(4), 2009
+notes: NA
+pmid: '19365568'
+title: Molecular and phenotypic characterisation of paediatric glioma cell lines as
+  models for preclinical drug development.
+year: '2009'

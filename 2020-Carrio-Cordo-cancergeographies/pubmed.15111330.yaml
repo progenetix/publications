@@ -1,0 +1,26 @@
+authors: "Zettl A, R\xFCdiger T, Konrad MA, Chott A, Simonitsch-Klupp I, Sonnen R,\
+  \ M\xFCller-Hermelink HK, Ott G."
+counts:
+  biosamples: 81.0
+  samples_acgh: 0.0
+  samples_ccgh: 81.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.95
+    - 49.79
+    type: Point
+  info:
+    city: Wuerzburg
+    continent: ''
+    country: Germany
+    label: Wuerzburg, Germany, Europe
+    precision: city
+journal: Am. J. Pathol. 164(5), 2004
+notes: NA
+pmid: '15111330'
+title: Genomic profiling of peripheral T-cell lymphoma, unspecified, and anaplastic
+  large T-cell lymphoma delineates novel recurrent chromosomal alterations.
+year: '2004'

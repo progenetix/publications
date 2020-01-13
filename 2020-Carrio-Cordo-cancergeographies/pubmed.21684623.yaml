@@ -1,0 +1,27 @@
+authors: "Gottschling S, Jauch A, Kuner R, Herpel E, Mueller-Decker K, Schnabel PA,\
+  \ Xu EC, Muley T, S\xFCltmann H, Bender C, Granzow M, Efferth T, Hoffmann H, Dienemann\
+  \ H, Herth FJ, Meister M."
+counts:
+  biosamples: 6.0
+  samples_acgh: 0.0
+  samples_ccgh: 6.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Lung Cancer 75(1), 2012
+notes: NA
+pmid: '21684623'
+title: Establishment and comparative characterization of novel squamous cell non-small
+  cell lung cancer cell lines and their corresponding tumor tissue.
+year: '2012'

@@ -1,0 +1,28 @@
+authors: Izumchenko E, Paz K, Ciznadija D, Sloma I, Katz A, Vasquez-Dunddel D, Ben-Zvi
+  I, Stebbing J, McGuire W, Harris W, Maki R, Gaya A, Bedi A, Zacharoulis S, Ravi
+  R, Wexler LH, Hoque MO, Rodriguez-Galindo C, Pass H, Peled N, Davies A, Morris R,
+  Hidalgo M, Sidransky D.
+counts:
+  biosamples: 237.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 237.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.61
+    - 39.29
+    type: Point
+  info:
+    city: Baltimore
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Ann. Oncol. 28(10), 2017
+notes: WES of xenografts from different tumors
+pmid: '28945830'
+title: Patient-derived xenografts effectively capture responses to oncology therapy
+  in a heterogeneous cohort of patients with solid tumors.
+year: '2017'

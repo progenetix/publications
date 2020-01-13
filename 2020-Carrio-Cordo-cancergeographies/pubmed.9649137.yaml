@@ -1,0 +1,26 @@
+authors: "Brinkschmidt C, Poremba C, Christiansen H, Simon R, Sch\xE4fer KL, Terpe\
+  \ HJ, Lampert F, Boecker W, Dockhorn-Dworniczak B."
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: ''
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: Br. J. Cancer 77(12), 1998
+notes: NA
+pmid: '9649137'
+title: Comparative genomic hybridization and telomerase activity analysis identify
+  two biologically different groups of 4s neuroblastomas.
+year: '1998'

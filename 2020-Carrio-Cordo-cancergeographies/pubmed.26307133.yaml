@@ -1,0 +1,27 @@
+authors: Wilson MA, Zhao F, Khare S, Roszik J, Woodman SE, D'Andrea K, Wubbenhorst
+  B, Rimm DL, Kirkwood JM, Kluger HM, Schuchter LM, Lee SJ, Flaherty KT, Nathanson
+  KL.
+counts:
+  biosamples: 121.0
+  samples_acgh: 121.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: ''
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 22(2), 2016
+notes: ''
+pmid: '26307133'
+title: Copy Number Changes Are Associated with Response to Treatment with Carboplatin,
+  Paclitaxel, and Sorafenib in Melanoma.
+year: '2016'

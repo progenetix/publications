@@ -1,0 +1,27 @@
+authors: "Such E, Cervera J, Valencia A, Barrag\xE1n E, Iba\xF1ez M, Luna I, Fuster\
+  \ O, Perez-Sirvent ML, Senent L, Sempere A, Martinez J, Mart\xEDn-Aragon\xE9s G,\
+  \ Sanz MA."
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: ''
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: Blood 117(1), 2011
+notes: NA
+pmid: '20935257'
+title: A novel NUP98/RARG gene fusion in acute myeloid leukemia resembling acute promyelocytic
+  leukemia.
+year: '2011'

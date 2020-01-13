@@ -1,0 +1,26 @@
+authors: Saito S, Morita K, Hirano T.
+counts:
+  biosamples: 24.0
+  samples_acgh: 24.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.57
+    - 34.82
+    type: Point
+  info:
+    city: Ibaraki
+    continent: ''
+    country: Japan
+    label: Ibaraki, Japan, Asia
+    precision: city
+journal: Hum. Cell 22(1), 2009
+notes: NA
+pmid: '19222606'
+title: High frequency of common DNA copy number abnormalities detected by bacterial
+  artificial chromosome array comparative genomic hybridization in 24 breast cancer
+  cell lines.
+year: '2009'

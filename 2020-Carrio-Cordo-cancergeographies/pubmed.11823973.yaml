@@ -1,0 +1,27 @@
+authors: Staebler A, Heselmeyer-Haddad K, Bell K, Riopel M, Perlman E, Ried T, Kurman
+  RJ.
+counts:
+  biosamples: 30.0
+  samples_acgh: 0.0
+  samples_ccgh: 30.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.61
+    - 39.29
+    type: Point
+  info:
+    city: Baltimore
+    continent: ''
+    country: United States
+    label: Baltimore, United States, North America
+    precision: city
+journal: Hum. Pathol. 33(1), 2002
+notes: The data is also contained in the NCBI SKY-CGH database.
+pmid: '11823973'
+title: Micropapillary serous carcinoma of the ovary has distinct patterns of chromosomal
+  imbalances by comparative genomic hybridization compared with atypical proliferative
+  serous tumors and serous carcinomas.
+year: '2002'

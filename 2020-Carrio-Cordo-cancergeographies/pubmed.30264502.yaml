@@ -1,0 +1,24 @@
+authors: "Jeannot E, Harl\xEF\xBF\xBD A, Holmes A, Sastre-Garau X."
+counts:
+  biosamples: 35.0
+  samples_acgh: 35.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.18
+    - 48.65
+    type: Point
+  info:
+    city: Vandoeuvre-les-Nancy
+    continent: ''
+    country: France
+    label: null
+    precision: city
+journal: Genes Chromosomes Cancer, 2018
+notes: No PDF available yet
+pmid: '30264502'
+title: Nuclear factor I X is a recurrent target for HPV16 insertions in anal carcinomas.
+year: '2018'

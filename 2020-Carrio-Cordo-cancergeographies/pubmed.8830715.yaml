@@ -1,0 +1,25 @@
+authors: Ghazvini S, Char DH, Kroll S, Waldman FM, Pinkel D.
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 90(2), 1996
+notes: NA
+pmid: '8830715'
+title: Comparative genomic hybridization analysis of archival formalin-fixed paraffin-embedded
+  uveal melanomas.
+year: '1996'

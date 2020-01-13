@@ -1,0 +1,26 @@
+authors: Williams SV, Platt FM, Hurst CD, Aveyard JS, Taylor CF, Pole JC, Garcia MJ,
+  Knowles MA.
+counts:
+  biosamples: 207.0
+  samples_acgh: 207.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.55
+    - 53.8
+    type: Point
+  info:
+    city: Leeds
+    continent: ''
+    country: United Kingdom
+    label: Leeds, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 49(7), 2010
+notes: NA
+pmid: '20461757'
+title: High-resolution analysis of genomic alteration on chromosome arm 8p in urothelial
+  carcinoma.
+year: '2010'

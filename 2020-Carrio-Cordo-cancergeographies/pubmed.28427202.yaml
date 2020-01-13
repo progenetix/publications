@@ -1,0 +1,25 @@
+authors: Kim JY, Lee E, Park K, Park WY, Jung HH, Ahn JS, Im YH, Park YH.
+counts:
+  biosamples: 37.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 37.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Oncotarget 8(17), 2017
+notes: According to the text, 27 samples had WES results.
+pmid: '28427202'
+title: Clinical implications of genomic profiles in metastatic breast cancer with
+  a focus on TP53 and PIK3CA, the most frequently mutated genes.
+year: '2017'

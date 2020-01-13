@@ -1,0 +1,27 @@
+authors: "Schmidt H, Taubert H, Meye A, W\xFCrl P, Bache M, Bartel F, Holzhausen HJ,\
+  \ Hinze R."
+counts:
+  biosamples: 15.0
+  samples_acgh: 0.0
+  samples_ccgh: 15.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.36
+    - 52.06
+    type: Point
+  info:
+    city: Halle
+    continent: ''
+    country: Germany
+    label: Halle, Germany, Europe
+    precision: city
+journal: Cancer Lett. 155(2), 2000
+notes: NA
+pmid: '10822134'
+title: Gains in chromosomes 7, 8q, 15q and 17q are characteristic changes in malignant
+  but not in benign peripheral nerve sheath tumors from patients with Recklinghausen's
+  disease.
+year: '2000'

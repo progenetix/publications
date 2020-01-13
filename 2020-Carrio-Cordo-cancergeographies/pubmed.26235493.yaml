@@ -1,0 +1,25 @@
+authors: Beothe T, Zubakov D, Kovacs G.
+counts:
+  biosamples: 56.0
+  samples_acgh: 56.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.48
+    - 49.5
+    type: Point
+  info:
+    city: Mannheim
+    continent: ''
+    country: Germany
+    label: Mannheim, Germany, Europe
+    precision: city
+journal: Cancer Genet 208(9), 2015
+notes: ''
+pmid: '26235493'
+title: Homozygous losses detected by array comparative genomic hybridization in multiplex
+  urothelial carcinomas of the bladder.
+year: '2015'

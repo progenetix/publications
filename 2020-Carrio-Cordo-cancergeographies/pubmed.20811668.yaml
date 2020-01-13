@@ -1,0 +1,25 @@
+authors: "Domanska K, Malander S, Staaf J, Karlsson A, Borg A, J\xF6nsson G, Nilbert\
+  \ M."
+counts:
+  biosamples: 44.0
+  samples_acgh: 44.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Oncol. Rep. 24(4), 2010
+notes: ''
+pmid: '20811668'
+title: Genetic profiles distinguish different types of hereditary ovarian cancer.
+year: '2010'

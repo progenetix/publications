@@ -1,0 +1,27 @@
+authors: "Gunnarsson R, Mansouri L, Isaksson A, G\xF6ransson H, Cahill N, Jansson\
+  \ M, Rasmussen M, Lundin J, Norin S, Buhl AM, Smedby KE, Hjalgrim H, Karlsson K,\
+  \ Jurlander J, Geisler C, Juliusson G, Rosenquist R."
+counts:
+  biosamples: 369.0
+  samples_acgh: 369.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.64
+    - 59.86
+    type: Point
+  info:
+    city: Uppsala
+    continent: ''
+    country: Sweden
+    label: Uppsala, Sweden, Europe
+    precision: city
+journal: Haematologica 96(8), 2011
+notes: NA
+pmid: '21546498'
+title: Array-based genomic screening at diagnosis and during follow-up in chronic
+  lymphocytic leukemia.
+year: '2011'

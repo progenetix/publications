@@ -1,0 +1,27 @@
+authors: Braggio E, Van Wier S, Ojha J, McPhail E, Asmann YW, Egan J, da Silva JA,
+  Schiff D, Lopes MB, Decker PA, Valdez R, Tibes R, Eckloff B, Witzig TE, Stewart
+  AK, Fonseca R, O'Neill BP.
+counts:
+  biosamples: 37.0
+  samples_acgh: 18.0
+  samples_ccgh: 0.0
+  samples_wes: 19.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -111.9
+    - 33.51
+    type: Point
+  info:
+    city: Scottsdale
+    continent: ''
+    country: United States
+    label: Scottsdale, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 21(17), 2015
+notes: ''
+pmid: '25991819'
+title: Genome-Wide Analysis Uncovers Novel Recurrent Alterations in Primary Central
+  Nervous System Lymphomas.
+year: '2015'

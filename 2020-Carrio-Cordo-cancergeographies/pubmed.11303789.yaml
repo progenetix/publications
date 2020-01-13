@@ -1,0 +1,26 @@
+authors: "Scheil S, Br\xFCderlein S, Eicker M, Herms J, Herold-Mende C, Steiner HH,\
+  \ Barth TF, M\xF6ller P."
+counts:
+  biosamples: 26.0
+  samples_acgh: 0.0
+  samples_ccgh: 26.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: ''
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Brain Pathol. 11(2), 2001
+notes: NA
+pmid: '11303789'
+title: Low frequency of chromosomal imbalances in anaplastic ependymomas as detected
+  by comparative genomic hybridization.
+year: '2001'

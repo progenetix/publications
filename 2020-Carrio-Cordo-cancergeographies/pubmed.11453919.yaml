@@ -1,0 +1,27 @@
+authors: Mao X, Lillington DM, Czepulkowski B, Young BD, Russell-Jones R, Whittaker
+  S.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Br. J. Dermatol. 145(1), 2001
+notes: ''
+pmid: '11453919'
+title: A case of adult T-cell leukaemia/lymphoma characterized by multiplex-fluorescence
+  in situ hybridization, comparative genomic hybridization, fluorescence in situ hybridization
+  and cytogenetics.
+year: '2001'

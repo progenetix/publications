@@ -1,0 +1,25 @@
+authors: Shen H, Zhu Y, Wu YJ, Qiu HR, Shu YQ.
+counts:
+  biosamples: 3.0
+  samples_acgh: 0.0
+  samples_ccgh: 3.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 118.78
+    - 32.06
+    type: Point
+  info:
+    city: Nanjing
+    continent: ''
+    country: China
+    label: Nanjing, China, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 181(2), 2008
+notes: Only composite karyotypes were provided.
+pmid: '18295661'
+title: Genomic alterations in lung adenocarcinomas detected by multicolor fluorescence
+  in situ hybridization and comparative genomic hybridization.
+year: '2008'

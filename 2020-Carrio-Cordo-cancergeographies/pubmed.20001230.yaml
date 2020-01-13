@@ -1,0 +1,26 @@
+authors: "Armengol G, Canellas A, Alvarez Y, Bastida P, Toledo JS, P\xE9rez-Iribarne\
+  \ Mdel M, Cam\xF3s M, Tuset E, Estella J, Coll MD, Caball\xEDn MR, Knuutila S."
+counts:
+  biosamples: 24.0
+  samples_acgh: 24.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Leuk. Lymphoma 51(1), 2010
+notes: NA
+pmid: '20001230'
+title: Genetic changes including gene copy number alterations and their relation to
+  prognosis in childhood acute myeloid leukemia.
+year: '2010'

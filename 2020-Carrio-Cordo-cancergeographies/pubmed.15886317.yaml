@@ -1,0 +1,26 @@
+authors: Tagawa H, Suguro M, Tsuzuki S, Matsuo K, Karnan S, Ohshima K, Okamoto M,
+  Morishima Y, Nakamura S, Seto M.
+counts:
+  biosamples: 99.0
+  samples_acgh: 99.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 136.91
+    - 35.18
+    type: Point
+  info:
+    city: Nagoya-shi
+    continent: ''
+    country: Japan
+    label: Nagoya-shi, Japan, Asia
+    precision: city
+journal: Blood 106(5), 2005
+notes: NA
+pmid: '15886317'
+title: Comparison of genome profiles for identification of distinct subgroups of diffuse
+  large B-cell lymphoma.
+year: '2005'

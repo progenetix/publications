@@ -1,0 +1,27 @@
+authors: "Tabernero MD, Ma\xEDllo A, Nieto AB, Diez-Tasc\xF3n C, Lara M, Sousa P,\
+  \ Otero A, Castrillo A, Patino-Alonso Mdel C, Espinosa A, Mackintosh C, de Alava\
+  \ E, Orfao A."
+counts:
+  biosamples: 50.0
+  samples_acgh: 50.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -2.4699999999999998
+    - 41.76
+    type: Point
+  info:
+    city: Soria
+    continent: ''
+    country: Spain
+    label: Soria, Spain, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 51(6), 2012
+notes: also 24536048
+pmid: '22371336'
+title: Delineation of commonly deleted chromosomal regions in meningiomas by high-density
+  single nucleotide polymorphism genotyping arrays.
+year: '2012'

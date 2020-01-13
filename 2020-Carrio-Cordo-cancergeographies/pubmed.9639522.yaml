@@ -1,0 +1,25 @@
+authors: Rao PH, Houldsworth J, Dyomina K, Parsa NZ, Cigudosa JC, Louie DC, Popplewell
+  L, Offit K, Jhanwar SC, Chaganti RS.
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Blood 92(1), 1998
+notes: NA
+pmid: '9639522'
+title: Chromosomal and gene amplification in diffuse large B-cell lymphoma.
+year: '1998'

@@ -1,0 +1,28 @@
+authors: "Juhlin CC, Stenman A, Haglund F, Clark VE, Brown TC, Baranoski J, Bilguvar\
+  \ K, Goh G, Welander J, Svahn F, Rubinstein JC, Caramuta S, Yasuno K, G\xFCnel M,\
+  \ B\xE4ckdahl M, Gimm O, S\xF6derkvist P, Prasad ML, Korah R, Lifton RP, Carling\
+  \ T."
+counts:
+  biosamples: 15.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 15.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -72.93
+    - 41.31
+    type: Point
+  info:
+    city: New Haven
+    continent: ''
+    country: United States
+    label: New Haven, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 54(9), 2015
+notes: ''
+pmid: '26032282'
+title: Whole-exome sequencing defines the mutational landscape of pheochromocytoma
+  and identifies KMT2D as a recurrently mutated gene.
+year: '2015'

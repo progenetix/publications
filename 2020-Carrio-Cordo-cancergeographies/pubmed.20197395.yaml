@@ -1,0 +1,26 @@
+authors: Mitchell MA, Johnson JE, Pascarelli K, Beeharry N, Chiourea M, Gagos S, Lev
+  D, von Mehren M, Kipling D, Broccoli D.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: ''
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: Mol. Cancer Ther. 9(3), 2010
+notes: NA
+pmid: '20197395'
+title: Doxorubicin resistance in a novel in vitro model of human pleomorphic liposarcoma
+  associated with alternative lengthening of telomeres.
+year: '2010'

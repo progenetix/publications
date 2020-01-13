@@ -1,0 +1,26 @@
+authors: Hjortland GO, Meza-Zepeda LA, Beiske K, Ree AH, Tveito S, Hoifodt H, Bohler
+  PJ, Hole KH, Myklebost O, Fodstad O, Smeland S, Hovig E.
+counts:
+  biosamples: 1.0
+  samples_acgh: 1.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: BMC Cancer 11, 2011
+notes: NA
+pmid: '22014070'
+title: Genome wide single cell analysis of chemotherapy resistant metastatic cells
+  in a case of gastroesophageal adenocarcinoma.
+year: '2011'

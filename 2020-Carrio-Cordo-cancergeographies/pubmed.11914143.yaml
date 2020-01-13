@@ -1,0 +1,26 @@
+authors: Fadl-Elmula I, Kytola S, Leithy ME, Abdel-Hameed M, Mandahl N, Elagib A,
+  Ibrahim M, Larsson C, Heim S.
+counts:
+  biosamples: 14.0
+  samples_acgh: 0.0
+  samples_ccgh: 14.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: BMC Cancer 2, 2002
+notes: NA
+pmid: '11914143'
+title: Chromosomal aberrations in benign and malignant bilharzia-associated bladder
+  lesions analyzed by comparative genomic hybridization.
+year: '2002'

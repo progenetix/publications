@@ -1,0 +1,25 @@
+authors: Lee JY, Park YN, Uhm KO, Park SY, Park SH.
+counts:
+  biosamples: 33.0
+  samples_acgh: 0.0
+  samples_ccgh: 33.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: J. Korean Med. Sci. 19(5), 2004
+notes: NA
+pmid: '15483344'
+title: Genetic alterations in intrahepatic cholangiocarcinoma as revealed by degenerate
+  oligonucleotide primed PCR-comparative genomic hybridization.
+year: '2004'

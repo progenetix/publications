@@ -1,0 +1,27 @@
+authors: Avigdor BE, Beierl K, Gocke CD, Zabransky DJ, Cravero K, Kyker-Snowman K,
+  Button B, Chu D, Croessmann S, Cochran RL, Connolly RM, Park BH, Wheelan SJ, Cimino-Mathews
+  A.
+counts:
+  biosamples: 16.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 16.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.61
+    - 39.29
+    type: Point
+  info:
+    city: Baltimore
+    continent: ''
+    country: United States
+    label: Baltimore, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 23(16), 2017
+notes: According to the text, 27 samples had WES results.
+pmid: '28424200'
+title: Whole-Exome Sequencing of Metaplastic Breast Carcinoma Indicates Monoclonality
+  with Associated Ductal Carcinoma Component.
+year: '2017'

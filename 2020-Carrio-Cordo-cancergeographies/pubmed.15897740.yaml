@@ -1,0 +1,26 @@
+authors: Simpson PT, Gale T, Reis-Filho JS, Jones C, Parry S, Sloane JP, Hanby A,
+  Pinder SE, Lee AH, Humphreys S, Ellis IO, Lakhani SR.
+counts:
+  biosamples: 81.0
+  samples_acgh: 0.0
+  samples_ccgh: 81.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Am. J. Surg. Pathol. 29(6), 2005
+notes: NA
+pmid: '15897740'
+title: 'Columnar cell lesions of the breast: the missing link in breast cancer progression?
+  A morphological and molecular analysis.'
+year: '2005'

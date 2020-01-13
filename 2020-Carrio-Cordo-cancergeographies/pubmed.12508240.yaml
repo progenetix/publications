@@ -1,0 +1,27 @@
+authors: Lillington DM, Kingston JE, Coen PG, Price E, Hungerford J, Domizio P, Young
+  BD, Onadim Z.
+counts:
+  biosamples: 24.0
+  samples_acgh: 0.0
+  samples_ccgh: 24.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: ''
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 36(2), 2003
+notes: Only the 24 cases previously not published were included here (see Lillington
+  et al., Br J Cancer. 2002 Sep 23;87(7):779-82.)
+pmid: '12508240'
+title: Comparative genomic hybridization of 49 primary retinoblastoma tumors identifies
+  chromosomal regions associated with histopathology, progression, and patient outcome.
+year: '2003'

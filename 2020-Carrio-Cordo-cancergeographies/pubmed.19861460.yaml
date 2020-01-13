@@ -1,0 +1,27 @@
+authors: Ernst A, Hofmann S, Ahmadi R, Becker N, Korshunov A, Engel F, Hartmann C,
+  Felsberg J, Sabel M, Peterziel H, Durchdewald M, Hess J, Barbus S, Campos B, Starzinski-Powitz
+  A, Unterberg A, Reifenberger G, Lichter P, Herold-Mende C, Radlwimmer B.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Clin. Cancer Res. 15(21), 2009
+notes: NA
+pmid: '19861460'
+title: Genomic and expression profiling of glioblastoma stem cell-like spheroid cultures
+  identifies novel tumor-relevant genes associated with survival.
+year: '2009'

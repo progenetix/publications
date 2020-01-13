@@ -1,0 +1,25 @@
+authors: Amiel A, Biton I, Yukla M, Gaber E, Fejgin MD, Lishner M.
+counts:
+  biosamples: 37.0
+  samples_acgh: 0.0
+  samples_ccgh: 37.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 34.91
+    - 32.18
+    type: Point
+  info:
+    city: Kfar Saba
+    continent: ''
+    country: Israel
+    label: Kfar Saba, Israel, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 143(2), 2003
+notes: NA
+pmid: '12781444'
+title: The effect of chlorambucil treatment on cytogenetic parameters in chronic lymphocytic
+  leukemia patients.
+year: '2003'

@@ -1,0 +1,25 @@
+authors: Pelz AF, Klawunde P, Skalej M, Wieacker P, Kirches E, Schneider T, Mawrin
+  C.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.63
+    - 52.13
+    type: Point
+  info:
+    city: Magdeburg
+    continent: ''
+    country: Germany
+    label: Magdeburg, Germany, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 174(1), 2007
+notes: NA
+pmid: '17350466'
+title: Novel chromosomal aberrations in a recurrent malignant meningioma.
+year: '2007'

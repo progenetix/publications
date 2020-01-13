@@ -1,0 +1,28 @@
+authors: Liu P, Morrison C, Wang L, Xiong D, Vedell P, Cui P, Hua X, Ding F, Lu Y,
+  James M, Ebben JD, Xu H, Adjei AA, Head K, Andrae JW, Tschannen MR, Jacob H, Pan
+  J, Zhang Q, Van den Bergh F, Xiao H, Lo KC, Patel J, Richmond T, Watt MA, Albert
+  T, Selzer R, Anderson M, Wang J, Wang Y, Starnes S, Yang P, You M.
+counts:
+  biosamples: 33.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 33.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -87.91
+    - 43.04
+    type: Point
+  info:
+    city: Milwaukee
+    continent: ''
+    country: United States
+    label: Milwaukee, United States, North America
+    precision: city
+journal: Carcinogenesis 33(7), 2012
+notes: NA
+pmid: '22510280'
+title: Identification of somatic mutations in non-small cell lung carcinomas using
+  whole-exome sequencing.
+year: '2012'

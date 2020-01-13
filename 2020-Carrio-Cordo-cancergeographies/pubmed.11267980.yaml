@@ -1,0 +1,28 @@
+authors: "Plantaz D, Vandesompele J, Van Roy N, Lastowska M, Bown N, Combaret V, Favrot\
+  \ MC, Delattre O, Michon J, B\xE9nard J, Hartmann O, Nicholson JC, Ross FM, Brinkschmidt\
+  \ C, Laureys G, Caron H, Matthay KK, Feuerstein BG, Speleman F."
+counts:
+  biosamples: 28.0
+  samples_acgh: 0.0
+  samples_ccgh: 28.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.72
+    - 45.17
+    type: Point
+  info:
+    city: Grenoble
+    continent: ''
+    country: France
+    label: Grenoble, France, Europe
+    precision: city
+journal: Int. J. Cancer 91(5), 2001
+notes: Of the 83 cases from the article, only the 28 not contained in Vandesompele
+  et al. (2001) are included here.
+pmid: '11267980'
+title: Comparative genomic hybridization (CGH) analysis of stage 4 neuroblastoma reveals
+  high frequency of 11q deletion in tumors lacking MYCN amplification.
+year: '2001'

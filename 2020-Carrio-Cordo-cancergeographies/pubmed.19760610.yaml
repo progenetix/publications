@@ -1,0 +1,26 @@
+authors: Wang C, Iakovlev VV, Wong V, Leung S, Warren K, Iakovleva G, Arneson NC,
+  Pintilie M, Miller N, Youngson B, McCready DR, Done SJ.
+counts:
+  biosamples: 33.0
+  samples_acgh: 33.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: ''
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Genes Chromosomes Cancer 48(12), 2009
+notes: NA
+pmid: '19760610'
+title: 'Genomic alterations in primary breast cancers compared with their sentinel
+  and more distal lymph node metastases: an aCGH study.'
+year: '2009'

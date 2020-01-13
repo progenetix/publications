@@ -1,0 +1,27 @@
+authors: "Del Giudice I, Marinelli M, Wang J, Bonina S, Messina M, Chiaretti S, Ilari\
+  \ C, Cafforio L, Raponi S, Mauro FR, Di Maio V, De Propris MS, Nanni M, Ciardullo\
+  \ C, Rossi D, Gaidano G, Guarini A, Rabadan R, Fo\xE0 R."
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 9.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.51
+    - 41.89
+    type: Point
+  info:
+    city: Rome
+    continent: ''
+    country: Italy
+    label: Rome, Italy, Europe
+    precision: city
+journal: Br. J. Haematol. 172(3), 2016
+notes: ''
+pmid: '26597680'
+title: 'Inter- and intra-patient clonal and subclonal heterogeneity of chronic lymphocytic
+  leukaemia: evidences from circulating and lymph nodal compartments.'
+year: '2016'

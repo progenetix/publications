@@ -1,0 +1,25 @@
+authors: Huang RY, Chen GB, Matsumura N, Lai HC, Mori S, Li J, Wong MK, Konishi I,
+  Thiery JP, Goh L.
+counts:
+  biosamples: 169.0
+  samples_acgh: 169.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: ''
+    country: Singapore
+    label: Singapore, Singapore, Asia
+    precision: city
+journal: BMC Med Genomics 5, 2012
+notes: NA
+pmid: '23078675'
+title: Histotype-specific copy-number alterations in ovarian cancer.
+year: '2012'

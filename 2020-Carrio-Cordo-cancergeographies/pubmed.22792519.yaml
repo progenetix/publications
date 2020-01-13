@@ -1,0 +1,24 @@
+authors: Jun KH, Kim SY, Yoon JH, Song JH, Park WS.
+counts:
+  biosamples: 23.0
+  samples_acgh: 23.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: J Gastric Cancer 12(2), 2012
+notes: NA
+pmid: '22792519'
+title: Amplification of the UQCRFS1 Gene in Gastric Cancers.
+year: '2012'

@@ -1,0 +1,26 @@
+authors: Knutsen T, Padilla-Nash HM, Wangsa D, Barenboim-Stapleton L, Camps J, McNeil
+  N, Difilippantonio MJ, Ried T.
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 49(3), 2010
+notes: NA
+pmid: '19927377'
+title: Definitive molecular cytogenetic characterization of 15 colorectal cancer cell
+  lines.
+year: '2010'

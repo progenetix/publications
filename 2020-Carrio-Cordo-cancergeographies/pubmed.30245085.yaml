@@ -1,0 +1,27 @@
+authors: Tonon L, Fromont G, Boyault S, Thomas E, Ferrari A, Sertier AS, Kielbassa
+  J, Le Texier V, Kamoun A, Elarouci N, Irani J, Multigner L, Gut IG, Gut M, Blanchet
+  P, De Reynies A, Cancel-Tassin G, Viari A, Cussenot O.
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 25.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: null
+    precision: city
+journal: Eur. Urol., 2018
+notes: No PDF available yet
+pmid: '30245085'
+title: Mutational Profile of Aggressive, Localised Prostate Cancer from African Caribbean
+  Men Versus European Ancestry Men.
+year: '2018'

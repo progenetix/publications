@@ -1,0 +1,26 @@
+authors: Kujawski L, Ouillette P, Erba H, Saddler C, Jakubowiak A, Kaminski M, Shedden
+  K, Malek SN.
+counts:
+  biosamples: 178.0
+  samples_acgh: 178.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.74
+    - 42.28
+    type: Point
+  info:
+    city: Ann Arbor
+    continent: ''
+    country: United States
+    label: Ann Arbor, United States, North America
+    precision: city
+journal: Blood 112(5), 2008
+notes: NA
+pmid: '18436738'
+title: Genomic complexity identifies patients with aggressive chronic lymphocytic
+  leukemia.
+year: '2008'

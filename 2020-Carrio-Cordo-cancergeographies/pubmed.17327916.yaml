@@ -1,0 +1,26 @@
+authors: George RE, Attiyeh EF, Li S, Moreau LA, Neuberg D, Li C, Fox EA, Meyerson
+  M, Diller L, Fortina P, Look AT, Maris JM.
+counts:
+  biosamples: 22.0
+  samples_acgh: 22.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: PLoS ONE 2(2), 2007
+notes: NA
+pmid: '17327916'
+title: Genome-wide analysis of neuroblastomas using high-density single nucleotide
+  polymorphism arrays.
+year: '2007'

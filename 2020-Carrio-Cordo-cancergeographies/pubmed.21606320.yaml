@@ -1,0 +1,26 @@
+authors: Ter-Minassian M, Wang Z, Asomaning K, Wu MC, Liu CY, Paulus JK, Liu G, Bradbury
+  PA, Zhai R, Su L, Frauenhoffer CS, Hooshmand SM, De Vivo I, Lin X, Christiani DC,
+  Kulke MH.
+counts:
+  biosamples: 261.0
+  samples_acgh: 261.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Carcinogenesis 32(8), 2011
+notes: NA
+pmid: '21606320'
+title: Genetic associations with sporadic neuroendocrine tumor risk.
+year: '2011'

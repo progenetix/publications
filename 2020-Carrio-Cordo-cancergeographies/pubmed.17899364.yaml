@@ -1,0 +1,26 @@
+authors: Johnson N, Speirs V, Curtin NJ, Hall AG.
+counts:
+  biosamples: 8.0
+  samples_acgh: 8.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.6099999999999999
+    - 54.97
+    type: Point
+  info:
+    city: Newcastle upon Tyne
+    continent: ''
+    country: United Kingdom
+    label: Newcastle upon Tyne, United Kingdom, Europe
+    precision: city
+journal: Breast Cancer Res. Treat. 111(1), 2008
+notes: ''
+pmid: '17899364'
+title: A comparative study of genome-wide SNP, CGH microarray and protein expression
+  analysis to explore genotypic and phenotypic mechanisms of acquired antiestrogen
+  resistance in breast cancer.
+year: '2008'

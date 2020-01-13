@@ -1,0 +1,26 @@
+authors: Cheeseman K, Rouleau E, Vannier A, Thomas A, Briaux A, Lefol C, Walrafen
+  P, Bensimon A, Lidereau R, Conseiller E, Ceppi M.
+counts:
+  biosamples: 4.0
+  samples_acgh: 4.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Hum. Mutat. 33(6), 2012
+notes: NA
+pmid: '22473970'
+title: A diagnostic genetic test for the physical mapping of germline rearrangements
+  in the susceptibility breast cancer genes BRCA1 and BRCA2.
+year: '2012'

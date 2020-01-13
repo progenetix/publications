@@ -1,0 +1,25 @@
+authors: "Langer C, Gunawan B, Sch\xFCler P, Huber W, F\xFCzesi L, Becker H."
+counts:
+  biosamples: 16.0
+  samples_acgh: 0.0
+  samples_ccgh: 16.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: ''
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: Br J Surg 90(3), 2003
+notes: NA
+pmid: '12594669'
+title: Prognostic factors influencing surgical management and outcome of gastrointestinal
+  stromal tumours.
+year: '2003'

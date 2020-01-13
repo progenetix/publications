@@ -1,0 +1,25 @@
+authors: Amiel A, Kaufman Z, Goldstein E, Bruchim RB, Kidron D, Gaber E, Fejgin MD.
+counts:
+  biosamples: 8.0
+  samples_acgh: 0.0
+  samples_ccgh: 8.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 34.91
+    - 32.18
+    type: Point
+  info:
+    city: Kfar Saba
+    continent: ''
+    country: Israel
+    label: Kfar Saba, Israel, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 142(2), 2003
+notes: NA
+pmid: '12699893'
+title: Application of comparative genomic hybridization in search for genetic aberrations
+  in fibroadenomas of the breast.
+year: '2003'

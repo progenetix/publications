@@ -1,0 +1,25 @@
+authors: Wang YC, Juric D, Francisco B, Yu RX, Duran GE, Chen GK, Chen X, Sikic BI.
+counts:
+  biosamples: 17.0
+  samples_acgh: 17.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.0
+    - 0.0
+    type: Point
+  info:
+    city: null
+    continent: ''
+    country: null
+    label: null
+    precision: null
+journal: Genes Chromosomes Cancer 45(4), 2006
+notes: ''
+pmid: '16382445'
+title: Regional activation of chromosomal arm 7q with and without gene amplification
+  in taxane-selected human ovarian cancer cell lines.
+year: '2006'

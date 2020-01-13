@@ -1,0 +1,26 @@
+authors: Mostert MM, van de Pol M, Olde Weghuis D, Suijkerbuijk RF, Geurts van Kessel
+  A, van Echten J, Oosterhuis JW, Looijenga LH.
+counts:
+  biosamples: 19.0
+  samples_acgh: 0.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ''
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city
+journal: Cancer Genet. Cytogenet. 89(2), 1996
+notes: NA
+pmid: '8697422'
+title: 'Comparative genomic hybridization of germ cell tumors of the adult testis:
+  confirmation of karyotypic findings and identification of a 12p-amplicon.'
+year: '1996'

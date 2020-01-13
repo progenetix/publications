@@ -1,0 +1,26 @@
+authors: Osterberg L, Levan K, Partheen K, Staaf J, Sundfeldt K, Horvath G.
+counts:
+  biosamples: 32.0
+  samples_acgh: 32.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: ''
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: Cytogenet. Genome Res. 125(1), 2009
+notes: Though the article mentions a deposition in GEO, the data could not be identified
+  there yet.
+pmid: '19617691'
+title: High-resolution genomic profiling of carboplatin resistance in early-stage
+  epithelial ovarian carcinoma.
+year: '2009'

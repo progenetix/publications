@@ -1,0 +1,25 @@
+authors: Nishio JN, Iwasaki H, Ohjimi Y, Ishiguro M, Koga T, Isayama T, Naito M, Kikuchi
+  M.
+counts:
+  biosamples: 27.0
+  samples_acgh: 0.0
+  samples_ccgh: 27.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 130.42
+    - 33.61
+    type: Point
+  info:
+    city: Fukuoka-shi
+    continent: ''
+    country: Japan
+    label: Fukuoka-shi, Japan, Asia
+    precision: city
+journal: Int. J. Mol. Med. 10(3), 2002
+notes: NA
+pmid: '12165800'
+title: Gain of Xq detected by comparative genomic hybridization in elastofibroma.
+year: '2002'

@@ -1,0 +1,24 @@
+authors: Cheng L, Zhang Q, Yang S, Yang Y, Zhang W, Gao H, Deng X, Zhang Q.
+counts:
+  biosamples: 27.0
+  samples_acgh: 27.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: ''
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: Genomics 102(4), 2013
+notes: NA
+pmid: '23722107'
+title: A 4-gene panel as a marker at chromosome 8q in Asian gastric cancer patients.
+year: '2013'

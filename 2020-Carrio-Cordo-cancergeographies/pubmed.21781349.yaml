@@ -1,0 +1,26 @@
+authors: Holbrook JD, Parker JS, Gallagher KT, Halsey WS, Hughes AM, Weigman VJ, Lebowitz
+  PF, Kumar R.
+counts:
+  biosamples: 199.0
+  samples_acgh: 199.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.45
+    - 40.19
+    type: Point
+  info:
+    city: Collegeville
+    continent: ''
+    country: United States
+    label: Collegeville, United States
+    precision: city
+journal: J Transl Med 9, 2011
+notes: NA
+pmid: '21781349'
+title: Deep sequencing of gastric carcinoma reveals somatic mutations relevant to
+  personalized medicine.
+year: '2011'

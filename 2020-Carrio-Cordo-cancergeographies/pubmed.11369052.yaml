@@ -1,0 +1,27 @@
+authors: Forus A, Larramendy ML, Meza-Zepeda LA, Bjerkehagen B, Godager LH, Dahlberg
+  AB, Saeter G, Knuutila S, Myklebost O.
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 125(2), 2001
+notes: NA
+pmid: '11369052'
+title: 'Dedifferentiation of a well-differentiated liposarcoma to a highly malignant
+  metastatic osteosarcoma: amplification of 12q14 at all stages and gain of 1q22-q24
+  associated with metastases.'
+year: '2001'

@@ -1,0 +1,28 @@
+authors: van den Broek E, Krijgsman O, Sie D, Tijssen M, Mongera S, van de Wiel MA,
+  Belt EJ, den Uil SH, Bril H, Stockmann HB, Ylstra B, Carvalho B, Meijer GA, Fijneman
+  RJ.
+counts:
+  biosamples: 114.0
+  samples_acgh: 114.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: ''
+    country: Netherlands
+    label: null
+    precision: city
+journal: Oncotarget 7(45), 2016
+notes: The exact number of samples analysed by aCGH is not clear from the article's
+  text.
+pmid: '27729614'
+title: Genomic profiling of stage II and III colon cancers reveals APC mutations to
+  be associated with survival in stage III colon cancer patients.
+year: '2016'

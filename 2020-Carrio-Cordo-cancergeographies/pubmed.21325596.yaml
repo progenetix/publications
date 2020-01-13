@@ -1,0 +1,28 @@
+authors: "Quentin S, Cuccuini W, Ceccaldi R, Nibourel O, Pondarre C, Pag\xE8s MP,\
+  \ Vasquez N, Dubois d'Enghien C, Larghero J, Peffault de Latour R, Rocha V, Dalle\
+  \ JH, Schneider P, Michallet M, Michel G, Baruchel A, Sigaux F, Gluckman E, Leblanc\
+  \ T, Stoppa-Lyonnet D, Preudhomme C, Soci\xE9 G, Soulier J."
+counts:
+  biosamples: 57.0
+  samples_acgh: 57.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Blood 117(15), 2011
+notes: NA
+pmid: '21325596'
+title: Myelodysplasia and leukemia of Fanconi anemia are associated with a specific
+  pattern of genomic abnormalities that includes cryptic RUNX1/AML1 lesions.
+year: '2011'

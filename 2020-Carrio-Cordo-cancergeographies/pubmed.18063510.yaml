@@ -1,0 +1,25 @@
+authors: Huang KF, Lee WY, Huang SC, Lin YS, Kang CY, Liou CP, Tzeng CC.
+counts:
+  biosamples: 30.0
+  samples_acgh: 0.0
+  samples_ccgh: 30.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: ''
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: J. Formos. Med. Assoc. 106(11), 2007
+notes: NA
+pmid: '18063510'
+title: Chromosomal gain of 3q and loss of 11q often associated with nodal metastasis
+  in early stage cervical squamous cell carcinoma.
+year: '2007'

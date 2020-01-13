@@ -1,0 +1,26 @@
+authors: "Kuijjer ML, Rydbeck H, Kresse SH, Buddingh EP, Lid AB, Roelofs H, B\xFC\
+  rger H, Myklebost O, Hogendoorn PC, Meza-Zepeda LA, Cleton-Jansen AM."
+counts:
+  biosamples: 32.0
+  samples_acgh: 32.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ''
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city
+journal: Genes Chromosomes Cancer 51(7), 2012
+notes: NA
+pmid: '22454324'
+title: Identification of osteosarcoma driver genes by integrative analysis of copy
+  number and gene expression data.
+year: '2012'

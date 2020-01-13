@@ -1,0 +1,27 @@
+authors: Vincent-Chong VK, Ismail SM, Rahman ZA, Sharifah NA, Anwar A, Pradeep PJ,
+  Ramanathan A, Karen-Ng LP, Kallarakkal TG, Mustafa WM, Abraham MT, Tay KK, Zain
+  RB.
+counts:
+  biosamples: 16.0
+  samples_acgh: 16.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 101.69
+    - 3.14
+    type: Point
+  info:
+    city: Kuala Lumpur
+    continent: ''
+    country: Malaysia
+    label: Kuala Lumpur, Malaysia, Asia
+    precision: city
+journal: Oral Dis 18(5), 2012
+notes: NA
+pmid: '22251088'
+title: Genome-wide analysis of oral squamous cell carcinomas revealed over expression
+  of ISG15, Nestin and WNT11.
+year: '2012'

@@ -1,0 +1,25 @@
+authors: Palanisamy N, Imanishi Y, Rao PH, Tahara H, Chaganti RS, Arnold A.
+counts:
+  biosamples: 53.0
+  samples_acgh: 0.0
+  samples_ccgh: 53.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: ''
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: J. Clin. Endocrinol. Metab. 83(5), 1998
+notes: NA
+pmid: '9589690'
+title: Novel chromosomal abnormalities identified by comparative genomic hybridization
+  in parathyroid adenomas.
+year: '1998'

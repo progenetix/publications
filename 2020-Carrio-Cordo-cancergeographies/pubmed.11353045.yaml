@@ -1,0 +1,25 @@
+authors: Jee KJ, Kim YT, Kim KR, Kim HS, Yan A, Knuutila S.
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Mod. Pathol. 14(5), 2001
+notes: NA
+pmid: '11353045'
+title: Loss in 3p and 4p and gain of 3q are concomitant aberrations in squamous cell
+  carcinoma of the vulva.
+year: '2001'

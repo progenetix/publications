@@ -1,0 +1,25 @@
+authors: Vandesompele J, Van Roy N, Van Gele M, Laureys G, Ambros P, Heimann P, Devalck
+  C, Schuuring E, Brock P, Otten J, Gyselinck J, De Paepe A, Speleman F.
+counts:
+  biosamples: 36.0
+  samples_acgh: 0.0
+  samples_ccgh: 36.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.7199999999999998
+    - 51.05
+    type: Point
+  info:
+    city: Gent
+    continent: ''
+    country: Belgium
+    label: Gent, Belgium, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 23(2), 1998
+notes: NA
+pmid: '9739017'
+title: Genetic heterogeneity of neuroblastoma studied by comparative genomic hybridization.
+year: '1998'

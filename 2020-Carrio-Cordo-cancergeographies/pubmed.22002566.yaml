@@ -1,0 +1,26 @@
+authors: "Holm K, Staaf J, J\xF6nsson G, Vallon-Christersson J, Gunnarsson H, Arason\
+  \ A, Magnusson L, Barkardottir RB, Hegardt C, Ringn\xE9r M, Borg A."
+counts:
+  biosamples: 94.0
+  samples_acgh: 94.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: ''
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Breast Cancer Res. Treat. 133(2), 2012
+notes: NA
+pmid: '22002566'
+title: Characterisation of amplification patterns and target genes at chromosome 11q13
+  in CCND1-amplified sporadic and familial breast tumours.
+year: '2012'

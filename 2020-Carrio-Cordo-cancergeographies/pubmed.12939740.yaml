@@ -1,0 +1,24 @@
+authors: Chui DT, Hammond D, Baird M, Shield L, Jackson R, Jarrett RF.
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -4.26
+    - 55.87
+    type: Point
+  info:
+    city: Glasgow
+    continent: ''
+    country: United Kingdom
+    label: Glasgow, United Kingdom, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 38(2), 2003
+notes: NA
+pmid: '12939740'
+title: Classical Hodgkin lymphoma is associated with frequent gains of 17q.
+year: '2003'

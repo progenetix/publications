@@ -1,0 +1,26 @@
+authors: Vajdic CM, Hutchins AM, Kricker A, Aitken JF, Armstrong BK, Hayward NK, Armes
+  JE.
+counts:
+  biosamples: 25.0
+  samples_acgh: 0.0
+  samples_ccgh: 25.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 151.22
+    - -33.88
+    type: Point
+  info:
+    city: Darlinghurst
+    continent: ''
+    country: Australia
+    label: Darlinghurst, Australia
+    precision: city
+journal: Cancer Genet. Cytogenet. 144(1), 2003
+notes: NA
+pmid: '12810250'
+title: Chromosomal gains and losses in ocular melanoma detected by comparative genomic
+  hybridization in an Australian population-based study.
+year: '2003'

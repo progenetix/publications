@@ -1,0 +1,30 @@
+authors: Chapman MA, Lawrence MS, Keats JJ, Cibulskis K, Sougnez C, Schinzel AC, Harview
+  CL, Brunet JP, Ahmann GJ, Adli M, Anderson KC, Ardlie KG, Auclair D, Baker A, Bergsagel
+  PL, Bernstein BE, Drier Y, Fonseca R, Gabriel SB, Hofmeister CC, Jagannath S, Jakubowiak
+  AJ, Krishnan A, Levy J, Liefeld T, Lonial S, Mahan S, Mfuko B, Monti S, Perkins
+  LM, Onofrio R, Pugh TJ, Rajkumar SV, Ramos AH, Siegel DS, Sivachenko A, Stewart
+  AK, Trudel S, Vij R, Voet D, Winckler W, Zimmerman T, Carpten J, Trent J, Hahn WC,
+  Garraway LA, Meyerson M, Lander ES, Getz G, Golub TR.
+counts:
+  biosamples: 254.0
+  samples_acgh: 254.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.11
+    - 42.38
+    type: Point
+  info:
+    city: Cambridge
+    continent: ''
+    country: United States
+    label: Cambridge, United States, North America
+    precision: city
+journal: Nature 471(7339), 2011
+notes: NA
+pmid: '21430775'
+title: Initial genome sequencing and analysis of multiple myeloma.
+year: '2011'

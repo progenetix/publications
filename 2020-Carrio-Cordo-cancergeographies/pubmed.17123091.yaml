@@ -1,0 +1,25 @@
+authors: Korshunov A, Sycheva R, Golanov A.
+counts:
+  biosamples: 20.0
+  samples_acgh: 20.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 37.62
+    - 55.75
+    type: Point
+  info:
+    city: Moscow
+    continent: ''
+    country: Russia
+    label: Moscow, Russia, Europe
+    precision: city
+journal: Acta Neuropathol. 113(3), 2007
+notes: NA
+pmid: '17123091'
+title: Recurrent cytogenetic aberrations in central neurocytomas and their biological
+  relevance.
+year: '2007'

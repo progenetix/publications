@@ -1,0 +1,28 @@
+authors: Dulak AM, Schumacher SE, van Lieshout J, Imamura Y, Fox C, Shim B, Ramos
+  AH, Saksena G, Baca SC, Baselga J, Tabernero J, Barretina J, Enzinger PC, Corso
+  G, Roviello F, Lin L, Bandla S, Luketich JD, Pennathur A, Meyerson M, Ogino S, Shivdasani
+  RA, Beer DG, Godfrey TE, Beroukhim R, Bass AJ.
+counts:
+  biosamples: 389.0
+  samples_acgh: 389.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: null
+    precision: city
+journal: Cancer Res. 72(17), 2012
+notes: Samples from 55 Italian and 36 German patients were processed by aCGH.
+pmid: '22751462'
+title: Gastrointestinal adenocarcinomas of the esophagus, stomach, and colon exhibit
+  distinct patterns of genome instability and oncogenesis.
+year: '2012'

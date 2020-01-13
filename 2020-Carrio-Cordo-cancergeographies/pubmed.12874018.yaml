@@ -1,0 +1,26 @@
+authors: Miller CT, Aggarwal S, Lin TK, Dagenais SL, Contreras JI, Orringer MB, Glover
+  TW, Beer DG, Lin L.
+counts:
+  biosamples: 1.0
+  samples_acgh: 0.0
+  samples_ccgh: 1.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.74
+    - 42.28
+    type: Point
+  info:
+    city: Ann Arbor
+    continent: ''
+    country: United States
+    label: Ann Arbor, United States, North America
+    precision: city
+journal: Cancer Res. 63(14), 2003
+notes: NA
+pmid: '12874018'
+title: Amplification and overexpression of the dual-specificity tyrosine-(Y)-phosphorylation
+  regulated kinase 2 (DYRK2) gene in esophageal and lung adenocarcinomas.
+year: '2003'

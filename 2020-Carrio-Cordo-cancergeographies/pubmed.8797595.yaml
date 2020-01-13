@@ -1,0 +1,26 @@
+authors: "Kjellman M, Kallioniemi OP, Karhu R, H\xF6\xF6g A, Farnebo LO, Auer G, Larsson\
+  \ C, B\xE4ckdahl M."
+counts:
+  biosamples: 22.0
+  samples_acgh: 0.0
+  samples_ccgh: 22.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: ''
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: Cancer Res. 56(18), 1996
+notes: NA
+pmid: '8797595'
+title: Genetic aberrations in adrenocortical tumors detected using comparative genomic
+  hybridization correlate with tumor size and malignancy.
+year: '1996'

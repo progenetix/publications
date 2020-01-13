@@ -1,0 +1,26 @@
+authors: "Valladares A, Hern\xE1ndez NG, G\xF3mez FS, Curiel-Quezada E, Madrigal-Bujaidar\
+  \ E, Vergara MD, Mart\xEDnez MS, Arenas Aranda DJ."
+counts:
+  biosamples: 10.0
+  samples_acgh: 0.0
+  samples_ccgh: 10.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -99.13
+    - 19.43
+    type: Point
+  info:
+    city: Mexico City
+    continent: ''
+    country: Mexico
+    label: Mexico City, Mexico, North America
+    precision: city
+journal: Cancer Genet. Cytogenet. 170(2), 2006
+notes: NA
+pmid: '17011986'
+title: Genetic expression profiles and chromosomal alterations in sporadic breast
+  cancer in Mexican women.
+year: '2006'

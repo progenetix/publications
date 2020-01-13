@@ -1,0 +1,26 @@
+authors: Kim JC, Kim SY, Cho DH, Roh SA, Choi EY, Jo YK, Jung SH, Na YS, Kim TW, Kim
+  YS.
+counts:
+  biosamples: 104.0
+  samples_acgh: 104.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: ''
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Cancer Sci. 101(4), 2010
+notes: NA
+pmid: '20085586'
+title: Genome-wide identification of chemosensitive single nucleotide polymorphism
+  markers in colorectal cancers.
+year: '2010'

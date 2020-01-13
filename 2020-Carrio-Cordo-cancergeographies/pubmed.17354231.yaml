@@ -1,0 +1,26 @@
+authors: "De Angelis PM, Stokke T, Beigi M, Flatberg G, Enger M, Haug K, Aass HC,\
+  \ Schj\xF8lberg A, Andresen PA, Ariansen S, B\xF8 AS, Mj\xE5land O, Clausen OP."
+counts:
+  biosamples: 20.0
+  samples_acgh: 0.0
+  samples_ccgh: 20.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: ''
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Int. J. Cancer 120(12), 2007
+notes: Only data from 10 tumors (2x each, aneuploid and diploid components) was included,
+  as represented in the data table.
+pmid: '17354231'
+title: Chromosomal 20q gain in the DNA diploid component of aneuploid colorectal carcinomas.
+year: '2007'

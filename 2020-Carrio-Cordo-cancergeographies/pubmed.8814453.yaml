@@ -1,0 +1,26 @@
+authors: "Sch\xFCtz BR, Scheurlen W, Krauss J, du Manoir S, Joos S, Bentz M, Lichter\
+  \ P."
+counts:
+  biosamples: 18.0
+  samples_acgh: 0.0
+  samples_ccgh: 18.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 16(3), 1996
+notes: NA
+pmid: '8814453'
+title: Mapping of chromosomal gains and losses in primitive neuroectodermal tumors
+  by comparative genomic hybridization.
+year: '1996'

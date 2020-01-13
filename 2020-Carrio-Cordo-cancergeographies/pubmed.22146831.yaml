@@ -1,0 +1,31 @@
+authors: "Schleiermacher G, Michon J, Ribeiro A, Pierron G, Mosseri V, Rubie H, Munzer\
+  \ C, B\xE9nard J, Auger N, Combaret V, Janoueix-Lerosey I, Pearson A, Tweddle DA,\
+  \ Bown N, Gerrard M, Wheeler K, Noguera R, Villamon E, Ca\xF1ete A, Castel V, Marques\
+  \ B, de Lacerda A, Tonini GP, Mazzocco K, Defferrari R, de Bernardi B, di Cataldo\
+  \ A, van Roy N, Brichard B, Ladenstein R, Ambros I, Ambros P, Beiske K, Delattre\
+  \ O, Couturier J."
+counts:
+  biosamples: 218.0
+  samples_acgh: 218.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Br. J. Cancer 105(12), 2011
+notes: NA
+pmid: '22146831'
+title: Segmental chromosomal alterations lead to a higher risk of relapse in infants
+  with MYCN-non-amplified localised unresectable/disseminated neuroblastoma (a SIOPEN
+  collaborative study).
+year: '2011'

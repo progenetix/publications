@@ -1,0 +1,27 @@
+authors: Puget S, Philippe C, Bax DA, Job B, Varlet P, Junier MP, Andreiuolo F, Carvalho
+  D, Reis R, Guerrini-Rousseau L, Roujeau T, Dessen P, Richon C, Lazar V, Le Teuff
+  G, Sainte-Rose C, Geoerger B, Vassal G, Jones C, Grill J.
+counts:
+  biosamples: 71.0
+  samples_acgh: 71.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: PLoS ONE 7(2), 2012
+notes: NA
+pmid: '22389665'
+title: Mesenchymal transition and PDGFRA amplification/mutation are key distinct oncogenic
+  events in pediatric diffuse intrinsic pontine gliomas.
+year: '2012'

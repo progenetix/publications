@@ -1,0 +1,26 @@
+authors: Tap WD, Eilber FC, Ginther C, Dry SM, Reese N, Barzan-Smith K, Chen HW, Wu
+  H, Eilber FR, Slamon DJ, Anderson L.
+counts:
+  biosamples: 46.0
+  samples_acgh: 46.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: ''
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer 50(2), 2011
+notes: NA
+pmid: '21117066'
+title: Evaluation of well-differentiated/de-differentiated liposarcomas by high-resolution
+  oligonucleotide array-based comparative genomic hybridization.
+year: '2011'

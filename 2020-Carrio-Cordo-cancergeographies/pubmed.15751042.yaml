@@ -1,0 +1,26 @@
+authors: Molist R, Gerbault-Seureau M, Sastre-Garau X, Sigal-Zafrani B, Dutrillaux
+  B, Muleris M.
+counts:
+  biosamples: 11.0
+  samples_acgh: 0.0
+  samples_ccgh: 11.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: ''
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 43(2), 2005
+notes: NA
+pmid: '15751042'
+title: Ductal breast carcinoma develops through different patterns of chromosomal
+  evolution.
+year: '2005'

@@ -1,0 +1,26 @@
+authors: Ruiz C, Lenkiewicz E, Evers L, Holley T, Robeson A, Kiefer J, Demeure MJ,
+  Hollingsworth MA, Shen M, Prunkard D, Rabinovitch PS, Zellweger T, Mousses S, Trent
+  JM, Carpten JD, Bubendorf L, Von Hoff D, Barrett MT.
+counts:
+  biosamples: 61.0
+  samples_acgh: 61.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -111.9
+    - 33.51
+    type: Point
+  info:
+    city: Scottsdale
+    continent: ''
+    country: United States
+    label: Scottsdale, United States, North America
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 108(29), 2011
+notes: NA
+pmid: '21730190'
+title: Advancing a clinically relevant perspective of the clonal nature of cancer.
+year: '2011'

@@ -1,0 +1,29 @@
+authors: Chapuy B, Roemer MG, Stewart C, Tan Y, Abo RP, Zhang L, Dunford AJ, Meredith
+  DM, Thorner AR, Jordanova ES, Liu G, Feuerhake F, Ducar MD, Illerhaus G, Gusenleitner
+  D, Linden EA, Sun HH, Homer H, Aono M, Pinkus GS, Ligon AH, Ligon KL, Ferry JA,
+  Freeman GJ, van Hummelen P, Golub TR, Getz G, Rodig SJ, de Jong D, Monti S, Shipp
+  MA.
+counts:
+  biosamples: 27.0
+  samples_acgh: 27.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: ''
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Blood 127(7), 2016
+notes: ''
+pmid: '26702065'
+title: Targetable genetic features of primary testicular and primary central nervous
+  system lymphomas.
+year: '2016'

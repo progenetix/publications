@@ -1,0 +1,26 @@
+authors: Boldt V, Stacher E, Halbwedl I, Popper H, Hultschig C, Moinfar F, Ullmann
+  R, Tavassoli FA.
+counts:
+  biosamples: 15.0
+  samples_acgh: 15.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: ''
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 49(5), 2010
+notes: NA
+pmid: '20155841'
+title: Positioning of necrotic lobular intraepithelial neoplasias (LIN, grade 3) within
+  the sequence of breast carcinoma progression.
+year: '2010'

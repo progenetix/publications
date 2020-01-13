@@ -1,0 +1,28 @@
+authors: "Salaverria I, Zettl A, Be\xE0 S, Moreno V, Valls J, Hartmann E, Ott G, Wright\
+  \ G, Lopez-Guillermo A, Chan WC, Weisenburger DD, Gascoyne RD, Grogan TM, Delabie\
+  \ J, Jaffe ES, Montserrat E, Muller-Hermelink HK, Staudt LM, Rosenwald A, Campo\
+  \ E."
+counts:
+  biosamples: 77.0
+  samples_acgh: 0.0
+  samples_ccgh: 77.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: ''
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: J. Clin. Oncol. 25(10), 2007
+notes: NA
+pmid: '17296973'
+title: Specific secondary genetic alterations in mantle cell lymphoma provide prognostic
+  information independent of the gene expression-based proliferation signature.
+year: '2007'

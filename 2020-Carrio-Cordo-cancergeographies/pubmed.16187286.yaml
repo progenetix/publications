@@ -1,0 +1,26 @@
+authors: Garnis C, Lockwood WW, Vucic E, Ge Y, Girard L, Minna JD, Gazdar AF, Lam
+  S, MacAulay C, Lam WL.
+counts:
+  biosamples: 28.0
+  samples_acgh: 28.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: ''
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: Int. J. Cancer 118(6), 2006
+notes: Whole genome tiling path array CGH profiles of 28 NSCLC Cell Lines.
+pmid: '16187286'
+title: High resolution analysis of non-small cell lung cancer cell lines by whole
+  genome tiling path array CGH.
+year: '2006'

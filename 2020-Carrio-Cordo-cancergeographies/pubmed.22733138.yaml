@@ -1,0 +1,25 @@
+authors: Xie Y, Tobin LA, Camps J, Wangsa D, Yang J, Rao M, Witasp E, Awad KS, Yoo
+  N, Ried T, Kwong KF.
+counts:
+  biosamples: 3.0
+  samples_acgh: 3.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: ''
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Oncogene 32(19), 2013
+notes: NA
+pmid: '22733138'
+title: MicroRNA-24 regulates XIAP to reduce the apoptosis threshold in cancer cells.
+year: '2013'

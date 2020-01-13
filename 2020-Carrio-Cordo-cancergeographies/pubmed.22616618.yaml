@@ -1,0 +1,27 @@
+authors: Tassano E, Tavella E, Valli R, Micalizzi C, Cuoco C, Maserati E, Pasquali
+  F, Morerio C.
+counts:
+  biosamples: 2.0
+  samples_acgh: 2.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: ''
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: Leuk. Lymphoma 53(12), 2012
+notes: NA
+pmid: '22616618'
+title: 'New recurrent chromosome change in pediatric therapy-related myelodysplastic
+  syndrome: unbalanced translocation 1/6 with cryptic duplication of short arm of
+  chromosome 6.'
+year: '2012'

@@ -1,0 +1,26 @@
+authors: Yang J, Cogdell D, Yang D, Hu L, Li H, Zheng H, Du X, Pang Y, Trent J, Chen
+  K, Zhang W.
+counts:
+  biosamples: 55.0
+  samples_acgh: 55.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 117.18
+    - 39.14
+    type: Point
+  info:
+    city: Tianjin
+    continent: ''
+    country: China
+    label: Tianjin, China, Asia
+    precision: city
+journal: Cancer Lett. 291(1), 2010
+notes: NA
+pmid: '19896763'
+title: Deletion of the WWOX gene and frequent loss of its protein expression in human
+  osteosarcoma.
+year: '2010'

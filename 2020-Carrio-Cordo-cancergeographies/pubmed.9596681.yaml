@@ -1,0 +1,26 @@
+authors: "Barth TF, D\xF6hner H, Werner CA, Stilgenbauer S, Schlotter M, Pawlita M,\
+  \ Lichter P, M\xF6ller P, Bentz M."
+counts:
+  biosamples: 31.0
+  samples_acgh: 0.0
+  samples_ccgh: 31.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: ''
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Blood 91(11), 1998
+notes: NA
+pmid: '9596681'
+title: Characteristic pattern of chromosomal gains and losses in primary large B-cell
+  lymphomas of the gastrointestinal tract.
+year: '1998'

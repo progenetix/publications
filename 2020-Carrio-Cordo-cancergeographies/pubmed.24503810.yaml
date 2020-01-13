@@ -1,0 +1,24 @@
+authors: Diakos C, Xiao Y, Zheng S, Kager L, Dworzak M, Wiemels JL.
+counts:
+  biosamples: 22.0
+  samples_acgh: 22.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: PLoS ONE 9(2), 2014
+notes: ''
+pmid: '24503810'
+title: Direct and indirect targets of the E2A-PBX1 leukemia-specific fusion protein.
+year: '2014'

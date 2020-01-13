@@ -1,0 +1,25 @@
+authors: Ouyang L, Zhang SL, Chen RL, Li B, Chen LL.
+counts:
+  biosamples: 21.0
+  samples_acgh: 0.0
+  samples_ccgh: 21.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 123.43
+    - 41.79
+    type: Point
+  info:
+    city: Shenyang
+    continent: ''
+    country: China
+    label: Shenyang, China, Asia
+    precision: city
+journal: Ai Zheng 26(6), 2007
+notes: NA
+pmid: '17562259'
+title: '[Chromosomal aberration in vulvar squamous cell carcinoma analyzed by comparative
+  genomic hybridization].'
+year: '2007'

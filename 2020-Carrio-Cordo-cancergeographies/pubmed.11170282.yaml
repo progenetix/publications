@@ -1,0 +1,26 @@
+authors: Fang Y, Guan X, Guo Y, Sham J, Deng M, Liang Q, Li H, Zhang H, Zhou H, Trent
+  J.
+counts:
+  biosamples: 47.0
+  samples_acgh: 0.0
+  samples_ccgh: 47.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 113.25
+    - 23.12
+    type: Point
+  info:
+    city: Guangzhou
+    continent: ''
+    country: China
+    label: Guangzhou, China, Asia
+    precision: city
+journal: Genes Chromosomes Cancer 30(3), 2001
+notes: NA
+pmid: '11170282'
+title: Analysis of genetic alterations in primary nasopharyngeal carcinoma by comparative
+  genomic hybridization.
+year: '2001'

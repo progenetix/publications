@@ -1,0 +1,25 @@
+authors: Figueiredo BC, Stratakis CA, Sandrini R, DeLacerda L, Pianovsky MA, Giatzakis
+  C, Young HM, Haddad BR.
+counts:
+  biosamples: 9.0
+  samples_acgh: 0.0
+  samples_ccgh: 9.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -49.27
+    - -25.43
+    type: Point
+  info:
+    city: Curitiba
+    continent: ''
+    country: Brazil
+    label: Curitiba, Brazil, South America
+    precision: city
+journal: J. Clin. Endocrinol. Metab. 84(3), 1999
+notes: NA
+pmid: '10084604'
+title: Comparative genomic hybridization analysis of adrenocortical tumors of childhood.
+year: '1999'

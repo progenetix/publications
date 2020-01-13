@@ -1,0 +1,26 @@
+authors: Mangia A, Chiarappa P, Tommasi S, Chiriatti A, Petroni S, Schittulli F, Paradiso
+  A.
+counts:
+  biosamples: 19.0
+  samples_acgh: 0.0
+  samples_ccgh: 19.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.86
+    - 41.11
+    type: Point
+  info:
+    city: Bari
+    continent: ''
+    country: Italy
+    label: Bari, Italy, Europe
+    precision: city
+journal: Cancer Genet. Cytogenet. 182(2), 2008
+notes: NA
+pmid: '18406868'
+title: Genetic heterogeneity by comparative genomic hybridization in BRCAx breast
+  cancers.
+year: '2008'

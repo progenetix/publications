@@ -1,0 +1,26 @@
+authors: Veltman JA, Fridlyand J, Pejavar S, Olshen AB, Korkola JE, DeVries S, Carroll
+  P, Kuo WL, Pinkel D, Albertson D, Cordon-Cardo C, Jain AN, Waldman FM.
+counts:
+  biosamples: 82.0
+  samples_acgh: 82.0
+  samples_ccgh: 0.0
+  samples_wes: 0.0
+  samples_wgs: 0.0
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: ''
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Cancer Res. 63(11), 2003
+notes: NA
+pmid: '12782593'
+title: Array-based comparative genomic hybridization for genome-wide screening of
+  DNA copy number in bladder tumors.
+year: '2003'

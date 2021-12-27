@@ -1,0 +1,68 @@
+id	count	continent_code	continent
+US	1215	NA	North America
+DE	523	EU	Europe
+UK	375	EU	Europe
+NL	265	EU	Europe
+JP	243	AS	Asia
+FR	211	EU	Europe
+CA	204	NA	North America
+IT	177	EU	Europe
+SE	161	EU	Europe
+FI	156	EU	Europe
+ES	153	EU	Europe
+CH	133	EU	Europe
+CN	122	AS	Asia
+AU	95	OC	Oceania
+NO	86	EU	Europe
+KR	78	AS	Asia
+BE	71	EU	Europe
+AT	51	EU	Europe
+DK	50	EU	Europe
+TW	40	AS	Asia
+PT	40	EU	Europe
+BR	38	SA	South America
+PL	31	EU	Europe
+IL	30	AS	Asia
+CZ	28	EU	Europe
+HU	22	EU	Europe
+SG	19	AS	Asia
+IE	18	EU	Europe
+AR	16	SA	South America
+TR	15	AS	Asia
+GR	15	EU	Europe
+RU	15	EU	Europe
+HK	11	AS	Asia
+IN	11	AS	Asia
+IS	7	EU	Europe
+HR	5	EU	Europe
+EG	5	AF	Africa
+CO	5	SA	South America
+NZ	5	OC	Oceania
+MX	5	NA	North America
+GE	4	AS	Asia
+LU	3	EU	Europe
+TH	3	AS	Asia
+UA	3	EU	Europe
+KW	3	AS	Asia
+IR	3	AS	Asia
+TN	2	AF	Africa
+RO	2	EU	Europe
+ZA	2	AF	Africa
+UY	1	SA	South America
+CL	1	SA	South America
+LT	1	EU	Europe
+LB	1	AS	Asia
+ML	1	AF	Africa
+NG	1	AF	Africa
+EE	1	EU	Europe
+CY	1	EU	Europe
+PR	1	NA	North America
+BG	1	EU	Europe
+EC	1	SA	South America
+SK	1	EU	Europe
+SI	1	EU	Europe
+AM	1	AS	Asia
+BY	1	EU	Europe
+TZ	1	AF	Africa
+SD	1	AF	Africa
+SA	1	AS	Asia
